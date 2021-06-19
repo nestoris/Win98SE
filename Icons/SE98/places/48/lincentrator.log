@@ -1,0 +1,15 @@
+lincentrator log file, created by lincentrator at 15.06.2021 00:05:17
+$infile=user-home.png
+Относительный путь: user-home.png
+Можно сделать так: '/home/joker/.config/caja/scripts/lincentrator.sh' 'user-home.png'
+Команда была тут: '/home/joker/.config/caja/scripts/lincentrator.sh' 'user-home.png'
+Для натурализации софтлинка '/home/joker/Документы/icons/SE98/places/48/user-home.png' взяли оригинал '/home/joker/Документы/icons/SE98/places/48/folder-home.png'
+Теперь '/home/joker/Документы/icons/SE98/places/48/user-home.png' - оригинал!
+Создали софтлинки на '/home/joker/Документы/icons/SE98/places/48/user-home.png'
+./folder-home.png
+./folder_home.png
+./folder_home-symbolic.png
+./gnome-fs-home.png
+./gnome-home.png
+./user-home-symbolic.png
+Время выполнения: 168 мс
