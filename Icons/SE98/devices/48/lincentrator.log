@@ -1,0 +1,337 @@
+lincentrator log file, created by lincentrator at 26.06.2021 18:43:31
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png
+Относительный путь: drive-optical.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'drive-optical.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png'
+./cdrom_unmount.png
+./cdwriter_unmount.png
+./dvd_unmount.png
+./gnome-cd.png
+./gnome-dev-cdrom.png
+./gnome-dev-disc-cdrom.png
+./gnome-dev-disc-cdr.png
+./gnome-dev-disc-cdrw.png
+./gnome-dev-disc-dvdram.png
+./gnome-dev-disc-dvdrom.png
+./gnome-dev-disc-dvdr-plus.png
+./gnome-dev-disc-dvdr.png
+./gnome-dev-disc-dvdrw.png
+./gnome-dev-dvd-alt.png
+./gnome-dev-dvd.png
+./gtk-cdrom.png
+./media-cdrom.png
+./media-cdr.png
+./media-cdrw.png
+./media-dvd.png
+./media-dvdrw.png
+./media-optical-cd-r.png
+./media-optical-cdr.png
+./media-optical-cd-rw.png
+./media-optical-cd-video.png
+./media-optical-copy.png
+./media-optical-dvd-ram.png
+./media-optical-dvd-rom.png
+./media-optical-dvd-r-plus.png
+./media-optical-dvd-r.png
+./media-optical-dvd-rw.png
+./media-optical-dvd-video.png
+./media-optical.png
+./media-optical-video.png
+Время выполнения: 226 мс
+---------------------------------------------------------
+26.06.2021 18:44:55 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png
+Относительный путь: drive-optical.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'drive-optical.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-optical.png'
+./cdrom_unmount.png
+./cdwriter_unmount.png
+./drive-cdrom.png
+./drive-optical-recorder.png
+./drive-optical-recorder-symbolic.png
+./dvd_unmount.png
+./gnome-cd.png
+./gnome-dev-cdrom.png
+./gnome-dev-disc-cdrom.png
+./gnome-dev-disc-cdr.png
+./gnome-dev-disc-cdrw.png
+./gnome-dev-disc-dvdram.png
+./gnome-dev-disc-dvdrom.png
+./gnome-dev-disc-dvdr-plus.png
+./gnome-dev-disc-dvdr.png
+./gnome-dev-disc-dvdrw.png
+./gnome-dev-dvd-alt.png
+./gnome-dev-dvd.png
+./gtk-cdrom.png
+./media-cdrom.png
+./media-cdr.png
+./media-cdrw.png
+./media-dvd.png
+./media-dvdrw.png
+./media-optical-bd.png
+./media-optical-bd-symbolic.png
+./media-optical-cd.png
+./media-optical-cd-r.png
+./media-optical-cdr.png
+./media-optical-cd-rw.png
+./media-optical-cd-symbolic.png
+./media-optical-cd-video.png
+./media-optical-copy.png
+./media-optical-dvd-ram.png
+./media-optical-dvd-rom.png
+./media-optical-dvd-r-plus.png
+./media-optical-dvd-r.png
+./media-optical-dvd-rw.png
+./media-optical-dvd-symbolic.png
+./media-optical-dvd-video.png
+./media-optical-hddvd.png
+./media-optical-hddvd-symbolic.png
+./media-optical.png
+./media-optical-video.png
+Время выполнения: 256 мс
+---------------------------------------------------------
+26.06.2021 18:45:15 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/computer.png
+Относительный путь: computer.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'computer.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/computer.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/computer.png'
+./computer-symbolic.png
+./gnome-computer.png
+./gnome-dev-computer.png
+./gnome-fs-client.png
+./system.png
+Время выполнения: 69 мс
+---------------------------------------------------------
+26.06.2021 18:45:29 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/video-display.png
+Относительный путь: video-display.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'video-display.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/video-display.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/video-display.png'
+./blueman-desktop.png
+./chardevice.png
+./cs-screen.png
+./display.png
+./display-projector-symbolic.png
+./monitor.png
+./xfce4-display.png
+Время выполнения: 83 мс
+---------------------------------------------------------
+26.06.2021 18:45:41 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/scanner.png
+Относительный путь: scanner.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'scanner.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/scanner.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/scanner.png'
+./blueman-scanner.png
+./scanner-symbolic.png
+Время выполнения: 69 мс
+---------------------------------------------------------
+26.06.2021 18:46:20 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/modem.png
+Относительный путь: modem.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'modem.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/modem.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/modem.png'
+Время выполнения: 67 мс
+---------------------------------------------------------
+26.06.2021 18:46:32 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-mouse.png
+Относительный путь: input-mouse.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'input-mouse.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-mouse.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-mouse.png'
+./blueman-mouse.png
+./blueman-pointing.png
+./gnome-dev-mouse-ball.png
+./gnome-dev-mouse-optical.png
+./gnome-mouse.png
+./gnome-mouse-properties.png
+./gnome-settings-mouse.png
+./mouse.png
+./xfce4-mouse.png
+./yast_mouse.png
+Время выполнения: 90 мс
+---------------------------------------------------------
+26.06.2021 18:47:14 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-gaming.png
+Относительный путь: input-gaming.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'input-gaming.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-gaming.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-gaming.png'
+./joystick.png
+./yast_joystick.png
+Время выполнения: 73 мс
+---------------------------------------------------------
+26.06.2021 18:47:16 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-keyboard.png
+Относительный путь: input-keyboard.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'input-keyboard.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-keyboard.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-keyboard.png'
+./blueman-keyboard.png
+./gnome-dev-keyboard.png
+./keyboard.png
+./kxkb.png
+./xfce4-keyboard.png
+./xfce4-keyboard.svg.png
+Время выполнения: 79 мс
+---------------------------------------------------------
+26.06.2021 18:47:21 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-tablet.png
+Относительный путь: input-tablet.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'input-tablet.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-tablet.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/input-tablet.png'
+Время выполнения: 76 мс
+---------------------------------------------------------
+26.06.2021 18:48:05 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/printer.png
+Относительный путь: printer.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'printer.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/printer.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/printer.png'
+./cups.png
+./cupsprinter.png
+./foomatic-gui-logo.png
+./gnome-dev-printer.png
+./gtklp.png
+./gtklpq.png
+./gtk-print.png
+./kjobviewer.png
+./printer1.png
+./printmgr.png
+./stock_printers.png
+./system-config-printer.png
+./xfce-printer.png
+./yast_printer.png
+./yast_printer-symbolic.png
+Время выполнения: 98 мс
+---------------------------------------------------------
+26.06.2021 18:48:22 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-harddisk.png
+Относительный путь: drive-harddisk.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'drive-harddisk.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-harddisk.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/drive-harddisk.png'
+./block-device.png
+./drive-harddisk-ieee1394.png
+./drive-harddisk-root.png
+./drive-harddisk-scsi.png
+./drive-harddisk-system.png
+./drive-removable-media-ieee1394-symbolic.png
+./gnome-dev-flashdisk.png
+./gnome-dev-flashkey.png
+./gnome-dev-harddisk-1394.png
+./gnome-dev-harddisk.png
+./gnome-dev-removable-1394.png
+./gnome-dev-unknown-1394.png
+./gnome-fs-blockdev.png
+./gtk-harddisk.png
+./harddrive.png
+./hdd_unmount.png
+./yast_HD.png
+./yast_idetude.png
+Время выполнения: 103 мс
+---------------------------------------------------------
+26.06.2021 18:49:19 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/phone.png
+Относительный путь: phone.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'phone.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/phone.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/phone.png'
+./blueman-cellular.png
+./blueman-handheld.png
+./blueman-smart-phone.png
+./gnome-phone-manager.png
+./multimedia-player-apple-ipod-touch.png
+./multimedia-player-ipod-touch.png
+./pda.png
+./phone-motorola-droid.png
+./stock_cell-phone.png
+Время выполнения: 92 мс
+---------------------------------------------------------
+26.06.2021 18:49:32 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/audio-input-microphone.png
+Относительный путь: audio-input-microphone.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'audio-input-microphone.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/audio-input-microphone.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/audio-input-microphone.png'
+./gnome-stock-mic.png
+./stock_mic.png
+Время выполнения: 145 мс
+---------------------------------------------------------
+26.06.2021 18:49:41 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/battery.png
+Относительный путь: battery.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'battery.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/battery.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/battery.png'
+./battery-good-charging.png
+./gnome-dev-battery.png
+Время выполнения: 71 мс
+---------------------------------------------------------
+26.06.2021 18:49:50 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-photo.png
+Относительный путь: camera-photo.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'camera-photo.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-photo.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-photo.png'
+./blueman-camera.png
+./camera.png
+./camera_unmount.png
+./gnome-screenshot.png
+Время выполнения: 66 мс
+---------------------------------------------------------
+26.06.2021 18:50:00 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-video.png
+Относительный путь: camera-video.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'camera-video.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-video.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-video.png'
+Время выполнения: 65 мс
+---------------------------------------------------------
+26.06.2021 18:50:11 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-web.png
+Относительный путь: camera-web.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' 'camera-web.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-web.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/devices/48/camera-web.png'
+Время выполнения: 68 мс
