@@ -1,0 +1,16 @@
+lincentrator log file, created by lincentrator at 30.06.2021 19:26:48
+$infile=preferences-system.png
+Относительный путь: preferences-system.png
+Можно сделать так: '/home/joker/.config/caja/scripts/lincentrator.sh' 'preferences-system.png'
+Команда была тут: '/home/joker/.config/caja/scripts/lincentrator.sh' 'preferences-system.png'
+Создали софтлинки на '/home/joker/Документы/GitHub/Win98SE/Icons/SE98/categories/32/preferences-system.png'
+./configuration_section.png
+./control-center2.png
+./drakconf.png
+./org.xfce.settings.editor.png
+./org.xfce.settings.manager.png
+./package_settings.png
+./redhat-server_settings.png
+./redhat-system_settings.png
+./xfce-system-settings.png
+Время выполнения: 309 мс
