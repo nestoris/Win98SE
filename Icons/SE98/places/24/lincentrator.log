@@ -1,0 +1,24 @@
+lincentrator log file, created by lincentrator at 20.08.2021 23:59:04
+$infile=/home/joker/Документы/icons/SE98/places/24/network-workgroup.png
+Относительный путь: ../../../../../../icons/SE98/places/24/network-workgroup.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' '../../../../../../icons/SE98/places/24/network-workgroup.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/icons/SE98/places/24/network-workgroup.png'
+Создали софтлинки на '/home/joker/Документы/icons/SE98/places/24/network-workgroup.png'
+./neat.png
+./network-workgroup.png
+./network-workgroup-symbolic.png
+./redhat-system-group.png
+Время выполнения: 99 мс
+---------------------------------------------------------
+21.08.2021 00:09:45 Added by lincentrator
+$0=/home/joker/Документы/scripts/lincentrator.sh
+$s=lincentrator
+$infile=/home/joker/Документы/icons/SE98/places/24/user-bookmarks.png
+Относительный путь: ../../../../../../icons/SE98/places/24/user-bookmarks.png
+Можно сделать так: '/home/joker/Документы/scripts/lincentrator.sh' '../../../../../../icons/SE98/places/24/user-bookmarks.png'
+Команда была тут: '/home/joker/Документы/scripts/lincentrator.sh' '/home/joker/Документы/icons/SE98/places/24/user-bookmarks.png'
+Создали софтлинки на '/home/joker/Документы/icons/SE98/places/24/user-bookmarks.png'
+./gnome-fs-bookmark.png
+./user-bookmarks.png
+./user-bookmarks-symbolic.png
+Время выполнения: 66 мс
