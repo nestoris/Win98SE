@@ -1,7 +1,10 @@
-# Win98SE
-Windows 98 icon theme for GTK+ based on original 98 style.
+# SE98 Icon theme
+### This is an icon pack inspired by [Chicago95 theme](https://github.com/grassmunk/Chicago95/tree/master/Icons "github.com/grassmunk/Chicago95/tree/master/Icons") (actually it's a fork) of [Grassmunk](https://github.com/grassmunk "github.com/grassmunk") with icons in Windows 98 SE style.
 
-## License
-The Windows 98 name, interface, and sample audio files are a property of Microsoft Corporation.
+- Added some 48x48, 24x24, 22x22 and 64x64 sizes of 256 color palette.
+
+*Screenshots:*
 
 ![screen](Icons/scrn.png)
+![screen](Icons/48.png)
+![screen](Icons/64.png)
