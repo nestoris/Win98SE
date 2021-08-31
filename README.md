@@ -1,5 +1,5 @@
 # SE98 Icon theme
-The theme is currently in process of creating, so there are lots of icons from Faenza theme... I want to turn them into a '98 style someday...
+The theme is currently in process of creating, so there are lots of icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
 
 ---
 
@@ -58,9 +58,10 @@ The theme is currently in process of creating, so there are lots of icons from F
 |16x16|![](Icons/SE98/mimes/16/x-office-document.png)|![](Icons/SE98/mimes/16/video-x-generic.png)|![](Icons/SE98/mimes/16/x-office-calendar.png)|![](Icons/SE98/mimes/16/x-office-drawing.png)|![](Icons/SE98/mimes/16/text-x-generic-rtl.png)|![](Icons/SE98/mimes/16/image-jpeg.png)|![](Icons/SE98/mimes/16/image-png.png)|![](Icons/SE98/mimes/16/application-x-nes-rom.png)|
 
 
-### This is an icon pack inspired by [Chicago95 theme](https://github.com/grassmunk/Chicago95/tree/master/Icons "github.com/grassmunk/Chicago95/tree/master/Icons") (actually it's a fork) of [Grassmunk](https://github.com/grassmunk "github.com/grassmunk") with icons in Windows 98 SE style.
+### Description
+This is an icon pack inspired by [Chicago95 theme](https://github.com/grassmunk/Chicago95/tree/master/Icons "github.com/grassmunk/Chicago95/tree/master/Icons") (actually it's a manual copy-paste fork) of [Grassmunk](https://github.com/grassmunk "github.com/grassmunk") with icons in Windows 98 SE style.
 
-- Added some 48x48, 32 24x24, 22x22 and 64x64 sizes of 256 color palette.
+- Added some 48x48, 32x32, 24x24, 22x22, 16x16, and 64x64 sizes of 256 color palette.
 
 *Screenshots:*
 
