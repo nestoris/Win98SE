@@ -21,7 +21,7 @@ The theme is currently in process of creating, so there are lots of icons from *
 |22x22|![](Icons/SE98/apps/22/system-file-manager.png)|![](Icons/SE98/apps/22/mplayer.png)|![](Icons/SE98/apps/22/fceux.png)|![](Icons/SE98/apps/22/utilities-terminal.png)|![](Icons/SE98/apps/22/system-settings.png)|![](Icons/SE98/apps/22/regedit.png)|![](Icons/SE98/apps/22/evolution.png)|![](Icons/SE98/apps/22/catfish.png)|
 |16x16|![](Icons/SE98/apps/16/system-file-manager.png)|![](Icons/SE98/apps/16/mplayer.png)|![](Icons/SE98/apps/16/fceux.png)|![](Icons/SE98/apps/16/utilities-terminal.png)|![](Icons/SE98/apps/16/system-settings.png)|![](Icons/SE98/apps/16/regedit.png)|![](Icons/SE98/apps/16/evolution.png)|![](Icons/SE98/apps/16/catfish.png)|
 
-||Octet-stream|Executable|DOS Application|TextInstall|Text-Preview|Text Generic|Package|Archive
+||Octet-stream|Executable|DOS Application|TextInstall|Text-Preview|Text-x-generic|Package|Archive
 |-|-|-|-|-|-|-|-|-|
 |64x64|![](Icons/SE98/mimes/64/application-octet-stream.png)|![](Icons/SE98/mimes/64/application-x-executable.png)|![](Icons/SE98/mimes/64/application-x-ms-dos-executable.png)|![](Icons/SE98/mimes/64/text-x-install.png)|![](Icons/SE98/mimes/64/text-x-preview.png)|![](Icons/SE98/mimes/64/text-x-generic.png)|![](Icons/SE98/mimes/64/package-x-generic.png)|![](Icons/SE98/mimes/64/application-x-archive.png)|
 |48x48|![](Icons/SE98/mimes/48/application-octet-stream.png)|![](Icons/SE98/mimes/48/application-x-executable.png)|![](Icons/SE98/mimes/48/application-x-ms-dos-executable.png)|![](Icons/SE98/mimes/48/text-x-install.png)|![](Icons/SE98/mimes/48/text-x-preview.png)|![](Icons/SE98/mimes/48/text-x-generic.png)|![](Icons/SE98/mimes/48/package-x-generic.png)|![](Icons/SE98/mimes/48/application-x-archive.png)|
