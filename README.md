@@ -65,6 +65,7 @@ This is an icon pack inspired by [Chicago95 theme](https://github.com/grassmunk/
 
 *Screenshots:*
 
+![screen](Icons/64_1.png)
 ![screen](Icons/scrn.png)
 ![screen](Icons/48.png)
 ![screen](Icons/64.png)
