@@ -3,6 +3,10 @@ The theme is currently in process of creating, so there are lots of icons from *
 
 ---
 
+Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 64, 48, 32, 24, 22, and 16 sizes.
+
+---
+
 ||Desktop|Computer|Hard Drive|CD-ROM|Folder|Network|Share|Server
 |-|-|-|-|-|-|-|-|-|
 |64x64|![](SE98/places/64/user-desktop.png)|![](SE98/devices/64/computer.png)|![](SE98/devices/64/drive-harddisk.png)|![](SE98/devices/64/drive-optical.png)|![](SE98/places/64/folder.png)|![](SE98/places/64/network-workgroup.png)|![](SE98/places/64/folder-publicshare.png)|![](SE98/places/64/network-server.png)|
