@@ -4,4 +4,4 @@
 
 localsharethemes="$HOME/.local/share/icons"
 homethemes="$HOME/.icons"
-[[ -d "$localsharethemes" ]] && cp -rv "$PWD/SE98" "$localsharethemes" [[ ! -d "$localsharethemes" && -d "$homethemes" ]] && cp -r "$PWD/Icons/SE98" "$homethemes"
+[[ -d "$localsharethemes" ]] && cp -rv "$PWD/SE98" "$localsharethemes" [[ ! -d "$localsharethemes" && -d "$homethemes" ]] && cp -r "$PWD/SE98" "$homethemes"
