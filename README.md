@@ -5,7 +5,7 @@ Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K system
 The theme is currently in process of creating, so there are lots of icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
 
 ---
-[![](SE98/places/256/folder.png)<br>Folder icon in differrent sizes...](folder.md)
+[![](SE98/places/256/folder.png)<br>Icons with big sizes (128x128, 160x160, 192x192, 256x256...)](folder.md)
 
 
 Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 64, 48, 32, 24, 22, and 16 sizes.
