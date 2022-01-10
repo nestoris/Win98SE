@@ -1,5 +1,5 @@
 | |Folder icon|Empty file icon|
-|-|-|
+|-|-|-|
 |256x256|![](SE98/places/256/folder.png)|![](SE98/mimes/256/empty.png)|
 |192x192|![](SE98/places/192/folder.png)|![](SE98/mimes/192/empty.png)|
 |160x160|![](SE98/places/160/folder.png)|![](SE98/mimes/160/empty.png)|
