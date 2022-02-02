@@ -8,7 +8,7 @@ The theme is currently in process of creating, so there are lots of icons from *
 [![](SE98/places/256/folder.png)<br>Icons with big sizes (128x128, 160x160, 192x192, 256x256...)](folder.md)
 
 
-Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 96, 72, 64, 48, 32, 24, 22, and 16 sizes.
+Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72, 64, 48, 32, 24, 22, and 16 px sizes.
 
 ---
 
