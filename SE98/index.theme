@@ -2,7 +2,7 @@
 Name=SE98
 Comment=Enhanced Classic J3QQ4 icon theme for GTK.
 Example=user-desktop
-Inherits=Redmond97,Chicago95,hicolor
+Inherits=Chicago95,Redmond97,hicolor
 
 #Directory list
 
