@@ -1,8 +1,21 @@
 [Icon Theme]
 Name=SE98
-Comment=Enhanced Classic J3QQ4 icon theme for GTK.
+Comment=Enhanced Classic Win98SE icon theme for GNU/Linux.
+Comment[ru]=Усовершенствованная тема значков для системы с номером J3QQ4... :-)
+Comment[es]=Tema de icono de Win98SE clásico mejorado para GNU/Linux.
+Comment[fr]=Thème d`icônes Classic Win98SE amélioré pour GNU/Linux.
+Comment[de]=Verbessertes klassisches Win98SE-Icon-Design für GNU/Linux.
+Comment[po]=Tema de ícone do Win98SE clássico aprimorado para GNU/Linux.
+Comment[id]=Tema ikon Win98SE Klasik yang disempurnakan untuk GNU/Linux.
 Example=user-desktop
 Inherits=Chicago95,Redmond97,hicolor
+
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64,72,96,128,160,192,256
+
+SmallDefault=16
+SmallSizes=16,22,24,32,48
+
 
 #Directory list
 
