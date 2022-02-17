@@ -478,12 +478,12 @@ Context=Places
 Type=Scalable
 
 [status/8]
-Size=16
+Size=8
 Context=Status
 Type=Fixed
 
 [status/12]
-Size=16
+Size=12
 Context=Status
 Type=Fixed
 
