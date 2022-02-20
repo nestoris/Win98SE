@@ -30,8 +30,8 @@ Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72,
 |22x22|![](SE98/apps/22/system-file-manager.png)|![](SE98/apps/22/mplayer.png)|![](SE98/apps/22/fceux.png)|![](SE98/apps/22/utilities-terminal.png)|![](SE98/apps/22/system-settings.png)|![](SE98/apps/22/regedit.png)|![](SE98/apps/22/evolution.png)|![](SE98/apps/22/system-search.png)|
 |16x16|![](SE98/apps/16/system-file-manager.png)|![](SE98/apps/16/mplayer.png)|![](SE98/apps/16/fceux.png)|![](SE98/apps/16/utilities-terminal.png)|![](SE98/apps/16/system-settings.png)|![](SE98/apps/16/regedit.png)|![](SE98/apps/16/evolution.png)|![](SE98/apps/16/system-search.png)|
 
-||Octet-stream|Executable|Python Bytecode|DOS Application|TextInstall|Text-x-generic|Package|Archive
-|-|-|-|-|-|-|-|-|-|-|
+||Octet-stream|Executable|Python Bytecode|DOS Application|TextInstall|Text-x-generic|Package|Archive|
+|-|-|-|-|-|-|-|-|-|
 |64x64|![](SE98/mimes/64/application-octet-stream.png)|![](SE98/mimes/64/application-x-executable.png)|![](SE98/mimes/64/application-x-python-bytecode.png)|![](SE98/mimes/64/application-x-ms-dos-executable.png)|![](SE98/mimes/64/text-x-install.png)|![](SE98/mimes/64/text-x-generic.png)|![](SE98/mimes/64/package-x-generic.png)|![](SE98/mimes/64/application-x-archive.png)|
 |48x48|![](SE98/mimes/48/application-octet-stream.png)|![](SE98/mimes/48/application-x-executable.png)|![](SE98/mimes/48/application-x-python-bytecode.png)|![](SE98/mimes/48/application-x-ms-dos-executable.png)|![](SE98/mimes/48/text-x-install.png)|![](SE98/mimes/48/text-x-generic.png)|![](SE98/mimes/48/package-x-generic.png)|![](SE98/mimes/48/application-x-archive.png)|
 |32x32|![](SE98/mimes/32/application-octet-stream.png)|![](SE98/mimes/32/application-x-executable.png)|![](SE98/mimes/32/application-x-python-bytecode.png)|![](SE98/mimes/32/application-x-ms-dos-executable.png)|![](SE98/mimes/32/text-x-install.png)|![](SE98/mimes/32/text-x-generic.png)|![](SE98/mimes/32/package-x-generic.png)|![](SE98/mimes/32/application-x-archive.png)|
