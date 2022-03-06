@@ -1,4 +1,4 @@
-*Built by [MDTable.awk](https://github.com/nestoris/scripts-for-Icon-theming/blob/main/icontable.awk)*
+*Built by [MDTable.awk](https://github.com/nestoris/scripts-for-Icon-theming/blob/main/mdtable.awk)*
 
 | |**128x128**|**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|-|
