@@ -10,7 +10,7 @@ Comment[id]=Tema ikon Win98SE Klasik yang disempurnakan untuk GNU/Linux.
 Comment[bg]=Подобрена класическа тема за икони на Win98SE за GNU/Linux.
 Comment[hr]=Poboljšana klasična tema ikona Win98SE za GNU/Linux.
 Example=user-desktop
-Inherits=Chicago95,Redmond97,hicolor
+Inherits=Chicago95,Redmond97,hicolor,Faenza,Oxygen,Breeze,Crystal,Nuvola,Crystal SVG,Nuvola theme
 
 DesktopDefault=48
 DesktopSizes=16,22,24,32,48,64,72,96,128,160,192,256

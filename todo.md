@@ -22,10 +22,10 @@
 |**www**|![](SE98/mimes/128/www.png)|![](SE98/mimes/96/www.png)|![](SE98/mimes/72/www.png)|![](SE98/mimes/64/www.png)|![](SE98/mimes/48/www.png)|![](SE98/mimes/32/www.png)|![](SE98/mimes/24/www.png)|![](SE98/mimes/22/www.png)|![](SE98/mimes/16/www.png)|
 |**contents**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**cd**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**1downarrow**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**1leftarrow**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**1uparrow**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**1rightarrow**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**1downarrow**|![]()|![]()|![]()|![](SE98/actions/64/1downarrow.png)|![](SE98/actions/48/1downarrow.png)|![](SE98/actions/32/1downarrow.png)|![](SE98/actions/24/1downarrow.png)|![](SE98/actions/22/1downarrow.png)|![](SE98/actions/16/1downarrow.png)|
+|**1leftarrow**|![]()|![]()|![]()|![](SE98/actions/64/1leftarrow.png)|![](SE98/actions/48/1leftarrow.png)|![](SE98/actions/32/1leftarrow.png)|![](SE98/actions/24/1leftarrow.png)|![](SE98/actions/22/1leftarrow.png)|![](SE98/actions/16/1leftarrow.png)|
+|**1uparrow**|![]()|![]()|![]()|![](SE98/actions/64/1uparrow.png)|![](SE98/actions/48/1uparrow.png)|![](SE98/actions/32/1uparrow.png)|![](SE98/actions/24/1uparrow.png)|![](SE98/actions/22/1uparrow.png)|![](SE98/actions/16/1uparrow.png)|
+|**1rightarrow**|![]()|![]()|![]()|![](SE98/actions/64/1rightarrow.png)|![](SE98/actions/48/1rightarrow.png)|![](SE98/actions/32/1rightarrow.png)|![](SE98/actions/24/1rightarrow.png)|![](SE98/actions/22/1rightarrow.png)|![](SE98/actions/16/1rightarrow.png)|
 |**about_kde**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**attach**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**bug**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
