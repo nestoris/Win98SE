@@ -15,7 +15,7 @@
 |**folder_inbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_outbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_sent_mail**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**link_overlay**|![]()|![]()|![]()|![](SE98/places/64/link_overlay.png)|![](SE98/places/48/link_overlay.png)|![](SE98/places/32/link_overlay.png)|![](SE98/places/24/link_overlay.png)|![](SE98/places/22/link_overlay.png)|![](SE98/places/16/link_overlay.png)|
+|**link_overlay**|![](SE98/places/128/link_overlay.png)|![](SE98/places/96/link_overlay.png)|![](SE98/places/72/link_overlay.png)|![](SE98/places/64/link_overlay.png)|![](SE98/places/48/link_overlay.png)|![](SE98/places/32/link_overlay.png)|![](SE98/places/24/link_overlay.png)|![](SE98/places/22/link_overlay.png)|![](SE98/places/16/link_overlay.png)|
 |**lock_overlay**|![]()|![](SE98/places/96/lock_overlay.png)|![]()|![](SE98/places/64/lock_overlay.png)|![](SE98/places/48/lock_overlay.png)|![](SE98/places/32/lock_overlay.png)|![](SE98/places/24/lock_overlay.png)|![](SE98/places/22/lock_overlay.png)|![](SE98/places/16/lock_overlay.png)|
 |**zip_overlay**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ftp**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -114,7 +114,7 @@
 |**kcmdevices**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kchmviewer**|![]()|![]()|![]()|![](SE98/apps/64/kchmviewer.png)|![](SE98/apps/48/kchmviewer.png)|![](SE98/apps/32/kchmviewer.png)|![](SE98/apps/24/kchmviewer.png)|![](SE98/apps/22/kchmviewer.png)|![](SE98/apps/16/kchmviewer.png)|
 |**kcmx**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![](SE98/categories/64/kcontrol.png)|![](SE98/categories/48/kcontrol.png)|![](SE98/categories/32/kcontrol.png)|![](SE98/categories/24/kcontrol.png)|![](SE98/categories/22/kcontrol.png)|![](SE98/categories/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdenlive**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kdenlive.png)|![](SE98/apps/32/kdenlive.png)|![](SE98/apps/24/kdenlive.png)|![](SE98/apps/22/kdenlive.png)|![](SE98/apps/16/kdenlive.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -250,7 +250,7 @@
 |**kmix**|![]()|![]()|![]()|![](SE98/apps/64/kmix.png)|![](SE98/apps/48/kmix.png)|![](SE98/apps/32/kmix.png)|![](SE98/apps/24/kmix.png)|![](SE98/apps/22/kmix.png)|![](SE98/apps/16/kmix.png)|
 |**kcmsound**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcmsound.png)|![](SE98/apps/32/kcmsound.png)|![](SE98/apps/24/kcmsound.png)|![](SE98/apps/22/kcmsound.png)|![](SE98/apps/16/kcmsound.png)|
 |**bashnee**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![](SE98/categories/64/kcontrol.png)|![](SE98/categories/48/kcontrol.png)|![](SE98/categories/32/kcontrol.png)|![](SE98/categories/24/kcontrol.png)|![](SE98/categories/22/kcontrol.png)|![](SE98/categories/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ksim**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**krdc**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
