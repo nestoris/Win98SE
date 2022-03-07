@@ -15,7 +15,6 @@
 |**folder_inbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_outbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_sent_mail**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**link_overlay**|![](SE98/places/128/link_overlay.png)|![](SE98/places/96/link_overlay.png)|![](SE98/places/72/link_overlay.png)|![](SE98/places/64/link_overlay.png)|![](SE98/places/48/link_overlay.png)|![](SE98/places/32/link_overlay.png)|![](SE98/places/24/link_overlay.png)|![](SE98/places/22/link_overlay.png)|![](SE98/places/16/link_overlay.png)|
 |**lock_overlay**|![]()|![](SE98/places/96/lock_overlay.png)|![]()|![](SE98/places/64/lock_overlay.png)|![](SE98/places/48/lock_overlay.png)|![](SE98/places/32/lock_overlay.png)|![](SE98/places/24/lock_overlay.png)|![](SE98/places/22/lock_overlay.png)|![](SE98/places/16/lock_overlay.png)|
 |**zip_overlay**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ftp**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
