@@ -119,7 +119,7 @@
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keyboard**|![]()|![]()|![]()|![](SE98/devices/64/keyboard.png)|![](SE98/devices/48/keyboard.png)|![](SE98/devices/32/keyboard.png)|![](SE98/devices/24/keyboard.png)|![](SE98/devices/22/keyboard.png)|![](SE98/devices/16/keyboard.png)|
 |**keyboard_layout**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kfind**|![]()|![]()|![]()|![]()|![](SE98/actions/48/kfind.png)|![](SE98/actions/32/kfind.png)|![]()|![](SE98/actions/22/kfind.png)|![]()|
+|**kfind**|![]()|![]()|![]()|![](SE98/apps/64/kfind.png)|![](SE98/apps/48/kfind.png)|![](SE98/apps/32/kfind.png)|![](SE98/apps/24/kfind.png)|![](SE98/apps/22/kfind.png)|![](SE98/apps/16/kfind.png)|
 |**kfm_home**|![]()|![]()|![]()|![]()|![](SE98/actions/48/kfm_home.png)|![](SE98/actions/32/kfm_home.png)|![](SE98/actions/24/kfm_home.png)|![](SE98/actions/22/kfm_home.png)|![](SE98/actions/16/kfm_home.png)|
 |**khotkeys**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kicker**|![]()|![]()|![]()|![](SE98/apps/64/kicker.png)|![](SE98/apps/48/kicker.png)|![](SE98/apps/32/kicker.png)|![](SE98/apps/24/kicker.png)|![](SE98/apps/22/kicker.png)|![](SE98/apps/16/kicker.png)|
@@ -270,7 +270,7 @@
 |**tdmconfig**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**twin**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**usb**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kfind**|![]()|![]()|![]()|![]()|![](SE98/actions/48/kfind.png)|![](SE98/actions/32/kfind.png)|![]()|![](SE98/actions/22/kfind.png)|![]()|
+|**kfind**|![]()|![]()|![]()|![](SE98/apps/64/kfind.png)|![](SE98/apps/48/kfind.png)|![](SE98/apps/32/kfind.png)|![](SE98/apps/24/kfind.png)|![](SE98/apps/22/kfind.png)|![](SE98/apps/16/kfind.png)|
 |**kfax**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kdict**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kleopatra**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
