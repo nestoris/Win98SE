@@ -5,6 +5,7 @@
 |**gnome-fs-loading-icon**|![]()|![]()|![]()|![]()|![](SE98/status/48/gnome-fs-loading-icon.png)|![](SE98/status/32/gnome-fs-loading-icon.png)|![](SE98/status/24/gnome-fs-loading-icon.png)|![](SE98/status/22/gnome-fs-loading-icon.png)|![](SE98/status/16/gnome-fs-loading-icon.png)|
 |**gpm-inhibit**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/status/24/gpm-inhibit.png)|![](SE98/status/22/gpm-inhibit.png)|![](SE98/panel/16/gpm-inhibit.png)|
 |**keyboard-brightness**|![]()|![]()|![]()|![]()|![]()|![](SE98/status/32/keyboard-brightness.png)|![](SE98/status/24/keyboard-brightness.png)|![](SE98/status/22/keyboard-brightness.png)|![](SE98/status/16/keyboard-brightness.png)|
+|**thunderbird**|![]()|![]()|![]()|![]()|![]()|![](SE98/apps/32/thunderbird.png)|![](SE98/apps/24/thunderbird.png)|![](SE98/apps/22/thunderbird.png)|![](SE98/apps/16/thunderbird.png)|
 |**mail-read**|![]()|![]()|![]()|![](SE98/actions/64/mail-read.png)|![](SE98/actions/48/mail-read.png)|![](SE98/actions/32/mail-read.png)|![](SE98/actions/24/mail-read.png)|![](SE98/actions/22/mail-read.png)|![](SE98/actions/16/mail-read.png)|
 |**applications-email-panel**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/status/24/applications-email-panel.png)|![](SE98/status/22/applications-email-panel.png)|![](SE98/status/16/applications-email-panel.png)|
 |**internet-mail**|![]()|![]()|![]()|![](SE98/apps/64/internet-mail.png)|![](SE98/apps/48/internet-mail.png)|![](SE98/apps/32/internet-mail.png)|![]()|![](SE98/apps/22/internet-mail.png)|![](SE98/apps/16/internet-mail.png)|
