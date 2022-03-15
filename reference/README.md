@@ -26,7 +26,7 @@
 
 ![](pattern_desk.png) по образцу (pattern)
 
-**Примеры:**
+**Примеры линий:**
 
 ![диагонали](diagonals.png) Правильные диагонали (x4)
 
@@ -61,3 +61,15 @@
 ![](../SE98/devices/160/drive-harddisk.png)
 ![](../SE98/devices/192/drive-harddisk.png)
 ![](../SE98/devices/256/drive-harddisk.png)
+
+Некоторые отклонения от оригинальной палитры и обязательного отсутствия полупрозрачности пикселей не возбраняются. Использованный ниже голубой цвет отсутствует в оригинальной палитре, края эмблемы сглажены засчёт полупрозрачности. Изображение смонтировано в Inkscape:
+
+![](../SE98/devices/128/drive-harddisk-system.png)
+![](../SE98/devices/160/drive-harddisk-system.png)
+![](../SE98/devices/192/drive-harddisk-system.png)
+![](../SE98/devices/256/drive-harddisk-system.png)
+
+# Именование значков
+
+* В первую очередь нужно создавать значки, имена которых указаны в стандарте [FreeDesktop](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html).
+* Подобные им, но имеющие другие имена для различных окружений (KDE, Budgie, Gnome) нужно создавать в виде симлинков на оригиналы, чтобы не занимать лишнее место на диске и облегчить редактриование уже существующих значков.
