@@ -1,0 +1,260 @@
+GIMP Palette
+Name: Windows98
+Columns: 16
+#
+  0   0   0	no name
+128   0 128	no name
+  0   0 128	no name
+  0 128 128	no name
+  0 128   0	no name
+128 128   0	no name
+128   0   0	no name
+192 192 192	no name
+192 220 192	no name
+166 202 240	no name
+128 128 128	no name
+255   0 255	no name
+  0   0 255	no name
+  0 255 255	no name
+  0 255   0	no name
+255 255   0	no name
+255   0   0	no name
+255 255 255	no name
+255 251 240	no name
+160 160 164	no name
+  4   4   4	no name
+  8   8   8	no name
+ 12  12  12	no name
+ 17  17  17	no name
+ 22  22  22	no name
+ 28  28  28	no name
+ 34  34  34	no name
+ 41  41  41	no name
+ 85  85  85	no name
+ 77  77  77	no name
+ 66  66  66	no name
+ 57  57  57	no name
+255 124 128	no name
+255  80  80	no name
+214   0 147	no name
+204 236 255	no name
+239 214 198	no name
+231 231 214	no name
+173 169 144	no name
+ 51   0   0	no name
+102   0   0	no name
+153   0   0	no name
+204   0   0	no name
+  0  51   0	no name
+ 51  51   0	no name
+102  51   0	no name
+153  51   0	no name
+204  51   0	no name
+255  51   0	no name
+  0 102   0	no name
+ 51 102   0	no name
+102 102   0	no name
+153 102   0	no name
+204 102   0	no name
+255 102   0	no name
+  0 153   0	no name
+ 51 153   0	no name
+102 153   0	no name
+153 153   0	no name
+204 153   0	no name
+255 153   0	no name
+  0 204   0	no name
+ 51 204   0	no name
+102 204   0	no name
+153 204   0	no name
+204 204   0	no name
+255 204   0	no name
+102 255   0	no name
+153 255   0	no name
+204 255   0	no name
+  0   0  51	no name
+ 51   0  51	no name
+102   0  51	no name
+153   0  51	no name
+204   0  51	no name
+255   0  51	no name
+  0  51  51	no name
+ 51  51  51	no name
+102  51  51	no name
+153  51  51	no name
+204  51  51	no name
+255  51  51	no name
+  0 102  51	no name
+ 51 102  51	no name
+102 102  51	no name
+153 102  51	no name
+204 102  51	no name
+255 102  51	no name
+  0 153  51	no name
+ 51 153  51	no name
+102 153  51	no name
+153 153  51	no name
+204 153  51	no name
+255 153  51	no name
+  0 204  51	no name
+ 51 204  51	no name
+102 204  51	no name
+153 204  51	no name
+204 204  51	no name
+255 204  51	no name
+ 51 255  51	no name
+102 255  51	no name
+153 255  51	no name
+204 255  51	no name
+255 255  51	no name
+  0   0 102	no name
+ 51   0 102	no name
+102   0 102	no name
+153   0 102	no name
+204   0 102	no name
+255   0 102	no name
+  0  51 102	no name
+ 51  51 102	no name
+102  51 102	no name
+153  51 102	no name
+204  51 102	no name
+255  51 102	no name
+  0 102 102	no name
+ 51 102 102	no name
+102 102 102	no name
+153 102 102	no name
+204 102 102	no name
+  0 153 102	no name
+ 51 153 102	no name
+102 153 102	no name
+153 153 102	no name
+204 153 102	no name
+255 153 102	no name
+  0 204 102	no name
+ 51 204 102	no name
+153 204 102	no name
+204 204 102	no name
+255 204 102	no name
+  0 255 102	no name
+ 51 255 102	no name
+153 255 102	no name
+204 255 102	no name
+255   0 204	no name
+204   0 255	no name
+  0 153 153	no name
+153  51 153	no name
+153   0 153	no name
+204   0 153	no name
+  0   0 153	no name
+ 51  51 153	no name
+102   0 153	no name
+204  51 153	no name
+255   0 153	no name
+  0 102 153	no name
+ 51 102 153	no name
+102  51 153	no name
+153 102 153	no name
+204 102 153	no name
+255  51 153	no name
+ 51 153 153	no name
+102 153 153	no name
+153 153 153	no name
+204 153 153	no name
+255 153 153	no name
+  0 204 153	no name
+ 51 204 153	no name
+102 204 102	no name
+153 204 153	no name
+204 204 153	no name
+255 204 153	no name
+  0 255 153	no name
+ 51 255 153	no name
+102 204 153	no name
+153 255 153	no name
+204 255 153	no name
+255 255 153	no name
+  0   0 204	no name
+ 51   0 153	no name
+102   0 204	no name
+153   0 204	no name
+204   0 204	no name
+  0  51 153	no name
+ 51  51 204	no name
+102  51 204	no name
+153  51 204	no name
+204  51 204	no name
+255  51 204	no name
+  0 102 204	no name
+ 51 102 204	no name
+102 102 153	no name
+153 102 204	no name
+204 102 204	no name
+255 102 153	no name
+  0 153 204	no name
+ 51 153 204	no name
+102 153 204	no name
+153 153 204	no name
+204 153 204	no name
+255 153 204	no name
+  0 204 204	no name
+ 51 204 204	no name
+102 204 204	no name
+153 204 204	no name
+204 204 204	no name
+255 204 204	no name
+  0 255 204	no name
+ 51 255 204	no name
+102 255 153	no name
+153 255 204	no name
+204 255 204	no name
+255 255 204	no name
+ 51   0 204	no name
+102   0 255	no name
+153   0 255	no name
+  0  51 204	no name
+ 51  51 255	no name
+102  51 255	no name
+153  51 255	no name
+204  51 255	no name
+255  51 255	no name
+  0 102 255	no name
+ 51 102 255	no name
+102 102 204	no name
+153 102 255	no name
+204 102 255	no name
+255 102 204	no name
+  0 153 255	no name
+ 51 153 255	no name
+102 153 255	no name
+153 153 255	no name
+204 153 255	no name
+255 153 255	no name
+  0 204 255	no name
+ 51 204 255	no name
+102 204 255	no name
+153 204 255	no name
+204 204 255	no name
+255 204 255	no name
+ 51 255 255	no name
+102 255 204	no name
+153 255 255	no name
+204 255 255	no name
+255 102 102	no name
+102 255 102	no name
+255 255 102	no name
+102 102 255	no name
+255 102 255	no name
+102 255 255	no name
+165   0  33	no name
+ 95  95  95	no name
+119 119 119	no name
+134 134 134	no name
+150 150 150	no name
+203 203 203	no name
+178 178 178	no name
+215 215 215	no name
+221 221 221	no name
+227 227 227	no name
+234 234 234	no name
+241 241 241	no name
+248 248 248	no name
