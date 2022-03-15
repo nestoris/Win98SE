@@ -20,7 +20,7 @@
   * [Microsoft RIFF PAL data](Microsoft-98.pal)
   * [JASC-PAL format](Microangelo-98.pal)
 
-Плавныость градиентов достигается засчёт смешения:
+Плавныость градиентов достигается засчёт двух методов смешения:
 
 ![](diffuse_cd.png) диффузного
 
