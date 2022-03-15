@@ -1,6 +1,6 @@
 *English translation will be soon...*
 
-*Until the translation is ready, use [Google Translator](https://translate.google.com/)*
+*Until the translation is ready, use [Google Translator](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)*
 
 # [ru] Особенности стиля.
 Стиль значков Windows 98 (R) имеет свои особенности. Они в чём-то сродни византийскому иконописному стилю.
