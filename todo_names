@@ -1,3 +1,6 @@
+indicator-messages
+
+
 gnome-fs-loading-icon
 gpm-inhibit
 keyboard-brightness
@@ -194,6 +197,7 @@ linuxconf
 love
 
 
+extension
 application-sql
 inode-socket
 inode-blockdevice
