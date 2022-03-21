@@ -1,13 +1,15 @@
 [Icon Theme]
 Name=SE98
 Comment=Enhanced Classic Win98SE icon theme for GNU/Linux.
-Comment[ru]=Усовершенствованная тема значков для системы с номером J3QQ4... :-)
-Comment[es]=Tema de icono de Win98SE clásico mejorado para GNU/Linux.
+Comment[ru]=Расширенная тема значков для Линукса в стиле системы с номером J3QQ4... :-)
+Comment[sr]=Побољшана класична тема икона Win98SE за GNU/Linux.
+Comment[uk]=Покращена класична тема значків Win98SE для GNU/Linux.
+Comment[bg]=Подобрена класическа тема за икони на Win98SE за GNU/Linux.
 Comment[fr]=Thème d`icônes Classic Win98SE amélioré pour GNU/Linux.
+Comment[es]=Tema de icono de Win98SE clásico mejorado para GNU/Linux.
 Comment[de]=Verbessertes klassisches Win98SE-Icon-Design für GNU/Linux.
 Comment[po]=Tema de ícone do Win98SE clássico aprimorado para GNU/Linux.
 Comment[id]=Tema ikon Win98SE Klasik yang disempurnakan untuk GNU/Linux.
-Comment[bg]=Подобрена класическа тема за икони на Win98SE за GNU/Linux.
 Comment[hr]=Poboljšana klasična tema ikona Win98SE za GNU/Linux.
 Example=user-desktop
 Inherits=Chicago95,Redmond97,hicolor,Faenza,Oxygen,Breeze,Crystal,Nuvola,Crystal SVG,Nuvola theme
