@@ -2,6 +2,7 @@
 
 | |**128x128**|**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|-|
+|**indicator-messages**|![]()|![]()|![]()|![]()|![](SE98/status/48/indicator-messages.png)|![](SE98/status/32/indicator-messages.png)|![](SE98/status/24/indicator-messages.png)|![](SE98/status/22/indicator-messages.png)|![](SE98/panel/16/indicator-messages.png)|
 |**gnome-fs-loading-icon**|![]()|![]()|![]()|![]()|![](SE98/status/48/gnome-fs-loading-icon.png)|![](SE98/status/32/gnome-fs-loading-icon.png)|![](SE98/status/24/gnome-fs-loading-icon.png)|![](SE98/status/22/gnome-fs-loading-icon.png)|![](SE98/status/16/gnome-fs-loading-icon.png)|
 |**gpm-inhibit**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/status/24/gpm-inhibit.png)|![](SE98/status/22/gpm-inhibit.png)|![](SE98/panel/16/gpm-inhibit.png)|
 |**keyboard-brightness**|![]()|![]()|![]()|![]()|![]()|![](SE98/status/32/keyboard-brightness.png)|![](SE98/status/24/keyboard-brightness.png)|![](SE98/status/22/keyboard-brightness.png)|![](SE98/status/16/keyboard-brightness.png)|
@@ -66,8 +67,8 @@
 |**bug**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**button_ok**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**contexthelp**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**edittrash**|![]()|![]()|![]()|![](SE98/places/64/edittrash.png)|![](SE98/places/48/edittrash.png)|![](SE98/places/32/edittrash.png)|![](SE98/places/24/edittrash.png)|![](SE98/places/22/edittrash.png)|![](SE98/places/16/edittrash.png)|
-|**emptytrash**|![]()|![]()|![]()|![](SE98/places/64/emptytrash.png)|![](SE98/places/48/emptytrash.png)|![](SE98/places/32/emptytrash.png)|![](SE98/places/24/emptytrash.png)|![](SE98/places/22/emptytrash.png)|![](SE98/places/16/emptytrash.png)|
+|**edittrash**|![]()|![](SE98/places/96/edittrash.png)|![](SE98/places/72/edittrash.png)|![](SE98/places/64/edittrash.png)|![](SE98/places/48/edittrash.png)|![](SE98/places/32/edittrash.png)|![](SE98/places/24/edittrash.png)|![](SE98/places/22/edittrash.png)|![](SE98/places/16/edittrash.png)|
+|**emptytrash**|![]()|![](SE98/places/96/emptytrash.png)|![](SE98/places/72/emptytrash.png)|![](SE98/places/64/emptytrash.png)|![](SE98/places/48/emptytrash.png)|![](SE98/places/32/emptytrash.png)|![](SE98/places/24/emptytrash.png)|![](SE98/places/22/emptytrash.png)|![](SE98/places/16/emptytrash.png)|
 |**eraser**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**encrypted**|![]()|![]()|![]()|![](SE98/mimes/64/encrypted.png)|![](SE98/mimes/48/encrypted.png)|![](SE98/mimes/32/encrypted.png)|![](SE98/mimes/24/encrypted.png)|![](SE98/mimes/22/encrypted.png)|![](SE98/mimes/16/encrypted.png)|
 |**filter**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -173,6 +174,7 @@
 |**kxkb**|![]()|![]()|![]()|![](SE98/devices/64/kxkb.png)|![](SE98/devices/48/kxkb.png)|![](SE98/devices/32/kxkb.png)|![](SE98/devices/24/kxkb.png)|![](SE98/devices/22/kxkb.png)|![](SE98/devices/16/kxkb.png)|
 |**linuxconf**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**love**|![]()|![]()|![]()|![]()|![](SE98/apps/48/love.png)|![](SE98/apps/32/love.png)|![](SE98/apps/24/love.png)|![](SE98/apps/22/love.png)|![](SE98/apps/16/love.png)|
+|**extension**|![]()|![]()|![]()|![](SE98/mimes/64/extension.png)|![](SE98/mimes/48/extension.png)|![](SE98/mimes/32/extension.png)|![](SE98/mimes/24/extension.png)|![](SE98/mimes/22/extension.png)|![](SE98/mimes/16/extension.png)|
 |**application-sql**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**inode-socket**|![]()|![]()|![]()|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
 |**inode-blockdevice**|![](SE98/mimes/128/inode-blockdevice.png)|![](SE98/mimes/96/inode-blockdevice.png)|![](SE98/mimes/72/inode-blockdevice.png)|![](SE98/mimes/64/inode-blockdevice.png)|![](SE98/mimes/48/inode-blockdevice.png)|![](SE98/mimes/32/inode-blockdevice.png)|![](SE98/mimes/24/inode-blockdevice.png)|![](SE98/mimes/22/inode-blockdevice.png)|![](SE98/mimes/16/inode-blockdevice.png)|
