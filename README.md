@@ -4,6 +4,12 @@ Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K system
 
 The theme is currently in process of creating, so there are lots of icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
 
+**SE98 icon theme** is currently available for **Arch**, **Manjaro** and other Arch-based distro users via [AUR](https://aur.archlinux.org/packages/se98-icon-theme-git) repository:
+
+```
+yay -S se98-icon-theme-git
+```
+
 If you want to contribute to the project, you can look at [some of the Windows 98/ME/2000 theme style features (Reference)](reference). It's in process of creating, not currently English-translated, but has a [link to Google-translated itself](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp).
 
 ---
