@@ -7,4 +7,4 @@ She has a heart disease and diabetes, she lives in the city of Rakhiv, Transcarp
 
 ![Anna Kovach](anna-kovach.jpg)
 
-If you are ready to help, [send me an email](voltasar@gmail.com), and I will give you her card number and phone number for communication (she understands only Russian and Ukrainian).
+If you are ready to help, [send me an email](mailto:voltasar@gmail.com), and I will give you her card number and phone number for communication (she understands only Russian and Ukrainian).
