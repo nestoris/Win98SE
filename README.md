@@ -1,4 +1,4 @@
-![](SE98/places/96/user-desktop.png)
+![](SE98/places/128/user-desktop.png)
 # SE98 Icon theme
 Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are icons in 16x16, 22x22, 24x24, 32x32, 48x48, and 64x64 sizes that I've made myself.
 
