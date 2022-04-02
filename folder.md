@@ -1,14 +1,31 @@
-| |Folder icon|Binary file icon|Text file icon|Empty file icon|
-|-|-|-|-|-|
-|256x256|![](SE98/places/256/folder.png)|![](SE98/mimes/256/application-x-executable.png)|![](SE98/mimes/256/text-x-generic.png)|![](SE98/mimes/256/empty.png)|
-|192x192|![](SE98/places/192/folder.png)|![](SE98/mimes/192/application-x-executable.png)|![](SE98/mimes/192/text-x-generic.png)|![](SE98/mimes/192/empty.png)|
-|160x160|![](SE98/places/160/folder.png)|![](SE98/mimes/160/application-x-executable.png)|![](SE98/mimes/160/text-x-generic.png)|![](SE98/mimes/160/empty.png)|
-|128x128|![](SE98/places/128/folder.png)|![](SE98/mimes/128/application-x-executable.png)|![](SE98/mimes/128/text-x-generic.png)|![](SE98/mimes/128/empty.png)|
-|96x96|![](SE98/places/96/folder.png)|![](SE98/mimes/96/application-x-executable.png)|![](SE98/mimes/96/text-x-generic.png)|![](SE98/mimes/96/empty.png)|
-|72x72|![](SE98/places/72/folder.png)|![](SE98/mimes/72/application-x-executable.png)|![](SE98/mimes/72/text-x-generic.png)|![](SE98/mimes/72/empty.png)|
-|64x64|![](SE98/places/64/folder.png)|![](SE98/mimes/64/application-x-executable.png)|![](SE98/mimes/64/text-x-generic.png)|![](SE98/mimes/64/empty.png)|
-|48x48|![](SE98/places/48/folder.png)|![](SE98/mimes/48/application-x-executable.png)|![](SE98/mimes/48/text-x-generic.png)|![](SE98/mimes/48/empty.png)|
-|32x32|![](SE98/places/32/folder.png)|![](SE98/mimes/32/application-x-executable.png)|![](SE98/mimes/32/text-x-generic.png)|![](SE98/mimes/32/empty.png)|
-|24x24|![](SE98/places/24/folder.png)|![](SE98/mimes/24/application-x-executable.png)|![](SE98/mimes/24/text-x-generic.png)|![](SE98/mimes/24/empty.png)|
-|22x22|![](SE98/places/22/folder.png)|![](SE98/mimes/22/application-x-executable.png)|![](SE98/mimes/22/text-x-generic.png)|![](SE98/mimes/22/empty.png)|
-|16x16|![](SE98/places/16/folder.png)|![](SE98/mimes/16/application-x-executable.png)|![](SE98/mimes/16/text-x-generic.png)|![](SE98/mimes/16/empty.png)|
+*Built by [MDTable.awk](https://github.com/nestoris/scripts-for-Icon-theming/blob/main/mdtable.awk)*
+
+| |**256x256**|**192x192**|**160x160**|
+|-|-|-|-|
+|**folder**|![](SE98/places/256/folder.png)|![](SE98/places/192/folder.png)|![](SE98/places/160/folder.png)|
+|**folder-open**|![](SE98/places/256/folder-open.png)|![](SE98/places/192/folder-open.png)|![](SE98/places/160/folder-open.png)|
+|**folder-download**|![](SE98/places/256/folder-download.png)|![](SE98/places/192/folder-download.png)|![](SE98/places/160/folder-download.png)|
+|**folder-documents**|![](SE98/places/256/folder-documents.png)|![](SE98/places/192/folder-documents.png)|![](SE98/places/160/folder-documents.png)|
+|**folder-remote**|![](SE98/places/256/folder-remote.png)|![](SE98/places/192/folder-remote.png)|![](SE98/places/160/folder-remote.png)|
+|**user-images**|![](SE98/places/256/user-images.png)|![](SE98/places/192/user-images.png)|![](SE98/places/160/user-images.png)|
+|**link_overlay**|![](SE98/places/256/link_overlay.png)|![](SE98/places/192/link_overlay.png)|![](SE98/places/160/link_overlay.png)|
+|**drive-harddisk**|![](SE98/devices/256/drive-harddisk.png)|![](SE98/devices/192/drive-harddisk.png)|![](SE98/devices/160/drive-harddisk.png)|
+|**drive-harddisk-system**|![](SE98/devices/256/drive-harddisk-system.png)|![](SE98/devices/192/drive-harddisk-system.png)|![](SE98/devices/160/drive-harddisk-system.png)|
+|**drive-optical**|![](SE98/devices/256/drive-optical.png)|![](SE98/devices/192/drive-optical.png)|![](SE98/devices/160/drive-optical.png)|
+|**media-optical**|![](SE98/devices/256/media-optical.png)|![](SE98/devices/192/media-optical.png)|![](SE98/devices/160/media-optical.png)|
+|**application-x-executable**|![](SE98/mimes/256/application-x-executable.png)|![](SE98/mimes/192/application-x-executable.png)|![](SE98/mimes/160/application-x-executable.png)|
+|**empty**|![](SE98/mimes/256/empty.png)|![](SE98/mimes/192/empty.png)|![](SE98/mimes/160/empty.png)|
+|**application-octet-stream**|![](SE98/mimes/256/application-octet-stream.png)|![](SE98/mimes/192/application-octet-stream.png)|![](SE98/mimes/160/application-octet-stream.png)|
+|**application-x-raw-disk-image**|![](SE98/mimes/256/application-x-raw-disk-image.png)|![](SE98/mimes/192/application-x-raw-disk-image.png)|![](SE98/mimes/160/application-x-raw-disk-image.png)|
+|**application-x-cd-image**|![](SE98/mimes/256/application-x-cd-image.png)|![](SE98/mimes/192/application-x-cd-image.png)|![](SE98/mimes/160/application-x-cd-image.png)|
+|**text-html**|![](SE98/mimes/256/text-html.png)|![](SE98/mimes/192/text-html.png)|![](SE98/mimes/160/text-html.png)|
+|**application-x-mswinurl**|![](SE98/mimes/256/application-x-mswinurl.png)|![](SE98/mimes/192/application-x-mswinurl.png)|![](SE98/mimes/160/application-x-mswinurl.png)|
+|**image-x-xcf**|![](SE98/mimes/256/image-x-xcf.png)|![](SE98/mimes/192/image-x-xcf.png)|![](SE98/mimes/160/image-x-xcf.png)|
+|**application-x-trash**|![](SE98/mimes/256/application-x-trash.png)|![](SE98/mimes/192/application-x-trash.png)|![](SE98/mimes/160/application-x-trash.png)|
+|**text-xml**|![](SE98/mimes/256/text-xml.png)|![](SE98/mimes/192/text-xml.png)|![](SE98/mimes/160/text-xml.png)|
+|**text-x-generic**|![](SE98/mimes/256/text-x-generic.png)|![](SE98/mimes/192/text-x-generic.png)|![](SE98/mimes/160/text-x-generic.png)|
+|**text-x-generic-rtl**|![](SE98/mimes/256/text-x-generic-rtl.png)|![](SE98/mimes/192/text-x-generic-rtl.png)|![](SE98/mimes/160/text-x-generic-rtl.png)|
+|**x-office-document**|![](SE98/mimes/256/x-office-document.png)|![](SE98/mimes/192/x-office-document.png)|![](SE98/mimes/160/x-office-document.png)|
+|**x-office-spreadsheet**|![](SE98/mimes/256/x-office-spreadsheet.png)|![](SE98/mimes/192/x-office-spreadsheet.png)|![](SE98/mimes/160/x-office-spreadsheet.png)|
+|**web-browser**|![](SE98/apps/256/web-browser.png)|![](SE98/apps/192/web-browser.png)|![](SE98/apps/160/web-browser.png)|
+|**internet-mail**|![](SE98/apps/256/internet-mail.png)|![](SE98/apps/192/internet-mail.png)|![](SE98/apps/160/internet-mail.png)|
