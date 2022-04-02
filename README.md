@@ -13,7 +13,7 @@ yay -S se98-icon-theme-git
 If you want to contribute to the project, you can look at [some of the Windows 98/ME/2000 theme style features (Reference)](reference). It's in process of creating, not currently English-translated, but has a [link to Google-translated itself](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp).
 
 ---
-[![](SE98/places/256/folder.png)<br>Icons with big sizes (160x160, 192x192, and 256x256)](folder.md)
+[![](SE98/places/256/folder.png)<br>Icons with extra big sizes (160x160, 192x192, and 256x256)](folder.md)
 
 
 Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72, 64, 48, 32, 24, 22, and 16 px sizes.
