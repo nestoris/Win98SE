@@ -1,14 +1,51 @@
 ![](SE98/places/128/user-desktop.png)
 # SE98 Icon theme
-Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are icons in 16x16, 22x22, 24x24, 32x32, 48x48, and 64x64 sizes that I've made myself.
+Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
-The theme is currently in process of creating, so there are lots of icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
+The theme is currently in process of creating, so there are some icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
+
+**Easy ways to install sthis theme:**
+
+**GIT:**
+
+```
+git clone https://github.com/nestoris/Win98SE.git
+```
+
+It will create Win98SE directory with SE98 subdirectory. Put the 'SE98' to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
+
+You can always get fresh update by going to your downloaded Win98SE directory and running the command:
+
+```
+git pull
+```
+
+**SVN:**
+
+*(Only icon theme files)*
+
+`cd ~/.icons`, or `cd ~/.local/share/icons`
+
+then
+
+```
+svn checkout https://github.com/nestoris/Win98SE/trunk/SE98
+```
+
+or
+
+```
+cd /usr/share/icons
+sudo svn checkout https://github.com/nestoris/Win98SE/trunk/SE98
+```
 
 **SE98 icon theme** is currently available for **Arch**, **Manjaro** and other Arch-based distro users via [AUR](https://aur.archlinux.org/packages/se98-icon-theme-git) repository:
 
 ```
 yay -S se98-icon-theme-git
 ```
+
+Or download the [![](SE98/mimes/16/application-x-archive.png) zip from GitHub](https://github.com/nestoris/Win98SE/archive/refs/heads/main.zip) and install manually :-)
 
 If you want to contribute to the project, you can look at [some of the Windows 98/ME/2000 theme style features (Reference)](reference). It's in process of creating, not currently English-translated, but has a [link to Google-translated itself](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp).
 
