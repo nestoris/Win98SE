@@ -14,7 +14,7 @@ git clone https://github.com/nestoris/Win98SE.git
 
 It will create Win98SE directory with SE98 subdirectory. Put the 'SE98' to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
 
-You can always get fresh update by going to your downloaded Win98SE directory and running the command:
+You can always get fresh update by going to your downloaded `Win98SE` directory and running the command:
 
 ```
 git pull
