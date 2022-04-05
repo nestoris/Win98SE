@@ -12,7 +12,7 @@ The theme is currently in process of creating, so there are some icons from **Fa
 git clone https://github.com/nestoris/Win98SE.git
 ```
 
-It will create Win98SE directory with SE98 subdirectory. Put the 'SE98' to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
+It will create Win98SE directory with SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
 
 You can always get fresh update by going to your downloaded `Win98SE` directory and running the command:
 
@@ -39,7 +39,7 @@ cd /usr/share/icons
 sudo svn checkout https://github.com/nestoris/Win98SE/trunk/SE98
 ```
 
-**SE98 icon theme** is currently available for **Arch**, **Manjaro** and other Arch-based distro users via [AUR](https://aur.archlinux.org/packages/se98-icon-theme-git) repository:
+**SE98 icon theme** is currently available for **Arch**, **Manjaro** and other Arch-based distros users via [AUR](https://aur.archlinux.org/packages/se98-icon-theme-git) repository:
 
 ```
 yay -S se98-icon-theme-git
@@ -50,7 +50,7 @@ Or download the [![](SE98/mimes/16/application-x-archive.png) zip from GitHub](h
 If you want to contribute to the project, you can look at [some of the Windows 98/ME/2000 theme style features (Reference)](reference). It's in process of creating, not currently English-translated, but has a [link to Google-translated itself](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp).
 
 ---
-[![](SE98/places/256/folder.png)<br>Icons with extra big sizes (160x160, 192x192, and 256x256)](folder.md)
+[![](SE98/places/256/folder.png)<br>Icons with extra large sizes (160x160, 192x192, and 256x256)](folder.md)
 
 
 Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72, 64, 48, 32, 24, 22, and 16 px sizes.
