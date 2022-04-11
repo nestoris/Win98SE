@@ -8,6 +8,7 @@
 |**folder-documents**|![](SE98/places/256/folder-documents.png)|![](SE98/places/192/folder-documents.png)|![](SE98/places/160/folder-documents.png)|
 |**folder-remote**|![](SE98/places/256/folder-remote.png)|![](SE98/places/192/folder-remote.png)|![](SE98/places/160/folder-remote.png)|
 |**user-images**|![](SE98/places/256/user-images.png)|![](SE98/places/192/user-images.png)|![](SE98/places/160/user-images.png)|
+|**user-bookmarks**|![](SE98/places/256/user-bookmarks.png)|![](SE98/places/192/user-bookmarks.png)|![](SE98/places/160/user-bookmarks.png)|
 |**link_overlay**|![](SE98/places/256/link_overlay.png)|![](SE98/places/192/link_overlay.png)|![](SE98/places/160/link_overlay.png)|
 |**drive-harddisk**|![](SE98/devices/256/drive-harddisk.png)|![](SE98/devices/192/drive-harddisk.png)|![](SE98/devices/160/drive-harddisk.png)|
 |**drive-harddisk-system**|![](SE98/devices/256/drive-harddisk-system.png)|![](SE98/devices/192/drive-harddisk-system.png)|![](SE98/devices/160/drive-harddisk-system.png)|
