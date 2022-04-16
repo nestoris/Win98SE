@@ -43,7 +43,6 @@
 |**folder_locked**|![]()|![](SE98/places/96/folder_locked.png)|![]()|![](SE98/places/64/folder_locked.png)|![](SE98/places/48/folder_locked.png)|![](SE98/places/32/folder_locked.png)|![](SE98/places/24/folder_locked.png)|![](SE98/places/22/folder_locked.png)|![](SE98/places/16/folder_locked.png)|
 |**folder_important**|![]()|![](SE98/places/96/folder_important.png)|![]()|![](SE98/places/64/folder_important.png)|![](SE98/places/48/folder_important.png)|![](SE98/places/32/folder_important.png)|![](SE98/places/24/folder_important.png)|![](SE98/places/22/folder_important.png)|![](SE98/places/16/folder_important.png)|
 |**folder_sound**|![]()|![]()|![]()|![](SE98/places/64/folder_sound.png)|![](SE98/places/48/folder_sound.png)|![](SE98/places/32/folder_sound.png)|![](SE98/places/24/folder_sound.png)|![](SE98/places/22/folder_sound.png)|![](SE98/places/16/folder_sound.png)|
-|**folder_tar**|![]()|![](SE98/mimes/96/folder_tar.png)|![](SE98/mimes/72/folder_tar.png)|![](SE98/mimes/64/folder_tar.png)|![](SE98/mimes/48/folder_tar.png)|![](SE98/mimes/32/folder_tar.png)|![](SE98/mimes/24/folder_tar.png)|![](SE98/mimes/22/folder_tar.png)|![](SE98/mimes/16/folder_tar.png)|
 |**folder_txt**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_print**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_inbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -52,7 +51,6 @@
 |**lock_overlay**|![]()|![](SE98/places/96/lock_overlay.png)|![]()|![](SE98/places/64/lock_overlay.png)|![](SE98/places/48/lock_overlay.png)|![](SE98/places/32/lock_overlay.png)|![](SE98/places/24/lock_overlay.png)|![](SE98/places/22/lock_overlay.png)|![](SE98/places/16/lock_overlay.png)|
 |**zip_overlay**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ftp**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**www**|![](SE98/mimes/128/www.png)|![](SE98/mimes/96/www.png)|![](SE98/mimes/72/www.png)|![](SE98/mimes/64/www.png)|![](SE98/mimes/48/www.png)|![](SE98/mimes/32/www.png)|![](SE98/mimes/24/www.png)|![](SE98/mimes/22/www.png)|![](SE98/mimes/16/www.png)|
 |**contents**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**cd**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**1downarrow**|![]()|![]()|![]()|![](SE98/actions/64/1downarrow.png)|![](SE98/actions/48/1downarrow.png)|![](SE98/actions/32/1downarrow.png)|![](SE98/actions/24/1downarrow.png)|![](SE98/actions/22/1downarrow.png)|![](SE98/actions/16/1downarrow.png)|
@@ -86,7 +84,6 @@
 |**messagebox_critical**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_critical.png)|![](SE98/status/32/messagebox_critical.png)|![](SE98/status/24/messagebox_critical.png)|![](SE98/status/22/messagebox_critical.png)|![](SE98/status/16/messagebox_critical.png)|
 |**messagebox_info**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_info.png)|![](SE98/status/32/messagebox_info.png)|![](SE98/status/22/messagebox_info.png)|![]()|![](SE98/status/16/messagebox_info.png)|
 |**messagebox_warning**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_warning.png)|![](SE98/status/32/messagebox_warning.png)|![](SE98/status/24/messagebox_warning.png)|![](SE98/status/22/messagebox_warning.png)|![](SE98/status/16/messagebox_warning.png)|
-|**misc**|![](SE98/mimes/128/misc.png)|![](SE98/mimes/96/misc.png)|![](SE98/mimes/72/misc.png)|![](SE98/mimes/64/misc.png)|![](SE98/mimes/48/misc.png)|![](SE98/mimes/32/misc.png)|![](SE98/mimes/24/misc.png)|![](SE98/mimes/22/misc.png)|![](SE98/mimes/16/misc.png)|
 |**mouse**|![]()|![]()|![]()|![](SE98/devices/64/mouse.png)|![](SE98/devices/48/mouse.png)|![](SE98/devices/32/mouse.png)|![](SE98/devices/24/mouse.png)|![](SE98/devices/22/mouse.png)|![](SE98/devices/16/mouse.png)|
 |**no**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**player_time**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -174,7 +171,6 @@
 |**extension**|![]()|![]()|![]()|![](SE98/mimes/64/extension.png)|![](SE98/mimes/48/extension.png)|![](SE98/mimes/32/extension.png)|![](SE98/mimes/24/extension.png)|![](SE98/mimes/22/extension.png)|![](SE98/mimes/16/extension.png)|
 |**application-sql**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**inode-socket**|![]()|![]()|![]()|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
-|**inode-blockdevice**|![](SE98/mimes/128/inode-blockdevice.png)|![](SE98/mimes/96/inode-blockdevice.png)|![](SE98/mimes/72/inode-blockdevice.png)|![](SE98/mimes/64/inode-blockdevice.png)|![](SE98/mimes/48/inode-blockdevice.png)|![](SE98/mimes/32/inode-blockdevice.png)|![](SE98/mimes/24/inode-blockdevice.png)|![](SE98/mimes/22/inode-blockdevice.png)|![](SE98/mimes/16/inode-blockdevice.png)|
 |**inode-chardevice**|![]()|![]()|![]()|![](SE98/mimes/64/inode-chardevice.png)|![](SE98/mimes/48/inode-chardevice.png)|![](SE98/mimes/32/inode-chardevice.png)|![](SE98/mimes/24/inode-chardevice.png)|![](SE98/mimes/22/inode-chardevice.png)|![](SE98/mimes/16/inode-chardevice.png)|
 |**inode-fifo**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**inode-mount-point**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
