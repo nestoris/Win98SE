@@ -1,8 +1,8 @@
-![](SE98/places/128/user-desktop.png)
+![Desktop icon](https://raw.githubusercontent.com/nestoris/Win98SE/main/SE98/places/128/user-desktop.png)
 # SE98 Icon theme
 Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
-Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) (currently is private) for this case. It is desirable that it'll not be closed for people from other countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [there](https://gitflic.ru/project/nestoris/se98) ;-)
+Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) (currently is private) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
 
 The theme is currently in process of creating, so there are some icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
 
@@ -10,14 +10,22 @@ The theme is currently in process of creating, so there are some icons from **Fa
 
 **GIT:**
 
-![](donation-to-poor-ukrainian-woman/en.png)
+*GitHub:*
+
 ```
 git clone https://github.com/nestoris/Win98SE.git
 ```
 
-![](donation-to-poor-ukrainian-woman/ru.png)
+*GitFlic:*
+
 ```
 git clone https://gitflic.ru/project/nestoris/se98.git
+```
+
+*OpenCode:*
+
+```
+git clone https://www.opencode.net/nestoris/Win98SE.git
 ```
 
 It will create Win98SE directory with SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
