@@ -55,11 +55,20 @@ cd /usr/share/icons
 sudo svn checkout https://github.com/nestoris/Win98SE/trunk/SE98
 ```
 
-**SE98 icon theme** is currently available for **Arch**, **Manjaro** and other Arch-based distros users via [AUR](https://aur.archlinux.org/packages/se98-icon-theme-git) repository:
+**SE98 icon theme** is currently available for the following systems:
+
+Archlinux and the other distros that based on it:
 
 ```
 yay -S se98-icon-theme-git
 ```
+
+FreeBSD and the systems that derive from it:
+
+```
+pkg install win98se-icon-theme
+```
+
 
 Or download the [![](SE98/mimes/16/application-x-archive.png) zip from GitHub](https://github.com/nestoris/Win98SE/archive/refs/heads/main.zip) and install manually :-)
 
