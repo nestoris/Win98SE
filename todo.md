@@ -43,7 +43,7 @@
 |**folder_home2**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_locked**|![]()|![](SE98/places/96/folder_locked.png)|![]()|![](SE98/places/64/folder_locked.png)|![](SE98/places/48/folder_locked.png)|![](SE98/places/32/folder_locked.png)|![](SE98/places/24/folder_locked.png)|![](SE98/places/22/folder_locked.png)|![](SE98/places/16/folder_locked.png)|
 |**folder_important**|![]()|![](SE98/places/96/folder_important.png)|![]()|![](SE98/places/64/folder_important.png)|![](SE98/places/48/folder_important.png)|![](SE98/places/32/folder_important.png)|![](SE98/places/24/folder_important.png)|![](SE98/places/22/folder_important.png)|![](SE98/places/16/folder_important.png)|
-|**folder_sound**|![]()|![]()|![]()|![](SE98/places/64/folder_sound.png)|![](SE98/places/48/folder_sound.png)|![](SE98/places/32/folder_sound.png)|![](SE98/places/24/folder_sound.png)|![](SE98/places/22/folder_sound.png)|![](SE98/places/16/folder_sound.png)|
+|**folder_sound**|![](SE98/places/128/folder_sound.png)|![](SE98/places/96/folder_sound.png)|![](SE98/places/72/folder_sound.png)|![](SE98/places/64/folder_sound.png)|![](SE98/places/48/folder_sound.png)|![](SE98/places/32/folder_sound.png)|![](SE98/places/24/folder_sound.png)|![](SE98/places/22/folder_sound.png)|![](SE98/places/16/folder_sound.png)|
 |**folder_txt**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_print**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder_inbox**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
