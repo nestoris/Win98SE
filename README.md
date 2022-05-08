@@ -1,4 +1,7 @@
 ![Desktop icon](https://raw.githubusercontent.com/nestoris/Win98SE/main/SE98/places/128/user-desktop.png)
+
+[ [Please help a sick and poor Ukrainian woman.](donation-to-poor-ukrainian-woman) ]
+
 # SE98 Icon theme
 Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
