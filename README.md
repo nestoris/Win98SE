@@ -8,6 +8,20 @@ The theme is currently in process of creating, so there are some icons from **Fa
 
 **Easy ways to install sthis theme:**
 
+Archlinux and the other distros that based on it:
+
+```
+yay -S se98-icon-theme-git
+```
+
+FreeBSD and the systems that derive from it:
+
+```
+pkg install win98se-icon-theme
+```
+
+Clone the repository:
+
 **GIT:**
 
 *GitHub:*
@@ -16,19 +30,19 @@ The theme is currently in process of creating, so there are some icons from **Fa
 git clone https://github.com/nestoris/Win98SE.git
 ```
 
-*GitFlic:*
-
-```
-git clone https://gitflic.ru/project/nestoris/se98.git
-```
-
 *OpenCode:*
 
 ```
 git clone https://www.opencode.net/nestoris/Win98SE.git
 ```
 
-It will create Win98SE directory with SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
+*GitFlic:*
+
+```
+git clone https://gitflic.ru/project/nestoris/se98.git
+```
+
+It will create Win98SE (except GitFlic -- it currently doesn't work) directory with SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
 
 You can always get fresh update by going to your downloaded `Win98SE` directory and running the command:
 
@@ -54,21 +68,6 @@ or
 cd /usr/share/icons
 sudo svn checkout https://github.com/nestoris/Win98SE/trunk/SE98
 ```
-
-**SE98 icon theme** is currently available for the following systems:
-
-Archlinux and the other distros that based on it:
-
-```
-yay -S se98-icon-theme-git
-```
-
-FreeBSD and the systems that derive from it:
-
-```
-pkg install win98se-icon-theme
-```
-
 
 Or download the [![](SE98/mimes/16/application-x-archive.png) zip from GitHub](https://github.com/nestoris/Win98SE/archive/refs/heads/main.zip) and install manually :-)
 
