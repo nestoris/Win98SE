@@ -13,4 +13,4 @@ She has only daughter. Husbent died.
 ![](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)
 Her daughter Diana recently created a paypal account: diana.kola@icloud.com
 
-If you want to talk with them directly, you can send me an [e-mail](mailto://voltasar@gmail.com) and I will give you her contact number (Anna has Whatsapp, but understands only Russian and Ukrainian).
+If you want to talk with them directly, you can send me an [e-mail](mailto:voltasar@gmail.com) and I will give you her contact number (Anna has Whatsapp, but understands only Russian and Ukrainian).
