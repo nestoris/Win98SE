@@ -8,6 +8,7 @@ She has a heart disease and diabetes, she lives in the city of Rakhiv, Transcarp
 She has only daughter. Husbent died.
 
 ![Anna Kovach](anna-kovach.jpg)
+<sub><sup>I also have no way to help her, because due to the military conflict, money transfers to Ukraine from Russia are currently illegal.</sup></sub>
 
 ![](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png)
 Her daughter Diana recently created a paypal account: diana.kola@icloud.com
