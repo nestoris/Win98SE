@@ -165,7 +165,7 @@
 |**kweather**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kwrite**|![]()|![]()|![]()|![](SE98/apps/64/kwrite.png)|![](SE98/apps/48/kwrite.png)|![](SE98/apps/32/kwrite.png)|![](SE98/apps/24/kwrite.png)|![](SE98/apps/22/kwrite.png)|![](SE98/apps/16/kwrite.png)|
 |**kwrite2**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kxkb**|![]()|![]()|![]()|![](SE98/devices/64/kxkb.png)|![](SE98/devices/48/kxkb.png)|![](SE98/devices/32/kxkb.png)|![](SE98/devices/24/kxkb.png)|![](SE98/devices/22/kxkb.png)|![](SE98/devices/16/kxkb.png)|
+|**kxkb**|![]()|![]()|![]()|![](SE98/apps/64/kxkb.png)|![](SE98/apps/48/kxkb.png)|![](SE98/apps/32/kxkb.png)|![](SE98/apps/24/kxkb.png)|![](SE98/apps/22/kxkb.png)|![](SE98/apps/16/kxkb.png)|
 |**linuxconf**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**love**|![]()|![]()|![]()|![]()|![](SE98/apps/48/love.png)|![](SE98/apps/32/love.png)|![](SE98/apps/24/love.png)|![](SE98/apps/22/love.png)|![](SE98/apps/16/love.png)|
 |**extension**|![]()|![]()|![]()|![](SE98/mimes/64/extension.png)|![](SE98/mimes/48/extension.png)|![](SE98/mimes/32/extension.png)|![](SE98/mimes/24/extension.png)|![](SE98/mimes/22/extension.png)|![](SE98/mimes/16/extension.png)|
@@ -314,7 +314,7 @@
 |**kdict**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kleopatra**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kview**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kxkb**|![]()|![]()|![]()|![](SE98/devices/64/kxkb.png)|![](SE98/devices/48/kxkb.png)|![](SE98/devices/32/kxkb.png)|![](SE98/devices/24/kxkb.png)|![](SE98/devices/22/kxkb.png)|![](SE98/devices/16/kxkb.png)|
+|**kxkb**|![]()|![]()|![]()|![](SE98/apps/64/kxkb.png)|![](SE98/apps/48/kxkb.png)|![](SE98/apps/32/kxkb.png)|![](SE98/apps/24/kxkb.png)|![](SE98/apps/22/kxkb.png)|![](SE98/apps/16/kxkb.png)|
 |**noatun**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**printmgr**|![]()|![]()|![]()|![](SE98/devices/64/printmgr.png)|![](SE98/devices/48/printmgr.png)|![](SE98/devices/32/printmgr.png)|![](SE98/devices/24/printmgr.png)|![](SE98/devices/22/printmgr.png)|![](SE98/devices/16/printmgr.png)|
 |**qualculate**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
