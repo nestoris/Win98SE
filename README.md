@@ -8,7 +8,7 @@ Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K system
 
 Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) (currently is private) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
 
-The theme is currently in process of creating, so there are some icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
+The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
 
 **Easy ways to install this theme:**
 
