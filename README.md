@@ -10,15 +10,15 @@ Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-t
 
 The theme is currently in process of creating, so there are some icons from **Faenza** and **Chicago95** themes in it... I want to turn them into a 98's style someday...
 
-**Easy ways to install sthis theme:**
+**Easy ways to install this theme:**
 
-Archlinux and the other distros that based on it:
+![](emblems/archlinux.svg) Archlinux and the other distros that based on it:
 
 ```
 yay -S se98-icon-theme-git
 ```
 
-FreeBSD and the systems that derive from it:
+![](emblems/freebsd.png) FreeBSD and the systems that derive from it:
 
 ```
 pkg install win98se-icon-theme
@@ -26,27 +26,27 @@ pkg install win98se-icon-theme
 
 Clone the repository:
 
-**GIT:**
+![](emblems/git.svg) **GIT:**
 
-*GitHub:*
+![](emblems/github.svg) *GitHub:*
 
 ```
 git clone https://github.com/nestoris/Win98SE.git
 ```
 
-*OpenCode:*
+![](emblems/opencode.png) *OpenCode:*
 
 ```
 git clone https://www.opencode.net/nestoris/Win98SE.git
 ```
 
-*GitFlic:*
+![](emblems/gitflic.png) *GitFlic:*
 
 ```
 git clone https://gitflic.ru/project/nestoris/se98.git
 ```
 
-It will create Win98SE (except GitFlic -- it currently doesn't work) directory with SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
+It will create ![](SE98/places/16/folder.png)Win98SE (except GitFlic -- it currently doesn't work) directory with ![](SE98/places/16/folder-open.png)SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
 
 You can always get fresh update by going to your downloaded `Win98SE` directory and running the command:
 
@@ -54,7 +54,7 @@ You can always get fresh update by going to your downloaded `Win98SE` directory 
 git pull
 ```
 
-**SVN:**
+![](emblems/svn.png) **SVN:**
 
 *(Only icon theme files)*
 

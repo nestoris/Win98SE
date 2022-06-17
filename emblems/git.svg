@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   enable-background="new 0 0 97 97"
+   xml:space="preserve"
+   sodipodi:docname="git.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs9" /><sodipodi:namedview
+   id="namedview7"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="19.463917"
+   inkscape:cx="0.61652542"
+   inkscape:cy="17.082892"
+   inkscape:window-width="1920"
+   inkscape:window-height="1031"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g4"
+   transform="matrix(0.16494935,0,0,0.16494935,1.2147435e-4,-2.0842435e-4)">
+	<path
+   fill="#f05133"
+   d="M 92.71,44.408 52.591,4.291 c -2.31,-2.311 -6.057,-2.311 -8.369,0 l -8.33,8.332 10.567,10.567 c 2.456,-0.83 5.272,-0.273 7.229,1.685 1.969,1.97 2.521,4.81 1.67,7.275 l 10.186,10.185 c 2.465,-0.85 5.307,-0.3 7.275,1.671 2.75,2.75 2.75,7.206 0,9.958 -2.752,2.751 -7.208,2.751 -9.961,0 -2.068,-2.07 -2.58,-5.11 -1.531,-7.658 l -9.5,-9.499 v 24.997 c 0.67,0.332 1.303,0.774 1.861,1.332 2.75,2.75 2.75,7.206 0,9.959 -2.75,2.749 -7.209,2.749 -9.957,0 -2.75,-2.754 -2.75,-7.21 0,-9.959 0.68,-0.679 1.467,-1.193 2.307,-1.537 v -25.23 c -0.84,-0.344 -1.625,-0.853 -2.307,-1.537 -2.083,-2.082 -2.584,-5.14 -1.516,-7.698 L 31.798,16.715 4.288,44.222 c -2.311,2.313 -2.311,6.06 0,8.371 l 40.121,40.118 c 2.31,2.311 6.056,2.311 8.369,0 L 92.71,52.779 c 2.311,-2.311 2.311,-6.06 0,-8.371 z"
+   id="path2" />
+</g>
+</svg>
