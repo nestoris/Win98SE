@@ -25,8 +25,10 @@
 |**image-x-xcf**|![](SE98/mimes/256/image-x-xcf.png)|![](SE98/mimes/192/image-x-xcf.png)|![](SE98/mimes/160/image-x-xcf.png)|
 |**application-x-trash**|![](SE98/mimes/256/application-x-trash.png)|![](SE98/mimes/192/application-x-trash.png)|![](SE98/mimes/160/application-x-trash.png)|
 |**text-xml**|![](SE98/mimes/256/text-xml.png)|![](SE98/mimes/192/text-xml.png)|![](SE98/mimes/160/text-xml.png)|
+|**application-x-tar**|![](SE98/mimes/256/application-x-tar.png)|![](SE98/mimes/192/application-x-tar.png)|![](SE98/mimes/160/application-x-tar.png)|
 |**text-x-generic**|![](SE98/mimes/256/text-x-generic.png)|![](SE98/mimes/192/text-x-generic.png)|![](SE98/mimes/160/text-x-generic.png)|
 |**text-x-generic-rtl**|![](SE98/mimes/256/text-x-generic-rtl.png)|![](SE98/mimes/192/text-x-generic-rtl.png)|![](SE98/mimes/160/text-x-generic-rtl.png)|
+|**application-x-abiword**|![](SE98/mimes/256/application-x-abiword.png)|![](SE98/mimes/192/application-x-abiword.png)|![](SE98/mimes/160/application-x-abiword.png)|
 |**x-office-document**|![](SE98/mimes/256/x-office-document.png)|![](SE98/mimes/192/x-office-document.png)|![](SE98/mimes/160/x-office-document.png)|
 |**x-office-spreadsheet**|![](SE98/mimes/256/x-office-spreadsheet.png)|![](SE98/mimes/192/x-office-spreadsheet.png)|![](SE98/mimes/160/x-office-spreadsheet.png)|
 |**web-browser**|![](SE98/apps/256/web-browser.png)|![](SE98/apps/192/web-browser.png)|![](SE98/apps/160/web-browser.png)|

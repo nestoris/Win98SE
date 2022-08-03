@@ -2,7 +2,7 @@
 
 | |**128x128**|**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|-|
-|**start-here**|![]()|![]()|![]()|![](SE98/places/64/start-here.png)|![](SE98/places/48/start-here.png)|![](SE98/places/32/start-here.png)|![](SE98/places/24/start-here.png)|![](SE98/places/22/start-here.png)|![](SE98/places/16/start-here.png)|
+|**start-here**|![]()|![]()|![](SE98/places/72/start-here.png)|![](SE98/places/64/start-here.png)|![](SE98/places/48/start-here.png)|![](SE98/places/32/start-here.png)|![](SE98/places/24/start-here.png)|![](SE98/places/22/start-here.png)|![](SE98/places/16/start-here.png)|
 |**computer**|![](SE98/devices/128/computer.png)|![](SE98/devices/96/computer.png)|![](SE98/devices/72/computer.png)|![](SE98/devices/64/computer.png)|![](SE98/devices/48/computer.png)|![](SE98/devices/32/computer.png)|![](SE98/devices/24/computer.png)|![](SE98/devices/22/computer.png)|![](SE98/devices/16/computer.png)|
 |**computer_win2k**|![]()|![]()|![]()|![](SE98/devices/64/computer_win2k.png)|![](SE98/devices/48/computer_win2k.png)|![](SE98/devices/32/computer_win2k.png)|![](SE98/devices/24/computer_win2k.png)|![](SE98/devices/22/computer_win2k.png)|![](SE98/devices/16/computer_win2k.png)|
 |**video-display**|![]()|![]()|![]()|![](SE98/devices/64/video-display.png)|![](SE98/devices/48/video-display.png)|![](SE98/devices/32/video-display.png)|![](SE98/devices/24/video-display.png)|![](SE98/devices/22/video-display.png)|![](SE98/devices/16/video-display.png)|
