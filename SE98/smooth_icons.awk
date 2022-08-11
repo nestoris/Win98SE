@@ -1,6 +1,6 @@
 #!/usr/bin/awk -f
 BEGIN{
-postfix="_win98"
+postfix="_SMOOTH"
 finder="find . -name \"*"postfix".png\""
 while((finder|getline)>0){
 basename=tgname=$0

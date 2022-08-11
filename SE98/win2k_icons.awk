@@ -3,12 +3,9 @@ BEGIN{
 postfix="_win2k"
 finder="find . -name \"*"postfix".png\""
 while((finder|getline)>0){
-basename=name2k=name98=$0
-gsub(postfix,"_win98",name98)
-gsub(postfix,"_win2k",name2k)
-gsub("_win2k","",basename)
-#print basename, name98, name2k
-print install="ln -f " name2k " " basename
+basename=tgname=$0
+gsub(postfix,"",basename) # removing target postfix from basename
+print install="ln -f \"" tgname "\" \"" basename "\"" # hardlinking sharp icon to original name
 system(install)
 close(install)
 }
