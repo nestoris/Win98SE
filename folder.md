@@ -17,10 +17,12 @@
 |**application-x-executable**|![](SE98/mimes/256/application-x-executable.png)|![](SE98/mimes/192/application-x-executable.png)|![](SE98/mimes/160/application-x-executable.png)|
 |**empty**|![](SE98/mimes/256/empty.png)|![](SE98/mimes/192/empty.png)|![](SE98/mimes/160/empty.png)|
 |**application-octet-stream**|![](SE98/mimes/256/application-octet-stream.png)|![](SE98/mimes/192/application-octet-stream.png)|![](SE98/mimes/160/application-octet-stream.png)|
+|**application-octet-stream_SHARP**|![](SE98/mimes/256/application-octet-stream_SHARP.png)|![](SE98/mimes/192/application-octet-stream_SHARP.png)|![](SE98/mimes/160/application-octet-stream_SHARP.png)|
 |**application-x-raw-disk-image**|![](SE98/mimes/256/application-x-raw-disk-image.png)|![](SE98/mimes/192/application-x-raw-disk-image.png)|![](SE98/mimes/160/application-x-raw-disk-image.png)|
 |**application-x-cd-image**|![](SE98/mimes/256/application-x-cd-image.png)|![](SE98/mimes/192/application-x-cd-image.png)|![](SE98/mimes/160/application-x-cd-image.png)|
 |**text-html**|![](SE98/mimes/256/text-html.png)|![](SE98/mimes/192/text-html.png)|![](SE98/mimes/160/text-html.png)|
 |**application-x-mswinurl**|![](SE98/mimes/256/application-x-mswinurl.png)|![](SE98/mimes/192/application-x-mswinurl.png)|![](SE98/mimes/160/application-x-mswinurl.png)|
+|**application-pdf**|![](SE98/mimes/256/application-pdf.png)|![](SE98/mimes/192/application-pdf.png)|![](SE98/mimes/160/application-pdf.png)|
 |**image-x-xcursor**|![](SE98/mimes/256/image-x-xcursor.png)|![](SE98/mimes/192/image-x-xcursor.png)|![](SE98/mimes/160/image-x-xcursor.png)|
 |**image-x-xcf**|![](SE98/mimes/256/image-x-xcf.png)|![](SE98/mimes/192/image-x-xcf.png)|![](SE98/mimes/160/image-x-xcf.png)|
 |**application-x-trash**|![](SE98/mimes/256/application-x-trash.png)|![](SE98/mimes/192/application-x-trash.png)|![](SE98/mimes/160/application-x-trash.png)|
