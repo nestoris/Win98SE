@@ -14,6 +14,7 @@
 |**drive-harddisk-system**|![](SE98/devices/256/drive-harddisk-system.png)|![](SE98/devices/192/drive-harddisk-system.png)|![](SE98/devices/160/drive-harddisk-system.png)|
 |**drive-optical**|![](SE98/devices/256/drive-optical.png)|![](SE98/devices/192/drive-optical.png)|![](SE98/devices/160/drive-optical.png)|
 |**media-optical**|![](SE98/devices/256/media-optical.png)|![](SE98/devices/192/media-optical.png)|![](SE98/devices/160/media-optical.png)|
+|**network-server**|![](SE98/places/256/network-server.png)|![](SE98/places/192/network-server.png)|![](SE98/places/160/network-server.png)|
 |**application-x-executable**|![](SE98/mimes/256/application-x-executable.png)|![](SE98/mimes/192/application-x-executable.png)|![](SE98/mimes/160/application-x-executable.png)|
 |**empty**|![](SE98/mimes/256/empty.png)|![](SE98/mimes/192/empty.png)|![](SE98/mimes/160/empty.png)|
 |**application-octet-stream**|![](SE98/mimes/256/application-octet-stream.png)|![](SE98/mimes/192/application-octet-stream.png)|![](SE98/mimes/160/application-octet-stream.png)|
