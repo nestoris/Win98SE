@@ -151,7 +151,7 @@
 |**keyboard**|![]()|![]()|![]()|![](SE98/devices/64/keyboard.png)|![](SE98/devices/48/keyboard.png)|![](SE98/devices/32/keyboard.png)|![](SE98/devices/24/keyboard.png)|![](SE98/devices/22/keyboard.png)|![](SE98/devices/16/keyboard.png)|
 |**keyboard_layout**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kfind**|![]()|![]()|![]()|![](SE98/apps/64/kfind.png)|![](SE98/apps/48/kfind.png)|![](SE98/apps/32/kfind.png)|![](SE98/apps/24/kfind.png)|![](SE98/apps/22/kfind.png)|![](SE98/apps/16/kfind.png)|
-|**kfm_home**|![]()|![]()|![]()|![]()|![](SE98/actions/48/kfm_home.png)|![](SE98/actions/32/kfm_home.png)|![](SE98/actions/24/kfm_home.png)|![](SE98/actions/22/kfm_home.png)|![](SE98/actions/16/kfm_home.png)|
+|**kfm_home**|![]()|![]()|![]()|![](SE98/actions/64/kfm_home.png)|![](SE98/actions/48/kfm_home.png)|![](SE98/actions/32/kfm_home.png)|![](SE98/actions/24/kfm_home.png)|![](SE98/actions/22/kfm_home.png)|![](SE98/actions/16/kfm_home.png)|
 |**khotkeys**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kicker**|![](SE98/apps/128/kicker.png)|![](SE98/apps/96/kicker.png)|![](SE98/apps/72/kicker.png)|![](SE98/apps/64/kicker.png)|![](SE98/apps/48/kicker.png)|![](SE98/apps/32/kicker.png)|![](SE98/apps/24/kicker.png)|![](SE98/apps/22/kicker.png)|![](SE98/apps/16/kicker.png)|
 |**kjobviewer**|![]()|![]()|![]()|![](SE98/devices/64/kjobviewer.png)|![](SE98/devices/48/kjobviewer.png)|![](SE98/devices/32/kjobviewer.png)|![](SE98/devices/24/kjobviewer.png)|![](SE98/devices/22/kjobviewer.png)|![](SE98/devices/16/kjobviewer.png)|
@@ -183,9 +183,9 @@
 |**text-markdown**|![]()|![]()|![]()|![](SE98/mimes/64/text-markdown.png)|![](SE98/mimes/48/text-markdown.png)|![](SE98/mimes/32/text-markdown.png)|![](SE98/mimes/24/text-markdown.png)|![](SE98/mimes/22/text-markdown.png)|![](SE98/mimes/16/text-markdown.png)|
 |**application-x-gettext-translation**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-gettext-translation-template**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**audio-x-xm**|![]()|![](SE98/mimes/96/audio-x-xm.png)|![](SE98/mimes/72/audio-x-xm.png)|![](SE98/mimes/64/audio-x-xm.png)|![](SE98/mimes/48/audio-x-xm.png)|![](SE98/mimes/32/audio-x-xm.png)|![](SE98/mimes/24/audio-x-xm.png)|![](SE98/mimes/22/audio-x-xm.png)|![](SE98/mimes/16/audio-x-xm.png)|
-|**audio-x-mod**|![]()|![](SE98/mimes/96/audio-x-mod.png)|![](SE98/mimes/72/audio-x-mod.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/16/audio-x-mod.png)|
-|**audio-x-it**|![]()|![](SE98/mimes/96/audio-x-it.png)|![](SE98/mimes/72/audio-x-it.png)|![](SE98/mimes/64/audio-x-it.png)|![](SE98/mimes/48/audio-x-it.png)|![](SE98/mimes/32/audio-x-it.png)|![](SE98/mimes/24/audio-x-it.png)|![](SE98/mimes/22/audio-x-it.png)|![](SE98/mimes/16/audio-x-it.png)|
+|**audio-x-xm**|![](SE98/mimes/128/audio-x-xm.png)|![](SE98/mimes/96/audio-x-xm.png)|![](SE98/mimes/72/audio-x-xm.png)|![](SE98/mimes/64/audio-x-xm.png)|![](SE98/mimes/48/audio-x-xm.png)|![](SE98/mimes/32/audio-x-xm.png)|![](SE98/mimes/24/audio-x-xm.png)|![](SE98/mimes/22/audio-x-xm.png)|![](SE98/mimes/16/audio-x-xm.png)|
+|**audio-x-mod**|![](SE98/mimes/128/audio-x-mod.png)|![](SE98/mimes/96/audio-x-mod.png)|![](SE98/mimes/72/audio-x-mod.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/16/audio-x-mod.png)|
+|**audio-x-it**|![](SE98/mimes/128/audio-x-it.png)|![](SE98/mimes/96/audio-x-it.png)|![](SE98/mimes/72/audio-x-it.png)|![](SE98/mimes/64/audio-x-it.png)|![](SE98/mimes/48/audio-x-it.png)|![](SE98/mimes/32/audio-x-it.png)|![](SE98/mimes/24/audio-x-it.png)|![](SE98/mimes/22/audio-x-it.png)|![](SE98/mimes/16/audio-x-it.png)|
 |**text-x-nfo**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-csv**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-ms-regedit**|![]()|![]()|![]()|![](SE98/mimes/64/text-x-ms-regedit.png)|![](SE98/mimes/48/text-x-ms-regedit.png)|![](SE98/mimes/32/text-x-ms-regedit.png)|![](SE98/mimes/24/text-x-ms-regedit.png)|![](SE98/mimes/22/text-x-ms-regedit.png)|![](SE98/mimes/16/text-x-ms-regedit.png)|
@@ -266,7 +266,7 @@
 |**video-quicktime**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-x-ole-storage**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-ole-storage.png)|![](SE98/mimes/48/application-x-ole-storage.png)|![](SE98/mimes/32/application-x-ole-storage.png)|![](SE98/mimes/24/application-x-ole-storage.png)|![](SE98/mimes/22/application-x-ole-storage.png)|![](SE98/mimes/16/application-x-ole-storage.png)|
 |**application-x-object**|![]()|![]()|![]()|![]()|![](SE98/mimes/48/application-x-object.png)|![](SE98/mimes/32/application-x-object.png)|![](SE98/mimes/24/application-x-object.png)|![](SE98/mimes/22/application-x-object.png)|![](SE98/mimes/16/application-x-object.png)|
-|**audio-x-mod**|![]()|![](SE98/mimes/96/audio-x-mod.png)|![](SE98/mimes/72/audio-x-mod.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/16/audio-x-mod.png)|
+|**audio-x-mod**|![](SE98/mimes/128/audio-x-mod.png)|![](SE98/mimes/96/audio-x-mod.png)|![](SE98/mimes/72/audio-x-mod.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/16/audio-x-mod.png)|
 |**application-x-nzb**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-scheme**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-pgp-keys**|![]()|![]()|![]()|![](SE98/mimes/64/application-pgp-keys.png)|![](SE98/mimes/48/application-pgp-keys.png)|![](SE98/mimes/32/application-pgp-keys.png)|![](SE98/mimes/24/application-pgp-keys.png)|![](SE98/mimes/22/application-pgp-keys.png)|![](SE98/mimes/16/application-pgp-keys.png)|
