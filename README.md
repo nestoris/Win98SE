@@ -1,4 +1,4 @@
-![Desktop icon](https://raw.githubusercontent.com/nestoris/Win98SE/main/SE98/places/128/user-desktop.png)
+![Desktop icon](SE98/places/160/user-desktop.png)
 
 [ [Please help a sick and poor Ukrainian woman.](donation-to-poor-ukrainian-woman) ]<br>
 If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send her fiew cents.
