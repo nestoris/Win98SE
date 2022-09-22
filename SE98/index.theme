@@ -13,6 +13,16 @@ Comment[nl]=Verbeterd klassiek Win98SE-pictogramthema voor GNU/Linux.
 Comment[po]=Tema de ícone do Win98SE clássico aprimorado para GNU/Linux.
 Comment[id]=Tema ikon Win98SE Klasik yang disempurnakan untuk GNU/Linux.
 Comment[hr]=Poboljšana klasična tema ikona Win98SE za GNU/Linux.
+Comment[zh_CN]=为 GNU/Linux 增强的经典 Win98SE 图标主题。
+Comment[ja]=GNU/Linux 用の強化された Classic Win98SE アイコン テーマ。
+Comment[hi]=GNU/Linux के लिए एन्हांस्ड क्लासिक Win98SE आइकन थीम।
+Comment[he]=ערכת נושא סמלים קלאסית משופרת של Win98SE עבור GNU/Linux.
+Comment[ar]=سمة رمز Classic Win98SE محسّنة لنظام GNU / Linux.
+Comment[pl]=Ulepszony klasyczny motyw ikon Win98SE dla GNU/Linuksa.
+Comment[sv]=Förbättrat klassiskt Win98SE-ikontema för GNU/Linux.
+Comment[da]=Forbedret klassisk Win98SE-ikontema til GNU/Linux.
+Comment[no]=Forbedret klassisk Win98SE-ikontema for GNU/Linux.
+Comment[fl]=Pinahusay na Classic Win98SE icon na tema para sa GNU/Linux.
 Example=user-desktop
 Inherits=Chicago95,Redmond97,hicolor,Faenza,Oxygen,Breeze,Crystal,Nuvola,Crystal SVG,Nuvola theme
 
