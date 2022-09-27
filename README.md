@@ -6,7 +6,7 @@ If you want to support but not to send money, download my icon theme from [Pling
 # SE98 Icon theme
 Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
-Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) (currently is private) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
+Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
 
 The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
 
@@ -46,7 +46,7 @@ git clone https://www.opencode.net/nestoris/Win98SE.git
 git clone https://gitflic.ru/project/nestoris/se98.git
 ```
 
-It will create ![](SE98/places/16/folder.png)Win98SE (except GitFlic -- it currently doesn't work) directory with ![](SE98/places/16/folder-open.png)SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
+It will create ![](SE98/places/16/folder.png)Win98SE directory with ![](SE98/places/16/folder-open.png)SE98 subdirectory. Put the `SE98` to your `~/.icons`, `~/.local/share/icons`, or `/usr/share/icons` (for all users) directory by copying or symlinking (better for updates).
 
 You can always get fresh update by going to your downloaded `Win98SE` directory and running the command:
 
