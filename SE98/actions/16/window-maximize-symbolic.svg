@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2773"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   sodipodi:docname="window-maximize-symbolic.svg"
+   xml:space="preserve"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2777"><style
+       id="current-color-scheme">
+        .ColorScheme-Text {
+            color:#000000;
+        }
+    </style></defs><sodipodi:namedview
+     id="namedview2775"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="32"
+     inkscape:cx="11.1875"
+     inkscape:cy="6.765625"
+     inkscape:current-layer="g2779"><inkscape:grid
+       type="xygrid"
+       id="grid2954"
+       originx="0"
+       originy="0" /></sodipodi:namedview><g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2779"><path
+       id="rect2984"
+       style="fill:currentColor"
+       d="M 3 3 L 3 12 L 12 12 L 12 3 L 3 3 z M 4 5 L 11 5 L 11 11 L 4 11 L 4 5 z "
+       class="ColorScheme-Text" /></g></svg>
