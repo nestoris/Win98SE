@@ -144,7 +144,7 @@
 |**kcmdevices**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kchmviewer**|![]()|![]()|![]()|![](SE98/apps/64/kchmviewer.png)|![](SE98/apps/48/kchmviewer.png)|![](SE98/apps/32/kchmviewer.png)|![](SE98/apps/24/kchmviewer.png)|![](SE98/apps/22/kchmviewer.png)|![](SE98/apps/16/kchmviewer.png)|
 |**kcmx**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/kcontrol.png)|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdenlive**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kdenlive.png)|![](SE98/apps/32/kdenlive.png)|![](SE98/apps/24/kdenlive.png)|![](SE98/apps/22/kdenlive.png)|![](SE98/apps/16/kdenlive.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -170,7 +170,7 @@
 |**love**|![]()|![]()|![]()|![]()|![](SE98/apps/48/love.png)|![](SE98/apps/32/love.png)|![](SE98/apps/24/love.png)|![](SE98/apps/22/love.png)|![](SE98/apps/16/love.png)|
 |**extension**|![]()|![]()|![]()|![](SE98/mimes/64/extension.png)|![](SE98/mimes/48/extension.png)|![](SE98/mimes/32/extension.png)|![](SE98/mimes/24/extension.png)|![](SE98/mimes/22/extension.png)|![](SE98/mimes/16/extension.png)|
 |**application-sql**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**inode-socket**|![]()|![]()|![]()|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
+|**inode-socket**|![]()|![]()|![](SE98/mimes/72/inode-socket.png)|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
 |**inode-chardevice**|![]()|![]()|![]()|![](SE98/mimes/64/inode-chardevice.png)|![](SE98/mimes/48/inode-chardevice.png)|![](SE98/mimes/32/inode-chardevice.png)|![](SE98/mimes/24/inode-chardevice.png)|![](SE98/mimes/22/inode-chardevice.png)|![](SE98/mimes/16/inode-chardevice.png)|
 |**inode-fifo**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**inode-mount-point**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -263,7 +263,7 @@
 |**application-x-sharedlib,**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application/pgp-keys**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-x-designer**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-designer.png)|![](SE98/mimes/48/application-x-designer.png)|![](SE98/mimes/32/application-x-designer.png)|![](SE98/mimes/24/application-x-designer.png)|![](SE98/mimes/22/application-x-designer.png)|![](SE98/mimes/16/application-x-designer.png)|
-|**application-x-bittorrent**|![]()|![](SE98/mimes/96/application-x-bittorrent.png)|![](SE98/mimes/72/application-x-bittorrent.png)|![](SE98/mimes/64/application-x-bittorrent.png)|![](SE98/mimes/48/application-x-bittorrent.png)|![](SE98/mimes/32/application-x-bittorrent.png)|![](SE98/mimes/24/application-x-bittorrent.png)|![](SE98/mimes/22/application-x-bittorrent.png)|![](SE98/mimes/16/application-x-bittorrent.png)|
+|**application-x-bittorrent**|![](SE98/mimes/128/application-x-bittorrent.png)|![](SE98/mimes/96/application-x-bittorrent.png)|![](SE98/mimes/72/application-x-bittorrent.png)|![](SE98/mimes/64/application-x-bittorrent.png)|![](SE98/mimes/48/application-x-bittorrent.png)|![](SE98/mimes/32/application-x-bittorrent.png)|![](SE98/mimes/24/application-x-bittorrent.png)|![](SE98/mimes/22/application-x-bittorrent.png)|![](SE98/mimes/16/application-x-bittorrent.png)|
 |**application-x-7zip**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-7zip.png)|![](SE98/mimes/48/application-x-7zip.png)|![](SE98/mimes/32/application-x-7zip.png)|![](SE98/mimes/24/application-x-7zip.png)|![](SE98/mimes/22/application-x-7zip.png)|![](SE98/mimes/16/application-x-7zip.png)|
 |**AppImageLauncher**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder-new**|![]()|![]()|![]()|![](SE98/actions/64/folder-new.png)|![](SE98/actions/48/folder-new.png)|![](SE98/actions/32/folder-new.png)|![](SE98/actions/22/folder-new.png)|![]()|![](SE98/actions/16/folder-new.png)|
@@ -296,7 +296,7 @@
 |**kmix**|![]()|![]()|![]()|![](SE98/apps/64/kmix.png)|![](SE98/apps/48/kmix.png)|![](SE98/apps/32/kmix.png)|![](SE98/apps/24/kmix.png)|![](SE98/apps/22/kmix.png)|![](SE98/apps/16/kmix.png)|
 |**kcmsound**|![]()|![]()|![]()|![](SE98/apps/64/kcmsound.png)|![](SE98/apps/48/kcmsound.png)|![](SE98/apps/32/kcmsound.png)|![](SE98/apps/24/kcmsound.png)|![](SE98/apps/22/kcmsound.png)|![](SE98/apps/16/kcmsound.png)|
 |**bashnee**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/kcontrol.png)|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ksim**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**krdc**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
