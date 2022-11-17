@@ -4,12 +4,16 @@
 If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send her fiew cents.
 
 # SE98 Icon theme
-Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
-Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
+## ![](SE98/mimes/64/application-x-abiword.png)Description
 
-The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
+![](SE98/places/16/folder.png) Enhanced Classic icon theme (used with Win98 Second Edition, WinME, Win2K systems) from MicroSoft Memphis project for GNU/Linux inspired by Chicago95 theme (actually it’s a manual copy-paste fork) of Grassmunk with icons in Windows 98 SE style added and/or created by myself. There are some icons in [16x16, 22x22, 24x24, 32x32, 48x48, 64x64, 72x72, 128x128](someicons.md), [160x160, 192x192, and 256x256](folder.md) sizes that I've made myself.
 
+![](SE98/apps/16/preferences-desktop-locale.png) Due to the ![](donation-to-poor-ukrainian-woman/en.png) political ![](donation-to-poor-ukrainian-woman/ua.png) situation ![](donation-to-poor-ukrainian-woman/ru.png) in the world and the likelihood of GitHub being closed in future for Russians, I've created a mirror on [Russian git hosting](https://gitflic.ru/project/nestoris/se98) and on [openCode.net](https://www.opencode.net/nestoris/Win98SE) for this case. It is desirable that they will not be closed for people from any countries :-) But I am afraid that the ability to make commits on GitHub may disappear for me. So, if you haven't seen my activity for a long time, take a look [here](https://gitflic.ru/project/nestoris/se98) or [here](https://www.opencode.net/nestoris/Win98SE) ;-)
+
+![](SE98/status/16/image-loading.png) The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
+
+## ![](SE98/mimes/64/application-x-q4os-execscript.png) Installation
 **Easy ways to install this theme:**
 
 ![](emblems/archlinux.svg) Archlinux and the other distros that based on it:
@@ -77,7 +81,8 @@ Or download the [![](SE98/mimes/16/application-x-archive.png) zip from GitHub](h
 
 If you want to contribute to the project, you can look at [some of the Windows 98/ME/2000 theme style features (Reference)](reference). It's in process of creating, not currently English-translated, but has a [link to Google-translated itself](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp).
 
----
+## ![](SE98/apps/64/preferences-desktop-theme.png) Theme preview
+
 [![](SE98/places/256/folder.png)<br>Icons with extra large sizes (160x160, 192x192, and 256x256)](folder.md)
 
 
@@ -123,12 +128,12 @@ Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72,
 
 ||Midi|Rmi|MSI|TTF|Address book|3D-model|AbiWord document|Install Soft
 |-|-|-|-|-|-|-|-|-|
-|64x64|![](SE98/mimes/64/audio-midi.png)|![](SE98/mimes/64/application-x-riff.png)|![](SE98/mimes/64/application-x-msi.png)|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/64/x-office-address-book.png)|![](SE98/mimes/64/model.png)|![](SE98/mimes/64/application-x-abiword.png)|![](SE98/apps/64/software-manager.png)|
-|48x48|![](SE98/mimes/48/audio-midi.png)|![](SE98/mimes/48/application-x-riff.png)|![](SE98/mimes/48/application-x-msi.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/48/x-office-address-book.png)|![](SE98/mimes/48/model.png)|![](SE98/mimes/48/application-x-abiword.png)|![](SE98/apps/48/software-manager.png)|
-|32x32|![](SE98/mimes/32/audio-midi.png)|![](SE98/mimes/32/application-x-riff.png)|![](SE98/mimes/32/application-x-msi.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/32/x-office-address-book.png)|![](SE98/mimes/32/model.png)|![](SE98/mimes/32/application-x-abiword.png)|![](SE98/apps/32/software-manager.png)|
-|24x24|![](SE98/mimes/24/audio-midi.png)|![](SE98/mimes/24/application-x-riff.png)|![](SE98/mimes/24/application-x-msi.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/24/x-office-address-book.png)|![](SE98/mimes/24/model.png)|![](SE98/mimes/24/application-x-abiword.png)|![](SE98/apps/24/software-manager.png)|
-|22x22|![](SE98/mimes/22/audio-midi.png)|![](SE98/mimes/22/application-x-riff.png)|![](SE98/mimes/22/application-x-msi.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/22/x-office-address-book.png)|![](SE98/mimes/22/model.png)|![](SE98/mimes/22/application-x-abiword.png)|![](SE98/apps/22/software-manager.png)|
-|16x16|![](SE98/mimes/16/audio-midi.png)|![](SE98/mimes/16/application-x-riff.png)|![](SE98/mimes/16/application-x-msi.png)|![](SE98/mimes/16/font-x-generic.png)|![](SE98/mimes/16/x-office-address-book.png)|![](SE98/mimes/16/model.png)|![](SE98/mimes/16/application-x-abiword.png)|![](SE98/apps/16/software-manager.png)|
+|64x64|![](SE98/mimes/64/audio-midi.png)|![](SE98/mimes/64/application-x-riff.png)|![](SE98/mimes/64/application-x-msi.png)|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/64/x-office-address-book.png)|![](SE98/mimes/64/model-x-generic.png)|![](SE98/mimes/64/application-x-abiword.png)|![](SE98/apps/64/software-manager.png)|
+|48x48|![](SE98/mimes/48/audio-midi.png)|![](SE98/mimes/48/application-x-riff.png)|![](SE98/mimes/48/application-x-msi.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/48/x-office-address-book.png)|![](SE98/mimes/48/model-x-generic.png)|![](SE98/mimes/48/application-x-abiword.png)|![](SE98/apps/48/software-manager.png)|
+|32x32|![](SE98/mimes/32/audio-midi.png)|![](SE98/mimes/32/application-x-riff.png)|![](SE98/mimes/32/application-x-msi.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/32/x-office-address-book.png)|![](SE98/mimes/32/model-x-generic.png)|![](SE98/mimes/32/application-x-abiword.png)|![](SE98/apps/32/software-manager.png)|
+|24x24|![](SE98/mimes/24/audio-midi.png)|![](SE98/mimes/24/application-x-riff.png)|![](SE98/mimes/24/application-x-msi.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/24/x-office-address-book.png)|![](SE98/mimes/24/model-x-generic.png)|![](SE98/mimes/24/application-x-abiword.png)|![](SE98/apps/24/software-manager.png)|
+|22x22|![](SE98/mimes/22/audio-midi.png)|![](SE98/mimes/22/application-x-riff.png)|![](SE98/mimes/22/application-x-msi.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/22/x-office-address-book.png)|![](SE98/mimes/22/model-x-generic.png)|![](SE98/mimes/22/application-x-abiword.png)|![](SE98/apps/22/software-manager.png)|
+|16x16|![](SE98/mimes/16/audio-midi.png)|![](SE98/mimes/16/application-x-riff.png)|![](SE98/mimes/16/application-x-msi.png)|![](SE98/mimes/16/font-x-generic.png)|![](SE98/mimes/16/x-office-address-book.png)|![](SE98/mimes/16/model-x-generic.png)|![](SE98/mimes/16/application-x-abiword.png)|![](SE98/apps/16/software-manager.png)|
 
 ||DOC|AVI|Calendar|SVG|Text-RTL|JPEG|PNG|NES-ROM
 |-|-|-|-|-|-|-|-|-|
@@ -139,13 +144,7 @@ Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72,
 |22x22|![](SE98/mimes/22/x-office-document.png)|![](SE98/mimes/22/video-x-generic.png)|![](SE98/apps/22/x-office-calendar.png)|![](SE98/mimes/22/x-office-drawing.png)|![](SE98/mimes/22/text-x-generic-rtl.png)|![](SE98/mimes/22/image-jpeg.png)|![](SE98/mimes/22/image-png.png)|![](SE98/mimes/22/application-x-nes-rom.png)|
 |16x16|![](SE98/mimes/16/x-office-document.png)|![](SE98/mimes/16/video-x-generic.png)|![](SE98/apps/16/x-office-calendar.png)|![](SE98/mimes/16/x-office-drawing.png)|![](SE98/mimes/16/text-x-generic-rtl.png)|![](SE98/mimes/16/image-jpeg.png)|![](SE98/mimes/16/image-png.png)|![](SE98/mimes/16/application-x-nes-rom.png)|
 
-
-### Description
-This is an icon pack inspired by [Chicago95 theme](https://github.com/grassmunk/Chicago95/tree/master/Icons "github.com/grassmunk/Chicago95/tree/master/Icons") (actually it's a manual copy-paste fork) of [Grassmunk](https://github.com/grassmunk "github.com/grassmunk") with icons in Windows 98 SE style.
-
-- Added some 48x48, 32x32, 24x24, 22x22, 16x16, and 64x64 sizes of 256 color palette.
-
-*Screenshots:*
+## Screenshots
 
 ![screen](64_1.png)
 ![screen](scrn.png)

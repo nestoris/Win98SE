@@ -144,7 +144,7 @@
 |**kcmdevices**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kchmviewer**|![]()|![]()|![]()|![](SE98/apps/64/kchmviewer.png)|![](SE98/apps/48/kchmviewer.png)|![](SE98/apps/32/kchmviewer.png)|![](SE98/apps/24/kchmviewer.png)|![](SE98/apps/22/kchmviewer.png)|![](SE98/apps/16/kchmviewer.png)|
 |**kcmx**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/kcontrol.png)|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdenlive**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kdenlive.png)|![](SE98/apps/32/kdenlive.png)|![](SE98/apps/24/kdenlive.png)|![](SE98/apps/22/kdenlive.png)|![](SE98/apps/16/kdenlive.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -170,7 +170,7 @@
 |**love**|![]()|![]()|![]()|![]()|![](SE98/apps/48/love.png)|![](SE98/apps/32/love.png)|![](SE98/apps/24/love.png)|![](SE98/apps/22/love.png)|![](SE98/apps/16/love.png)|
 |**extension**|![]()|![]()|![]()|![](SE98/mimes/64/extension.png)|![](SE98/mimes/48/extension.png)|![](SE98/mimes/32/extension.png)|![](SE98/mimes/24/extension.png)|![](SE98/mimes/22/extension.png)|![](SE98/mimes/16/extension.png)|
 |**application-sql**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**inode-socket**|![]()|![]()|![]()|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
+|**inode-socket**|![]()|![]()|![](SE98/mimes/72/inode-socket.png)|![](SE98/mimes/64/inode-socket.png)|![](SE98/mimes/48/inode-socket.png)|![](SE98/mimes/32/inode-socket.png)|![](SE98/mimes/24/inode-socket.png)|![](SE98/mimes/22/inode-socket.png)|![](SE98/mimes/16/inode-socket.png)|
 |**inode-chardevice**|![]()|![]()|![]()|![](SE98/mimes/64/inode-chardevice.png)|![](SE98/mimes/48/inode-chardevice.png)|![](SE98/mimes/32/inode-chardevice.png)|![](SE98/mimes/24/inode-chardevice.png)|![](SE98/mimes/22/inode-chardevice.png)|![](SE98/mimes/16/inode-chardevice.png)|
 |**inode-fifo**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**inode-mount-point**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -222,12 +222,12 @@
 |**extract-archive**|![]()|![]()|![]()|![](SE98/actions/64/extract-archive.png)|![](SE98/actions/48/extract-archive.png)|![](SE98/actions/32/extract-archive.png)|![](SE98/actions/24/extract-archive.png)|![](SE98/actions/22/extract-archive.png)|![](SE98/actions/16/extract-archive.png)|
 |**add-folder-to-archive**|![]()|![]()|![]()|![](SE98/actions/64/add-folder-to-archive.png)|![](SE98/actions/48/add-folder-to-archive.png)|![](SE98/actions/32/add-folder-to-archive.png)|![](SE98/actions/24/add-folder-to-archive.png)|![](SE98/actions/22/add-folder-to-archive.png)|![](SE98/actions/16/add-folder-to-archive.png)|
 |**add-files-to-archive**|![]()|![]()|![]()|![](SE98/actions/64/add-files-to-archive.png)|![](SE98/actions/48/add-files-to-archive.png)|![](SE98/actions/32/add-files-to-archive.png)|![](SE98/actions/24/add-files-to-archive.png)|![](SE98/actions/22/add-files-to-archive.png)|![](SE98/actions/16/add-files-to-archive.png)|
-|**system-restart-panel**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/actions/24/system-restart-panel.png)|![](SE98/actions/22/system-restart-panel.png)|![](SE98/actions/16/system-restart-panel.png)|
+|**system-restart-panel**|![]()|![]()|![]()|![]()|![](SE98/actions/48/system-restart-panel.png)|![](SE98/actions/32/system-restart-panel.png)|![](SE98/actions/24/system-restart-panel.png)|![](SE98/actions/22/system-restart-panel.png)|![](SE98/actions/16/system-restart-panel.png)|
 |**system-shutdown-panel**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/actions/24/system-shutdown-panel.png)|![](SE98/actions/22/system-shutdown-panel.png)|![](SE98/actions/16/system-shutdown-panel.png)|
 |**system-shutdown-restart-panel**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/actions/24/system-shutdown-restart-panel.png)|![](SE98/actions/22/system-shutdown-restart-panel.png)|![](SE98/actions/16/system-shutdown-restart-panel.png)|
 |**system-upgrade**|![]()|![]()|![]()|![](SE98/actions/64/system-upgrade.png)|![](SE98/apps/48/system-upgrade.png)|![](SE98/apps/32/system-upgrade.png)|![](SE98/apps/24/system-upgrade.png)|![](SE98/apps/22/system-upgrade.png)|![](SE98/apps/16/system-upgrade.png)|
-|**system-restart**|![]()|![]()|![]()|![](SE98/apps/64/system-restart.png)|![](SE98/apps/48/system-restart.png)|![](SE98/apps/32/system-restart.png)|![](SE98/apps/24/system-restart.png)|![](SE98/apps/22/system-restart.png)|![](SE98/apps/16/system-restart.png)|
-|**system-reboot**|![]()|![]()|![]()|![](SE98/apps/64/system-reboot.png)|![](SE98/apps/48/system-reboot.png)|![](SE98/apps/32/system-reboot.png)|![](SE98/apps/24/system-reboot.png)|![](SE98/apps/22/system-reboot.png)|![](SE98/apps/16/system-reboot.png)|
+|**system-restart**|![]()|![]()|![]()|![]()|![](SE98/actions/48/system-restart.png)|![](SE98/actions/32/system-restart.png)|![](SE98/actions/24/system-restart.png)|![](SE98/actions/22/system-restart.png)|![](SE98/actions/16/system-restart.png)|
+|**system-reboot**|![]()|![]()|![]()|![]()|![](SE98/actions/48/system-reboot.png)|![](SE98/actions/32/system-reboot.png)|![](SE98/actions/24/system-reboot.png)|![](SE98/actions/22/system-reboot.png)|![](SE98/actions/16/system-reboot.png)|
 |**system-log-out**|![](SE98/actions/scalable/system-log-out.svg)|![]()|![]()|![](SE98/actions/64/system-log-out.png)|![](SE98/apps/48/system-log-out.png)|![](SE98/apps/32/system-log-out.png)|![](SE98/apps/22/system-log-out.png)|![](SE98/actions/22/system-log-out.png)|![](SE98/apps/16/system-log-out.png)|
 |**system-lock-screen**|![]()|![]()|![]()|![](SE98/actions/64/system-lock-screen.png)|![](SE98/actions/48/system-lock-screen.png)|![](SE98/actions/32/system-lock-screen.png)|![](SE98/actions/24/system-lock-screen.png)|![](SE98/actions/22/system-lock-screen.png)|![](SE98/actions/16/system-lock-screen.png)|
 |**system-devices**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/actions/16/system-devices.png)|
@@ -263,7 +263,7 @@
 |**application-x-sharedlib,**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application/pgp-keys**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-x-designer**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-designer.png)|![](SE98/mimes/48/application-x-designer.png)|![](SE98/mimes/32/application-x-designer.png)|![](SE98/mimes/24/application-x-designer.png)|![](SE98/mimes/22/application-x-designer.png)|![](SE98/mimes/16/application-x-designer.png)|
-|**application-x-bittorrent**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-bittorrent.png)|![](SE98/mimes/48/application-x-bittorrent.png)|![](SE98/mimes/32/application-x-bittorrent.png)|![](SE98/mimes/24/application-x-bittorrent.png)|![](SE98/mimes/22/application-x-bittorrent.png)|![](SE98/mimes/16/application-x-bittorrent.png)|
+|**application-x-bittorrent**|![](SE98/mimes/128/application-x-bittorrent.png)|![](SE98/mimes/96/application-x-bittorrent.png)|![](SE98/mimes/72/application-x-bittorrent.png)|![](SE98/mimes/64/application-x-bittorrent.png)|![](SE98/mimes/48/application-x-bittorrent.png)|![](SE98/mimes/32/application-x-bittorrent.png)|![](SE98/mimes/24/application-x-bittorrent.png)|![](SE98/mimes/22/application-x-bittorrent.png)|![](SE98/mimes/16/application-x-bittorrent.png)|
 |**application-x-7zip**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-7zip.png)|![](SE98/mimes/48/application-x-7zip.png)|![](SE98/mimes/32/application-x-7zip.png)|![](SE98/mimes/24/application-x-7zip.png)|![](SE98/mimes/22/application-x-7zip.png)|![](SE98/mimes/16/application-x-7zip.png)|
 |**AppImageLauncher**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder-new**|![]()|![]()|![]()|![](SE98/actions/64/folder-new.png)|![](SE98/actions/48/folder-new.png)|![](SE98/actions/32/folder-new.png)|![](SE98/actions/22/folder-new.png)|![]()|![](SE98/actions/16/folder-new.png)|
@@ -296,7 +296,7 @@
 |**kmix**|![]()|![]()|![]()|![](SE98/apps/64/kmix.png)|![](SE98/apps/48/kmix.png)|![](SE98/apps/32/kmix.png)|![](SE98/apps/24/kmix.png)|![](SE98/apps/22/kmix.png)|![](SE98/apps/16/kmix.png)|
 |**kcmsound**|![]()|![]()|![]()|![](SE98/apps/64/kcmsound.png)|![](SE98/apps/48/kcmsound.png)|![](SE98/apps/32/kcmsound.png)|![](SE98/apps/24/kcmsound.png)|![](SE98/apps/22/kcmsound.png)|![](SE98/apps/16/kcmsound.png)|
 |**bashnee**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kcontrol**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
+|**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/kcontrol.png)|![](SE98/apps/48/kcontrol.png)|![](SE98/apps/32/kcontrol.png)|![](SE98/apps/24/kcontrol.png)|![](SE98/apps/22/kcontrol.png)|![](SE98/apps/16/kcontrol.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**ksim**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**krdc**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
