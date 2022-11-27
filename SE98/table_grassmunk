@@ -22,16 +22,20 @@ return toupper(substr(word,1,1)) tolower(substr(word,2,length(word)))
 
 function iconames(dirar,iconarr,lnarr,	i,pwdi,lnfil){ #Get all names of .png icons in this context
 	for(i in dirar){
+#split("",lnarr)
 		pwdi=ENVIRON["PWD"]"/"i
 		fs=FS
 		FS="/"
 		while((getline<pwdi)>0){
 			if($3~"f"&&$2~/\.png$/){gsub(/\.[^.]*$/,"",$2);iconarr[$2];dirnam=i"/"$2;existar[dirnam]=dirnam}
 			if($3~"l"&&$2~/\.png$/){
+				#split("",lnarr)
+				#split("",lnarr[$2])
 				lnfil=pwdi"/"$2
 				stat(lnfil, statdata)
 				gsub(/\.[^.]*$/,"",$2)
-				lnarr[$2]=statdata["linkval"]
+				#lnmem=i"/"$2
+				lnarr[$2][i]=statdata["linkval"]
 				dirlnam=i"/"$2
 				existlnar[dirlnam]=dirlnam
 			}
@@ -101,46 +105,60 @@ foot="</body></html>"
 }
 
 function table(){ #Build and print HTML table to stdout.
-print head
+fileout?"":fileout="/dev/stdout"
+print head > fileout
 
-print "<table>\n"
+print "<table>\n" > fileout
 
-print "\t<tr>"
+print "\t<tr>" > fileout
 for(i in dirar){
-	print "\t\t<th>" i "</th>"
+	print "\t\t<th>" i "</th>" > fileout
 }
-print "\t</tr>\n"
+print "\t</tr>\n" > fileout
 
 iconames(dirar,iconarr,lnarr)
 for(ic in iconarr){
 
-print "\t<tr>"
+print "\t<tr>" > fileout
 for(k in dirar){
 #print k"/"ic
 dirnam=k"/"ic
 	imgtag=(existar[dirnam]?"\t\t\t<img src=\"./"dirnam".png\" alt=\""ic".png\">\n\t\t\t<br>"ic".png\n":"")
-	print "\t\t<td><a name="dirnam"></a>\n" imgtag "\n\t\t</td>"
+	print "\t\t<td><a name="dirnam"></a>\n" imgtag "\n\t\t</td>" > fileout
 }
-print "\t</tr>"
+print "\t</tr>" > fileout
 }
 
 for(icl in lnarr){
-print "\t<tr>"
+print "\t<tr>" > fileout
 for(k in dirar){
 dirlnam=k"/"icl
-	locallink=lnarr[icl];gsub(/\.[^.]*$/,"",locallink)
-	imgtag=(existlnar[dirlnam]?"\t\t\t<img src=\"./"dirlnam".png\" alt=\""icl".png\">\n\t\t\t<br>"icl".png<br><a href=\"#"k"/"locallink"\"><i>"lnarr[icl]"</i></a>\n":"")
-	print "\t\t<td>\n" imgtag "\n\t\t</td>"
+	locallink=lnarr[icl][k];gsub(/\.[^.]*$/,"",locallink)
+	# надо сделать из ../../apps/24/system-users ../apps/icons.html#24/system-users
+	htmlpath=htmlname=fol_nam"/"fileout
+	gsub(/[^/]*$/,"",htmlpath)
+	gsub(/^.*\//,"",htmlname)
+	if(locallink~"../../"){
+		locallink=gensub("/","/"fileout"#",2,gensub("../","",2,locallink))
+	}else{
+		locallink="#"k"/"locallink
+	}
+	href="<a href=\""locallink"\"><i>"lnarr[icl][k]"</i></a>"
+	imgtag=(isarray(lnarr[icl]) && existlnar[dirlnam]?"\t\t\t<img src=\"./"k"/"icl".png\" alt=\""icl".png\">\n\t\t\t<br>"icl".png<br>"href"<br>\n":"")
+	#if(lnarr[icl][k]){
+		print "\t\t<td>\n" imgtag "\n\t\t</td>" > fileout
+	#}
 }
-print "\t</tr>"
+print "\t</tr>" > fileout
 }
 
-print "</table>"
-print foot
+print "</table>" > fileout
+print foot > fileout
 }
 
 BEGIN{
-pwd=ENVIRON["PWD"] ARGV[1]
+fileout="icons.html"
+pwd=ENVIRON["PWD"]
 prepare()
 table()
 }
