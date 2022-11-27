@@ -61,7 +61,7 @@ head="<!DOCTYPE html>\n\
 <style>\n\
 td {\n\
   border: 1px solid black;\n\
-  padding: 10px;\n\
+  padding: 6px;\n\
   text-align:center;\n\
   font-size: x-small;\n\
   vertical-align: bottom;\n\
@@ -79,7 +79,7 @@ th {\n\
   position: sticky;\n\
   top: 0;\n\
   border: 1px solid black;\n\
-  padding: 10px;\n\
+  padding: 6px;\n\
   text-align:center;\n\
 }\n\
 \n\
@@ -143,8 +143,11 @@ dirlnam=k"/"icl
 	}else{
 		locallink="#"k"/"locallink
 	}
-	href="<a href=\""locallink"\"><i>"lnarr[icl][k]"</i></a>"
-	imgtag=(isarray(lnarr[icl]) && existlnar[dirlnam]?"\t\t\t<img src=\"./"k"/"icl".png\" alt=\""icl".png\">\n\t\t\t<br>"icl".png<br>"href"<br>\n":"")
+	lnname=lnarr[icl][k];gsub(/\.[^.]*$/,"",lnname)
+	linktext="iconlink "href" "icl
+	linktext=icl "<br>" href
+	href="<a href=\""locallink"\"><i>"lnname"</i></a>"
+	imgtag=(isarray(lnarr[icl]) && existlnar[dirlnam]?"\t\t\t<img src=\"./"k"/"icl".png\" alt=\""icl".png\">\n\t\t\t<br>"linktext"<br>\n":"")
 	#if(lnarr[icl][k]){
 		print "\t\t<td>\n" imgtag "\n\t\t</td>" > fileout
 	#}
