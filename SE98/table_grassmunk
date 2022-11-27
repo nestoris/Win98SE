@@ -14,18 +14,27 @@
 ## and NOT ThemeName/48/places/user-desktop.png)
 
 @load "readdir"
+@load "filefuncs"
 
 function capital(word){ #Make first letter capital
 return toupper(substr(word,1,1)) tolower(substr(word,2,length(word)))
 }
 
-function iconames(dirar,iconarr,	i,pwdi){ #Get all names of .png icons in this context
+function iconames(dirar,iconarr,lnarr,	i,pwdi,lnfil){ #Get all names of .png icons in this context
 	for(i in dirar){
 		pwdi=ENVIRON["PWD"]"/"i
 		fs=FS
 		FS="/"
 		while((getline<pwdi)>0){
 			if($3~"f"&&$2~/\.png$/){gsub(/\.[^.]*$/,"",$2);iconarr[$2];dirnam=i"/"$2;existar[dirnam]=dirnam}
+			if($3~"l"&&$2~/\.png$/){
+				lnfil=pwdi"/"$2
+				stat(lnfil, statdata)
+				gsub(/\.[^.]*$/,"",$2)
+				lnarr[$2]=statdata["linkval"]
+				dirlnam=i"/"$2
+				existlnar[dirlnam]=dirlnam
+			}
 		}
 		FS=fs
 	}
@@ -86,7 +95,7 @@ h1, h2 {\n\
 </head>\n\
 <body><h1>SE98 Icons: "capital(fol_nam)"</h1>\n\
 <br><br>\n\
-<center><p style=\"color:white\">Below is the list of all icons using in the <b>"capital(fol_nam)"</b> section. Each icon is identified by its name. <s>Symlinks</s> are ignored.</p></center>\n\
+<center><p style=\"color:white\">Below is the list of all icons using in the <b>"capital(fol_nam)"</b> section. Each icon is identified by its name. Symlinks are belower, they have links to the originals on this page.</p></center>\n\
 <br><br>"
 foot="</body></html>"
 }
@@ -102,19 +111,30 @@ for(i in dirar){
 }
 print "\t</tr>\n"
 
-iconames(dirar,iconarr)
+iconames(dirar,iconarr,lnarr)
 for(ic in iconarr){
 
 print "\t<tr>"
 for(k in dirar){
 #print k"/"ic
 dirnam=k"/"ic
-#print dirnam existar[dirnam]
-	imgtag=(existar[dirnam]?"\t\t\t<img src=\"./"k"/"ic".png\" alt=\""ic".png\">\n\t\t\t<br>"ic".png\n":"")
+	imgtag=(existar[dirnam]?"\t\t\t<img src=\"./"dirnam".png\" alt=\""ic".png\">\n\t\t\t<br>"ic".png\n":"")
+	print "\t\t<td><a name="dirnam"></a>\n" imgtag "\n\t\t</td>"
+}
+print "\t</tr>"
+}
+
+for(icl in lnarr){
+print "\t<tr>"
+for(k in dirar){
+dirlnam=k"/"icl
+	locallink=lnarr[icl];gsub(/\.[^.]*$/,"",locallink)
+	imgtag=(existlnar[dirlnam]?"\t\t\t<img src=\"./"dirlnam".png\" alt=\""icl".png\">\n\t\t\t<br>"icl".png<br><a href=\"#"k"/"locallink"\"><i>"lnarr[icl]"</i></a>\n":"")
 	print "\t\t<td>\n" imgtag "\n\t\t</td>"
 }
 print "\t</tr>"
 }
+
 print "</table>"
 print foot
 }
