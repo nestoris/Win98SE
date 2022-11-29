@@ -2,8 +2,6 @@
 
 | |**128x128**|**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|-|
-|**view-list-tree**|![]()|![]()|![]()|![](SE98/actions/64/view-list-tree.png)|![](SE98/actions/48/view-list-tree.png)|![](SE98/actions/32/view-list-tree.png)|![](SE98/actions/24/view-list-tree.png)|![](SE98/actions/22/view-list-tree.png)|![](SE98/actions/16/view-list-tree.png)|
-|**view-list-icons**|![]()|![]()|![]()|![](SE98/actions/64/view-list-icons.png)|![](SE98/actions/48/view-list-icons.png)|![](SE98/actions/32/view-list-icons.png)|![](SE98/actions/24/view-list-icons.png)|![](SE98/actions/22/view-list-icons.png)|![](SE98/actions/16/view-list-icons.png)|
 |**view-list-details**|![]()|![]()|![]()|![](SE98/actions/64/view-list-details.png)|![](SE98/actions/48/view-list-details.png)|![](SE98/actions/32/view-list-details.png)|![](SE98/actions/24/view-list-details.png)|![](SE98/actions/22/view-list-details.png)|![](SE98/actions/16/view-list-details.png)|
 |**view-list-compact**|![]()|![]()|![]()|![](SE98/actions/64/view-list-compact.png)|![](SE98/actions/48/view-list-compact.png)|![](SE98/actions/32/view-list-compact.png)|![](SE98/actions/24/view-list-compact.png)|![](SE98/actions/22/view-list-compact.png)|![](SE98/actions/16/view-list-compact.png)|
 |**view-list-text**|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/actions/24/view-list-text.png)|![](SE98/actions/22/view-list-text.png)|![](SE98/actions/16/view-list-text.png)|
