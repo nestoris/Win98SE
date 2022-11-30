@@ -13,6 +13,7 @@ Comment[nl]=Verbeterd klassiek Win98SE-pictogramthema voor GNU/Linux.
 Comment[po]=Tema de ícone do Win98SE clássico aprimorado para GNU/Linux.
 Comment[id]=Tema ikon Win98SE Klasik yang disempurnakan untuk GNU/Linux.
 Comment[hr]=Poboljšana klasična tema ikona Win98SE za GNU/Linux.
+Comment[sl]=Izboljšana klasična tema ikon Win98SE za GNU/Linux.
 Comment[zh_CN]=为 GNU/Linux 增强的经典 Win98SE 图标主题。
 Comment[ja]=GNU/Linux 用の強化された Classic Win98SE アイコン テーマ。
 Comment[hi]=GNU/Linux के लिए एन्हांस्ड क्लासिक Win98SE आइकन थीम।
@@ -27,12 +28,20 @@ Example=user-desktop
 #Inherits=Chicago95,Redmond97,hicolor,Faenza,Oxygen,Breeze,Crystal,Nuvola,Crystal SVG,Nuvola theme
 Inherits=hicolor
 
-DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64,72,96,128,160,192,256
+FollowsColorScheme=true
 
+DesktopDefault=22
+DesktopSizes=16,22,24,32,48,64
+ToolbarDefault=22
+ToolbarSizes=16,22,24,32,48,64
+MainToolbarDefault=22
+MainToolbarSizes=16,22,24
 SmallDefault=16
-SmallSizes=16,22,24,32,48
-
+SmallSizes=16,22,24,32,48,64
+PanelDefault=64
+PanelSizes=16,22,24,32,48,64
+DialogDefault=32
+DialogSizes=16,22,24,32,48,64
 
 #Directory list
 
