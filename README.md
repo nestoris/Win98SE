@@ -60,8 +60,6 @@ git pull
 
 ![](emblems/svn.png) **SVN:**
 
-*(Only icon theme files)*
-
 `cd ~/.icons`, or `cd ~/.local/share/icons`
 
 then
