@@ -8,6 +8,7 @@
 |**folder-documents**|![](SE98/places/256/folder-documents.png)|![](SE98/places/192/folder-documents.png)|![](SE98/places/160/folder-documents.png)|
 |**folder-remote**|![](SE98/places/256/folder-remote.png)|![](SE98/places/192/folder-remote.png)|![](SE98/places/160/folder-remote.png)|
 |**user-images**|![](SE98/places/256/user-images.png)|![](SE98/places/192/user-images.png)|![](SE98/places/160/user-images.png)|
+|**folder-music**|![](SE98/places/256/folder-music.png)|![](SE98/places/192/folder-music.png)|![](SE98/places/160/folder-music.png)|
 |**user-bookmarks**|![](SE98/places/256/user-bookmarks.png)|![](SE98/places/192/user-bookmarks.png)|![](SE98/places/160/user-bookmarks.png)|
 |**link_overlay**|![](SE98/places/256/link_overlay.png)|![](SE98/places/192/link_overlay.png)|![](SE98/places/160/link_overlay.png)|
 |**drive-harddisk**|![](SE98/devices/256/drive-harddisk.png)|![](SE98/devices/192/drive-harddisk.png)|![](SE98/devices/160/drive-harddisk.png)|
@@ -29,6 +30,7 @@
 |**application-x-trash**|![](SE98/mimes/256/application-x-trash.png)|![](SE98/mimes/192/application-x-trash.png)|![](SE98/mimes/160/application-x-trash.png)|
 |**text-xml**|![](SE98/mimes/256/text-xml.png)|![](SE98/mimes/192/text-xml.png)|![](SE98/mimes/160/text-xml.png)|
 |**application-x-tar**|![](SE98/mimes/256/application-x-tar.png)|![](SE98/mimes/192/application-x-tar.png)|![](SE98/mimes/160/application-x-tar.png)|
+|**video-x-generic**|![](SE98/mimes/256/video-x-generic.png)|![](SE98/mimes/192/video-x-generic.png)|![](SE98/mimes/160/video-x-generic.png)|
 |**audio-midi**|![](SE98/mimes/256/audio-midi.png)|![](SE98/mimes/192/audio-midi.png)|![](SE98/mimes/160/audio-midi.png)|
 |**application-x-riff**|![](SE98/mimes/256/application-x-riff.png)|![](SE98/mimes/192/application-x-riff.png)|![](SE98/mimes/160/application-x-riff.png)|
 |**audio-x-mod**|![](SE98/mimes/256/audio-x-mod.png)|![](SE98/mimes/192/audio-x-mod.png)|![](SE98/mimes/160/audio-x-mod.png)|
@@ -38,6 +40,7 @@
 |**text-x-generic**|![](SE98/mimes/256/text-x-generic.png)|![](SE98/mimes/192/text-x-generic.png)|![](SE98/mimes/160/text-x-generic.png)|
 |**text-x-generic-rtl**|![](SE98/mimes/256/text-x-generic-rtl.png)|![](SE98/mimes/192/text-x-generic-rtl.png)|![](SE98/mimes/160/text-x-generic-rtl.png)|
 |**application-x-abiword**|![](SE98/mimes/256/application-x-abiword.png)|![](SE98/mimes/192/application-x-abiword.png)|![](SE98/mimes/160/application-x-abiword.png)|
+|**text-x-ssa**|![](SE98/mimes/256/text-x-ssa.png)|![](SE98/mimes/192/text-x-ssa.png)|![](SE98/mimes/160/text-x-ssa.png)|
 |**x-office-document**|![](SE98/mimes/256/x-office-document.png)|![](SE98/mimes/192/x-office-document.png)|![](SE98/mimes/160/x-office-document.png)|
 |**x-office-spreadsheet**|![](SE98/mimes/256/x-office-spreadsheet.png)|![](SE98/mimes/192/x-office-spreadsheet.png)|![](SE98/mimes/160/x-office-spreadsheet.png)|
 |**web-browser**|![](SE98/apps/256/web-browser.png)|![](SE98/apps/192/web-browser.png)|![](SE98/apps/160/web-browser.png)|
