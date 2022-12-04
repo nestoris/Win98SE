@@ -32,17 +32,17 @@ FollowsColorScheme=true
 
 # KDE Specific Stuff
 DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64,72,96,128,160,192,256
+DesktopSizes=16,22,24,32,48,64
 ToolbarDefault=22
 ToolbarSizes=16,22,24,32,48,64
 MainToolbarDefault=22
 MainToolbarSizes=16,22,24,32,48,64
 SmallDefault=16
-SmallSizes=16,22,24,32,48,64
+SmallSizes=16,22,24,32
 PanelDefault=64
-PanelSizes=16,22,24,32,48,64,72,96,128,160,192,256
+PanelSizes=16,22,24,32,48,64
 DialogDefault=32
-DialogSizes=16,22,24,32,48,64,72,96,128,160,192,256
+DialogSizes=16,22,24,32,48,64
 LinkOverlay=link_overlay
 LockOverlay=lock_overlay
 # ZipOverlay=zip_overlay
