@@ -61,7 +61,7 @@ head="<!DOCTYPE html>\n\
 <style>\n\
 td {\n\
   border: 1px solid black;\n\
-  padding: 6px;\n\
+  padding: 1px;\n\
   text-align:center;\n\
   font-size: x-small;\n\
   vertical-align: bottom;\n\
@@ -86,7 +86,7 @@ th {\n\
   position: sticky;\n\
   top: 0;\n\
   border: 1px solid black;\n\
-  padding: 6px;\n\
+  padding: 1px;\n\
   text-align:center;\n\
 }\n\
 \n\

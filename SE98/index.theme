@@ -30,8 +30,9 @@ Inherits=hicolor #,WhiteSur,Tela-purple,Numix
 
 FollowsColorScheme=true
 
-DesktopDefault=22
-DesktopSizes=16,22,24,32,48,64
+# KDE Specific Stuff
+DesktopDefault=48
+DesktopSizes=16,22,24,32,48,64,72,96,128,160,192,256
 ToolbarDefault=22
 ToolbarSizes=16,22,24,32,48,64
 MainToolbarDefault=22
@@ -39,9 +40,12 @@ MainToolbarSizes=16,22,24,32,48,64
 SmallDefault=16
 SmallSizes=16,22,24,32,48,64
 PanelDefault=64
-PanelSizes=16,22,24,32,48,64
+PanelSizes=16,22,24,32,48,64,72,96,128,160,192,256
 DialogDefault=32
-DialogSizes=16,22,24,32,48,64
+DialogSizes=16,22,24,32,48,64,72,96,128,160,192,256
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+# ZipOverlay=zip_overlay
 
 #Directory list
 
