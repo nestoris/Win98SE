@@ -9,12 +9,14 @@
 |**folder-remote**|![](SE98/places/256/folder-remote.png)|![](SE98/places/192/folder-remote.png)|![](SE98/places/160/folder-remote.png)|
 |**user-images**|![](SE98/places/256/user-images.png)|![](SE98/places/192/user-images.png)|![](SE98/places/160/user-images.png)|
 |**folder-music**|![](SE98/places/256/folder-music.png)|![](SE98/places/192/folder-music.png)|![](SE98/places/160/folder-music.png)|
+|**folder-videos**|![](SE98/places/256/folder-videos.png)|![](SE98/places/192/folder-videos.png)|![](SE98/places/160/folder-videos.png)|
 |**user-bookmarks**|![](SE98/places/256/user-bookmarks.png)|![](SE98/places/192/user-bookmarks.png)|![](SE98/places/160/user-bookmarks.png)|
 |**link_overlay**|![](SE98/places/256/link_overlay.png)|![](SE98/places/192/link_overlay.png)|![](SE98/places/160/link_overlay.png)|
 |**drive-harddisk**|![](SE98/devices/256/drive-harddisk.png)|![](SE98/devices/192/drive-harddisk.png)|![](SE98/devices/160/drive-harddisk.png)|
 |**drive-harddisk-system**|![](SE98/devices/256/drive-harddisk-system.png)|![](SE98/devices/192/drive-harddisk-system.png)|![](SE98/devices/160/drive-harddisk-system.png)|
 |**drive-optical**|![](SE98/devices/256/drive-optical.png)|![](SE98/devices/192/drive-optical.png)|![](SE98/devices/160/drive-optical.png)|
 |**media-optical**|![](SE98/devices/256/media-optical.png)|![](SE98/devices/192/media-optical.png)|![](SE98/devices/160/media-optical.png)|
+|**rip**|![](SE98/apps/256/rip.png)|![](SE98/apps/192/rip.png)|![](SE98/apps/160/rip.png)|
 |**network-server**|![](SE98/places/256/network-server.png)|![](SE98/places/192/network-server.png)|![](SE98/places/160/network-server.png)|
 |**application-x-executable**|![](SE98/mimes/256/application-x-executable.png)|![](SE98/mimes/192/application-x-executable.png)|![](SE98/mimes/160/application-x-executable.png)|
 |**empty**|![](SE98/mimes/256/empty.png)|![](SE98/mimes/192/empty.png)|![](SE98/mimes/160/empty.png)|
