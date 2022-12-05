@@ -72,7 +72,7 @@
 |**filter**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**gnome-app-install-star**|![]()|![]()|![]()|![](SE98/actions/64/gnome-app-install-star.png)|![](SE98/actions/48/gnome-app-install-star.png)|![](SE98/actions/32/gnome-app-install-star.png)|![](SE98/actions/22/gnome-app-install-star.png)|![]()|![](SE98/actions/16/gnome-app-install-star.png)|
 |**gear**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**launch**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**launch**|![]()|![]()|![]()|![](SE98/apps/64/launch.png)|![](SE98/apps/48/launch.png)|![](SE98/apps/32/launch.png)|![](SE98/apps/24/launch.png)|![](SE98/apps/22/launch.png)|![](SE98/apps/16/launch.png)|
 |**knewstuff**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**key_enter**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**mail_delete**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
