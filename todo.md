@@ -266,7 +266,6 @@
 |**application-x-sharedlib,**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application/pgp-keys**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-x-designer**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-designer.png)|![](SE98/mimes/48/application-x-designer.png)|![](SE98/mimes/32/application-x-designer.png)|![](SE98/mimes/24/application-x-designer.png)|![](SE98/mimes/22/application-x-designer.png)|![](SE98/mimes/16/application-x-designer.png)|
-|**application-x-bittorrent**|![](SE98/mimes/128/application-x-bittorrent.png)|![](SE98/mimes/96/application-x-bittorrent.png)|![](SE98/mimes/72/application-x-bittorrent.png)|![](SE98/mimes/64/application-x-bittorrent.png)|![](SE98/mimes/48/application-x-bittorrent.png)|![](SE98/mimes/32/application-x-bittorrent.png)|![](SE98/mimes/24/application-x-bittorrent.png)|![](SE98/mimes/22/application-x-bittorrent.png)|![](SE98/mimes/16/application-x-bittorrent.png)|
 |**application-x-7zip**|![]()|![]()|![]()|![](SE98/mimes/64/application-x-7zip.png)|![](SE98/mimes/48/application-x-7zip.png)|![](SE98/mimes/32/application-x-7zip.png)|![](SE98/mimes/24/application-x-7zip.png)|![](SE98/mimes/22/application-x-7zip.png)|![](SE98/mimes/16/application-x-7zip.png)|
 |**AppImageLauncher**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**folder-new**|![]()|![]()|![]()|![](SE98/actions/64/folder-new.png)|![](SE98/actions/48/folder-new.png)|![](SE98/actions/32/folder-new.png)|![](SE98/actions/22/folder-new.png)|![]()|![](SE98/actions/16/folder-new.png)|
