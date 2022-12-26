@@ -65,14 +65,26 @@ td {\n\
   text-align:center;\n\
   font-size: x-small;\n\
   vertical-align: bottom;\n\
-  background: white;\n\
+  background: repeating-linear-gradient(\n\
+    -45deg,\n\
+    #fff 0 5px,\n\
+    #f9f9f9 5px 10px\n\
+  );\n\
 }\n\
 td.empty {\n\
-  background: #CCDDDD;\n\
+  background: repeating-linear-gradient(\n\
+    -45deg,\n\
+    #cdd 0 5px,\n\
+    #acc 5px 10px);\n\
   border: 1px solid #666666;\n\
 }\n\
 td.ln {\n\
   border: 1px solid #808080;\n\
+  background: repeating-linear-gradient(\n\
+    -45deg,\n\
+    #f3f3f3 0 5px,\n\
+    #e6e6e6 5px 10px\n\
+  );\n\
 }\n\
 table {\n\
   position: relative;\n\
