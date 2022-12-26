@@ -186,7 +186,7 @@
 |**text-markdown**|![]()|![]()|![]()|![](SE98/mimes/64/text-markdown.png)|![](SE98/mimes/48/text-markdown.png)|![](SE98/mimes/32/text-markdown.png)|![](SE98/mimes/24/text-markdown.png)|![](SE98/mimes/22/text-markdown.png)|![](SE98/mimes/16/text-markdown.png)|
 |**application-x-gettext-translation**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-gettext-translation-template**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**text-x-nfo**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**text-x-nfo**|![](SE98/mimes/128/text-x-nfo.png)|![](SE98/mimes/96/text-x-nfo.png)|![](SE98/mimes/72/text-x-nfo.png)|![](SE98/mimes/64/text-x-nfo.png)|![](SE98/mimes/48/text-x-nfo.png)|![](SE98/mimes/32/text-x-nfo.png)|![](SE98/mimes/24/text-x-nfo.png)|![](SE98/mimes/22/text-x-nfo.png)|![](SE98/mimes/16/text-x-nfo.png)|
 |**text-csv**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-ms-regedit**|![]()|![]()|![]()|![](SE98/mimes/64/text-x-ms-regedit.png)|![](SE98/mimes/48/text-x-ms-regedit.png)|![](SE98/mimes/32/text-x-ms-regedit.png)|![](SE98/mimes/24/text-x-ms-regedit.png)|![](SE98/mimes/22/text-x-ms-regedit.png)|![](SE98/mimes/16/text-x-ms-regedit.png)|
 |**virtualbox-vdi**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
