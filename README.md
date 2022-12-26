@@ -13,7 +13,7 @@ If you want to support but not to send money, download my icon theme from [Pling
 
 ![](SE98/status/16/image-loading.png) The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
 
-## ![](SE98/mimes/64/application-x-q4os-execscript.png) Installation
+## ![](SE98/apps/64/application-install.png) Installation
 **Easy ways to install this theme:**
 
 ![](emblems/archlinux.svg) Archlinux and the other distros that based on it:
@@ -126,12 +126,12 @@ Here is [>>>>The bigger list of icons preview<<<<](someicons.md) of 128, 96, 72,
 
 ||Midi|Mod|MSI|TTF|Address book|3D-model|AbiWord document|Install Soft
 |-|-|-|-|-|-|-|-|-|
-|64x64|![](SE98/mimes/64/audio-midi.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/64/application-x-msi.png)|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/64/x-office-address-book.png)|![](SE98/mimes/64/model-x-generic.png)|![](SE98/mimes/64/application-x-abiword.png)|![](SE98/apps/64/software-manager.png)|
-|48x48|![](SE98/mimes/48/audio-midi.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/48/application-x-msi.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/48/x-office-address-book.png)|![](SE98/mimes/48/model-x-generic.png)|![](SE98/mimes/48/application-x-abiword.png)|![](SE98/apps/48/software-manager.png)|
-|32x32|![](SE98/mimes/32/audio-midi.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/32/application-x-msi.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/32/x-office-address-book.png)|![](SE98/mimes/32/model-x-generic.png)|![](SE98/mimes/32/application-x-abiword.png)|![](SE98/apps/32/software-manager.png)|
-|24x24|![](SE98/mimes/24/audio-midi.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/24/application-x-msi.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/24/x-office-address-book.png)|![](SE98/mimes/24/model-x-generic.png)|![](SE98/mimes/24/application-x-abiword.png)|![](SE98/apps/24/software-manager.png)|
-|22x22|![](SE98/mimes/22/audio-midi.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/22/application-x-msi.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/22/x-office-address-book.png)|![](SE98/mimes/22/model-x-generic.png)|![](SE98/mimes/22/application-x-abiword.png)|![](SE98/apps/22/software-manager.png)|
-|16x16|![](SE98/mimes/16/audio-midi.png)|![](SE98/mimes/16/audio-x-mod.png)|![](SE98/mimes/16/application-x-msi.png)|![](SE98/mimes/16/font-x-generic.png)|![](SE98/mimes/16/x-office-address-book.png)|![](SE98/mimes/16/model-x-generic.png)|![](SE98/mimes/16/application-x-abiword.png)|![](SE98/apps/16/software-manager.png)|
+|64x64|![](SE98/mimes/64/audio-midi.png)|![](SE98/mimes/64/audio-x-mod.png)|![](SE98/mimes/64/application-x-msi.png)|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/64/x-office-address-book.png)|![](SE98/mimes/64/model-x-generic.png)|![](SE98/mimes/64/application-x-abiword.png)|![](SE98/apps/64/system-software-installer.png)|
+|48x48|![](SE98/mimes/48/audio-midi.png)|![](SE98/mimes/48/audio-x-mod.png)|![](SE98/mimes/48/application-x-msi.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/48/x-office-address-book.png)|![](SE98/mimes/48/model-x-generic.png)|![](SE98/mimes/48/application-x-abiword.png)|![](SE98/apps/48/system-software-installer.png)|
+|32x32|![](SE98/mimes/32/audio-midi.png)|![](SE98/mimes/32/audio-x-mod.png)|![](SE98/mimes/32/application-x-msi.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/32/x-office-address-book.png)|![](SE98/mimes/32/model-x-generic.png)|![](SE98/mimes/32/application-x-abiword.png)|![](SE98/apps/32/system-software-installer.png)|
+|24x24|![](SE98/mimes/24/audio-midi.png)|![](SE98/mimes/24/audio-x-mod.png)|![](SE98/mimes/24/application-x-msi.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/24/x-office-address-book.png)|![](SE98/mimes/24/model-x-generic.png)|![](SE98/mimes/24/application-x-abiword.png)|![](SE98/apps/24/system-software-installer.png)|
+|22x22|![](SE98/mimes/22/audio-midi.png)|![](SE98/mimes/22/audio-x-mod.png)|![](SE98/mimes/22/application-x-msi.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/22/x-office-address-book.png)|![](SE98/mimes/22/model-x-generic.png)|![](SE98/mimes/22/application-x-abiword.png)|![](SE98/apps/22/system-software-installer.png)|
+|16x16|![](SE98/mimes/16/audio-midi.png)|![](SE98/mimes/16/audio-x-mod.png)|![](SE98/mimes/16/application-x-msi.png)|![](SE98/mimes/16/font-x-generic.png)|![](SE98/mimes/16/x-office-address-book.png)|![](SE98/mimes/16/model-x-generic.png)|![](SE98/mimes/16/application-x-abiword.png)|![](SE98/apps/16/system-software-installer.png)|
 
 ||DOC|AVI|Calendar|SVG|Text-RTL|JPEG|PNG|NES-ROM
 |-|-|-|-|-|-|-|-|-|
