@@ -85,7 +85,7 @@
 |**mail_replylist**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**message_reply**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**messagebox_critical**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_critical.png)|![](SE98/status/32/messagebox_critical.png)|![](SE98/status/24/messagebox_critical.png)|![](SE98/status/22/messagebox_critical.png)|![](SE98/status/16/messagebox_critical.png)|
-|**messagebox_info**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_info.png)|![](SE98/status/32/messagebox_info.png)|![](SE98/status/22/messagebox_info.png)|![]()|![](SE98/status/16/messagebox_info.png)|
+|**messagebox_info**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/status/16/messagebox_info.png)|
 |**messagebox_warning**|![]()|![]()|![]()|![]()|![](SE98/status/48/messagebox_warning.png)|![](SE98/status/32/messagebox_warning.png)|![](SE98/status/24/messagebox_warning.png)|![](SE98/status/22/messagebox_warning.png)|![](SE98/status/16/messagebox_warning.png)|
 |**mouse**|![]()|![]()|![]()|![](SE98/devices/64/mouse.png)|![](SE98/devices/48/mouse.png)|![](SE98/devices/32/mouse.png)|![](SE98/devices/24/mouse.png)|![](SE98/devices/22/mouse.png)|![](SE98/devices/16/mouse.png)|
 |**no**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
