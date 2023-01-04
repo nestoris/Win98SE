@@ -27,17 +27,18 @@ function iconames(dirar,iconarr,lnarr,	i,pwdi,lnfil){ #Get all names of .png ico
 		fs=FS
 		FS="/"
 		while((getline<pwdi)>0){
+			if($3~/(f|l)/&&$2~/\.(pn|sv)g$/)(all_iconar[$2])
 			if($3~"f"&&$2~/\.png$/){gsub(/\.[^.]*$/,"",$2);iconarr[$2];dirnam=i"/"$2;existar[dirnam]=dirnam}
 			if($3~"l"&&$2~/\.png$/){
 				#split("",lnarr)
 				#split("",lnarr[$2])
 				lnfil=pwdi"/"$2
 				stat(lnfil, statdata)
-				gsub(/\.[^.]*$/,"",$2)
+				gsub(/\.[^.]*$/,"",$2) # "folder.png" >> "folder"
 				#lnmem=i"/"$2
-				lnarr[$2][i]=statdata["linkval"]
-				dirlnam=i"/"$2
-				existlnar[dirlnam]=dirlnam
+				lnarr[$2][i]=statdata["linkval"] # lnarr["inode-directory"][48]="folder"
+				dirlnam=i"/"$2 # dirlnam="48/inode-directory"
+				existlnar[dirlnam]=dirlnam # existlnar["48/inode-directory"]="48/inode-directory"
 			}
 		}
 		FS=fs
@@ -50,7 +51,7 @@ gsub(/^.*\//,"",fol_nam)
 fs=FS
 FS="/"
 while((getline<ENVIRON["PWD"])>0){
-if($3=="d"&&$2!~/^\.+$/&&$2~/[0-9]+/&&$2*1<=256){dirar[$2]}
+if($3=="d"&&$2!~/^\.+$/&&$2*1<=256){if($2~/[0-9]+/){dirar[$2]};dirar_a[$2]} #$2~/[0-9]+/ -- dirar_a -- массив со ВСЕМИ папками (в том числе совсем левыми).
 }
 FS=fs
 
@@ -121,10 +122,56 @@ h1, h2 {\n\
 <center><p style=\"color:white\">Below is the list of all icons using in the <b>"capital(fol_nam)"</b> section. Each icon is identified by its name. Symlinks are belower, they have links to the originals on this page.</p></center>\n\
 <br><br>"
 foot="</body></html>"
+
+head_md="# "capital(fol_nam)
+}
+
+function readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a, # файл-список, массив по порядку, массив уникальных размеров
+						imd,k){
+
+while((getline<sizes_md)>0){gsub("#.*$","");if($0!~/^$/){imd++;sizes_md_a[imd]=$0;sizes_md_u_a[$0]=$0}}
+if(!imd){
+asorti(dirar_a,sizes_md_a)
+for(k in dirar_a){sizes_md_u_a[k]=k}
+}
 }
 
 function table(){ #Build and print HTML table to stdout.
 fileout?"":fileout="/dev/stdout"
+
+iconames(dirar,iconarr,lnarr)
+
+if(mdout){
+readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a)
+md_th="| |"
+md_line="|-|" # TODO перепроверить кол-во палок! TODO
+
+for(k in sizes_md_a){ # пробегаем по размерам, указанным в sizes_md в том порядке, как там перечислено
+if(sizes_md_a[k] in dirar_a){ # если указанный размер (имя подпапки) обнаружен в файловой системе
+md_th=md_th "**" (sizes_md_a[k]~/^[0-9]+$/?sizes_md_a[k]"x":"") sizes_md_a[k] "**|"
+md_line=md_line "-|"
+}else{
+delete sizes_md_a[k] # а если папки нет, то и размер нам ни к чему
+}
+}
+print head_md "\n" md_th "\n" md_line > mdout
+
+for(ic in iconarr){
+iconline_md="|**" ic "**|"
+for(k in sizes_md_a){
+#iconline_md= iconline_md  (ic && existlnar[sizes_md_a[k]"/"ic] ? "<details><summary>":"") "!["sizes_md_a[k]"]("sizes_md_a[k]"/"ic"." (tolower(sizes_md_a[k])~"scal"?"sv":"pn")"g)"  (ic && existlnar[sizes_md_a[k]"/"ic] ? "</summary> *" lnarr[ic][sizes_md_a[k]] "*</details>" : "") "|"
+iconline_md= iconline_md "!["sizes_md_a[k]"]("sizes_md_a[k]"/"ic"." (tolower(sizes_md_a[k])~"scal"?"sv":"pn")"g)"  (ic && existlnar[sizes_md_a[k]"/"ic] ? "<details><summary>&nbsp;</summary> *" lnarr[ic][sizes_md_a[k]] "*</details>" : "") "|"
+}
+icontable_md=icontable_md (icontable_md?"\n":"") iconline_md
+#print iconline_md
+}
+print icontable_md > mdout
+
+
+}else{
+mdout="/dev/null"
+}
+
 print head > fileout
 
 print "<table>\n" > fileout
@@ -135,7 +182,6 @@ for(i in dirar){
 }
 print "\t</tr>\n" > fileout
 
-iconames(dirar,iconarr,lnarr)
 for(ic in iconarr){
 
 print "\t<tr>" > fileout
@@ -179,7 +225,11 @@ print foot > fileout
 }
 
 BEGIN{
+shortcut_icon="../emblems/10/emblem-symbolic-link.png"
 fileout="icons.html"
+mdout="README.md"
+#mdout="/dev/stdout"
+sizes_md="sizes_md"
 pwd=ENVIRON["PWD"]
 prepare()
 table()
