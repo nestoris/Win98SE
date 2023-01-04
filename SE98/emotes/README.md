@@ -1,5 +1,5 @@
 # Emotes
-Only the main icons are shown here (without symlinked duplicates, in sizes from 16x16 to 32x32).<br>The full icon list is there: [icons.md](icons.md)
+Only the main icons are shown here (without symlinked duplicates, in sizes from 16x16 to 32x32).<br>The full icon list with sizes 16x16 to 32x32 is there: [icons.md](icons.md)
 
 | |**32x32**|**16x16**|
 |-|-|-|

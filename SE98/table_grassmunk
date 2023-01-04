@@ -144,6 +144,7 @@ iconames(dirar,iconarr,lnarr)
 
 if(mdout){
 readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a)
+split(min_s" "max_s,mdout_minmax)
 head_md="# "capital(fol_nam) "\n"
 md_th="| |"
 md_line="|-|" # TODO перепроверить кол-во палок! TODO
@@ -175,7 +176,7 @@ mdout="/dev/null"
 
 if(mdbrief){
 readsizes_md(sizes_brief,sizes_brief_a,sizes_brief_u_a)
-brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without symlinked duplicates, in sizes from "min_s"x"min_s" to "max_s"x"max_s").<br>The full icon list is there: ["mdout"]("mdout")\n"
+brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without symlinked duplicates, in sizes from "min_s"x"min_s" to "max_s"x"max_s").<br>The full icon list "(isarray(mdout_minmax)?"with sizes "mdout_minmax[1]"x"mdout_minmax[1]" to "mdout_minmax[2]"x"mdout_minmax[2]:"")" is there: ["mdout"]("mdout")\n"
 md_th="| |"
 md_line="|-|"
 for(k in sizes_brief_a){ # пробегаем по размерам, указанным в sizes_brief в том порядке, как там перечислено
