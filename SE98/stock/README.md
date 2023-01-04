@@ -1,4 +1,5 @@
 # Stock
+
 | |**scalable**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
 |**stock_people.png**|![](scalable/stock_people.png.svg)|![](48/stock_people.png.png)|![](32/stock_people.png.png)|![](24/stock_people.png.png)|![](22/stock_people.png.png)|![](16/stock_people.png.png)|

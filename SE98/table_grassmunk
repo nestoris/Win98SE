@@ -123,7 +123,7 @@ h1, h2 {\n\
 <br><br>"
 foot="</body></html>"
 
-head_md="# "capital(fol_nam)
+head_md="# "capital(fol_nam) "\n"
 }
 
 function readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a, # файл-список, массив по порядку, массив уникальных размеров

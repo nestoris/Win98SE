@@ -1,4 +1,5 @@
 # Devices
+
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
 |**xfce-printer-symbolic.png**|![](96/xfce-printer-symbolic.png.png)|![](72/xfce-printer-symbolic.png.png)|![](64/xfce-printer-symbolic.png.png)|![](48/xfce-printer-symbolic.png.png)|![](32/xfce-printer-symbolic.png.png)|![](24/xfce-printer-symbolic.png.png)|![](22/xfce-printer-symbolic.png.png)|![](16/xfce-printer-symbolic.png.png)|

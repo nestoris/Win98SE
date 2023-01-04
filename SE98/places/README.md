@@ -1,4 +1,5 @@
 # Places
+
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
 |**folder-videos-open.png**|![](96/folder-videos-open.png.png)|![](72/folder-videos-open.png.png)|![](64/folder-videos-open.png.png)|![](48/folder-videos-open.png.png)|![](32/folder-videos-open.png.png)|![](24/folder-videos-open.png.png)|![](22/folder-videos-open.png.png)|![](16/folder-videos-open.png.png)|
