@@ -123,7 +123,6 @@ h1, h2 {\n\
 <br><br>"
 foot="</body></html>"
 
-head_md="# "capital(fol_nam) "\n"
 }
 
 function readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a, # файл-список, массив по порядку, массив уникальных размеров
@@ -141,8 +140,12 @@ fileout?"":fileout="/dev/stdout"
 
 iconames(dirar,iconarr,lnarr)
 
-if(mdout){
+if(mdbrief||mdout){
 readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a)
+}
+
+if(mdout){
+head_md="# "capital(fol_nam) "\n"
 md_th="| |"
 md_line="|-|" # TODO перепроверить кол-во палок! TODO
 
@@ -167,10 +170,35 @@ icontable_md=icontable_md (icontable_md?"\n":"") iconline_md
 #print iconline_md
 }
 print icontable_md > mdout
-
-
 }else{
 mdout="/dev/null"
+}
+
+if(mdbrief){
+brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without duplicates).<br>The full icon list is there: ["mdout"]("mdout")\n"
+md_th="| |"
+md_line="|-|"
+for(k in sizes_md_a){ # пробегаем по размерам, указанным в sizes_md в том порядке, как там перечислено
+if(sizes_md_a[k] in dirar_a){ # если указанный размер (имя подпапки) обнаружен в файловой системе
+md_th=md_th "**" (sizes_md_a[k]~/^[0-9]+$/?sizes_md_a[k]"x":"") sizes_md_a[k] "**|"
+md_line=md_line "-|"
+}else{
+delete sizes_md_a[k] # а если папки нет, то и размер нам ни к чему
+}
+}
+
+for(ic in iconarr){
+iconline_md="|**" ic "**|" # начинаем строку
+
+for(k in sizes_md_a){ # развиваем строку
+iconline_md= iconline_md "![""](" sizes_md_a[k]"/"ic "." (tolower(sizes_md_a[k])~"scal"?"sv":"pn") "g)|"
+}
+brieftable_md=brieftable_md (brieftable_md?"\n":"") iconline_md
+}
+print brief_head_md "\n" md_th "\n" md_line "\n" brieftable_md > mdbrief
+
+}else{
+mdbrief="/dev/null"
 }
 
 print head > fileout
@@ -228,7 +256,8 @@ print foot > fileout
 BEGIN{
 shortcut_icon="../emblems/10/emblem-symbolic-link.png"
 fileout="icons.html"
-mdout="README.md"
+mdout="icons.md"
+mdbrief="README.md"
 #mdout="/dev/stdout"
 sizes_md="sizes_md"
 pwd=ENVIRON["PWD"]
