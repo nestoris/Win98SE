@@ -1,4 +1,5 @@
 # Apps
+
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
 |**pithos-tray-icon.png**|![](96/pithos-tray-icon.png.png)|![](72/pithos-tray-icon.png.png)|![](64/pithos-tray-icon.png.png)|![](48/pithos-tray-icon.png.png)|![](32/pithos-tray-icon.png.png)|![](24/pithos-tray-icon.png.png)|![](22/pithos-tray-icon.png.png)|![](16/pithos-tray-icon.png.png)|
