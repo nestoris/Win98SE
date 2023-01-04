@@ -156,7 +156,7 @@ delete sizes_md_a[k] # а если папки нет, то и размер на�
 }
 print head_md "\n" md_th "\n" md_line > mdout
 
-for(ic in iconarr){
+for(ic in all_iconar){
 iconline_md="|**" ic "**|"
 for(k in sizes_md_a){
 #iconline_md= iconline_md  (ic && existlnar[sizes_md_a[k]"/"ic] ? "<details><summary>":"") "!["sizes_md_a[k]"]("sizes_md_a[k]"/"ic"." (tolower(sizes_md_a[k])~"scal"?"sv":"pn")"g)"  (ic && existlnar[sizes_md_a[k]"/"ic] ? "</summary> *" lnarr[ic][sizes_md_a[k]] "*</details>" : "") "|"
