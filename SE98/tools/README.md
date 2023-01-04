@@ -1,5 +1,5 @@
 # Tools
-Only the main icons are shown here (without symlinked duplicates, in sizes from 1000000x1000000 to x).<br>The full icon list is there: [icons.md](icons.md)
+Only the main icons are shown here (without symlinked duplicates, in sizes from 1000000x1000000 to 0x0).<br>The full icon list is there: [icons.md](icons.md)
 
 | |**22x22**|
 |-|-|

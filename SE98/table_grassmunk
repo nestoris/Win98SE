@@ -128,6 +128,7 @@ foot="</body></html>"
 function readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a, # файл-список, массив по порядку, массив уникальных размеров
 						imd,k){
 min_s=1000000
+max_s=0
 while((getline<sizes_md)>0){gsub("#.*$","");if($0!~/^$/){imd++;sizes_md_a[imd]=$0;sizes_md_u_a[$0]=$0};if($0~/^[0-9]/){max_s=$0*1>max_s?$0:max_s;min_s=$0*1<min_s?$0:min_s}}
 if(!imd){
 asorti(dirar_a,sizes_md_a)
@@ -141,11 +142,8 @@ fileout?"":fileout="/dev/stdout"
 
 iconames(dirar,iconarr,lnarr)
 
-if(mdbrief||mdout){
-readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a)
-}
-
 if(mdout){
+readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a)
 head_md="# "capital(fol_nam) "\n"
 md_th="| |"
 md_line="|-|" # TODO перепроверить кол-во палок! TODO
