@@ -161,7 +161,7 @@ iconoext=gensub(/\.[^.]*$/,"",1,ic)
 iconline_md="|**" iconoext "**|"
 for(k in sizes_md_a){
 #iconline_md= iconline_md  (ic && existlnar[sizes_md_a[k]"/"ic] ? "<details><summary>":"") "!["sizes_md_a[k]"]("sizes_md_a[k]"/"ic"." (tolower(sizes_md_a[k])~"scal"?"sv":"pn")"g)"  (ic && existlnar[sizes_md_a[k]"/"ic] ? "</summary> *" lnarr[ic][sizes_md_a[k]] "*</details>" : "") "|"
-iconline_md= iconline_md "![""](" (ic && existlnar[sizes_md_a[k]"/" iconoext] ?  sizes_md_a[k]"/"lnarr[iconoext][sizes_md_a[k]] ")<details><summary>*link*</summary>*" lnarr[iconoext][sizes_md_a[k]] "*</details>" : sizes_md_a[k]"/"ic ")") "|	"
+iconline_md= iconline_md "![""](" (ic && existlnar[sizes_md_a[k]"/" iconoext] ?  sizes_md_a[k]"/"lnarr[iconoext][sizes_md_a[k]] ")<details><summary>*link*</summary>*" lnarr[iconoext][sizes_md_a[k]] "*</details>" : sizes_md_a[k]"/"ic ")") "|"
 }
 icontable_md=icontable_md (icontable_md?"\n":"") iconline_md
 #print iconline_md
