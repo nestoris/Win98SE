@@ -2,71 +2,71 @@
 
 | |**32x32**|**16x16**|
 |-|-|-|
-|**stock_smiley-3.png**|![](32/stock_smiley-3.png.png)|![](16/stock_smiley-3.png.png)|
-|**stock_smiley-4.png**|![](32/stock_smiley-4.png.png)|![](16/stock_smiley-4.png.png)|
-|**face-raspberry.png**|![](32/face-raspberry.png.png)|![](16/face-raspberry.png.png)|
-|**face-plain.png**|![](32/face-plain.png.png)|![](16/face-plain.png.png)|
-|**face-uncertain.png**|![](32/face-uncertain.png.png)|![](16/face-uncertain.png.png)|
-|**face-wink.png**|![](32/face-wink.png.png)|![](16/face-wink.png.png)|
-|**face-worried-symbolic.png**|![](32/face-worried-symbolic.png.png)|![](16/face-worried-symbolic.png.png)|
-|**face-worried.png**|![](32/face-worried.png.png)|![](16/face-worried.png.png)|
-|**face-smile-big-symbolic.png**|![](32/face-smile-big-symbolic.png.png)|![](16/face-smile-big-symbolic.png.png)|
-|**face-smile-crying.png**|![](32/face-smile-crying.png.png)|![](16/face-smile-crying.png.png)|
-|**stock_smiley-5.png**|![](32/stock_smiley-5.png.png)|![](16/stock_smiley-5.png.png)|
-|**face-smile-symbolic.png**|![](32/face-smile-symbolic.png.png)|![](16/face-smile-symbolic.png.png)|
-|**face-devilish-symbolic.png**|![](32/face-devilish-symbolic.png.png)|![](16/face-devilish-symbolic.png.png)|
-|**stock_smiley-13.png**|![](32/stock_smiley-13.png.png)|![](16/stock_smiley-13.png.png)|
-|**face-heart-broken-symbolic.png**|![](32/face-heart-broken-symbolic.png.png)|![](16/face-heart-broken-symbolic.png.png)|
-|**face-sad.png**|![](32/face-sad.png.png)|![](16/face-sad.png.png)|
-|**face-smile-big.png**|![](32/face-smile-big.png.png)|![](16/face-smile-big.png.png)|
-|**face-embarrassed.png**|![](32/face-embarrassed.png.png)|![](16/face-embarrassed.png.png)|
-|**face-smirk-symbolic.png**|![](32/face-smirk-symbolic.png.png)|![](16/face-smirk-symbolic.png.png)|
-|**face-tired.png**|![](32/face-tired.png.png)|![](16/face-tired.png.png)|
-|**face-wink-symbolic.png**|![](32/face-wink-symbolic.png.png)|![](16/face-wink-symbolic.png.png)|
-|**stock_smiley-6.png**|![](32/stock_smiley-6.png.png)|![](16/stock_smiley-6.png.png)|
-|**face-smirk.png**|![](32/face-smirk.png.png)|![](16/face-smirk.png.png)|
-|**face-laugh-symbolic.png**|![](32/face-laugh-symbolic.png.png)|![](16/face-laugh-symbolic.png.png)|
-|**face-angry-symbolic.png**|![](32/face-angry-symbolic.png.png)|![](16/face-angry-symbolic.png.png)|
-|**face-raspberry-squint-symbolic.png**|![](32/face-raspberry-squint-symbolic.png.png)|![](16/face-raspberry-squint-symbolic.png.png)|
-|**face-kiss-symbolic.png**|![](32/face-kiss-symbolic.png.png)|![](16/face-kiss-symbolic.png.png)|
-|**face-heart-symbolic.png**|![](32/face-heart-symbolic.png.png)|![](16/face-heart-symbolic.png.png)|
-|**face-crying-symbolic.png**|![](32/face-crying-symbolic.png.png)|![](16/face-crying-symbolic.png.png)|
-|**face-surprise.png**|![](32/face-surprise.png.png)|![](16/face-surprise.png.png)|
-|**stock_smiley-15.png**|![](32/stock_smiley-15.png.png)|![](16/stock_smiley-15.png.png)|
-|**face-sick.png**|![](32/face-sick.png.png)|![](16/face-sick.png.png)|
-|**face-raspberry-symbolic.png**|![](32/face-raspberry-symbolic.png.png)|![](16/face-raspberry-symbolic.png.png)|
-|**stock_smiley-7.png**|![](32/stock_smiley-7.png.png)|![](16/stock_smiley-7.png.png)|
-|**stock_smiley-8.png**|![](32/stock_smiley-8.png.png)|![](16/stock_smiley-8.png.png)|
-|**face-plain-symbolic.png**|![](32/face-plain-symbolic.png.png)|![](16/face-plain-symbolic.png.png)|
-|**face-embarrassed-symbolic.png**|![](32/face-embarrassed-symbolic.png.png)|![](16/face-embarrassed-symbolic.png.png)|
-|**face-cool.png**|![](32/face-cool.png.png)|![](16/face-cool.png.png)|
-|**face-angry.png**|![](32/face-angry.png.png)|![](16/face-angry.png.png)|
-|**face-crying.png**|![](32/face-crying.png.png)|![](16/face-crying.png.png)|
-|**face-heart-broken.png**|![](32/face-heart-broken.png.png)|![](16/face-heart-broken.png.png)|
-|**face-cool-symbolic.png**|![](32/face-cool-symbolic.png.png)|![](16/face-cool-symbolic.png.png)|
-|**face-tired-symbolic.png**|![](32/face-tired-symbolic.png.png)|![](16/face-tired-symbolic.png.png)|
-|**face-devilish.png**|![](32/face-devilish.png.png)|![](16/face-devilish.png.png)|
-|**stock_smiley-1.png**|![](32/stock_smiley-1.png.png)|![](16/stock_smiley-1.png.png)|
-|**face-angel.png**|![](32/face-angel.png.png)|![](16/face-angel.png.png)|
-|**face-uncertain-symbolic.png**|![](32/face-uncertain-symbolic.png.png)|![](16/face-uncertain-symbolic.png.png)|
-|**face-smile-big-squint-symbolic.png**|![](32/face-smile-big-squint-symbolic.png.png)|![](16/face-smile-big-squint-symbolic.png.png)|
-|**face-raspberry-wink.png**|![](32/face-raspberry-wink.png.png)|![](16/face-raspberry-wink.png.png)|
-|**face-sad-symbolic.png**|![](32/face-sad-symbolic.png.png)|![](16/face-sad-symbolic.png.png)|
-|**stock_smiley-10.png**|![](32/stock_smiley-10.png.png)|![](16/stock_smiley-10.png.png)|
-|**face-raspberry-squint.png**|![](32/face-raspberry-squint.png.png)|![](16/face-raspberry-squint.png.png)|
-|**face-surprise-symbolic.png**|![](32/face-surprise-symbolic.png.png)|![](16/face-surprise-symbolic.png.png)|
-|**stock_smiley-18.png**|![](32/stock_smiley-18.png.png)|![](16/stock_smiley-18.png.png)|
-|**face-kiss.png**|![](32/face-kiss.png.png)|![](16/face-kiss.png.png)|
-|**face-angel-symbolic.png**|![](32/face-angel-symbolic.png.png)|![](16/face-angel-symbolic.png.png)|
-|**stock_smiley-2.png**|![](32/stock_smiley-2.png.png)|![](16/stock_smiley-2.png.png)|
-|**face-heart.png**|![](32/face-heart.png.png)|![](16/face-heart.png.png)|
-|**face-laugh.png**|![](32/face-laugh.png.png)|![](16/face-laugh.png.png)|
-|**face-smile.png**|![](32/face-smile.png.png)|![](16/face-smile.png.png)|
-|**face-monkey.png**|![](32/face-monkey.png.png)|![](16/face-monkey.png.png)|
-|**stock_smiley-22.png**|![](32/stock_smiley-22.png.png)|![](16/stock_smiley-22.png.png)|
-|**face-raspberry-wink-symbolic.png**|![](32/face-raspberry-wink-symbolic.png.png)|![](16/face-raspberry-wink-symbolic.png.png)|
-|**face-monkey-symbolic.png**|![](32/face-monkey-symbolic.png.png)|![](16/face-monkey-symbolic.png.png)|
-|**face-smile-big-squint.png**|![](32/face-smile-big-squint.png.png)|![](16/face-smile-big-squint.png.png)|
-|**face-sick-symbolic.png**|![](32/face-sick-symbolic.png.png)|![](16/face-sick-symbolic.png.png)|
-|**stock_smiley-11.png**|![](32/stock_smiley-11.png.png)|![](16/stock_smiley-11.png.png)|
-|**face-smile-crying-symbolic.png**|![](32/face-smile-crying-symbolic.png.png)|![](16/face-smile-crying-symbolic.png.png)|
+|**stock_smiley-3.png**|![](32/stock_smiley-3.png)|	![](16/stock_smiley-3.png)|	
+|**stock_smiley-4.png**|![](32/stock_smiley-4.png)|	![](16/stock_smiley-4.png)|	
+|**face-raspberry.png**|![](32/face-raspberry.png)|	![](16/face-raspberry.png)|	
+|**face-plain.png**|![](32/face-plain.png)|	![](16/face-plain.png)|	
+|**face-uncertain.png**|![](32/face-uncertain.png)|	![](16/face-uncertain.png)|	
+|**face-wink.png**|![](32/face-wink.png)|	![](16/face-wink.png)|	
+|**face-worried-symbolic.png**|![](32/face-worried.png)<details><summary>*link*</summary>*face-worried.png*</details>|	![](16/face-worried.png)<details><summary>*link*</summary>*face-worried.png*</details>|	
+|**face-worried.png**|![](32/face-worried.png)|	![](16/face-worried.png)|	
+|**face-smile-big-symbolic.png**|![](32/face-smile-big.png)<details><summary>*link*</summary>*face-smile-big.png*</details>|	![](16/face-smile-big.png)<details><summary>*link*</summary>*face-smile-big.png*</details>|	
+|**face-smile-crying.png**|![](32/face-smile-crying.png)|	![](16/face-laugh.png)<details><summary>*link*</summary>*face-laugh.png*</details>|	
+|**stock_smiley-5.png**|![](32/stock_smiley-5.png)|	![](16/stock_smiley-5.png)|	
+|**face-smile-symbolic.png**|![](32/face-smile.png)<details><summary>*link*</summary>*face-smile.png*</details>|	![](16/face-smile.png)<details><summary>*link*</summary>*face-smile.png*</details>|	
+|**face-devilish-symbolic.png**|![](32/face-devilish.png)<details><summary>*link*</summary>*face-devilish.png*</details>|	![](16/face-devilish.png)<details><summary>*link*</summary>*face-devilish.png*</details>|	
+|**stock_smiley-13.png**|![](32/stock_smiley-13.png)|	![](16/stock_smiley-13.png)|	
+|**face-heart-broken-symbolic.png**|![](32/face-heart-broken.png)<details><summary>*link*</summary>*face-heart-broken.png*</details>|	![](16/face-heart-broken.png)<details><summary>*link*</summary>*face-heart-broken.png*</details>|	
+|**face-sad.png**|![](32/face-sad.png)|	![](16/face-sad.png)|	
+|**face-smile-big.png**|![](32/face-smile-big.png)|	![](16/face-smile-big.png)|	
+|**face-embarrassed.png**|![](32/face-embarrassed.png)|	![](16/face-embarrassed.png)|	
+|**face-smirk-symbolic.png**|![](32/face-smirk.png)<details><summary>*link*</summary>*face-smirk.png*</details>|	![](16/face-smirk.png)<details><summary>*link*</summary>*face-smirk.png*</details>|	
+|**face-tired.png**|![](32/face-tired.png)|	![](16/face-tired.png)|	
+|**face-wink-symbolic.png**|![](32/face-wink.png)<details><summary>*link*</summary>*face-wink.png*</details>|	![](16/face-wink.png)<details><summary>*link*</summary>*face-wink.png*</details>|	
+|**stock_smiley-6.png**|![](32/stock_smiley-6.png)|	![](16/stock_smiley-6.png)|	
+|**face-smirk.png**|![](32/face-smirk.png)|	![](16/face-smirk.png)|	
+|**face-laugh-symbolic.png**|![](32/face-laugh.png)<details><summary>*link*</summary>*face-laugh.png*</details>|	![](16/face-laugh.png)<details><summary>*link*</summary>*face-laugh.png*</details>|	
+|**face-angry-symbolic.png**|![](32/face-angry.png)<details><summary>*link*</summary>*face-angry.png*</details>|	![](16/face-angry.png)<details><summary>*link*</summary>*face-angry.png*</details>|	
+|**face-raspberry-squint-symbolic.png**|![](32/face-raspberry-squint-symbolic.png)|	![](16/face-raspberry-squint.png)<details><summary>*link*</summary>*face-raspberry-squint.png*</details>|	
+|**face-kiss-symbolic.png**|![](32/face-kiss.png)<details><summary>*link*</summary>*face-kiss.png*</details>|	![](16/face-kiss.png)<details><summary>*link*</summary>*face-kiss.png*</details>|	
+|**face-heart-symbolic.png**|![](32/face-heart.png)<details><summary>*link*</summary>*face-heart.png*</details>|	![](16/face-heart.png)<details><summary>*link*</summary>*face-heart.png*</details>|	
+|**face-crying-symbolic.png**|![](32/face-crying.png)<details><summary>*link*</summary>*face-crying.png*</details>|	![](16/face-crying.png)<details><summary>*link*</summary>*face-crying.png*</details>|	
+|**face-surprise.png**|![](32/face-surprise.png)|	![](16/face-surprise.png)|	
+|**stock_smiley-15.png**|![](32/stock_smiley-15.png)|	![](16/stock_smiley-15.png)|	
+|**face-sick.png**|![](32/face-sick.png)|	![](16/face-sick.png)|	
+|**face-raspberry-symbolic.png**|![](32/face-raspberry.png)<details><summary>*link*</summary>*face-raspberry.png*</details>|	![](16/face-raspberry.png)<details><summary>*link*</summary>*face-raspberry.png*</details>|	
+|**stock_smiley-7.png**|![](32/stock_smiley-7.png)|	![](16/stock_smiley-7.png)|	
+|**stock_smiley-8.png**|![](32/stock_smiley-8.png)|	![](16/stock_smiley-8.png)|	
+|**face-plain-symbolic.png**|![](32/face-plain.png)<details><summary>*link*</summary>*face-plain.png*</details>|	![](16/face-plain.png)<details><summary>*link*</summary>*face-plain.png*</details>|	
+|**face-embarrassed-symbolic.png**|![](32/face-embarrassed.png)<details><summary>*link*</summary>*face-embarrassed.png*</details>|	![](16/face-embarrassed.png)<details><summary>*link*</summary>*face-embarrassed.png*</details>|	
+|**face-cool.png**|![](32/face-cool.png)|	![](16/face-cool.png)|	
+|**face-angry.png**|![](32/face-angry.png)|	![](16/face-angry.png)|	
+|**face-crying.png**|![](32/face-crying.png)|	![](16/face-crying.png)|	
+|**face-heart-broken.png**|![](32/face-heart-broken.png)|	![](16/face-heart-broken.png)|	
+|**face-cool-symbolic.png**|![](32/face-cool.png)<details><summary>*link*</summary>*face-cool.png*</details>|	![](16/face-cool.png)<details><summary>*link*</summary>*face-cool.png*</details>|	
+|**face-tired-symbolic.png**|![](32/face-tired.png)<details><summary>*link*</summary>*face-tired.png*</details>|	![](16/face-tired.png)<details><summary>*link*</summary>*face-tired.png*</details>|	
+|**face-devilish.png**|![](32/face-devilish.png)|	![](16/face-devilish.png)|	
+|**stock_smiley-1.png**|![](32/stock_smiley-1.png)|	![](16/stock_smiley-1.png)|	
+|**face-angel.png**|![](32/face-angel.png)|	![](16/face-angel.png)|	
+|**face-uncertain-symbolic.png**|![](32/face-uncertain.png)<details><summary>*link*</summary>*face-uncertain.png*</details>|	![](16/face-uncertain.png)<details><summary>*link*</summary>*face-uncertain.png*</details>|	
+|**face-smile-big-squint-symbolic.png**|![](32/face-smile-big-squint-symbolic.png)|	![](16/face-smile-big-squint.png)<details><summary>*link*</summary>*face-smile-big-squint.png*</details>|	
+|**face-raspberry-wink.png**|![](32/face-raspberry-wink.png)|	![](16/face-raspberry.png)<details><summary>*link*</summary>*face-raspberry.png*</details>|	
+|**face-sad-symbolic.png**|![](32/face-sad.png)<details><summary>*link*</summary>*face-sad.png*</details>|	![](16/face-sad.png)<details><summary>*link*</summary>*face-sad.png*</details>|	
+|**stock_smiley-10.png**|![](32/stock_smiley-10.png)|	![](16/stock_smiley-10.png)|	
+|**face-raspberry-squint.png**|![](32/face-raspberry-squint.png)|	![](16/face-raspberry-squint.png)|	
+|**face-surprise-symbolic.png**|![](32/face-surprise.png)<details><summary>*link*</summary>*face-surprise.png*</details>|	![](16/face-surprise.png)<details><summary>*link*</summary>*face-surprise.png*</details>|	
+|**stock_smiley-18.png**|![](32/stock_smiley-18.png)|	![](16/stock_smiley-18.png)|	
+|**face-kiss.png**|![](32/face-kiss.png)|	![](16/face-kiss.png)|	
+|**face-angel-symbolic.png**|![](32/face-angel.png)<details><summary>*link*</summary>*face-angel.png*</details>|	![](16/face-angel.png)<details><summary>*link*</summary>*face-angel.png*</details>|	
+|**stock_smiley-2.png**|![](32/stock_smiley-2.png)|	![](16/stock_smiley-2.png)|	
+|**face-heart.png**|![](32/face-heart.png)|	![](16/face-heart.png)|	
+|**face-laugh.png**|![](32/face-laugh.png)|	![](16/face-laugh.png)|	
+|**face-smile.png**|![](32/face-smile.png)|	![](16/face-smile.png)|	
+|**face-monkey.png**|![](32/face-monkey.png)|	![](16/face-monkey.png)|	
+|**stock_smiley-22.png**|![](32/stock_smiley-22.png)|	![](16/stock_smiley-22.png)|	
+|**face-raspberry-wink-symbolic.png**|![](32/face-raspberry-wink-symbolic.png)|	![](16/face-raspberry-wink.png)<details><summary>*link*</summary>*face-raspberry-wink.png*</details>|	
+|**face-monkey-symbolic.png**|![](32/face-monkey.png)<details><summary>*link*</summary>*face-monkey.png*</details>|	![](16/face-monkey.png)<details><summary>*link*</summary>*face-monkey.png*</details>|	
+|**face-smile-big-squint.png**|![](32/face-smile-big-squint.png)|	![](16/face-smile-big.png)<details><summary>*link*</summary>*face-smile-big.png*</details>|	
+|**face-sick-symbolic.png**|![](32/face-sick.png)<details><summary>*link*</summary>*face-sick.png*</details>|	![](16/face-sick.png)<details><summary>*link*</summary>*face-sick.png*</details>|	
+|**stock_smiley-11.png**|![](32/stock_smiley-11.png)|	![](16/stock_smiley-11.png)|	
+|**face-smile-crying-symbolic.png**|![](32/face-smile-crying-symbolic.png)|	![](16/face-smile-crying.png)<details><summary>*link*</summary>*face-smile-crying.png*</details>|	
