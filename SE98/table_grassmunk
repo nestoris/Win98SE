@@ -188,11 +188,13 @@ delete sizes_brief_a[k] # а если папки нет, то и размер н
 }
 }
 
-for(ic in iconarr){
-iconline_md="|**" ic "**|" # начинаем строку
+asorti(iconarr,iconarr_s)
+
+for(ic in iconarr_s){
+iconline_md="|**" iconarr_s[ic] "**|" # начинаем строку
 
 for(k in sizes_brief_a){ # развиваем строку
-iconline_md= iconline_md "![""](" sizes_brief_a[k]"/"ic "." (tolower(sizes_brief_a[k])~"scal"?"sv":"pn") "g)|"
+iconline_md= iconline_md "![""](" sizes_brief_a[k]"/"iconarr_s[ic] "." (tolower(sizes_brief_a[k])~"scal"?"sv":"pn") "g)|"
 }
 brieftable_md=brieftable_md (brieftable_md?"\n":"") iconline_md
 }
