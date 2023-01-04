@@ -1,8 +1,8 @@
 # Devices
 Only the main icons are shown here (without duplicates).<br>The full icon list is there: [icons.md](icons.md)
 
-| |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
-|-|-|-|-|-|-|-|-|-|
+| |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
+|-|-|-|-|-|-|-|
 |**multimedia-player-symbolic**|![](96/multimedia-player-symbolic.png)|![](72/multimedia-player-symbolic.png)|![](64/multimedia-player-symbolic.png)|![](48/multimedia-player-symbolic.png)|![](32/multimedia-player-symbolic.png)|![](24/multimedia-player-symbolic.png)|![](22/multimedia-player-symbolic.png)|![](16/multimedia-player-symbolic.png)|
 |**multimedia-player-ipod**|![](96/multimedia-player-ipod.png)|![](72/multimedia-player-ipod.png)|![](64/multimedia-player-ipod.png)|![](48/multimedia-player-ipod.png)|![](32/multimedia-player-ipod.png)|![](24/multimedia-player-ipod.png)|![](22/multimedia-player-ipod.png)|![](16/multimedia-player-ipod.png)|
 |**network-wireless**|![](96/network-wireless.png)|![](72/network-wireless.png)|![](64/network-wireless.png)|![](48/network-wireless.png)|![](32/network-wireless.png)|![](24/network-wireless.png)|![](22/network-wireless.png)|![](16/network-wireless.png)|

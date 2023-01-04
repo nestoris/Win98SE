@@ -175,15 +175,16 @@ mdout="/dev/null"
 }
 
 if(mdbrief){
+readsizes_md(sizes_brief,sizes_brief_a,sizes_brief_u_a)
 brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without duplicates).<br>The full icon list is there: ["mdout"]("mdout")\n"
 md_th="| |"
 md_line="|-|"
-for(k in sizes_md_a){ # пробегаем по размерам, указанным в sizes_md в том порядке, как там перечислено
-if(sizes_md_a[k] in dirar_a){ # если указанный размер (имя подпапки) обнаружен в файловой системе
-md_th=md_th "**" (sizes_md_a[k]~/^[0-9]+$/?sizes_md_a[k]"x":"") sizes_md_a[k] "**|"
+for(k in sizes_brief_a){ # пробегаем по размерам, указанным в sizes_brief в том порядке, как там перечислено
+if(sizes_brief_a[k] in dirar_a){ # если указанный размер (имя подпапки) обнаружен в файловой системе
+md_th=md_th "**" (sizes_brief_a[k]~/^[0-9]+$/?sizes_brief_a[k]"x":"") sizes_brief_a[k] "**|"
 md_line=md_line "-|"
 }else{
-delete sizes_md_a[k] # а если папки нет, то и размер нам ни к чему
+delete sizes_brief_a[k] # а если папки нет, то и размер нам ни к чему
 }
 }
 
@@ -260,6 +261,7 @@ mdout="icons.md"
 mdbrief="README.md"
 #mdout="/dev/stdout"
 sizes_md="sizes_md"
+sizes_brief="sizes_brief"
 pwd=ENVIRON["PWD"]
 prepare()
 table()

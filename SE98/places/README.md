@@ -1,8 +1,8 @@
 # Places
 Only the main icons are shown here (without duplicates).<br>The full icon list is there: [icons.md](icons.md)
 
-| |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
-|-|-|-|-|-|-|-|-|-|
+| |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
+|-|-|-|-|-|-|-|
 |**folder-tag**|![](96/folder-tag.png)|![](72/folder-tag.png)|![](64/folder-tag.png)|![](48/folder-tag.png)|![](32/folder-tag.png)|![](24/folder-tag.png)|![](22/folder-tag.png)|![](16/folder-tag.png)|
 |**network-workgroup_win98**|![](96/network-workgroup_win98.png)|![](72/network-workgroup_win98.png)|![](64/network-workgroup_win98.png)|![](48/network-workgroup_win98.png)|![](32/network-workgroup_win98.png)|![](24/network-workgroup_win98.png)|![](22/network-workgroup_win98.png)|![](16/network-workgroup_win98.png)|
 |**bookmark-missing**|![](96/bookmark-missing.png)|![](72/bookmark-missing.png)|![](64/bookmark-missing.png)|![](48/bookmark-missing.png)|![](32/bookmark-missing.png)|![](24/bookmark-missing.png)|![](22/bookmark-missing.png)|![](16/bookmark-missing.png)|
