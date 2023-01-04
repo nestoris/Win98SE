@@ -1,5 +1,5 @@
 # Status
-Only the main icons are shown here (without duplicates).<br>The full icon list is there: [icons.md](icons.md)
+Only the main icons are shown here (without symlinked duplicates, in sizes from 16x16 to 64x64).<br>The full icon list is there: [icons.md](icons.md)
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
@@ -24,11 +24,8 @@ Only the main icons are shown here (without duplicates).<br>The full icon list i
 |**audio-output-none-panel**|![](64/audio-output-none-panel.png)|![](48/audio-output-none-panel.png)|![](32/audio-output-none-panel.png)|![](24/audio-output-none-panel.png)|![](22/audio-output-none-panel.png)|![](16/audio-output-none-panel.png)|
 |**audio-volume-high**|![](64/audio-volume-high.png)|![](48/audio-volume-high.png)|![](32/audio-volume-high.png)|![](24/audio-volume-high.png)|![](22/audio-volume-high.png)|![](16/audio-volume-high.png)|
 |**audio-volume-low**|![](64/audio-volume-low.png)|![](48/audio-volume-low.png)|![](32/audio-volume-low.png)|![](24/audio-volume-low.png)|![](22/audio-volume-low.png)|![](16/audio-volume-low.png)|
-|**audio-volume-low-zero-panel**|![](64/audio-volume-low-zero-panel.png)|![](48/audio-volume-low-zero-panel.png)|![](32/audio-volume-low-zero-panel.png)|![](24/audio-volume-low-zero-panel.png)|![](22/audio-volume-low-zero-panel.png)|![](16/audio-volume-low-zero-panel.png)|
 |**audio-volume-medium**|![](64/audio-volume-medium.png)|![](48/audio-volume-medium.png)|![](32/audio-volume-medium.png)|![](24/audio-volume-medium.png)|![](22/audio-volume-medium.png)|![](16/audio-volume-medium.png)|
 |**audio-volume-muted**|![](64/audio-volume-muted.png)|![](48/audio-volume-muted.png)|![](32/audio-volume-muted.png)|![](24/audio-volume-muted.png)|![](22/audio-volume-muted.png)|![](16/audio-volume-muted.png)|
-|**audio-volume-muted-blocking-panel**|![](64/audio-volume-muted-blocking-panel.png)|![](48/audio-volume-muted-blocking-panel.png)|![](32/audio-volume-muted-blocking-panel.png)|![](24/audio-volume-muted-blocking-panel.png)|![](22/audio-volume-muted-blocking-panel.png)|![](16/audio-volume-muted-blocking-panel.png)|
-|**audio-volume-muted-panel**|![](64/audio-volume-muted-panel.png)|![](48/audio-volume-muted-panel.png)|![](32/audio-volume-muted-panel.png)|![](24/audio-volume-muted-panel.png)|![](22/audio-volume-muted-panel.png)|![](16/audio-volume-muted-panel.png)|
 |**avatar-default**|![](64/avatar-default.png)|![](48/avatar-default.png)|![](32/avatar-default.png)|![](24/avatar-default.png)|![](22/avatar-default.png)|![](16/avatar-default.png)|
 |**banshee-panel**|![](64/banshee-panel.png)|![](48/banshee-panel.png)|![](32/banshee-panel.png)|![](24/banshee-panel.png)|![](22/banshee-panel.png)|![](16/banshee-panel.png)|
 |**battery-ac-adapter**|![](64/battery-ac-adapter.png)|![](48/battery-ac-adapter.png)|![](32/battery-ac-adapter.png)|![](24/battery-ac-adapter.png)|![](22/battery-ac-adapter.png)|![](16/battery-ac-adapter.png)|

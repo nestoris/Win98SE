@@ -1,5 +1,5 @@
 # Emblems
-Only the main icons are shown here (without duplicates).<br>The full icon list is there: [icons.md](icons.md)
+Only the main icons are shown here (without symlinked duplicates, in sizes from 10x10 to 64x64).<br>The full icon list is there: [icons.md](icons.md)
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|**10x10**|
 |-|-|-|-|-|-|-|-|

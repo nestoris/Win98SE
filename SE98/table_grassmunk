@@ -127,12 +127,13 @@ foot="</body></html>"
 
 function readsizes_md(sizes_md,sizes_md_a,sizes_md_u_a, # файл-список, массив по порядку, массив уникальных размеров
 						imd,k){
-
-while((getline<sizes_md)>0){gsub("#.*$","");if($0!~/^$/){imd++;sizes_md_a[imd]=$0;sizes_md_u_a[$0]=$0}}
+min_s=1000000
+while((getline<sizes_md)>0){gsub("#.*$","");if($0!~/^$/){imd++;sizes_md_a[imd]=$0;sizes_md_u_a[$0]=$0};if($0~/^[0-9]/){max_s=$0*1>max_s?$0:max_s;min_s=$0*1<min_s?$0:min_s}}
 if(!imd){
 asorti(dirar_a,sizes_md_a)
 for(k in dirar_a){sizes_md_u_a[k]=k}
 }
+
 }
 
 function table(){ #Build and print HTML table to stdout.
@@ -176,7 +177,7 @@ mdout="/dev/null"
 
 if(mdbrief){
 readsizes_md(sizes_brief,sizes_brief_a,sizes_brief_u_a)
-brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without duplicates).<br>The full icon list is there: ["mdout"]("mdout")\n"
+brief_head_md="# "capital(fol_nam) "\nOnly the main icons are shown here (without symlinked duplicates, in sizes from "min_s"x"min_s" to "max_s"x"max_s").<br>The full icon list is there: ["mdout"]("mdout")\n"
 md_th="| |"
 md_line="|-|"
 for(k in sizes_brief_a){ # пробегаем по размерам, указанным в sizes_brief в том порядке, как там перечислено
