@@ -1,6 +1,6 @@
 # Tools
 
-Total **10** icons in draw-text context.
+Total **10** icons in **tools** context.
 
 | |**22x22**|
 |-|-|

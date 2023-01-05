@@ -1,6 +1,6 @@
 # Mimes
 
-Total **770** icons in zip context.
+Total **770** icons in **mimes** context.
 
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|

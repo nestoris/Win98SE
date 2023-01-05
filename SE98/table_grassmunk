@@ -169,7 +169,7 @@ iconline_md= iconline_md "![""](" (all_iconar_s[ic] && existlnar[sizes_md_a[k]"/
 icontable_md=icontable_md (icontable_md?"\n":"") iconline_md
 #print iconline_md
 }
-md_comment="Total **" length(all_iconar_s) "** icons in " iconoext " context.\n"
+md_comment="Total **" length(all_iconar_s) "** icons in **" tolower(fol_nam) "** context.\n"
 print head_md "\n" md_comment "\n" md_th "\n" md_line "\n" icontable_md > mdout
 }else{
 mdout="/dev/null"

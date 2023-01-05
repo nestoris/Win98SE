@@ -1,6 +1,6 @@
 # Status
 
-Total **862** icons in zim-panel context.
+Total **862** icons in **status** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|

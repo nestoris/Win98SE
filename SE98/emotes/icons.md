@@ -1,6 +1,6 @@
 # Emotes
 
-Total **68** icons in stock_smiley-8 context.
+Total **68** icons in **emotes** context.
 
 | |**32x32**|**16x16**|
 |-|-|-|

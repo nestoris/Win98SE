@@ -1,6 +1,6 @@
 # Stock
 
-Total **6** icons in stock_person context.
+Total **6** icons in **stock** context.
 
 | |**scalable**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|

@@ -1,6 +1,6 @@
 # Places
 
-Total **219** icons in xfce-trash_full context.
+Total **219** icons in **places** context.
 
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|

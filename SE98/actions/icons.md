@@ -1,6 +1,6 @@
 # Actions
 
-Total **1003** icons in zoom-out context.
+Total **1003** icons in **actions** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|

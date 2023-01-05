@@ -1,6 +1,6 @@
 # Devices
 
-Total **319** icons in yast_soundcard context.
+Total **319** icons in **devices** context.
 
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
