@@ -283,7 +283,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-log-out**|![](64/system-log-out.png)|![](48/system-log-out.png)|![](32/system-log-out.png)|![](24/system-log-out.png)|![](22/system-log-out.png)|![](16/system-log-out.png)|
 |**system-reboot**|![](64/system-reboot.png)|![](48/system-reboot.png)|![](32/system-reboot.png)|![](24/system-reboot.png)|![](22/system-reboot.png)|![](16/system-reboot.png)|
 |**system-restart-copy**|![](64/system-restart-copy.png)|![](48/system-restart-copy.png)|![](32/system-restart-copy.png)|![](24/system-restart-copy.png)|![](22/system-restart-copy.png)|![](16/system-restart-copy.png)|
-|**system-restart-panel**|![](64/system-restart-panel.png)|![](48/system-restart-panel.png)|![](32/system-restart-panel.png)|![](24/system-restart-panel.png)|![](22/system-restart-panel.png)|![](16/system-restart-panel.png)|
 |**system-run**|![](64/system-run.png)|![](48/system-run.png)|![](32/system-run.png)|![](24/system-run.png)|![](22/system-run.png)|![](16/system-run.png)|
 |**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
 |**system-shutdown-panel**|![](64/system-shutdown-panel.png)|![](48/system-shutdown-panel.png)|![](32/system-shutdown-panel.png)|![](24/system-shutdown-panel.png)|![](22/system-shutdown-panel.png)|![](16/system-shutdown-panel.png)|
