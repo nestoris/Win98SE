@@ -157,19 +157,20 @@ md_line=md_line "-|"
 delete sizes_md_a[k] # а если папки нет, то и размер нам ни к чему
 }
 }
-print head_md "\n" md_th "\n" md_line > mdout
 
-for(ic in all_iconar){
-iconoext=gensub(/\.[^.]*$/,"",1,ic)
+asorti(all_iconar,all_iconar_s)
+for(ic in all_iconar_s){
+iconoext=gensub(/\.[^.]*$/,"",1,all_iconar_s[ic])
 iconline_md="|**" iconoext "**|"
 for(k in sizes_md_a){
 #iconline_md= iconline_md  (ic && existlnar[sizes_md_a[k]"/"ic] ? "<details><summary>":"") "!["sizes_md_a[k]"]("sizes_md_a[k]"/"ic"." (tolower(sizes_md_a[k])~"scal"?"sv":"pn")"g)"  (ic && existlnar[sizes_md_a[k]"/"ic] ? "</summary> *" lnarr[ic][sizes_md_a[k]] "*</details>" : "") "|"
-iconline_md= iconline_md "![""](" (ic && existlnar[sizes_md_a[k]"/" iconoext] ?  sizes_md_a[k]"/"lnarr[iconoext][sizes_md_a[k]] ")<details><summary>*link*</summary>*" lnarr[iconoext][sizes_md_a[k]] "*</details>" : sizes_md_a[k]"/"ic ")") "|"
+iconline_md= iconline_md "![""](" (all_iconar_s[ic] && existlnar[sizes_md_a[k]"/" iconoext] ?  sizes_md_a[k]"/"lnarr[iconoext][sizes_md_a[k]] ")<details><summary>*link*</summary>*" lnarr[iconoext][sizes_md_a[k]] "*</details>" : sizes_md_a[k]"/"all_iconar_s[ic] ")") "|"
 }
 icontable_md=icontable_md (icontable_md?"\n":"") iconline_md
 #print iconline_md
 }
-print icontable_md > mdout
+md_comment="Total **" length(all_iconar_s) "** icons in " iconoext " context.\n"
+print head_md "\n" md_comment "\n" md_th "\n" md_line "\n" icontable_md > mdout
 }else{
 mdout="/dev/null"
 }
@@ -214,13 +215,14 @@ for(i in dirar){
 }
 print "\t</tr>\n" > fileout
 
-for(ic in iconarr){
+asorti(iconarr,iconarr_s)
+for(ic in iconarr_s){
 
 print "\t<tr>" > fileout
 for(k in dirar){
 #print k"/"ic
-dirnam=k"/"ic
-	imgtag=(existar[dirnam]?"\t\t<td><a name="dirnam"></a>\n" "\t\t\t<img src=\"./"dirnam".png\" alt=\""ic".png\">\n\t\t\t<br>"ic"\n" "\n\t\t</td>":"\t\t<td class=\"empty\"><a name="dirnam"></a>\n\t\t</td>")
+dirnam=k"/"iconarr_s[ic]
+	imgtag=(existar[dirnam]?"\t\t<td><a name="dirnam"></a>\n" "\t\t\t<img src=\"./"dirnam".png\" alt=\""iconarr_s[ic]".png\">\n\t\t\t<br>"iconarr_s[ic]"\n" "\n\t\t</td>":"\t\t<td class=\"empty\"><a name="dirnam"></a>\n\t\t</td>")
 	print imgtag > fileout
 }
 print "\t</tr>" > fileout
