@@ -87,7 +87,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**com.visualstudio.code**|![](64/com.visualstudio.code.png)|![](48/com.visualstudio.code.png)|![](32/com.visualstudio.code.png)|![](24/com.visualstudio.code.png)|![](22/com.visualstudio.code.png)|![](16/com.visualstudio.code.png)|
 |**comix**|![](64/comix.png)|![](48/comix.png)|![](32/comix.png)|![](24/comix.png)|![](22/comix.png)|![](16/comix.png)|
 |**config-date**|![](64/config-date.png)|![](48/config-date.png)|![](32/config-date.png)|![](24/config-date.png)|![](22/config-date.png)|![](16/config-date.png)|
-|**config-language**|![](64/config-language.png)|![](48/config-language.png)|![](32/config-language.png)|![](24/config-language.png)|![](22/config-language.png)|![](16/config-language.png)|
 |**confity**|![](64/confity.png)|![](48/confity.png)|![](32/confity.png)|![](24/confity.png)|![](22/confity.png)|![](16/confity.png)|
 |**control-center2**|![](64/control-center2.png)|![](48/control-center2.png)|![](32/control-center2.png)|![](24/control-center2.png)|![](22/control-center2.png)|![](16/control-center2.png)|
 |**credentials-preferences**|![](64/credentials-preferences.png)|![](48/credentials-preferences.png)|![](32/credentials-preferences.png)|![](24/credentials-preferences.png)|![](22/credentials-preferences.png)|![](16/credentials-preferences.png)|
@@ -238,7 +237,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-system-monitor**|![](64/gnome-system-monitor.png)|![](48/gnome-system-monitor.png)|![](32/gnome-system-monitor.png)|![](24/gnome-system-monitor.png)|![](22/gnome-system-monitor.png)|![](16/gnome-system-monitor.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
 |**gnome-tetravex**|![](64/gnome-tetravex.png)|![](48/gnome-tetravex.png)|![](32/gnome-tetravex.png)|![](24/gnome-tetravex.png)|![](22/gnome-tetravex.png)|![](16/gnome-tetravex.png)|
-|**gnome-translate**|![](64/gnome-translate.png)|![](48/gnome-translate.png)|![](32/gnome-translate.png)|![](24/gnome-translate.png)|![](22/gnome-translate.png)|![](16/gnome-translate.png)|
 |**gnome-weather**|![](64/gnome-weather.png)|![](48/gnome-weather.png)|![](32/gnome-weather.png)|![](24/gnome-weather.png)|![](22/gnome-weather.png)|![](16/gnome-weather.png)|
 |**gnome-web-browser**|![](64/gnome-web-browser.png)|![](48/gnome-web-browser.png)|![](32/gnome-web-browser.png)|![](24/gnome-web-browser.png)|![](22/gnome-web-browser.png)|![](16/gnome-web-browser.png)|
 |**gnome-window-manager**|![](64/gnome-window-manager.png)|![](48/gnome-window-manager.png)|![](32/gnome-window-manager.png)|![](24/gnome-window-manager.png)|![](22/gnome-window-manager.png)|![](16/gnome-window-manager.png)|
@@ -255,7 +253,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gresistor**|![](64/gresistor.png)|![](48/gresistor.png)|![](32/gresistor.png)|![](24/gresistor.png)|![](22/gresistor.png)|![](16/gresistor.png)|
 |**griffith**|![](64/griffith.png)|![](48/griffith.png)|![](32/griffith.png)|![](24/griffith.png)|![](22/griffith.png)|![](16/griffith.png)|
 |**gstreamer-properties**|![](64/gstreamer-properties.png)|![](48/gstreamer-properties.png)|![](32/gstreamer-properties.png)|![](24/gstreamer-properties.png)|![](22/gstreamer-properties.png)|![](16/gstreamer-properties.png)|
-|**gswitchit-properties-capplet**|![](64/gswitchit-properties-capplet.png)|![](48/gswitchit-properties-capplet.png)|![](32/gswitchit-properties-capplet.png)|![](24/gswitchit-properties-capplet.png)|![](22/gswitchit-properties-capplet.png)|![](16/gswitchit-properties-capplet.png)|
 |**gtk-info**|![](64/gtk-info.png)|![](48/gtk-info.png)|![](32/gtk-info.png)|![](24/gtk-info.png)|![](22/gtk-info.png)|![](16/gtk-info.png)|
 |**gtk-recordmydesktop**|![](64/gtk-recordmydesktop.png)|![](48/gtk-recordmydesktop.png)|![](32/gtk-recordmydesktop.png)|![](24/gtk-recordmydesktop.png)|![](22/gtk-recordmydesktop.png)|![](16/gtk-recordmydesktop.png)|
 |**gtkpod**|![](64/gtkpod.png)|![](48/gtkpod.png)|![](32/gtkpod.png)|![](24/gtkpod.png)|![](22/gtkpod.png)|![](16/gtkpod.png)|
@@ -334,11 +331,9 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**lifeograph**|![](64/lifeograph.png)|![](48/lifeograph.png)|![](32/lifeograph.png)|![](24/lifeograph.png)|![](22/lifeograph.png)|![](16/lifeograph.png)|
 |**liferea**|![](64/liferea.png)|![](48/liferea.png)|![](32/liferea.png)|![](24/liferea.png)|![](22/liferea.png)|![](16/liferea.png)|
 |**linkerator**|![](64/linkerator.png)|![](48/linkerator.png)|![](32/linkerator.png)|![](24/linkerator.png)|![](22/linkerator.png)|![](16/linkerator.png)|
-|**locale**|![](64/locale.png)|![](48/locale.png)|![](32/locale.png)|![](24/locale.png)|![](22/locale.png)|![](16/locale.png)|
 |**logviewer**|![](64/logviewer.png)|![](48/logviewer.png)|![](32/logviewer.png)|![](24/logviewer.png)|![](22/logviewer.png)|![](16/logviewer.png)|
 |**love**|![](64/love.png)|![](48/love.png)|![](32/love.png)|![](24/love.png)|![](22/love.png)|![](16/love.png)|
 |**lpi-bug**|![](64/lpi-bug.png)|![](48/lpi-bug.png)|![](32/lpi-bug.png)|![](24/lpi-bug.png)|![](22/lpi-bug.png)|![](16/lpi-bug.png)|
-|**lpi-translate**|![](64/lpi-translate.png)|![](48/lpi-translate.png)|![](32/lpi-translate.png)|![](24/lpi-translate.png)|![](22/lpi-translate.png)|![](16/lpi-translate.png)|
 |**lugaru-hd**|![](64/lugaru-hd.png)|![](48/lugaru-hd.png)|![](32/lugaru-hd.png)|![](24/lugaru-hd.png)|![](22/lugaru-hd.png)|![](16/lugaru-hd.png)|
 |**lv_icon**|![](64/lv_icon.png)|![](48/lv_icon.png)|![](32/lv_icon.png)|![](24/lv_icon.png)|![](22/lv_icon.png)|![](16/lv_icon.png)|
 |**machinarium**|![](64/machinarium.png)|![](48/machinarium.png)|![](32/machinarium.png)|![](24/machinarium.png)|![](22/machinarium.png)|![](16/machinarium.png)|
@@ -589,7 +584,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**unison-gtk**|![](64/unison-gtk.png)|![](48/unison-gtk.png)|![](32/unison-gtk.png)|![](24/unison-gtk.png)|![](22/unison-gtk.png)|![](16/unison-gtk.png)|
 |**unknown-channel**|![](64/unknown-channel.png)|![](48/unknown-channel.png)|![](32/unknown-channel.png)|![](24/unknown-channel.png)|![](22/unknown-channel.png)|![](16/unknown-channel.png)|
 |**unreal-tournament**|![](64/unreal-tournament.png)|![](48/unreal-tournament.png)|![](32/unreal-tournament.png)|![](24/unreal-tournament.png)|![](22/unreal-tournament.png)|![](16/unreal-tournament.png)|
-|**update-manager**|![](64/update-manager.png)|![](48/update-manager.png)|![](32/update-manager.png)|![](24/update-manager.png)|![](22/update-manager.png)|![](16/update-manager.png)|
 |**urban-terror**|![](64/urban-terror.png)|![](48/urban-terror.png)|![](32/urban-terror.png)|![](24/urban-terror.png)|![](22/urban-terror.png)|![](16/urban-terror.png)|
 |**usb-creator**|![](64/usb-creator.png)|![](48/usb-creator.png)|![](32/usb-creator.png)|![](24/usb-creator.png)|![](22/usb-creator.png)|![](16/usb-creator.png)|
 |**usb-creator-gtk**|![](64/usb-creator-gtk.png)|![](48/usb-creator-gtk.png)|![](32/usb-creator-gtk.png)|![](24/usb-creator-gtk.png)|![](22/usb-creator-gtk.png)|![](16/usb-creator-gtk.png)|
