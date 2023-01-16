@@ -1,6 +1,6 @@
 # Apps
 
-Total **1441** icons in **apps** context.
+Total **1442** icons in **apps** context.
 
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
@@ -210,6 +210,7 @@ Total **1441** icons in **apps** context.
 |**devede**|![](96/devede.png)|![](72/devede.png)|![](64/devede.png)|![](48/devede.png)|![](32/devede.png)|![](24/devede.png)|![](22/devede.png)|![](16/devede.png)|
 |**devhelp**|![](96/devhelp.png)|![](72/devhelp.png)|![](64/devhelp.png)|![](48/devhelp.png)|![](32/devhelp.png)|![](24/devhelp.png)|![](22/devhelp.png)|![](16/devhelp.png)|
 |**dia**|![](96/dia.png)|![](72/dia.png)|![](64/dia.png)|![](48/dia.png)|![](32/dia.png)|![](24/dia.png)|![](22/dia.png)|![](16/dia.png)|
+|**diodon**|![](96/diodon.png)|![](72/diodon.png)|![](64/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|![](48/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|![](32/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|![](24/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|![](22/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|![](16/clipman.png)<details><summary>*link*</summary>*clipman.png*</details>|
 |**disk-usage-analyzer**|![](96/disk-usage-analyzer.png)|![](72/disk-usage-analyzer.png)|![](64/disk-usage-analyzer.png)|![](48/disk-usage-analyzer.png)|![](32/disk-usage-analyzer.png)|![](24/disk-usage-analyzer.png)|![](22/disk-usage-analyzer.png)|![](16/disk-usage-analyzer.png)|
 |**disk-utility-app**|![](96/disk-utility-app.png)|![](72/disk-utility-app.png)|![](64/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](48/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](32/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](24/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](22/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](16/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|
 |**disk-utility**|![](96/disk-utility.png)|![](72/disk-utility.png)|![](64/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](48/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](32/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](24/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](22/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|![](16/gparted.png)<details><summary>*link*</summary>*gparted.png*</details>|
