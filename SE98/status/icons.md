@@ -1,6 +1,6 @@
 # Status
 
-Total **860** icons in **status** context.
+Total **861** icons in **status** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
@@ -157,6 +157,7 @@ Total **860** icons in **status** context.
 |**blueberry-tray-disabled**|![](64/blueberry-tray-disabled.png)|![](48/blueberry-tray-disabled.png)|![](32/blueberry-tray-disabled.png)|![](24/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](22/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](16/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|
 |**blueberry-tray**|![](64/blueberry-tray.png)|![](48/blueberry-tray.png)|![](32/blueberry-tray.png)|![](24/bluetooth-active.png)<details><summary>*link*</summary>*bluetooth-active.png*</details>|![](22/bluetooth-active.png)<details><summary>*link*</summary>*bluetooth-active.png*</details>|![](16/bluetooth-active.png)<details><summary>*link*</summary>*bluetooth-active.png*</details>|
 |**blueman-active**|![](64/blueman-active.png)|![](48/blueman-active.png)|![](32/blueman-active.png)|![](24/bluetooth-paired.png)<details><summary>*link*</summary>*bluetooth-paired.png*</details>|![](22/bluetooth-paired.png)<details><summary>*link*</summary>*bluetooth-paired.png*</details>|![](16/bluetooth-paired.png)<details><summary>*link*</summary>*bluetooth-paired.png*</details>|
+|**blueman-disabled-symbolic**|![](64/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](48/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](32/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](24/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](22/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](16/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|
 |**blueman-disabled**|![](64/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](48/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](32/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](24/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](22/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|![](16/bluetooth-disabled.png)<details><summary>*link*</summary>*bluetooth-disabled.png*</details>|
 |**blueman-down-active**|![](64/blueman-down-active.png)|![](48/blueman-down-active.png)|![](32/blueman-down-active.png)|![](24/blueman-down-active.png)|![](22/blueman-down-active.png)|![](16/blueman-down-active.png)|
 |**blueman-down-inactive**|![](64/blueman-down-inactive.png)|![](48/blueman-down-inactive.png)|![](32/blueman-down-inactive.png)|![](24/blueman-down-inactive.png)|![](22/blueman-down-inactive.png)|![](16/blueman-down-inactive.png)|
