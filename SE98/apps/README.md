@@ -167,7 +167,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**git**|![](64/git.png)|![](48/git.png)|![](32/git.png)|![](24/git.png)|![](22/git.png)|![](16/git.png)|
 |**git-cola**|![](64/git-cola.png)|![](48/git-cola.png)|![](32/git-cola.png)|![](24/git-cola.png)|![](22/git-cola.png)|![](16/git-cola.png)|
 |**gkdebconf-icon**|![](64/gkdebconf-icon.png)|![](48/gkdebconf-icon.png)|![](32/gkdebconf-icon.png)|![](24/gkdebconf-icon.png)|![](22/gkdebconf-icon.png)|![](16/gkdebconf-icon.png)|
-|**gksu-debian**|![](64/gksu-debian.png)|![](48/gksu-debian.png)|![](32/gksu-debian.png)|![](24/gksu-debian.png)|![](22/gksu-debian.png)|![](16/gksu-debian.png)|
 |**gksu-root-terminal**|![](64/gksu-root-terminal.png)|![](48/gksu-root-terminal.png)|![](32/gksu-root-terminal.png)|![](24/gksu-root-terminal.png)|![](22/gksu-root-terminal.png)|![](16/gksu-root-terminal.png)|
 |**gksu-root-terminal-old**|![](64/gksu-root-terminal-old.png)|![](48/gksu-root-terminal-old.png)|![](32/gksu-root-terminal-old.png)|![](24/gksu-root-terminal-old.png)|![](22/gksu-root-terminal-old.png)|![](16/gksu-root-terminal-old.png)|
 |**glade**|![](64/glade.png)|![](48/glade.png)|![](32/glade.png)|![](24/glade.png)|![](22/glade.png)|![](16/glade.png)|
