@@ -178,7 +178,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-about-logo**|![](64/gnome-about-logo.png)|![](48/gnome-about-logo.png)|![](32/gnome-about-logo.png)|![](24/gnome-about-logo.png)|![](22/gnome-about-logo.png)|![](16/gnome-about-logo.png)|
 |**gnome-activity-journal**|![](64/gnome-activity-journal.png)|![](48/gnome-activity-journal.png)|![](32/gnome-activity-journal.png)|![](24/gnome-activity-journal.png)|![](22/gnome-activity-journal.png)|![](16/gnome-activity-journal.png)|
 |**gnome-aisleriot**|![](64/gnome-aisleriot.png)|![](48/gnome-aisleriot.png)|![](32/gnome-aisleriot.png)|![](24/gnome-aisleriot.png)|![](22/gnome-aisleriot.png)|![](16/gnome-aisleriot.png)|
-|**gnome-calculator**|![](64/gnome-calculator.png)|![](48/gnome-calculator.png)|![](32/gnome-calculator.png)|![](24/gnome-calculator.png)|![](22/gnome-calculator.png)|![](16/gnome-calculator.png)|
 |**gnome-cd**|![](64/gnome-cd.png)|![](48/gnome-cd.png)|![](32/gnome-cd.png)|![](24/gnome-cd.png)|![](22/gnome-cd.png)|![](16/gnome-cd.png)|
 |**gnome-character-map**|![](64/gnome-character-map.png)|![](48/gnome-character-map.png)|![](32/gnome-character-map.png)|![](24/gnome-character-map.png)|![](22/gnome-character-map.png)|![](16/gnome-character-map.png)|
 |**gnome-clocks**|![](64/gnome-clocks.png)|![](48/gnome-clocks.png)|![](32/gnome-clocks.png)|![](24/gnome-clocks.png)|![](22/gnome-clocks.png)|![](16/gnome-clocks.png)|
@@ -326,7 +325,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**libreoffice-main**|![](64/libreoffice-main.png)|![](48/libreoffice-main.png)|![](32/libreoffice-main.png)|![](24/libreoffice-main.png)|![](22/libreoffice-main.png)|![](16/libreoffice-main.png)|
 |**libreoffice-math**|![](64/libreoffice-math.png)|![](48/libreoffice-math.png)|![](32/libreoffice-math.png)|![](24/libreoffice-math.png)|![](22/libreoffice-math.png)|![](16/libreoffice-math.png)|
 |**libreoffice-startcenter**|![](64/libreoffice-startcenter.png)|![](48/libreoffice-startcenter.png)|![](32/libreoffice-startcenter.png)|![](24/libreoffice-startcenter.png)|![](22/libreoffice-startcenter.png)|![](16/libreoffice-startcenter.png)|
-|**libreoffice-writer**|![](64/libreoffice-writer.png)|![](48/libreoffice-writer.png)|![](32/libreoffice-writer.png)|![](24/libreoffice-writer.png)|![](22/libreoffice-writer.png)|![](16/libreoffice-writer.png)|
 |**lifeograph**|![](64/lifeograph.png)|![](48/lifeograph.png)|![](32/lifeograph.png)|![](24/lifeograph.png)|![](22/lifeograph.png)|![](16/lifeograph.png)|
 |**liferea**|![](64/liferea.png)|![](48/liferea.png)|![](32/liferea.png)|![](24/liferea.png)|![](22/liferea.png)|![](16/liferea.png)|
 |**linkerator**|![](64/linkerator.png)|![](48/linkerator.png)|![](32/linkerator.png)|![](24/linkerator.png)|![](22/linkerator.png)|![](16/linkerator.png)|
@@ -392,7 +390,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**ooo-math**|![](64/ooo-math.png)|![](48/ooo-math.png)|![](32/ooo-math.png)|![](24/ooo-math.png)|![](22/ooo-math.png)|![](16/ooo-math.png)|
 |**ooo-printeradmin**|![](64/ooo-printeradmin.png)|![](48/ooo-printeradmin.png)|![](32/ooo-printeradmin.png)|![](24/ooo-printeradmin.png)|![](22/ooo-printeradmin.png)|![](16/ooo-printeradmin.png)|
 |**ooo-template**|![](64/ooo-template.png)|![](48/ooo-template.png)|![](32/ooo-template.png)|![](24/ooo-template.png)|![](22/ooo-template.png)|![](16/ooo-template.png)|
-|**ooo-writer**|![](64/ooo-writer.png)|![](48/ooo-writer.png)|![](32/ooo-writer.png)|![](24/ooo-writer.png)|![](22/ooo-writer.png)|![](16/ooo-writer.png)|
 |**openarena**|![](64/openarena.png)|![](48/openarena.png)|![](32/openarena.png)|![](24/openarena.png)|![](22/openarena.png)|![](16/openarena.png)|
 |**openbravo-erp**|![](64/openbravo-erp.png)|![](48/openbravo-erp.png)|![](32/openbravo-erp.png)|![](24/openbravo-erp.png)|![](22/openbravo-erp.png)|![](16/openbravo-erp.png)|
 |**openerp-client**|![](64/openerp-client.png)|![](48/openerp-client.png)|![](32/openerp-client.png)|![](24/openerp-client.png)|![](22/openerp-client.png)|![](16/openerp-client.png)|
@@ -472,7 +469,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**preferences-system-sound**|![](64/preferences-system-sound.png)|![](48/preferences-system-sound.png)|![](32/preferences-system-sound.png)|![](24/preferences-system-sound.png)|![](22/preferences-system-sound.png)|![](16/preferences-system-sound.png)|
 |**preferences-system-time**|![](64/preferences-system-time.png)|![](48/preferences-system-time.png)|![](32/preferences-system-time.png)|![](24/preferences-system-time.png)|![](22/preferences-system-time.png)|![](16/preferences-system-time.png)|
 |**preferences-system-windows**|![](64/preferences-system-windows.png)|![](48/preferences-system-windows.png)|![](32/preferences-system-windows.png)|![](24/preferences-system-windows.png)|![](22/preferences-system-windows.png)|![](16/preferences-system-windows.png)|
-|**preferences-wallpaper**|![](64/preferences-wallpaper.png)|![](48/preferences-wallpaper.png)|![](32/preferences-wallpaper.png)|![](24/preferences-wallpaper.png)|![](22/preferences-wallpaper.png)|![](16/preferences-wallpaper.png)|
 |**prism-google-mail**|![](64/prism-google-mail.png)|![](48/prism-google-mail.png)|![](32/prism-google-mail.png)|![](24/prism-google-mail.png)|![](22/prism-google-mail.png)|![](16/prism-google-mail.png)|
 |**product_logo_16**|![](64/product_logo_16.png)|![](48/product_logo_16.png)|![](32/product_logo_16.png)|![](24/product_logo_16.png)|![](22/product_logo_16.png)|![](16/product_logo_16.png)|
 |**product_logo_22**|![](64/product_logo_22.png)|![](48/product_logo_22.png)|![](32/product_logo_22.png)|![](24/product_logo_22.png)|![](22/product_logo_22.png)|![](16/product_logo_22.png)|
@@ -598,7 +594,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**virtualbox**|![](64/virtualbox.png)|![](48/virtualbox.png)|![](32/virtualbox.png)|![](24/virtualbox.png)|![](22/virtualbox.png)|![](16/virtualbox.png)|
 |**vlc**|![](64/vlc.png)|![](48/vlc.png)|![](32/vlc.png)|![](24/vlc.png)|![](22/vlc.png)|![](16/vlc.png)|
 |**volleybrawl**|![](64/volleybrawl.png)|![](48/volleybrawl.png)|![](32/volleybrawl.png)|![](24/volleybrawl.png)|![](22/volleybrawl.png)|![](16/volleybrawl.png)|
-|**wallpaper**|![](64/wallpaper.png)|![](48/wallpaper.png)|![](32/wallpaper.png)|![](24/wallpaper.png)|![](22/wallpaper.png)|![](16/wallpaper.png)|
 |**warmux**|![](64/warmux.png)|![](48/warmux.png)|![](32/warmux.png)|![](24/warmux.png)|![](22/warmux.png)|![](16/warmux.png)|
 |**warsow**|![](64/warsow.png)|![](48/warsow.png)|![](32/warsow.png)|![](24/warsow.png)|![](22/warsow.png)|![](16/warsow.png)|
 |**web-browser**|![](64/web-browser.png)|![](48/web-browser.png)|![](32/web-browser.png)|![](24/web-browser.png)|![](22/web-browser.png)|![](16/web-browser.png)|
