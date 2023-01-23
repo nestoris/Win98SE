@@ -480,7 +480,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**product_logo_24**|![](64/product_logo_24.png)|![](48/product_logo_24.png)|![](32/product_logo_24.png)|![](24/product_logo_24.png)|![](22/product_logo_24.png)|![](16/product_logo_24.png)|
 |**product_logo_32**|![](64/product_logo_32.png)|![](48/product_logo_32.png)|![](32/product_logo_32.png)|![](24/product_logo_32.png)|![](22/product_logo_32.png)|![](16/product_logo_32.png)|
 |**promoe**|![](64/promoe.png)|![](48/promoe.png)|![](32/promoe.png)|![](24/promoe.png)|![](22/promoe.png)|![](16/promoe.png)|
-|**pup**|![](64/pup.png)|![](48/pup.png)|![](32/pup.png)|![](24/pup.png)|![](22/pup.png)|![](16/pup.png)|
 |**q4wine**|![](64/q4wine.png)|![](48/q4wine.png)|![](32/q4wine.png)|![](24/q4wine.png)|![](22/q4wine.png)|![](16/q4wine.png)|
 |**qgit**|![](64/qgit.png)|![](48/qgit.png)|![](32/qgit.png)|![](24/qgit.png)|![](22/qgit.png)|![](16/qgit.png)|
 |**qjackctl**|![](64/qjackctl.png)|![](48/qjackctl.png)|![](32/qjackctl.png)|![](24/qjackctl.png)|![](22/qjackctl.png)|![](16/qjackctl.png)|
@@ -655,5 +654,4 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xsane**|![](64/xsane.png)|![](48/xsane.png)|![](32/xsane.png)|![](24/xsane.png)|![](22/xsane.png)|![](16/xsane.png)|
 |**yast-language**|![](64/yast-language.png)|![](48/yast-language.png)|![](32/yast-language.png)|![](24/yast-language.png)|![](22/yast-language.png)|![](16/yast-language.png)|
 |**youtube**|![](64/youtube.png)|![](48/youtube.png)|![](32/youtube.png)|![](24/youtube.png)|![](22/youtube.png)|![](16/youtube.png)|
-|**zen-icon**|![](64/zen-icon.png)|![](48/zen-icon.png)|![](32/zen-icon.png)|![](24/zen-icon.png)|![](22/zen-icon.png)|![](16/zen-icon.png)|
 |**zim**|![](64/zim.png)|![](48/zim.png)|![](32/zim.png)|![](24/zim.png)|![](22/zim.png)|![](16/zim.png)|
