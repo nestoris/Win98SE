@@ -517,6 +517,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**slingshot**|![](64/slingshot.png)|![](48/slingshot.png)|![](32/slingshot.png)|![](24/slingshot.png)|![](22/slingshot.png)|![](16/slingshot.png)|
 |**smc**|![](64/smc.png)|![](48/smc.png)|![](32/smc.png)|![](24/smc.png)|![](22/smc.png)|![](16/smc.png)|
 |**software-properties**|![](64/software-properties.png)|![](48/software-properties.png)|![](32/software-properties.png)|![](24/software-properties.png)|![](22/software-properties.png)|![](16/software-properties.png)|
+|**sound**|![](64/sound.png)|![](48/sound.png)|![](32/sound.png)|![](24/sound.png)|![](22/sound.png)|![](16/sound.png)|
 |**sound-juicer**|![](64/sound-juicer.png)|![](48/sound-juicer.png)|![](32/sound-juicer.png)|![](24/sound-juicer.png)|![](22/sound-juicer.png)|![](16/sound-juicer.png)|
 |**soundconverter**|![](64/soundconverter.png)|![](48/soundconverter.png)|![](32/soundconverter.png)|![](24/soundconverter.png)|![](22/soundconverter.png)|![](16/soundconverter.png)|
 |**spotify**|![](64/spotify.png)|![](48/spotify.png)|![](32/spotify.png)|![](24/spotify.png)|![](22/spotify.png)|![](16/spotify.png)|
