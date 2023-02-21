@@ -205,7 +205,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-monitor**|![](64/gnome-monitor.png)|![](48/gnome-monitor.png)|![](32/gnome-monitor.png)|![](24/gnome-monitor.png)|![](22/gnome-monitor.png)|![](16/gnome-monitor.png)|
 |**gnome-mplayer**|![](64/gnome-mplayer.png)|![](48/gnome-mplayer.png)|![](32/gnome-mplayer.png)|![](24/gnome-mplayer.png)|![](22/gnome-mplayer.png)|![](16/gnome-mplayer.png)|
 |**gnome-nettool**|![](64/gnome-nettool.png)|![](48/gnome-nettool.png)|![](32/gnome-nettool.png)|![](24/gnome-nettool.png)|![](22/gnome-nettool.png)|![](16/gnome-nettool.png)|
-|**gnome-network-properties**|![](64/gnome-network-properties.png)|![](48/gnome-network-properties.png)|![](32/gnome-network-properties.png)|![](24/gnome-network-properties.png)|![](22/gnome-network-properties.png)|![](16/gnome-network-properties.png)|
 |**gnome-panel**|![](64/gnome-panel.png)|![](48/gnome-panel.png)|![](32/gnome-panel.png)|![](24/gnome-panel.png)|![](22/gnome-panel.png)|![](16/gnome-panel.png)|
 |**gnome-panel-clock**|![](64/gnome-panel-clock.png)|![](48/gnome-panel-clock.png)|![](32/gnome-panel-clock.png)|![](24/gnome-panel-clock.png)|![](22/gnome-panel-clock.png)|![](16/gnome-panel-clock.png)|
 |**gnome-panel-force-quit**|![](64/gnome-panel-force-quit.png)|![](48/gnome-panel-force-quit.png)|![](32/gnome-panel-force-quit.png)|![](24/gnome-panel-force-quit.png)|![](22/gnome-panel-force-quit.png)|![](16/gnome-panel-force-quit.png)|
@@ -337,7 +336,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mail-notification**|![](64/mail-notification.png)|![](48/mail-notification.png)|![](32/mail-notification.png)|![](24/mail-notification.png)|![](22/mail-notification.png)|![](16/mail-notification.png)|
 |**mame**|![](64/mame.png)|![](48/mame.png)|![](32/mame.png)|![](24/mame.png)|![](22/mame.png)|![](16/mame.png)|
 |**master-pdf-editor**|![](64/master-pdf-editor.png)|![](48/master-pdf-editor.png)|![](32/master-pdf-editor.png)|![](24/master-pdf-editor.png)|![](22/master-pdf-editor.png)|![](16/master-pdf-editor.png)|
-|**mate-network-properties**|![](64/mate-network-properties.png)|![](48/mate-network-properties.png)|![](32/mate-network-properties.png)|![](24/mate-network-properties.png)|![](22/mate-network-properties.png)|![](16/mate-network-properties.png)|
 |**mate-notification-properties**|![](64/mate-notification-properties.png)|![](48/mate-notification-properties.png)|![](32/mate-notification-properties.png)|![](24/mate-notification-properties.png)|![](22/mate-notification-properties.png)|![](16/mate-notification-properties.png)|
 |**mate-panel**|![](64/mate-panel.png)|![](48/mate-panel.png)|![](32/mate-panel.png)|![](24/mate-panel.png)|![](22/mate-panel.png)|![](16/mate-panel.png)|
 |**mate-panel-clock**|![](64/mate-panel-clock.png)|![](48/mate-panel-clock.png)|![](32/mate-panel-clock.png)|![](24/mate-panel-clock.png)|![](22/mate-panel-clock.png)|![](16/mate-panel-clock.png)|
