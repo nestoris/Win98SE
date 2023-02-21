@@ -30,7 +30,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**accessories-system-cleaner**|![](64/accessories-system-cleaner.png)|![](48/accessories-system-cleaner.png)|![](32/accessories-system-cleaner.png)|![](24/accessories-system-cleaner.png)|![](22/accessories-system-cleaner.png)|![](16/accessories-system-cleaner.png)|
 |**accessories-text-editor**|![](64/accessories-text-editor.png)|![](48/accessories-text-editor.png)|![](32/accessories-text-editor.png)|![](24/accessories-text-editor.png)|![](22/accessories-text-editor.png)|![](16/accessories-text-editor.png)|
 |**acroread**|![](64/acroread.png)|![](48/acroread.png)|![](32/acroread.png)|![](24/acroread.png)|![](22/acroread.png)|![](16/acroread.png)|
-|**administration**|![](64/administration.png)|![](48/administration.png)|![](32/administration.png)|![](24/administration.png)|![](22/administration.png)|![](16/administration.png)|
 |**adobe-reader**|![](64/adobe-reader.png)|![](48/adobe-reader.png)|![](32/adobe-reader.png)|![](24/adobe-reader.png)|![](22/adobe-reader.png)|![](16/adobe-reader.png)|
 |**alchemy**|![](64/alchemy.png)|![](48/alchemy.png)|![](32/alchemy.png)|![](24/alchemy.png)|![](22/alchemy.png)|![](16/alchemy.png)|
 |**alien-arena**|![](64/alien-arena.png)|![](48/alien-arena.png)|![](32/alien-arena.png)|![](24/alien-arena.png)|![](22/alien-arena.png)|![](16/alien-arena.png)|
@@ -182,7 +181,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-character-map**|![](64/gnome-character-map.png)|![](48/gnome-character-map.png)|![](32/gnome-character-map.png)|![](24/gnome-character-map.png)|![](22/gnome-character-map.png)|![](16/gnome-character-map.png)|
 |**gnome-clocks**|![](64/gnome-clocks.png)|![](48/gnome-clocks.png)|![](32/gnome-clocks.png)|![](24/gnome-clocks.png)|![](22/gnome-clocks.png)|![](16/gnome-clocks.png)|
 |**gnome-contacts**|![](64/gnome-contacts.png)|![](48/gnome-contacts.png)|![](32/gnome-contacts.png)|![](24/gnome-contacts.png)|![](22/gnome-contacts.png)|![](16/gnome-contacts.png)|
-|**gnome-desktop-config**|![](64/gnome-desktop-config.png)|![](48/gnome-desktop-config.png)|![](32/gnome-desktop-config.png)|![](24/gnome-desktop-config.png)|![](22/gnome-desktop-config.png)|![](16/gnome-desktop-config.png)|
 |**gnome-device-manager**|![](64/gnome-device-manager.png)|![](48/gnome-device-manager.png)|![](32/gnome-device-manager.png)|![](24/gnome-device-manager.png)|![](22/gnome-device-manager.png)|![](16/gnome-device-manager.png)|
 |**gnome-display-properties**|![](64/gnome-display-properties.png)|![](48/gnome-display-properties.png)|![](32/gnome-display-properties.png)|![](24/gnome-display-properties.png)|![](22/gnome-display-properties.png)|![](16/gnome-display-properties.png)|
 |**gnome-do**|![](64/gnome-do.png)|![](48/gnome-do.png)|![](32/gnome-do.png)|![](24/gnome-do.png)|![](22/gnome-do.png)|![](16/gnome-do.png)|
@@ -235,7 +233,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-system-monitor**|![](64/gnome-system-monitor.png)|![](48/gnome-system-monitor.png)|![](32/gnome-system-monitor.png)|![](24/gnome-system-monitor.png)|![](22/gnome-system-monitor.png)|![](16/gnome-system-monitor.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
 |**gnome-tetravex**|![](64/gnome-tetravex.png)|![](48/gnome-tetravex.png)|![](32/gnome-tetravex.png)|![](24/gnome-tetravex.png)|![](22/gnome-tetravex.png)|![](16/gnome-tetravex.png)|
-|**gnome-weather**|![](64/gnome-weather.png)|![](48/gnome-weather.png)|![](32/gnome-weather.png)|![](24/gnome-weather.png)|![](22/gnome-weather.png)|![](16/gnome-weather.png)|
 |**gnome-web-browser**|![](64/gnome-web-browser.png)|![](48/gnome-web-browser.png)|![](32/gnome-web-browser.png)|![](24/gnome-web-browser.png)|![](22/gnome-web-browser.png)|![](16/gnome-web-browser.png)|
 |**gnome-window-manager**|![](64/gnome-window-manager.png)|![](48/gnome-window-manager.png)|![](32/gnome-window-manager.png)|![](24/gnome-window-manager.png)|![](22/gnome-window-manager.png)|![](16/gnome-window-manager.png)|
 |**gnome-word**|![](64/gnome-word.png)|![](48/gnome-word.png)|![](32/gnome-word.png)|![](24/gnome-word.png)|![](22/gnome-word.png)|![](16/gnome-word.png)|
@@ -410,7 +407,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**palm-pilot-sync**|![](64/palm-pilot-sync.png)|![](48/palm-pilot-sync.png)|![](32/palm-pilot-sync.png)|![](24/palm-pilot-sync.png)|![](22/palm-pilot-sync.png)|![](16/palm-pilot-sync.png)|
 |**panel**|![](64/panel.png)|![](48/panel.png)|![](32/panel.png)|![](24/panel.png)|![](22/panel.png)|![](16/panel.png)|
 |**panel-searchtool**|![](64/panel-searchtool.png)|![](48/panel-searchtool.png)|![](32/panel-searchtool.png)|![](24/panel-searchtool.png)|![](22/panel-searchtool.png)|![](16/panel-searchtool.png)|
-|**paprefs**|![](64/paprefs.png)|![](48/paprefs.png)|![](32/paprefs.png)|![](24/paprefs.png)|![](22/paprefs.png)|![](16/paprefs.png)|
 |**parole**|![](64/parole.png)|![](48/parole.png)|![](32/parole.png)|![](24/parole.png)|![](22/parole.png)|![](16/parole.png)|
 |**partner**|![](64/partner.png)|![](48/partner.png)|![](32/partner.png)|![](24/partner.png)|![](22/partner.png)|![](16/partner.png)|
 |**pdfmod**|![](64/pdfmod.png)|![](48/pdfmod.png)|![](32/pdfmod.png)|![](24/pdfmod.png)|![](22/pdfmod.png)|![](16/pdfmod.png)|
