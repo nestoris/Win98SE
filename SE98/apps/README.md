@@ -107,6 +107,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**dosbox**|![](64/dosbox.png)|![](48/dosbox.png)|![](32/dosbox.png)|![](24/dosbox.png)|![](22/dosbox.png)|![](16/dosbox.png)|
 |**download-manager**|![](64/download-manager.png)|![](48/download-manager.png)|![](32/download-manager.png)|![](24/download-manager.png)|![](22/download-manager.png)|![](16/download-manager.png)|
 |**drakmenustyle**|![](64/drakmenustyle.png)|![](48/drakmenustyle.png)|![](32/drakmenustyle.png)|![](24/drakmenustyle.png)|![](22/drakmenustyle.png)|![](16/drakmenustyle.png)|
+|**drawing**|![](64/drawing.png)|![](48/drawing.png)|![](32/drawing.png)|![](24/drawing.png)|![](22/drawing.png)|![](16/drawing.png)|
 |**drive-removable-media**|![](64/drive-removable-media.png)|![](48/drive-removable-media.png)|![](32/drive-removable-media.png)|![](24/drive-removable-media.png)|![](22/drive-removable-media.png)|![](16/drive-removable-media.png)|
 |**driver-manager**|![](64/driver-manager.png)|![](48/driver-manager.png)|![](32/driver-manager.png)|![](24/driver-manager.png)|![](22/driver-manager.png)|![](16/driver-manager.png)|
 |**dvdrip**|![](64/dvdrip.png)|![](48/dvdrip.png)|![](32/dvdrip.png)|![](24/dvdrip.png)|![](22/dvdrip.png)|![](16/dvdrip.png)|
