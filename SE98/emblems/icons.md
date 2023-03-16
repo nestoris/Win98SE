@@ -1,6 +1,6 @@
 # Emblems
 
-Total **39** icons in **emblems** context.
+Total **40** icons in **emblems** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|**10x10**|
 |-|-|-|-|-|-|-|-|
@@ -32,6 +32,7 @@ Total **39** icons in **emblems** context.
 |**emblem-package**|![](64/emblem-package.png)|![](48/emblem-package.png)|![](32/emblem-package.png)|![](24/emblem-package.png)|![](22/emblem-package.png)|![](16/emblem-package.png)|![](10/emblem-package.png)|
 |**emblem-photos**|![](64/emblem-photos.png)|![](48/emblem-photos.png)|![](32/emblem-photos.png)|![](24/emblem-photos.png)|![](22/emblem-photos.png)|![](16/emblem-photos.png)|![](10/emblem-photos.png)|
 |**emblem-readonly**|![](64/emblem-readonly.png)|![](48/emblem-readonly.png)|![](32/emblem-readonly.png)|![](24/emblem-readonly.png)|![](22/emblem-readonly.png)|![](16/emblem-readonly.png)|![](10/emblem-readonly.png)|
+|**emblem-scripts**|![](64/emblem-scripts.png)|![](48/emblem-scripts.png)|![](32/emblem-scripts.png)|![](24/emblem-scripts.png)|![](22/emblem-scripts.png)|![](16/emblem-scripts.png)|![](10/emblem-scripts.png)|
 |**emblem-shared-symbolic**|![](64/emblem-shared-symbolic.png)|![](48/emblem-shared.png)<details><summary>*link*</summary>*emblem-shared.png*</details>|![](32/emblem-shared.png)<details><summary>*link*</summary>*emblem-shared.png*</details>|![](24/emblem-shared.png)<details><summary>*link*</summary>*emblem-shared.png*</details>|![](22/emblem-shared.png)<details><summary>*link*</summary>*emblem-shared.png*</details>|![](16/emblem-shared.png)<details><summary>*link*</summary>*emblem-shared.png*</details>|![](10/emblem-shared-symbolic.png)|
 |**emblem-shared**|![](64/emblem-shared.png)|![](48/emblem-shared.png)|![](32/emblem-shared.png)|![](24/emblem-shared.png)|![](22/emblem-shared.png)|![](16/emblem-shared.png)|![](10/emblem-shared.png)|
 |**emblem-symbolic-link**|![](64/emblem-symbolic-link.png)|![](48/emblem-symbolic-link.png)|![](32/emblem-symbolic-link.png)|![](24/emblem-symbolic-link.png)|![](22/emblem-symbolic-link.png)|![](16/emblem-symbolic-link.png)|![](10/emblem-symbolic-link.png)|
