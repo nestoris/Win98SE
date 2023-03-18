@@ -13,7 +13,7 @@ If you want to support but not to send money, download my icon theme from [Pling
 
 ![](SE98/status/16/image-loading.png) The theme is currently in process of creating, so there are some icons from [![](https://raw.githubusercontent.com/shlinux/faenza-icon-theme/master/Faenza/places/16/folder.png) **Faenza**](https://github.com/shlinux/faenza-icon-theme) and [![](https://raw.githubusercontent.com/grassmunk/Chicago95/master/Icons/Chicago95/places/16/folder.png) **Chicago95**](https://github.com/grassmunk/Chicago95) themes in it... I want to turn them into a 98's style someday...
 
-## ![](SE98/apps/64/application-install.png) Installation
+## ![](SE98/mimes/64/application-install.png) Installation
 **Easy ways to install this theme:**
 
 ![](emblems/archlinux.svg) Archlinux and the other distros that based on it:
