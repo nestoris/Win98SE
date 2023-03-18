@@ -554,6 +554,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**terminator**|![](64/terminator.png)|![](48/terminator.png)|![](32/terminator.png)|![](24/terminator.png)|![](22/terminator.png)|![](16/terminator.png)|
 |**text-editor**|![](64/text-editor.png)|![](48/text-editor.png)|![](32/text-editor.png)|![](24/text-editor.png)|![](22/text-editor.png)|![](16/text-editor.png)|
 |**the-board**|![](64/the-board.png)|![](48/the-board.png)|![](32/the-board.png)|![](24/the-board.png)|![](22/the-board.png)|![](16/the-board.png)|
+|**thermal-monitor**|![](64/thermal-monitor.png)|![](48/thermal-monitor.png)|![](32/thermal-monitor.png)|![](24/thermal-monitor.png)|![](22/thermal-monitor.png)|![](16/thermal-monitor.png)|
 |**thunderbird**|![](64/thunderbird.png)|![](48/thunderbird.png)|![](32/thunderbird.png)|![](24/thunderbird.png)|![](22/thunderbird.png)|![](16/thunderbird.png)|
 |**time**|![](64/time.png)|![](48/time.png)|![](32/time.png)|![](24/time.png)|![](22/time.png)|![](16/time.png)|
 |**time-admin**|![](64/time-admin.png)|![](48/time-admin.png)|![](32/time-admin.png)|![](24/time-admin.png)|![](22/time-admin.png)|![](16/time-admin.png)|
