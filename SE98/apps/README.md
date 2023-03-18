@@ -340,7 +340,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mate-notification-properties**|![](64/mate-notification-properties.png)|![](48/mate-notification-properties.png)|![](32/mate-notification-properties.png)|![](24/mate-notification-properties.png)|![](22/mate-notification-properties.png)|![](16/mate-notification-properties.png)|
 |**mate-panel**|![](64/mate-panel.png)|![](48/mate-panel.png)|![](32/mate-panel.png)|![](24/mate-panel.png)|![](22/mate-panel.png)|![](16/mate-panel.png)|
 |**mate-panel-clock**|![](64/mate-panel-clock.png)|![](48/mate-panel-clock.png)|![](32/mate-panel-clock.png)|![](24/mate-panel-clock.png)|![](22/mate-panel-clock.png)|![](16/mate-panel-clock.png)|
-|**mate-panel-launcher**|![](64/mate-panel-launcher.png)|![](48/mate-panel-launcher.png)|![](32/mate-panel-launcher.png)|![](24/mate-panel-launcher.png)|![](22/mate-panel-launcher.png)|![](16/mate-panel-launcher.png)|
 |**mate-tweak**|![](64/mate-tweak.png)|![](48/mate-tweak.png)|![](32/mate-tweak.png)|![](24/mate-tweak.png)|![](22/mate-tweak.png)|![](16/mate-tweak.png)|
 |**media-player-48**|![](64/media-player-48.png)|![](48/media-player-48.png)|![](32/media-player-48.png)|![](24/media-player-48.png)|![](22/media-player-48.png)|![](16/media-player-48.png)|
 |**meld**|![](64/meld.png)|![](48/meld.png)|![](32/meld.png)|![](24/meld.png)|![](22/meld.png)|![](16/meld.png)|
