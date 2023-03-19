@@ -386,4 +386,4 @@
 |**application-geo+json**|![]()|![](SE98/mimes/96/application-x-gpx.png)|![](SE98/mimes/72/application-x-gpx.png)|![](SE98/mimes/64/application-x-gpx.png)|![](SE98/mimes/48/application-x-gpx.png)|![](SE98/mimes/32/application-x-gpx.png)|![](SE98/mimes/24/application-x-gpx.png)|![](SE98/mimes/22/application-x-gpx.png)|![](SE98/mimes/16/application-x-gpx.png)|
 |**mate-panel**|![]()|![]()|![]()|![](SE98/apps/64/mate-panel.png)|![](SE98/apps/48/mate-panel.png)|![](SE98/apps/32/mate-panel.png)|![](SE98/apps/24/mate-panel.png)|![](SE98/apps/22/mate-panel.png)|![](SE98/apps/16/mate-panel.png)|
 |**putty**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**parole**|![]()|![]()|![]()|![](SE98/apps/64/totem.png)|![](SE98/apps/48/multimedia-video-player.png)|![](SE98/apps/32/parole.png)|![]()|![](SE98/apps/22/totem.png)|![](SE98/apps/16/parole.png)|
+|**parole**|![]()|![]()|![]()|![](SE98/apps/64/multimedia-video-player.png)|![](SE98/apps/48/multimedia-video-player.png)|![](SE98/apps/32/parole.png)|![]()|![](SE98/apps/22/totem.png)|![](SE98/apps/16/parole.png)|

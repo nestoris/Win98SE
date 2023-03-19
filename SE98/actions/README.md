@@ -328,6 +328,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|
 |**window-restore**|![](64/window-restore.png)|![](48/window-restore.png)|![](32/window-restore.png)|![](24/window-restore.png)|![](22/window-restore.png)|![](16/window-restore.png)|
+|**window-unpin**|![](64/window-unpin.png)|![](48/window-unpin.png)|![](32/window-unpin.png)|![](24/window-unpin.png)|![](22/window-unpin.png)|![](16/window-unpin.png)|
 |**xfburn-burn-cd**|![](64/xfburn-burn-cd.png)|![](48/xfburn-burn-cd.png)|![](32/xfburn-burn-cd.png)|![](24/xfburn-burn-cd.png)|![](22/xfburn-burn-cd.png)|![](16/xfburn-burn-cd.png)|
 |**xfsm-switch-user**|![](64/xfsm-switch-user.png)|![](48/xfsm-switch-user.png)|![](32/xfsm-switch-user.png)|![](24/xfsm-switch-user.png)|![](22/xfsm-switch-user.png)|![](16/xfsm-switch-user.png)|
 |**zoom-fit**|![](64/zoom-fit.png)|![](48/zoom-fit.png)|![](32/zoom-fit.png)|![](24/zoom-fit.png)|![](22/zoom-fit.png)|![](16/zoom-fit.png)|
