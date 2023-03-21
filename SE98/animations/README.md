@@ -1,5 +1,5 @@
 # Animations
-Only the main icons are shown here (without symlinked duplicates, in sizes from 10x10 to 48x48).<br>The full icon list with sizes 10x10 to 128x128 is there: [icons.md](icons.md)
+Only the main icons are shown here (without symlinked duplicates, in sizes from 10x10 to 48x48).<br>The full icon list with sizes from 10x10 to 128x128 is there: [icons.md](icons.md)
 
 | |**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|**10x10**|
 |-|-|-|-|-|-|-|
