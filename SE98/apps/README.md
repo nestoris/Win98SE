@@ -548,6 +548,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**thunderbird**|![](64/thunderbird.png)|![](48/thunderbird.png)|![](32/thunderbird.png)|![](24/thunderbird.png)|![](22/thunderbird.png)|![](16/thunderbird.png)|
 |**time**|![](64/time.png)|![](48/time.png)|![](32/time.png)|![](24/time.png)|![](22/time.png)|![](16/time.png)|
 |**time-admin**|![](64/time-admin.png)|![](48/time-admin.png)|![](32/time-admin.png)|![](24/time-admin.png)|![](22/time-admin.png)|![](16/time-admin.png)|
+|**timeshift**|![](64/timeshift.png)|![](48/timeshift.png)|![](32/timeshift.png)|![](24/timeshift.png)|![](22/timeshift.png)|![](16/timeshift.png)|
 |**torcs**|![](64/torcs.png)|![](48/torcs.png)|![](32/torcs.png)|![](24/torcs.png)|![](22/torcs.png)|![](16/torcs.png)|
 |**totem**|![](64/totem.png)|![](48/totem.png)|![](32/totem.png)|![](24/totem.png)|![](22/totem.png)|![](16/totem.png)|
 |**tracker**|![](64/tracker.png)|![](48/tracker.png)|![](32/tracker.png)|![](24/tracker.png)|![](22/tracker.png)|![](16/tracker.png)|
