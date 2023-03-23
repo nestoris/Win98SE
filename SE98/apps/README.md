@@ -107,14 +107,11 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**download-manager**|![](64/download-manager.png)|![](48/download-manager.png)|![](32/download-manager.png)|![](24/download-manager.png)|![](22/download-manager.png)|![](16/download-manager.png)|
 |**drakmenustyle**|![](64/drakmenustyle.png)|![](48/drakmenustyle.png)|![](32/drakmenustyle.png)|![](24/drakmenustyle.png)|![](22/drakmenustyle.png)|![](16/drakmenustyle.png)|
 |**drawing**|![](64/drawing.png)|![](48/drawing.png)|![](32/drawing.png)|![](24/drawing.png)|![](22/drawing.png)|![](16/drawing.png)|
-|**drive-removable-media**|![](64/drive-removable-media.png)|![](48/drive-removable-media.png)|![](32/drive-removable-media.png)|![](24/drive-removable-media.png)|![](22/drive-removable-media.png)|![](16/drive-removable-media.png)|
 |**driver-manager**|![](64/driver-manager.png)|![](48/driver-manager.png)|![](32/driver-manager.png)|![](24/driver-manager.png)|![](22/driver-manager.png)|![](16/driver-manager.png)|
 |**dvdrip**|![](64/dvdrip.png)|![](48/dvdrip.png)|![](32/dvdrip.png)|![](24/dvdrip.png)|![](22/dvdrip.png)|![](16/dvdrip.png)|
 |**eagle**|![](64/eagle.png)|![](48/eagle.png)|![](32/eagle.png)|![](24/eagle.png)|![](22/eagle.png)|![](16/eagle.png)|
 |**easytag**|![](64/easytag.png)|![](48/easytag.png)|![](32/easytag.png)|![](24/easytag.png)|![](22/easytag.png)|![](16/easytag.png)|
 |**eclipse**|![](64/eclipse.png)|![](48/eclipse.png)|![](32/eclipse.png)|![](24/eclipse.png)|![](22/eclipse.png)|![](16/eclipse.png)|
-|**edit-urpm-sources**|![](64/edit-urpm-sources.png)|![](48/edit-urpm-sources.png)|![](32/edit-urpm-sources.png)|![](24/edit-urpm-sources.png)|![](22/edit-urpm-sources.png)|![](16/edit-urpm-sources.png)|
-|**eject_pc_cool_6_48x48x4**|![](64/eject_pc_cool_6_48x48x4.png)|![](48/eject_pc_cool_6_48x48x4.png)|![](32/eject_pc_cool_6_48x48x4.png)|![](24/eject_pc_cool_6_48x48x4.png)|![](22/eject_pc_cool_6_48x48x4.png)|![](16/eject_pc_cool_6_48x48x4.png)|
 |**ejecter**|![](64/ejecter.png)|![](48/ejecter.png)|![](32/ejecter.png)|![](24/ejecter.png)|![](22/ejecter.png)|![](16/ejecter.png)|
 |**ekiga**|![](64/ekiga.png)|![](48/ekiga.png)|![](32/ekiga.png)|![](24/ekiga.png)|![](22/ekiga.png)|![](16/ekiga.png)|
 |**emacs**|![](64/emacs.png)|![](48/emacs.png)|![](32/emacs.png)|![](24/emacs.png)|![](22/emacs.png)|![](16/emacs.png)|
@@ -150,7 +147,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**frozen-bubble**|![](64/frozen-bubble.png)|![](48/frozen-bubble.png)|![](32/frozen-bubble.png)|![](24/frozen-bubble.png)|![](22/frozen-bubble.png)|![](16/frozen-bubble.png)|
 |**fusion-icon**|![](64/fusion-icon.png)|![](48/fusion-icon.png)|![](32/fusion-icon.png)|![](24/fusion-icon.png)|![](22/fusion-icon.png)|![](16/fusion-icon.png)|
 |**gajim**|![](64/gajim.png)|![](48/gajim.png)|![](32/gajim.png)|![](24/gajim.png)|![](22/gajim.png)|![](16/gajim.png)|
-|**galeon**|![](64/galeon.png)|![](48/galeon.png)|![](32/galeon.png)|![](24/galeon.png)|![](22/galeon.png)|![](16/galeon.png)|
 |**gbrainy**|![](64/gbrainy.png)|![](48/gbrainy.png)|![](32/gbrainy.png)|![](24/gbrainy.png)|![](22/gbrainy.png)|![](16/gbrainy.png)|
 |**gcolor2**|![](64/gcolor2.png)|![](48/gcolor2.png)|![](32/gcolor2.png)|![](24/gcolor2.png)|![](22/gcolor2.png)|![](16/gcolor2.png)|
 |**gconf-cleaner**|![](64/gconf-cleaner.png)|![](48/gconf-cleaner.png)|![](32/gconf-cleaner.png)|![](24/gconf-cleaner.png)|![](22/gconf-cleaner.png)|![](16/gconf-cleaner.png)|
