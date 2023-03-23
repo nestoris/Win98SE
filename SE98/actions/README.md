@@ -294,7 +294,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**text-edit**|![](64/text-edit.png)|![](48/text-edit.png)|![](32/text-edit.png)|![](24/text-edit.png)|![](22/text-edit.png)|![](16/text-edit.png)|
 |**text_italic**|![](64/text_italic.png)|![](48/text_italic.png)|![](32/text_italic.png)|![](24/text_italic.png)|![](22/text_italic.png)|![](16/text_italic.png)|
 |**tool-measure**|![](64/tool-measure.png)|![](48/tool-measure.png)|![](32/tool-measure.png)|![](24/tool-measure.png)|![](22/tool-measure.png)|![](16/tool-measure.png)|
-|**tool-measure-symbolic**|![](64/tool-measure-symbolic.png)|![](48/tool-measure-symbolic.png)|![](32/tool-measure-symbolic.png)|![](24/tool-measure-symbolic.png)|![](22/tool-measure-symbolic.png)|![](16/tool-measure-symbolic.png)|
 |**tool-node-editor**|![](64/tool-node-editor.png)|![](48/tool-node-editor.png)|![](32/tool-node-editor.png)|![](24/tool-node-editor.png)|![](22/tool-node-editor.png)|![](16/tool-node-editor.png)|
 |**tools-check-spelling**|![](64/tools-check-spelling.png)|![](48/tools-check-spelling.png)|![](32/tools-check-spelling.png)|![](24/tools-check-spelling.png)|![](22/tools-check-spelling.png)|![](16/tools-check-spelling.png)|
 |**transform-rotate**|![](64/transform-rotate.png)|![](48/transform-rotate.png)|![](32/transform-rotate.png)|![](24/transform-rotate.png)|![](22/transform-rotate.png)|![](16/transform-rotate.png)|
