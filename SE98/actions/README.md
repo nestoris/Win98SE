@@ -106,11 +106,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**go-jump**|![](64/go-jump.png)|![](48/go-jump.png)|![](32/go-jump.png)|![](24/go-jump.png)|![](22/go-jump.png)|![](16/go-jump.png)|
 |**go-last**|![](64/go-last.png)|![](48/go-last.png)|![](32/go-last.png)|![](24/go-last.png)|![](22/go-last.png)|![](16/go-last.png)|
 |**go-next**|![](64/go-next.png)|![](48/go-next.png)|![](32/go-next.png)|![](24/go-next.png)|![](22/go-next.png)|![](16/go-next.png)|
-|**go-next-rtl-symbolic**|![](64/go-next-rtl-symbolic.png)|![](48/go-next-rtl-symbolic.png)|![](32/go-next-rtl-symbolic.png)|![](24/go-next-rtl-symbolic.png)|![](22/go-next-rtl-symbolic.png)|![](16/go-next-rtl-symbolic.png)|
-|**go-next-symbolic-rtl**|![](64/go-next-symbolic-rtl.png)|![](48/go-next-symbolic-rtl.png)|![](32/go-next-symbolic-rtl.png)|![](24/go-next-symbolic-rtl.png)|![](22/go-next-symbolic-rtl.png)|![](16/go-next-symbolic-rtl.png)|
 |**go-previous**|![](64/go-previous.png)|![](48/go-previous.png)|![](32/go-previous.png)|![](24/go-previous.png)|![](22/go-previous.png)|![](16/go-previous.png)|
-|**go-previous-rtl-symbolic**|![](64/go-previous-rtl-symbolic.png)|![](48/go-previous-rtl-symbolic.png)|![](32/go-previous-rtl-symbolic.png)|![](24/go-previous-rtl-symbolic.png)|![](22/go-previous-rtl-symbolic.png)|![](16/go-previous-rtl-symbolic.png)|
-|**go-previous-symbolic-rtl**|![](64/go-previous-symbolic-rtl.png)|![](48/go-previous-symbolic-rtl.png)|![](32/go-previous-symbolic-rtl.png)|![](24/go-previous-symbolic-rtl.png)|![](22/go-previous-symbolic-rtl.png)|![](16/go-previous-symbolic-rtl.png)|
 |**go-top**|![](64/go-top.png)|![](48/go-top.png)|![](32/go-top.png)|![](24/go-top.png)|![](22/go-top.png)|![](16/go-top.png)|
 |**go-up**|![](64/go-up.png)|![](48/go-up.png)|![](32/go-up.png)|![](24/go-up.png)|![](22/go-up.png)|![](16/go-up.png)|
 |**gtk-edit**|![](64/gtk-edit.png)|![](48/gtk-edit.png)|![](32/gtk-edit.png)|![](24/gtk-edit.png)|![](22/gtk-edit.png)|![](16/gtk-edit.png)|
@@ -124,11 +120,9 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gtk-print-paused**|![](64/gtk-print-paused.png)|![](48/gtk-print-paused.png)|![](32/gtk-print-paused.png)|![](24/gtk-print-paused.png)|![](22/gtk-print-paused.png)|![](16/gtk-print-paused.png)|
 |**gtk-print-report**|![](64/gtk-print-report.png)|![](48/gtk-print-report.png)|![](32/gtk-print-report.png)|![](24/gtk-print-report.png)|![](22/gtk-print-report.png)|![](16/gtk-print-report.png)|
 |**gtk-print-warning**|![](64/gtk-print-warning.png)|![](48/gtk-print-warning.png)|![](32/gtk-print-warning.png)|![](24/gtk-print-warning.png)|![](22/gtk-print-warning.png)|![](16/gtk-print-warning.png)|
-|**gtk-redo-ltr**|![](64/gtk-redo-ltr.png)|![](48/gtk-redo-ltr.png)|![](32/gtk-redo-ltr.png)|![](24/gtk-redo-ltr.png)|![](22/gtk-redo-ltr.png)|![](16/gtk-redo-ltr.png)|
 |**gtk-revert-to-saved-ltr**|![](64/gtk-revert-to-saved-ltr.png)|![](48/gtk-revert-to-saved-ltr.png)|![](32/gtk-revert-to-saved-ltr.png)|![](24/gtk-revert-to-saved-ltr.png)|![](22/gtk-revert-to-saved-ltr.png)|![](16/gtk-revert-to-saved-ltr.png)|
 |**gtk-search**|![](64/gtk-search.png)|![](48/gtk-search.png)|![](32/gtk-search.png)|![](24/gtk-search.png)|![](22/gtk-search.png)|![](16/gtk-search.png)|
 |**gtk-spell-check**|![](64/gtk-spell-check.png)|![](48/gtk-spell-check.png)|![](32/gtk-spell-check.png)|![](24/gtk-spell-check.png)|![](22/gtk-spell-check.png)|![](16/gtk-spell-check.png)|
-|**gtk-undo-ltr**|![](64/gtk-undo-ltr.png)|![](48/gtk-undo-ltr.png)|![](32/gtk-undo-ltr.png)|![](24/gtk-undo-ltr.png)|![](22/gtk-undo-ltr.png)|![](16/gtk-undo-ltr.png)|
 |**gtk-zoom-out**|![](64/gtk-zoom-out.png)|![](48/gtk-zoom-out.png)|![](32/gtk-zoom-out.png)|![](24/gtk-zoom-out.png)|![](22/gtk-zoom-out.png)|![](16/gtk-zoom-out.png)|
 |**help-about**|![](64/help-about.png)|![](48/help-about.png)|![](32/help-about.png)|![](24/help-about.png)|![](22/help-about.png)|![](16/help-about.png)|
 |**help-faq**|![](64/help-faq.png)|![](48/help-faq.png)|![](32/help-faq.png)|![](24/help-faq.png)|![](22/help-faq.png)|![](16/help-faq.png)|
