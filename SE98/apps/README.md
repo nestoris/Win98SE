@@ -52,7 +52,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**avant-window-navigator**|![](64/avant-window-navigator.png)|![](48/avant-window-navigator.png)|![](32/avant-window-navigator.png)|![](24/avant-window-navigator.png)|![](22/avant-window-navigator.png)|![](16/avant-window-navigator.png)|
 |**awn-settings**|![](64/awn-settings.png)|![](48/awn-settings.png)|![](32/awn-settings.png)|![](24/awn-settings.png)|![](22/awn-settings.png)|![](16/awn-settings.png)|
 |**background**|![](64/background.png)|![](48/background.png)|![](32/background.png)|![](24/background.png)|![](22/background.png)|![](16/background.png)|
-|**baobab**|![](64/baobab.png)|![](48/baobab.png)|![](32/baobab.png)|![](24/baobab.png)|![](22/baobab.png)|![](16/baobab.png)|
 |**bazaar**|![](64/bazaar.png)|![](48/bazaar.png)|![](32/bazaar.png)|![](24/bazaar.png)|![](22/bazaar.png)|![](16/bazaar.png)|
 |**beryl-settings**|![](64/beryl-settings.png)|![](48/beryl-settings.png)|![](32/beryl-settings.png)|![](24/beryl-settings.png)|![](22/beryl-settings.png)|![](16/beryl-settings.png)|
 |**blender**|![](64/blender.png)|![](48/blender.png)|![](32/blender.png)|![](24/blender.png)|![](22/blender.png)|![](16/blender.png)|
