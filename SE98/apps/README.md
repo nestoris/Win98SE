@@ -17,7 +17,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**WorldofPadman**|![](64/WorldofPadman.png)|![](48/WorldofPadman.png)|![](32/WorldofPadman.png)|![](24/WorldofPadman.png)|![](22/WorldofPadman.png)|![](16/WorldofPadman.png)|
 |**a4**|![](64/a4.png)|![](48/a4.png)|![](32/a4.png)|![](24/a4.png)|![](22/a4.png)|![](16/a4.png)|
 |**abiword**|![](64/abiword.png)|![](48/abiword.png)|![](32/abiword.png)|![](24/abiword.png)|![](22/abiword.png)|![](16/abiword.png)|
-|**abiword_32**|![](64/abiword_32.png)|![](48/abiword_32.png)|![](32/abiword_32.png)|![](24/abiword_32.png)|![](22/abiword_32.png)|![](16/abiword_32.png)|
 |**access**|![](64/access.png)|![](48/access.png)|![](32/access.png)|![](24/access.png)|![](22/access.png)|![](16/access.png)|
 |**accessibility-directory**|![](64/accessibility-directory.png)|![](48/accessibility-directory.png)|![](32/accessibility-directory.png)|![](24/accessibility-directory.png)|![](22/accessibility-directory.png)|![](16/accessibility-directory.png)|
 |**accessories-calculator**|![](64/accessories-calculator.png)|![](48/accessories-calculator.png)|![](32/accessories-calculator.png)|![](24/accessories-calculator.png)|![](22/accessories-calculator.png)|![](16/accessories-calculator.png)|
@@ -400,7 +399,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**palm-pilot-sync**|![](64/palm-pilot-sync.png)|![](48/palm-pilot-sync.png)|![](32/palm-pilot-sync.png)|![](24/palm-pilot-sync.png)|![](22/palm-pilot-sync.png)|![](16/palm-pilot-sync.png)|
 |**panel**|![](64/panel.png)|![](48/panel.png)|![](32/panel.png)|![](24/panel.png)|![](22/panel.png)|![](16/panel.png)|
 |**panel-searchtool**|![](64/panel-searchtool.png)|![](48/panel-searchtool.png)|![](32/panel-searchtool.png)|![](24/panel-searchtool.png)|![](22/panel-searchtool.png)|![](16/panel-searchtool.png)|
-|**parole**|![](64/parole.png)|![](48/parole.png)|![](32/parole.png)|![](24/parole.png)|![](22/parole.png)|![](16/parole.png)|
 |**partner**|![](64/partner.png)|![](48/partner.png)|![](32/partner.png)|![](24/partner.png)|![](22/partner.png)|![](16/partner.png)|
 |**pdfmod**|![](64/pdfmod.png)|![](48/pdfmod.png)|![](32/pdfmod.png)|![](24/pdfmod.png)|![](22/pdfmod.png)|![](16/pdfmod.png)|
 |**pdfshuffler**|![](64/pdfshuffler.png)|![](48/pdfshuffler.png)|![](32/pdfshuffler.png)|![](24/pdfshuffler.png)|![](22/pdfshuffler.png)|![](16/pdfshuffler.png)|
