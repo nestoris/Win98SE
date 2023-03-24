@@ -32,7 +32,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**block-device**|![](64/block-device.png)|![](48/block-device.png)|![](32/block-device.png)|![](24/block-device.png)|![](22/block-device.png)|![](16/block-device.png)|
 |**blueman-loudspeaker**|![](64/blueman-loudspeaker.png)|![](48/blueman-loudspeaker.png)|![](32/blueman-loudspeaker.png)|![](24/blueman-loudspeaker.png)|![](22/blueman-loudspeaker.png)|![](16/blueman-loudspeaker.png)|
 |**blueman-serial**|![](64/blueman-serial.png)|![](48/blueman-serial.png)|![](32/blueman-serial.png)|![](24/blueman-serial.png)|![](22/blueman-serial.png)|![](16/blueman-serial.png)|
-|**camera**|![](64/camera.png)|![](48/camera.png)|![](32/camera.png)|![](24/camera.png)|![](22/camera.png)|![](16/camera.png)|
 |**camera-photo**|![](64/camera-photo.png)|![](48/camera-photo.png)|![](32/camera-photo.png)|![](24/camera-photo.png)|![](22/camera-photo.png)|![](16/camera-photo.png)|
 |**camera-video**|![](64/camera-video.png)|![](48/camera-video.png)|![](32/camera-video.png)|![](24/camera-video.png)|![](22/camera-video.png)|![](16/camera-video.png)|
 |**camera-web**|![](64/camera-web.png)|![](48/camera-web.png)|![](32/camera-web.png)|![](24/camera-web.png)|![](22/camera-web.png)|![](16/camera-web.png)|
