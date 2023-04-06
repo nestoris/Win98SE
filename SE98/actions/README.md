@@ -260,7 +260,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_mailto**|![](64/stock_mailto.png)|![](48/stock_mailto.png)|![](32/stock_mailto.png)|![](24/stock_mailto.png)|![](22/stock_mailto.png)|![](16/stock_mailto.png)|
 |**stock_media-fwd**|![](64/stock_media-fwd.png)|![](48/stock_media-fwd.png)|![](32/stock_media-fwd.png)|![](24/stock_media-fwd.png)|![](22/stock_media-fwd.png)|![](16/stock_media-fwd.png)|
 |**stock_navigator**|![](64/stock_navigator.png)|![](48/stock_navigator.png)|![](32/stock_navigator.png)|![](24/stock_navigator.png)|![](22/stock_navigator.png)|![](16/stock_navigator.png)|
-|**stock_new-address-book**|![](64/stock_new-address-book.png)|![](48/stock_new-address-book.png)|![](32/stock_new-address-book.png)|![](24/stock_new-address-book.png)|![](22/stock_new-address-book.png)|![](16/stock_new-address-book.png)|
 |**stock_new-vcard**|![](64/stock_new-vcard.png)|![](48/stock_new-vcard.png)|![](32/stock_new-vcard.png)|![](24/stock_new-vcard.png)|![](22/stock_new-vcard.png)|![](16/stock_new-vcard.png)|
 |**stock_not**|![](64/stock_not.png)|![](48/stock_not.png)|![](32/stock_not.png)|![](24/stock_not.png)|![](22/stock_not.png)|![](16/stock_not.png)|
 |**stock_scores**|![](64/stock_scores.png)|![](48/stock_scores.png)|![](32/stock_scores.png)|![](24/stock_scores.png)|![](22/stock_scores.png)|![](16/stock_scores.png)|
