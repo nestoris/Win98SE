@@ -290,8 +290,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**jamendo**|![](64/jamendo.png)|![](48/jamendo.png)|![](32/jamendo.png)|![](24/jamendo.png)|![](22/jamendo.png)|![](16/jamendo.png)|
 |**jamin**|![](64/jamin.png)|![](48/jamin.png)|![](32/jamin.png)|![](24/jamin.png)|![](22/jamin.png)|![](16/jamin.png)|
 |**jdownloader**|![](64/jdownloader.png)|![](48/jdownloader.png)|![](32/jdownloader.png)|![](24/jdownloader.png)|![](22/jdownloader.png)|![](16/jdownloader.png)|
-|**jockey**|![](64/jockey.png)|![](48/jockey.png)|![](32/jockey.png)|![](24/jockey.png)|![](22/jockey.png)|![](16/jockey.png)|
-|**jockey-kde**|![](64/jockey-kde.png)|![](48/jockey-kde.png)|![](32/jockey-kde.png)|![](24/jockey-kde.png)|![](22/jockey-kde.png)|![](16/jockey-kde.png)|
 |**jokosher**|![](64/jokosher.png)|![](48/jokosher.png)|![](32/jokosher.png)|![](24/jokosher.png)|![](22/jokosher.png)|![](16/jokosher.png)|
 |**kadu**|![](64/kadu.png)|![](48/kadu.png)|![](32/kadu.png)|![](24/kadu.png)|![](22/kadu.png)|![](16/kadu.png)|
 |**kcharselect**|![](64/kcharselect.png)|![](48/kcharselect.png)|![](32/kcharselect.png)|![](24/kcharselect.png)|![](22/kcharselect.png)|![](16/kcharselect.png)|
