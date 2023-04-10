@@ -127,7 +127,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**network-vpn**|![](64/network-vpn.png)|![](48/network-vpn.png)|![](32/network-vpn.png)|![](24/network-vpn.png)|![](22/network-vpn.png)|![](16/network-vpn.png)|
 |**network-wired**|![](64/network-wired.png)|![](48/network-wired.png)|![](32/network-wired.png)|![](24/network-wired.png)|![](22/network-wired.png)|![](16/network-wired.png)|
 |**network-wired-disconnected**|![](64/network-wired-disconnected.png)|![](48/network-wired-disconnected.png)|![](32/network-wired-disconnected.png)|![](24/network-wired-disconnected.png)|![](22/network-wired-disconnected.png)|![](16/network-wired-disconnected.png)|
-|**network-wired-symbolic**|![](64/network-wired-symbolic.png)|![](48/network-wired-symbolic.png)|![](32/network-wired-symbolic.png)|![](24/network-wired-symbolic.png)|![](22/network-wired-symbolic.png)|![](16/network-wired-symbolic.png)|
 |**network-wireless**|![](64/network-wireless.png)|![](48/network-wireless.png)|![](32/network-wireless.png)|![](24/network-wireless.png)|![](22/network-wireless.png)|![](16/network-wireless.png)|
 |**network-wireless-hotspot**|![](64/network-wireless-hotspot.png)|![](48/network-wireless-hotspot.png)|![](32/network-wireless-hotspot.png)|![](24/network-wireless-hotspot.png)|![](22/network-wireless-hotspot.png)|![](16/network-wireless-hotspot.png)|
 |**phone**|![](64/phone.png)|![](48/phone.png)|![](32/phone.png)|![](24/phone.png)|![](22/phone.png)|![](16/phone.png)|

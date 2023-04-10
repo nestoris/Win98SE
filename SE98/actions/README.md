@@ -111,11 +111,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**go-up**|![](64/go-up.png)|![](48/go-up.png)|![](32/go-up.png)|![](24/go-up.png)|![](22/go-up.png)|![](16/go-up.png)|
 |**gtk-edit**|![](64/gtk-edit.png)|![](48/gtk-edit.png)|![](32/gtk-edit.png)|![](24/gtk-edit.png)|![](22/gtk-edit.png)|![](16/gtk-edit.png)|
 |**gtk-info**|![](64/gtk-info.png)|![](48/gtk-info.png)|![](32/gtk-info.png)|![](24/gtk-info.png)|![](22/gtk-info.png)|![](16/gtk-info.png)|
-|**gtk-media-forward-ltr**|![](64/gtk-media-forward-ltr.png)|![](48/gtk-media-forward-ltr.png)|![](32/gtk-media-forward-ltr.png)|![](24/gtk-media-forward-ltr.png)|![](22/gtk-media-forward-ltr.png)|![](16/gtk-media-forward-ltr.png)|
-|**gtk-media-forward-rtl**|![](64/gtk-media-forward-rtl.png)|![](48/gtk-media-forward-rtl.png)|![](32/gtk-media-forward-rtl.png)|![](24/gtk-media-forward-rtl.png)|![](22/gtk-media-forward-rtl.png)|![](16/gtk-media-forward-rtl.png)|
-|**gtk-media-previous-rtl**|![](64/gtk-media-previous-rtl.png)|![](48/gtk-media-previous-rtl.png)|![](32/gtk-media-previous-rtl.png)|![](24/gtk-media-previous-rtl.png)|![](22/gtk-media-previous-rtl.png)|![](16/gtk-media-previous-rtl.png)|
-|**gtk-media-rewind-ltr**|![](64/gtk-media-rewind-ltr.png)|![](48/gtk-media-rewind-ltr.png)|![](32/gtk-media-rewind-ltr.png)|![](24/gtk-media-rewind-ltr.png)|![](22/gtk-media-rewind-ltr.png)|![](16/gtk-media-rewind-ltr.png)|
-|**gtk-media-rewind-rtl**|![](64/gtk-media-rewind-rtl.png)|![](48/gtk-media-rewind-rtl.png)|![](32/gtk-media-rewind-rtl.png)|![](24/gtk-media-rewind-rtl.png)|![](22/gtk-media-rewind-rtl.png)|![](16/gtk-media-rewind-rtl.png)|
 |**gtk-print-error**|![](64/gtk-print-error.png)|![](48/gtk-print-error.png)|![](32/gtk-print-error.png)|![](24/gtk-print-error.png)|![](22/gtk-print-error.png)|![](16/gtk-print-error.png)|
 |**gtk-print-paused**|![](64/gtk-print-paused.png)|![](48/gtk-print-paused.png)|![](32/gtk-print-paused.png)|![](24/gtk-print-paused.png)|![](22/gtk-print-paused.png)|![](16/gtk-print-paused.png)|
 |**gtk-print-report**|![](64/gtk-print-report.png)|![](48/gtk-print-report.png)|![](32/gtk-print-report.png)|![](24/gtk-print-report.png)|![](22/gtk-print-report.png)|![](16/gtk-print-report.png)|
@@ -211,7 +206,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**object-straighten**|![](64/object-straighten.png)|![](48/object-straighten.png)|![](32/object-straighten.png)|![](24/object-straighten.png)|![](22/object-straighten.png)|![](16/object-straighten.png)|
 |**object-to-path**|![](64/object-to-path.png)|![](48/object-to-path.png)|![](32/object-to-path.png)|![](24/object-to-path.png)|![](22/object-to-path.png)|![](16/object-to-path.png)|
 |**object-ungroup**|![](64/object-ungroup.png)|![](48/object-ungroup.png)|![](32/object-ungroup.png)|![](24/object-ungroup.png)|![](22/object-ungroup.png)|![](16/object-ungroup.png)|
-|**open-menu**|![](64/open-menu.png)|![](48/open-menu.png)|![](32/open-menu.png)|![](24/open-menu.png)|![](22/open-menu.png)|![](16/open-menu.png)|
 |**package-available**|![](64/package-available.png)|![](48/package-available.png)|![](32/package-available.png)|![](24/package-available.png)|![](22/package-available.png)|![](16/package-available.png)|
 |**package-available-locked**|![](64/package-available-locked.png)|![](48/package-available-locked.png)|![](32/package-available-locked.png)|![](24/package-available-locked.png)|![](22/package-available-locked.png)|![](16/package-available-locked.png)|
 |**package-available-new**|![](64/package-available-new.png)|![](48/package-available-new.png)|![](32/package-available-new.png)|![](24/package-available-new.png)|![](22/package-available-new.png)|![](16/package-available-new.png)|
@@ -237,9 +231,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pan-up**|![](64/pan-up.png)|![](48/pan-up.png)|![](32/pan-up.png)|![](24/pan-up.png)|![](22/pan-up.png)|![](16/pan-up.png)|
 |**pane-hide**|![](64/pane-hide.png)|![](48/pane-hide.png)|![](32/pane-hide.png)|![](24/pane-hide.png)|![](22/pane-hide.png)|![](16/pane-hide.png)|
 |**pane-show**|![](64/pane-show.png)|![](48/pane-show.png)|![](32/pane-show.png)|![](24/pane-show.png)|![](22/pane-show.png)|![](16/pane-show.png)|
-|**player_eject**|![](64/player_eject.png)|![](48/player_eject.png)|![](32/player_eject.png)|![](24/player_eject.png)|![](22/player_eject.png)|![](16/player_eject.png)|
-|**player_fwd**|![](64/player_fwd.png)|![](48/player_fwd.png)|![](32/player_fwd.png)|![](24/player_fwd.png)|![](22/player_fwd.png)|![](16/player_fwd.png)|
-|**player_stop**|![](64/player_stop.png)|![](48/player_stop.png)|![](32/player_stop.png)|![](24/player_stop.png)|![](22/player_stop.png)|![](16/player_stop.png)|
 |**podcast-new**|![](64/podcast-new.png)|![](48/podcast-new.png)|![](32/podcast-new.png)|![](24/podcast-new.png)|![](22/podcast-new.png)|![](16/podcast-new.png)|
 |**process-stop**|![](64/process-stop.png)|![](48/process-stop.png)|![](32/process-stop.png)|![](24/process-stop.png)|![](22/process-stop.png)|![](16/process-stop.png)|
 |**segment-curve**|![](64/segment-curve.png)|![](48/segment-curve.png)|![](32/segment-curve.png)|![](24/segment-curve.png)|![](22/segment-curve.png)|![](16/segment-curve.png)|
@@ -258,7 +249,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_insert-note**|![](64/stock_insert-note.png)|![](48/stock_insert-note.png)|![](32/stock_insert-note.png)|![](24/stock_insert-note.png)|![](22/stock_insert-note.png)|![](16/stock_insert-note.png)|
 |**stock_mail-compose**|![](64/stock_mail-compose.png)|![](48/stock_mail-compose.png)|![](32/stock_mail-compose.png)|![](24/stock_mail-compose.png)|![](22/stock_mail-compose.png)|![](16/stock_mail-compose.png)|
 |**stock_mailto**|![](64/stock_mailto.png)|![](48/stock_mailto.png)|![](32/stock_mailto.png)|![](24/stock_mailto.png)|![](22/stock_mailto.png)|![](16/stock_mailto.png)|
-|**stock_media-fwd**|![](64/stock_media-fwd.png)|![](48/stock_media-fwd.png)|![](32/stock_media-fwd.png)|![](24/stock_media-fwd.png)|![](22/stock_media-fwd.png)|![](16/stock_media-fwd.png)|
 |**stock_navigator**|![](64/stock_navigator.png)|![](48/stock_navigator.png)|![](32/stock_navigator.png)|![](24/stock_navigator.png)|![](22/stock_navigator.png)|![](16/stock_navigator.png)|
 |**stock_new-vcard**|![](64/stock_new-vcard.png)|![](48/stock_new-vcard.png)|![](32/stock_new-vcard.png)|![](24/stock_new-vcard.png)|![](22/stock_new-vcard.png)|![](16/stock_new-vcard.png)|
 |**stock_not**|![](64/stock_not.png)|![](48/stock_not.png)|![](32/stock_not.png)|![](24/stock_not.png)|![](22/stock_not.png)|![](16/stock_not.png)|
