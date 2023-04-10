@@ -100,9 +100,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**dia**|![](64/dia.png)|![](48/dia.png)|![](32/dia.png)|![](24/dia.png)|![](22/dia.png)|![](16/dia.png)|
 |**disk-usage-analyzer**|![](64/disk-usage-analyzer.png)|![](48/disk-usage-analyzer.png)|![](32/disk-usage-analyzer.png)|![](24/disk-usage-analyzer.png)|![](22/disk-usage-analyzer.png)|![](16/disk-usage-analyzer.png)|
 |**display-im6.q16**|![](64/display-im6.q16.png)|![](48/display-im6.q16.png)|![](32/display-im6.q16.png)|![](24/display-im6.q16.png)|![](22/display-im6.q16.png)|![](16/display-im6.q16.png)|
-|**do**|![](64/do.png)|![](48/do.png)|![](32/do.png)|![](24/do.png)|![](22/do.png)|![](16/do.png)|
 |**docky**|![](64/docky.png)|![](48/docky.png)|![](32/docky.png)|![](24/docky.png)|![](22/docky.png)|![](16/docky.png)|
-|**dosbox**|![](64/dosbox.png)|![](48/dosbox.png)|![](32/dosbox.png)|![](24/dosbox.png)|![](22/dosbox.png)|![](16/dosbox.png)|
 |**download-manager**|![](64/download-manager.png)|![](48/download-manager.png)|![](32/download-manager.png)|![](24/download-manager.png)|![](22/download-manager.png)|![](16/download-manager.png)|
 |**drakmenustyle**|![](64/drakmenustyle.png)|![](48/drakmenustyle.png)|![](32/drakmenustyle.png)|![](24/drakmenustyle.png)|![](22/drakmenustyle.png)|![](16/drakmenustyle.png)|
 |**drawing**|![](64/drawing.png)|![](48/drawing.png)|![](32/drawing.png)|![](24/drawing.png)|![](22/drawing.png)|![](16/drawing.png)|
@@ -117,11 +115,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**emerald-theme-manager-icon**|![](64/emerald-theme-manager-icon.png)|![](48/emerald-theme-manager-icon.png)|![](32/emerald-theme-manager-icon.png)|![](24/emerald-theme-manager-icon.png)|![](22/emerald-theme-manager-icon.png)|![](16/emerald-theme-manager-icon.png)|
 |**emerillon**|![](64/emerillon.png)|![](48/emerillon.png)|![](32/emerillon.png)|![](24/emerillon.png)|![](22/emerillon.png)|![](16/emerillon.png)|
 |**emesene**|![](64/emesene.png)|![](48/emesene.png)|![](32/emesene.png)|![](24/emesene.png)|![](22/emesene.png)|![](16/emesene.png)|
-|**epiphany**|![](64/epiphany.png)|![](48/epiphany.png)|![](32/epiphany.png)|![](24/epiphany.png)|![](22/epiphany.png)|![](16/epiphany.png)|
 |**epiphany-bookmarks**|![](64/epiphany-bookmarks.png)|![](48/epiphany-bookmarks.png)|![](32/epiphany-bookmarks.png)|![](24/epiphany-bookmarks.png)|![](22/epiphany-bookmarks.png)|![](16/epiphany-bookmarks.png)|
-|**epiphany-browser**|![](64/epiphany-browser.png)|![](48/epiphany-browser.png)|![](32/epiphany-browser.png)|![](24/epiphany-browser.png)|![](22/epiphany-browser.png)|![](16/epiphany-browser.png)|
-|**epiphany-gecko**|![](64/epiphany-gecko.png)|![](48/epiphany-gecko.png)|![](32/epiphany-gecko.png)|![](24/epiphany-gecko.png)|![](22/epiphany-gecko.png)|![](16/epiphany-gecko.png)|
-|**epiphany-icon**|![](64/epiphany-icon.png)|![](48/epiphany-icon.png)|![](32/epiphany-icon.png)|![](24/epiphany-icon.png)|![](22/epiphany-icon.png)|![](16/epiphany-icon.png)|
 |**evince**|![](64/evince.png)|![](48/evince.png)|![](32/evince.png)|![](24/evince.png)|![](22/evince.png)|![](16/evince.png)|
 |**evolution-tasks**|![](64/evolution-tasks.png)|![](48/evolution-tasks.png)|![](32/evolution-tasks.png)|![](24/evolution-tasks.png)|![](22/evolution-tasks.png)|![](16/evolution-tasks.png)|
 |**exaile**|![](64/exaile.png)|![](48/exaile.png)|![](32/exaile.png)|![](24/exaile.png)|![](22/exaile.png)|![](16/exaile.png)|
@@ -176,8 +170,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-character-map**|![](64/gnome-character-map.png)|![](48/gnome-character-map.png)|![](32/gnome-character-map.png)|![](24/gnome-character-map.png)|![](22/gnome-character-map.png)|![](16/gnome-character-map.png)|
 |**gnome-clocks**|![](64/gnome-clocks.png)|![](48/gnome-clocks.png)|![](32/gnome-clocks.png)|![](24/gnome-clocks.png)|![](22/gnome-clocks.png)|![](16/gnome-clocks.png)|
 |**gnome-contacts**|![](64/gnome-contacts.png)|![](48/gnome-contacts.png)|![](32/gnome-contacts.png)|![](24/gnome-contacts.png)|![](22/gnome-contacts.png)|![](16/gnome-contacts.png)|
-|**gnome-device-manager**|![](64/gnome-device-manager.png)|![](48/gnome-device-manager.png)|![](32/gnome-device-manager.png)|![](24/gnome-device-manager.png)|![](22/gnome-device-manager.png)|![](16/gnome-device-manager.png)|
-|**gnome-do**|![](64/gnome-do.png)|![](48/gnome-do.png)|![](32/gnome-do.png)|![](24/gnome-do.png)|![](22/gnome-do.png)|![](16/gnome-do.png)|
 |**gnome-documents**|![](64/gnome-documents.png)|![](48/gnome-documents.png)|![](32/gnome-documents.png)|![](24/gnome-documents.png)|![](22/gnome-documents.png)|![](16/gnome-documents.png)|
 |**gnome-freecell**|![](64/gnome-freecell.png)|![](48/gnome-freecell.png)|![](32/gnome-freecell.png)|![](24/gnome-freecell.png)|![](22/gnome-freecell.png)|![](16/gnome-freecell.png)|
 |**gnome-fs-blockdev**|![](64/gnome-fs-blockdev.png)|![](48/gnome-fs-blockdev.png)|![](32/gnome-fs-blockdev.png)|![](24/gnome-fs-blockdev.png)|![](22/gnome-fs-blockdev.png)|![](16/gnome-fs-blockdev.png)|
@@ -188,7 +180,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-gmenu**|![](64/gnome-gmenu.png)|![](48/gnome-gmenu.png)|![](32/gnome-gmenu.png)|![](24/gnome-gmenu.png)|![](22/gnome-gmenu.png)|![](16/gnome-gmenu.png)|
 |**gnome-gnect**|![](64/gnome-gnect.png)|![](48/gnome-gnect.png)|![](32/gnome-gnect.png)|![](24/gnome-gnect.png)|![](22/gnome-gnect.png)|![](16/gnome-gnect.png)|
 |**gnome-gnibbles**|![](64/gnome-gnibbles.png)|![](48/gnome-gnibbles.png)|![](32/gnome-gnibbles.png)|![](24/gnome-gnibbles.png)|![](22/gnome-gnibbles.png)|![](16/gnome-gnibbles.png)|
-|**gnome-gnumeric**|![](64/gnome-gnumeric.png)|![](48/gnome-gnumeric.png)|![](32/gnome-gnumeric.png)|![](24/gnome-gnumeric.png)|![](22/gnome-gnumeric.png)|![](16/gnome-gnumeric.png)|
 |**gnome-iagno**|![](64/gnome-iagno.png)|![](48/gnome-iagno.png)|![](32/gnome-iagno.png)|![](24/gnome-iagno.png)|![](22/gnome-iagno.png)|![](16/gnome-iagno.png)|
 |**gnome-info**|![](64/gnome-info.png)|![](48/gnome-info.png)|![](32/gnome-info.png)|![](24/gnome-info.png)|![](22/gnome-info.png)|![](16/gnome-info.png)|
 |**gnome-inhibit-applet**|![](64/gnome-inhibit-applet.png)|![](48/gnome-inhibit-applet.png)|![](32/gnome-inhibit-applet.png)|![](24/gnome-inhibit-applet.png)|![](22/gnome-inhibit-applet.png)|![](16/gnome-inhibit-applet.png)|
@@ -226,17 +217,13 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-system-monitor**|![](64/gnome-system-monitor.png)|![](48/gnome-system-monitor.png)|![](32/gnome-system-monitor.png)|![](24/gnome-system-monitor.png)|![](22/gnome-system-monitor.png)|![](16/gnome-system-monitor.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
 |**gnome-tetravex**|![](64/gnome-tetravex.png)|![](48/gnome-tetravex.png)|![](32/gnome-tetravex.png)|![](24/gnome-tetravex.png)|![](22/gnome-tetravex.png)|![](16/gnome-tetravex.png)|
-|**gnome-web-browser**|![](64/gnome-web-browser.png)|![](48/gnome-web-browser.png)|![](32/gnome-web-browser.png)|![](24/gnome-web-browser.png)|![](22/gnome-web-browser.png)|![](16/gnome-web-browser.png)|
 |**gnome-window-manager**|![](64/gnome-window-manager.png)|![](48/gnome-window-manager.png)|![](32/gnome-window-manager.png)|![](24/gnome-window-manager.png)|![](22/gnome-window-manager.png)|![](16/gnome-window-manager.png)|
 |**gnome-word**|![](64/gnome-word.png)|![](48/gnome-word.png)|![](32/gnome-word.png)|![](24/gnome-word.png)|![](22/gnome-word.png)|![](16/gnome-word.png)|
 |**gnomebaker**|![](64/gnomebaker.png)|![](48/gnomebaker.png)|![](32/gnomebaker.png)|![](24/gnomebaker.png)|![](22/gnomebaker.png)|![](16/gnomebaker.png)|
 |**gnomebaker-48**|![](64/gnomebaker-48.png)|![](48/gnomebaker-48.png)|![](32/gnomebaker-48.png)|![](24/gnomebaker-48.png)|![](22/gnomebaker-48.png)|![](16/gnomebaker-48.png)|
-|**gnumeric**|![](64/gnumeric.png)|![](48/gnumeric.png)|![](32/gnumeric.png)|![](24/gnumeric.png)|![](22/gnumeric.png)|![](16/gnumeric.png)|
 |**goa-panel**|![](64/goa-panel.png)|![](48/goa-panel.png)|![](32/goa-panel.png)|![](24/goa-panel.png)|![](22/goa-panel.png)|![](16/goa-panel.png)|
-|**google-chrome**|![](64/google-chrome.png)|![](48/google-chrome.png)|![](32/google-chrome.png)|![](24/google-chrome.png)|![](22/google-chrome.png)|![](16/google-chrome.png)|
 |**google-hangout**|![](64/google-hangout.png)|![](48/google-hangout.png)|![](32/google-hangout.png)|![](24/google-hangout.png)|![](22/google-hangout.png)|![](16/google-hangout.png)|
 |**gparted**|![](64/gparted.png)|![](48/gparted.png)|![](32/gparted.png)|![](24/gparted.png)|![](22/gparted.png)|![](16/gparted.png)|
-|**gpk-repo**|![](64/gpk-repo.png)|![](48/gpk-repo.png)|![](32/gpk-repo.png)|![](24/gpk-repo.png)|![](22/gpk-repo.png)|![](16/gpk-repo.png)|
 |**gpm-hibernate**|![](64/gpm-hibernate.png)|![](48/gpm-hibernate.png)|![](32/gpm-hibernate.png)|![](24/gpm-hibernate.png)|![](22/gpm-hibernate.png)|![](16/gpm-hibernate.png)|
 |**gresistor**|![](64/gresistor.png)|![](48/gresistor.png)|![](32/gresistor.png)|![](24/gresistor.png)|![](22/gresistor.png)|![](16/gresistor.png)|
 |**griffith**|![](64/griffith.png)|![](48/griffith.png)|![](32/griffith.png)|![](24/griffith.png)|![](22/griffith.png)|![](16/griffith.png)|
@@ -278,8 +265,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**internet-chat**|![](64/internet-chat.png)|![](48/internet-chat.png)|![](32/internet-chat.png)|![](24/internet-chat.png)|![](22/internet-chat.png)|![](16/internet-chat.png)|
 |**internet-feed-reader**|![](64/internet-feed-reader.png)|![](48/internet-feed-reader.png)|![](32/internet-feed-reader.png)|![](24/internet-feed-reader.png)|![](22/internet-feed-reader.png)|![](16/internet-feed-reader.png)|
 |**internet-mail**|![](64/internet-mail.png)|![](48/internet-mail.png)|![](32/internet-mail.png)|![](24/internet-mail.png)|![](22/internet-mail.png)|![](16/internet-mail.png)|
-|**internet-news-reader**|![](64/internet-news-reader.png)|![](48/internet-news-reader.png)|![](32/internet-news-reader.png)|![](24/internet-news-reader.png)|![](22/internet-news-reader.png)|![](16/internet-news-reader.png)|
-|**internet-web-browser**|![](64/internet-web-browser.png)|![](48/internet-web-browser.png)|![](32/internet-web-browser.png)|![](24/internet-web-browser.png)|![](22/internet-web-browser.png)|![](16/internet-web-browser.png)|
 |**invest-applet**|![](64/invest-applet.png)|![](48/invest-applet.png)|![](32/invest-applet.png)|![](24/invest-applet.png)|![](22/invest-applet.png)|![](16/invest-applet.png)|
 |**jack**|![](64/jack.png)|![](48/jack.png)|![](32/jack.png)|![](24/jack.png)|![](22/jack.png)|![](16/jack.png)|
 |**jack-rack**|![](64/jack-rack.png)|![](48/jack-rack.png)|![](32/jack-rack.png)|![](24/jack-rack.png)|![](22/jack-rack.png)|![](16/jack-rack.png)|
@@ -363,7 +348,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**notifyconf**|![](64/notifyconf.png)|![](48/notifyconf.png)|![](32/notifyconf.png)|![](24/notifyconf.png)|![](22/notifyconf.png)|![](16/notifyconf.png)|
 |**notifyosdconf**|![](64/notifyosdconf.png)|![](48/notifyosdconf.png)|![](32/notifyosdconf.png)|![](24/notifyosdconf.png)|![](22/notifyosdconf.png)|![](16/notifyosdconf.png)|
 |**numpty-physics**|![](64/numpty-physics.png)|![](48/numpty-physics.png)|![](32/numpty-physics.png)|![](24/numpty-physics.png)|![](22/numpty-physics.png)|![](16/numpty-physics.png)|
-|**office-address-book**|![](64/office-address-book.png)|![](48/office-address-book.png)|![](32/office-address-book.png)|![](24/office-address-book.png)|![](22/office-address-book.png)|![](16/office-address-book.png)|
 |**office-database**|![](64/office-database.png)|![](48/office-database.png)|![](32/office-database.png)|![](24/office-database.png)|![](22/office-database.png)|![](16/office-database.png)|
 |**office-writer**|![](64/office-writer.png)|![](48/office-writer.png)|![](32/office-writer.png)|![](24/office-writer.png)|![](22/office-writer.png)|![](16/office-writer.png)|
 |**omgwords**|![](64/omgwords.png)|![](48/omgwords.png)|![](32/omgwords.png)|![](24/omgwords.png)|![](22/omgwords.png)|![](16/omgwords.png)|
@@ -411,7 +395,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pithos**|![](64/pithos.png)|![](48/pithos.png)|![](32/pithos.png)|![](24/pithos.png)|![](22/pithos.png)|![](16/pithos.png)|
 |**pithos-tray-plugin**|![](64/pithos-tray-plugin.png)|![](48/pithos-tray-plugin.png)|![](32/pithos-tray-plugin.png)|![](24/pithos-tray-plugin.png)|![](22/pithos-tray-plugin.png)|![](16/pithos-tray-plugin.png)|
 |**pitivi**|![](64/pitivi.png)|![](48/pitivi.png)|![](32/pitivi.png)|![](24/pitivi.png)|![](22/pitivi.png)|![](16/pitivi.png)|
-|**pk-package-sources**|![](64/pk-package-sources.png)|![](48/pk-package-sources.png)|![](32/pk-package-sources.png)|![](24/pk-package-sources.png)|![](22/pk-package-sources.png)|![](16/pk-package-sources.png)|
 |**playitslowly**|![](64/playitslowly.png)|![](48/playitslowly.png)|![](32/playitslowly.png)|![](24/playitslowly.png)|![](22/playitslowly.png)|![](16/playitslowly.png)|
 |**playonlinux**|![](64/playonlinux.png)|![](48/playonlinux.png)|![](32/playonlinux.png)|![](24/playonlinux.png)|![](22/playonlinux.png)|![](16/playonlinux.png)|
 |**plugin-commands**|![](64/plugin-commands.png)|![](48/plugin-commands.png)|![](32/plugin-commands.png)|![](24/plugin-commands.png)|![](22/plugin-commands.png)|![](16/plugin-commands.png)|
@@ -457,7 +440,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**product_logo_22**|![](64/product_logo_22.png)|![](48/product_logo_22.png)|![](32/product_logo_22.png)|![](24/product_logo_22.png)|![](22/product_logo_22.png)|![](16/product_logo_22.png)|
 |**product_logo_24**|![](64/product_logo_24.png)|![](48/product_logo_24.png)|![](32/product_logo_24.png)|![](24/product_logo_24.png)|![](22/product_logo_24.png)|![](16/product_logo_24.png)|
 |**product_logo_32**|![](64/product_logo_32.png)|![](48/product_logo_32.png)|![](32/product_logo_32.png)|![](24/product_logo_32.png)|![](22/product_logo_32.png)|![](16/product_logo_32.png)|
-|**promoe**|![](64/promoe.png)|![](48/promoe.png)|![](32/promoe.png)|![](24/promoe.png)|![](22/promoe.png)|![](16/promoe.png)|
 |**q4wine**|![](64/q4wine.png)|![](48/q4wine.png)|![](32/q4wine.png)|![](24/q4wine.png)|![](22/q4wine.png)|![](16/q4wine.png)|
 |**qgit**|![](64/qgit.png)|![](48/qgit.png)|![](32/qgit.png)|![](24/qgit.png)|![](22/qgit.png)|![](16/qgit.png)|
 |**qjackctl**|![](64/qjackctl.png)|![](48/qjackctl.png)|![](32/qjackctl.png)|![](24/qjackctl.png)|![](22/qjackctl.png)|![](16/qjackctl.png)|
@@ -477,7 +459,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**redhat-tools**|![](64/redhat-tools.png)|![](48/redhat-tools.png)|![](32/redhat-tools.png)|![](24/redhat-tools.png)|![](22/redhat-tools.png)|![](16/redhat-tools.png)|
 |**regedit**|![](64/regedit.png)|![](48/regedit.png)|![](32/regedit.png)|![](24/regedit.png)|![](22/regedit.png)|![](16/regedit.png)|
 |**remote-desktop**|![](64/remote-desktop.png)|![](48/remote-desktop.png)|![](32/remote-desktop.png)|![](24/remote-desktop.png)|![](22/remote-desktop.png)|![](16/remote-desktop.png)|
-|**resapplet**|![](64/resapplet.png)|![](48/resapplet.png)|![](32/resapplet.png)|![](24/resapplet.png)|![](22/resapplet.png)|![](16/resapplet.png)|
 |**revenge**|![](64/revenge.png)|![](48/revenge.png)|![](32/revenge.png)|![](24/revenge.png)|![](22/revenge.png)|![](16/revenge.png)|
 |**rhythmbox**|![](64/rhythmbox.png)|![](48/rhythmbox.png)|![](32/rhythmbox.png)|![](24/rhythmbox.png)|![](22/rhythmbox.png)|![](16/rhythmbox.png)|
 |**rip**|![](64/rip.png)|![](48/rip.png)|![](32/rip.png)|![](24/rip.png)|![](22/rip.png)|![](16/rip.png)|
@@ -494,7 +475,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**shotwell**|![](64/shotwell.png)|![](48/shotwell.png)|![](32/shotwell.png)|![](24/shotwell.png)|![](22/shotwell.png)|![](16/shotwell.png)|
 |**shutter**|![](64/shutter.png)|![](48/shutter.png)|![](32/shutter.png)|![](24/shutter.png)|![](22/shutter.png)|![](16/shutter.png)|
 |**simple-ccsm**|![](64/simple-ccsm.png)|![](48/simple-ccsm.png)|![](32/simple-ccsm.png)|![](24/simple-ccsm.png)|![](22/simple-ccsm.png)|![](16/simple-ccsm.png)|
-|**simple-scan**|![](64/simple-scan.png)|![](48/simple-scan.png)|![](32/simple-scan.png)|![](24/simple-scan.png)|![](22/simple-scan.png)|![](16/simple-scan.png)|
 |**skype**|![](64/skype.png)|![](48/skype.png)|![](32/skype.png)|![](24/skype.png)|![](22/skype.png)|![](16/skype.png)|
 |**sleep**|![](64/sleep.png)|![](48/sleep.png)|![](32/sleep.png)|![](24/sleep.png)|![](22/sleep.png)|![](16/sleep.png)|
 |**slingshot**|![](64/slingshot.png)|![](48/slingshot.png)|![](32/slingshot.png)|![](24/slingshot.png)|![](22/slingshot.png)|![](16/slingshot.png)|
@@ -574,7 +554,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**vendetta-online**|![](64/vendetta-online.png)|![](48/vendetta-online.png)|![](32/vendetta-online.png)|![](24/vendetta-online.png)|![](22/vendetta-online.png)|![](16/vendetta-online.png)|
 |**vic20**|![](64/vic20.png)|![](48/vic20.png)|![](32/vic20.png)|![](24/vic20.png)|![](22/vic20.png)|![](16/vic20.png)|
 |**video-editor**|![](64/video-editor.png)|![](48/video-editor.png)|![](32/video-editor.png)|![](24/video-editor.png)|![](22/video-editor.png)|![](16/video-editor.png)|
-|**video-player**|![](64/video-player.png)|![](48/video-player.png)|![](32/video-player.png)|![](24/video-player.png)|![](22/video-player.png)|![](16/video-player.png)|
 |**vim**|![](64/vim.png)|![](48/vim.png)|![](32/vim.png)|![](24/vim.png)|![](22/vim.png)|![](16/vim.png)|
 |**vinagre**|![](64/vinagre.png)|![](48/vinagre.png)|![](32/vinagre.png)|![](24/vinagre.png)|![](22/vinagre.png)|![](16/vinagre.png)|
 |**virtualbox**|![](64/virtualbox.png)|![](48/virtualbox.png)|![](32/virtualbox.png)|![](24/virtualbox.png)|![](22/virtualbox.png)|![](16/virtualbox.png)|
@@ -602,7 +581,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xchat**|![](64/xchat.png)|![](48/xchat.png)|![](32/xchat.png)|![](24/xchat.png)|![](22/xchat.png)|![](16/xchat.png)|
 |**xchat-gnome**|![](64/xchat-gnome.png)|![](48/xchat-gnome.png)|![](32/xchat-gnome.png)|![](24/xchat-gnome.png)|![](22/xchat-gnome.png)|![](16/xchat-gnome.png)|
 |**xchat-mini**|![](64/xchat-mini.png)|![](48/xchat-mini.png)|![](32/xchat-mini.png)|![](24/xchat-mini.png)|![](22/xchat-mini.png)|![](16/xchat-mini.png)|
-|**xfce-man**|![](64/xfce-man.png)|![](48/xfce-man.png)|![](32/xfce-man.png)|![](24/xfce-man.png)|![](22/xfce-man.png)|![](16/xfce-man.png)|
 |**xfce-mount**|![](64/xfce-mount.png)|![](48/xfce-mount.png)|![](32/xfce-mount.png)|![](24/xfce-mount.png)|![](22/xfce-mount.png)|![](16/xfce-mount.png)|
 |**xfce-printer**|![](64/xfce-printer.png)|![](48/xfce-printer.png)|![](32/xfce-printer.png)|![](24/xfce-printer.png)|![](22/xfce-printer.png)|![](16/xfce-printer.png)|
 |**xfce-schedule**|![](64/xfce-schedule.png)|![](48/xfce-schedule.png)|![](32/xfce-schedule.png)|![](24/xfce-schedule.png)|![](22/xfce-schedule.png)|![](16/xfce-schedule.png)|
@@ -624,14 +602,12 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfsm-suspend**|![](64/xfsm-suspend.png)|![](48/xfsm-suspend.png)|![](32/xfsm-suspend.png)|![](24/xfsm-suspend.png)|![](22/xfsm-suspend.png)|![](16/xfsm-suspend.png)|
 |**xfsm-switch**|![](64/xfsm-switch.png)|![](48/xfsm-switch.png)|![](32/xfsm-switch.png)|![](24/xfsm-switch.png)|![](22/xfsm-switch.png)|![](16/xfsm-switch.png)|
 |**xine**|![](64/xine.png)|![](48/xine.png)|![](32/xine.png)|![](24/xine.png)|![](22/xine.png)|![](16/xine.png)|
-|**xmms**|![](64/xmms.png)|![](48/xmms.png)|![](32/xmms.png)|![](24/xmms.png)|![](22/xmms.png)|![](16/xmms.png)|
 |**xmoto**|![](64/xmoto.png)|![](48/xmoto.png)|![](32/xmoto.png)|![](24/xmoto.png)|![](22/xmoto.png)|![](16/xmoto.png)|
 |**xonotic**|![](64/xonotic.png)|![](48/xonotic.png)|![](32/xonotic.png)|![](24/xonotic.png)|![](22/xonotic.png)|![](16/xonotic.png)|
 |**xoscope**|![](64/xoscope.png)|![](48/xoscope.png)|![](32/xoscope.png)|![](24/xoscope.png)|![](22/xoscope.png)|![](16/xoscope.png)|
 |**xournal**|![](64/xournal.png)|![](48/xournal.png)|![](32/xournal.png)|![](24/xournal.png)|![](22/xournal.png)|![](16/xournal.png)|
 |**xpad**|![](64/xpad.png)|![](48/xpad.png)|![](32/xpad.png)|![](24/xpad.png)|![](22/xpad.png)|![](16/xpad.png)|
 |**xpdf**|![](64/xpdf.png)|![](48/xpdf.png)|![](32/xpdf.png)|![](24/xpdf.png)|![](22/xpdf.png)|![](16/xpdf.png)|
-|**xsane**|![](64/xsane.png)|![](48/xsane.png)|![](32/xsane.png)|![](24/xsane.png)|![](22/xsane.png)|![](16/xsane.png)|
 |**yast-language**|![](64/yast-language.png)|![](48/yast-language.png)|![](32/yast-language.png)|![](24/yast-language.png)|![](22/yast-language.png)|![](16/yast-language.png)|
 |**youtube**|![](64/youtube.png)|![](48/youtube.png)|![](32/youtube.png)|![](24/youtube.png)|![](22/youtube.png)|![](16/youtube.png)|
 |**zim**|![](64/zim.png)|![](48/zim.png)|![](32/zim.png)|![](24/zim.png)|![](22/zim.png)|![](16/zim.png)|
