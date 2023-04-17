@@ -1,6 +1,6 @@
 # Categories
 
-Total **117** icons in **categories** context.
+Total **116** icons in **categories** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
@@ -91,7 +91,6 @@ Total **117** icons in **categories** context.
 |**plugins-utility**|![](64/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](48/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](32/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](24/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](22/plugins-utility.png)|![](16/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|
 |**ppa**|![](64/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](48/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](32/ppa.png)|![](24/ppa.png)|![](22/ppa.png)|![](16/ppa.png)|
 |**preferences-desktop-peripherals-directory**|![](64/preferences-desktop-peripherals-directory.png)|![](48/preferences-desktop-peripherals-directory.png)|![](32/preferences-desktop-peripherals-directory.png)|![](24/preferences-desktop-peripherals-directory.png)|![](22/preferences-desktop-peripherals-directory.png)|![](16/preferences-desktop-peripherals-directory.png)|
-|**preferences-desktop-peripherals_old**|![](64/preferences-desktop-peripherals_old.png)|![](48/preferences-desktop-peripherals_old.png)|![](32/preferences-desktop-peripherals_old.png)|![](24/preferences-desktop-peripherals_old.png)|![](22/preferences-desktop-peripherals_old.png)|![](16/preferences-desktop-peripherals_old.png)|
 |**preferences-desktop-personal-directory**|![](64/preferences-desktop-personal-directory.png)|![](48/preferences-desktop-personal-directory.png)|![](32/preferences-desktop-personal-directory.png)|![](24/preferences-desktop-personal-directory.png)|![](22/preferences-desktop-personal-directory.png)|![](16/preferences-desktop-personal-directory.png)|
 |**preferences-other**|![](64/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](48/preferences-other.png)|![](32/applications-other.png)<details><summary>*link:* </summary>*applications-other.png*</details>|![](24/preferences-other.png)|![](22/preferences-other.png)|![](16/preferences-other.png)|
 |**preferences-system-directory**|![](64/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|![](48/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|![](32/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|![](24/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|![](22/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|![](16/applications-system.png)<details><summary>*link:* </summary>*applications-system.png*</details>|

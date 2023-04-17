@@ -295,7 +295,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**view-more**|![](64/view-more.png)|![](48/view-more.png)|![](32/view-more.png)|![](24/view-more.png)|![](22/view-more.png)|![](16/view-more.png)|
 |**view-more-horizontal**|![](64/view-more-horizontal.png)|![](48/view-more-horizontal.png)|![](32/view-more-horizontal.png)|![](24/view-more-horizontal.png)|![](22/view-more-horizontal.png)|![](16/view-more-horizontal.png)|
 |**view-paged**|![](64/view-paged.png)|![](48/view-paged.png)|![](32/view-paged.png)|![](24/view-paged.png)|![](22/view-paged.png)|![](16/view-paged.png)|
-|**view-pin**|![](64/view-pin.png)|![](48/view-pin.png)|![](32/view-pin.png)|![](24/view-pin.png)|![](22/view-pin.png)|![](16/view-pin.png)|
 |**view-preview**|![](64/view-preview.png)|![](48/view-preview.png)|![](32/view-preview.png)|![](24/view-preview.png)|![](22/view-preview.png)|![](16/view-preview.png)|
 |**view-refresh**|![](64/view-refresh.png)|![](48/view-refresh.png)|![](32/view-refresh.png)|![](24/view-refresh.png)|![](22/view-refresh.png)|![](16/view-refresh.png)|
 |**view-restore**|![](64/view-restore.png)|![](48/view-restore.png)|![](32/view-restore.png)|![](24/view-restore.png)|![](22/view-restore.png)|![](16/view-restore.png)|
@@ -309,6 +308,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|
+|**window-pin**|![](64/window-pin.png)|![](48/window-pin.png)|![](32/window-pin.png)|![](24/window-pin.png)|![](22/window-pin.png)|![](16/window-pin.png)|
 |**window-restore**|![](64/window-restore.png)|![](48/window-restore.png)|![](32/window-restore.png)|![](24/window-restore.png)|![](22/window-restore.png)|![](16/window-restore.png)|
 |**window-unpin**|![](64/window-unpin.png)|![](48/window-unpin.png)|![](32/window-unpin.png)|![](24/window-unpin.png)|![](22/window-unpin.png)|![](16/window-unpin.png)|
 |**xfburn-burn-cd**|![](64/xfburn-burn-cd.png)|![](48/xfburn-burn-cd.png)|![](32/xfburn-burn-cd.png)|![](24/xfburn-burn-cd.png)|![](22/xfburn-burn-cd.png)|![](16/xfburn-burn-cd.png)|
