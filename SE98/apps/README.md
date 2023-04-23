@@ -369,7 +369,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**openttd**|![](64/openttd.png)|![](48/openttd.png)|![](32/openttd.png)|![](24/openttd.png)|![](22/openttd.png)|![](16/openttd.png)|
 |**orage_globaltime**|![](64/orage_globaltime.png)|![](48/orage_globaltime.png)|![](32/orage_globaltime.png)|![](24/orage_globaltime.png)|![](22/orage_globaltime.png)|![](16/orage_globaltime.png)|
 |**oregano**|![](64/oregano.png)|![](48/oregano.png)|![](32/oregano.png)|![](24/oregano.png)|![](22/oregano.png)|![](16/oregano.png)|
-|**org.xfce.notification**|![](64/org.xfce.notification.png)|![](48/org.xfce.notification.png)|![](32/org.xfce.notification.png)|![](24/org.xfce.notification.png)|![](22/org.xfce.notification.png)|![](16/org.xfce.notification.png)|
 |**org.xfce.panel.launcher**|![](64/org.xfce.panel.launcher.png)|![](48/org.xfce.panel.launcher.png)|![](32/org.xfce.panel.launcher.png)|![](24/org.xfce.panel.launcher.png)|![](22/org.xfce.panel.launcher.png)|![](16/org.xfce.panel.launcher.png)|
 |**org.xfce.panel.separator**|![](64/org.xfce.panel.separator.png)|![](48/org.xfce.panel.separator.png)|![](32/org.xfce.panel.separator.png)|![](24/org.xfce.panel.separator.png)|![](22/org.xfce.panel.separator.png)|![](16/org.xfce.panel.separator.png)|
 |**org.xfce.volman**|![](64/org.xfce.volman.png)|![](48/org.xfce.volman.png)|![](32/org.xfce.volman.png)|![](24/org.xfce.volman.png)|![](22/org.xfce.volman.png)|![](16/org.xfce.volman.png)|
@@ -589,7 +588,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfce4-cpufreq-plugin**|![](64/xfce4-cpufreq-plugin.png)|![](48/xfce4-cpufreq-plugin.png)|![](32/xfce4-cpufreq-plugin.png)|![](24/xfce4-cpufreq-plugin.png)|![](22/xfce4-cpufreq-plugin.png)|![](16/xfce4-cpufreq-plugin.png)|
 |**xfce4-cpugraph-plugin**|![](64/xfce4-cpugraph-plugin.png)|![](48/xfce4-cpugraph-plugin.png)|![](32/xfce4-cpugraph-plugin.png)|![](24/xfce4-cpugraph-plugin.png)|![](22/xfce4-cpugraph-plugin.png)|![](16/xfce4-cpugraph-plugin.png)|
 |**xfce4-fsguard-plugin-warning**|![](64/xfce4-fsguard-plugin-warning.png)|![](48/xfce4-fsguard-plugin-warning.png)|![](32/xfce4-fsguard-plugin-warning.png)|![](24/xfce4-fsguard-plugin-warning.png)|![](22/xfce4-fsguard-plugin-warning.png)|![](16/xfce4-fsguard-plugin-warning.png)|
-|**xfce4-notifyd**|![](64/xfce4-notifyd.png)|![](48/xfce4-notifyd.png)|![](32/xfce4-notifyd.png)|![](24/xfce4-notifyd.png)|![](22/xfce4-notifyd.png)|![](16/xfce4-notifyd.png)|
 |**xfce4-panel**|![](64/xfce4-panel.png)|![](48/xfce4-panel.png)|![](32/xfce4-panel.png)|![](24/xfce4-panel.png)|![](22/xfce4-panel.png)|![](16/xfce4-panel.png)|
 |**xfce4-splash**|![](64/xfce4-splash.png)|![](48/xfce4-splash.png)|![](32/xfce4-splash.png)|![](24/xfce4-splash.png)|![](22/xfce4-splash.png)|![](16/xfce4-splash.png)|
 |**xfce4-systray**|![](64/xfce4-systray.png)|![](48/xfce4-systray.png)|![](32/xfce4-systray.png)|![](24/xfce4-systray.png)|![](22/xfce4-systray.png)|![](16/xfce4-systray.png)|
