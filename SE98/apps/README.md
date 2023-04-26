@@ -510,9 +510,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-switch-user**|![](64/system-switch-user.png)|![](48/system-switch-user.png)|![](32/system-switch-user.png)|![](24/system-switch-user.png)|![](22/system-switch-user.png)|![](16/system-switch-user.png)|
 |**system-users**|![](64/system-users.png)|![](48/system-users.png)|![](32/system-users.png)|![](24/system-users.png)|![](22/system-users.png)|![](16/system-users.png)|
 |**tangerine-properties**|![](64/tangerine-properties.png)|![](48/tangerine-properties.png)|![](32/tangerine-properties.png)|![](24/tangerine-properties.png)|![](22/tangerine-properties.png)|![](16/tangerine-properties.png)|
-|**tap-create**|![](64/tap-create.png)|![](48/tap-create.png)|![](32/tap-create.png)|![](24/tap-create.png)|![](22/tap-create.png)|![](16/tap-create.png)|
-|**tap-extract**|![](64/tap-extract.png)|![](48/tap-extract.png)|![](32/tap-extract.png)|![](24/tap-extract.png)|![](22/tap-extract.png)|![](16/tap-extract.png)|
-|**tap-extract-to**|![](64/tap-extract-to.png)|![](48/tap-extract-to.png)|![](32/tap-extract-to.png)|![](24/tap-extract-to.png)|![](22/tap-extract-to.png)|![](16/tap-extract-to.png)|
 |**taskbar**|![](64/taskbar.png)|![](48/taskbar.png)|![](32/taskbar.png)|![](24/taskbar.png)|![](22/taskbar.png)|![](16/taskbar.png)|
 |**teamviewer**|![](64/teamviewer.png)|![](48/teamviewer.png)|![](32/teamviewer.png)|![](24/teamviewer.png)|![](22/teamviewer.png)|![](16/teamviewer.png)|
 |**teeworlds**|![](64/teeworlds.png)|![](48/teeworlds.png)|![](32/teeworlds.png)|![](24/teeworlds.png)|![](22/teeworlds.png)|![](16/teeworlds.png)|

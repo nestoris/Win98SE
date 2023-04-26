@@ -191,6 +191,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**nm-signal-75**|![](64/nm-signal-75.png)|![](48/nm-signal-75.png)|![](32/nm-signal-75.png)|![](24/nm-signal-75.png)|![](22/nm-signal-75.png)|![](16/nm-signal-75.png)|
 |**nm-wwan-tower**|![](64/nm-wwan-tower.png)|![](48/nm-wwan-tower.png)|![](32/nm-wwan-tower.png)|![](24/nm-wwan-tower.png)|![](22/nm-wwan-tower.png)|![](16/nm-wwan-tower.png)|
 |**not-starred**|![](64/not-starred.png)|![](48/not-starred.png)|![](32/not-starred.png)|![](24/not-starred.png)|![](22/not-starred.png)|![](16/not-starred.png)|
+|**notification**|![](64/notification.png)|![](48/notification.png)|![](32/notification.png)|![](24/notification.png)|![](22/notification.png)|![](16/notification.png)|
 |**notification-audio-next**|![](64/notification-audio-next.png)|![](48/notification-audio-next.png)|![](32/notification-audio-next.png)|![](24/notification-audio-next.png)|![](22/notification-audio-next.png)|![](16/notification-audio-next.png)|
 |**notification-audio-pause**|![](64/notification-audio-pause.png)|![](48/notification-audio-pause.png)|![](32/notification-audio-pause.png)|![](24/notification-audio-pause.png)|![](22/notification-audio-pause.png)|![](16/notification-audio-pause.png)|
 |**notification-audio-play**|![](64/notification-audio-play.png)|![](48/notification-audio-play.png)|![](32/notification-audio-play.png)|![](24/notification-audio-play.png)|![](22/notification-audio-play.png)|![](16/notification-audio-play.png)|
