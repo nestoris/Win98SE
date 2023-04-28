@@ -98,7 +98,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**kjobviewer**|![](64/kjobviewer.png)|![](48/kjobviewer.png)|![](32/kjobviewer.png)|![](24/kjobviewer.png)|![](22/kjobviewer.png)|![](16/kjobviewer.png)|
 |**media-encrypted**|![](64/media-encrypted.png)|![](48/media-encrypted.png)|![](32/media-encrypted.png)|![](24/media-encrypted.png)|![](22/media-encrypted.png)|![](16/media-encrypted.png)|
 |**media-flash**|![](64/media-flash.png)|![](48/media-flash.png)|![](32/media-flash.png)|![](24/media-flash.png)|![](22/media-flash.png)|![](16/media-flash.png)|
-|**media-flash-cf**|![](64/media-flash-cf.png)|![](48/media-flash-cf.png)|![](32/media-flash-cf.png)|![](24/media-flash-cf.png)|![](22/media-flash-cf.png)|![](16/media-flash-cf.png)|
 |**media-flash-ms**|![](64/media-flash-ms.png)|![](48/media-flash-ms.png)|![](32/media-flash-ms.png)|![](24/media-flash-ms.png)|![](22/media-flash-ms.png)|![](16/media-flash-ms.png)|
 |**media-flash-sd**|![](64/media-flash-sd.png)|![](48/media-flash-sd.png)|![](32/media-flash-sd.png)|![](24/media-flash-sd.png)|![](22/media-flash-sd.png)|![](16/media-flash-sd.png)|
 |**media-flash-sm**|![](64/media-flash-sm.png)|![](48/media-flash-sm.png)|![](32/media-flash-sm.png)|![](24/media-flash-sm.png)|![](22/media-flash-sm.png)|![](16/media-flash-sm.png)|
