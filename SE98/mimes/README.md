@@ -110,7 +110,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**exec**|![](64/exec.png)|![](48/exec.png)|![](32/exec.png)|![](24/exec.png)|![](22/exec.png)|![](16/exec.png)|
 |**extension**|![](64/extension.png)|![](48/extension.png)|![](32/extension.png)|![](24/extension.png)|![](22/extension.png)|![](16/extension.png)|
 |**font-x-generic**|![](64/font-x-generic.png)|![](48/font-x-generic.png)|![](32/font-x-generic.png)|![](24/font-x-generic.png)|![](22/font-x-generic.png)|![](16/font-x-generic.png)|
-|**gedit-plugin**|![](64/gedit-plugin.png)|![](48/gedit-plugin.png)|![](32/gedit-plugin.png)|![](24/gedit-plugin.png)|![](22/gedit-plugin.png)|![](16/gedit-plugin.png)|
 |**gnome-fs-executable**|![](64/gnome-fs-executable.png)|![](48/gnome-fs-executable.png)|![](32/gnome-fs-executable.png)|![](24/gnome-fs-executable.png)|![](22/gnome-fs-executable.png)|![](16/gnome-fs-executable.png)|
 |**gnome-mime-application-atom+xml**|![](64/gnome-mime-application-atom+xml.png)|![](48/gnome-mime-application-atom+xml.png)|![](32/gnome-mime-application-atom+xml.png)|![](24/gnome-mime-application-atom+xml.png)|![](22/gnome-mime-application-atom+xml.png)|![](16/gnome-mime-application-atom+xml.png)|
 |**gnome-mime-application-magicpoint**|![](64/gnome-mime-application-magicpoint.png)|![](48/gnome-mime-application-magicpoint.png)|![](32/gnome-mime-application-magicpoint.png)|![](24/gnome-mime-application-magicpoint.png)|![](22/gnome-mime-application-magicpoint.png)|![](16/gnome-mime-application-magicpoint.png)|
