@@ -86,7 +86,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**application-x-sqlite3**|![](64/application-x-sqlite3.png)|![](48/application-x-sqlite3.png)|![](32/application-x-sqlite3.png)|![](24/application-x-sqlite3.png)|![](22/application-x-sqlite3.png)|![](16/application-x-sqlite3.png)|
 |**application-x-stuffit**|![](64/application-x-stuffit.png)|![](48/application-x-stuffit.png)|![](32/application-x-stuffit.png)|![](24/application-x-stuffit.png)|![](22/application-x-stuffit.png)|![](16/application-x-stuffit.png)|
 |**application-x-tar**|![](64/application-x-tar.png)|![](48/application-x-tar.png)|![](32/application-x-tar.png)|![](24/application-x-tar.png)|![](22/application-x-tar.png)|![](16/application-x-tar.png)|
-|**application-x-theme**|![](64/application-x-theme.png)|![](48/application-x-theme.png)|![](32/application-x-theme.png)|![](24/application-x-theme.png)|![](22/application-x-theme.png)|![](16/application-x-theme.png)|
 |**application-x-trash**|![](64/application-x-trash.png)|![](48/application-x-trash.png)|![](32/application-x-trash.png)|![](24/application-x-trash.png)|![](22/application-x-trash.png)|![](16/application-x-trash.png)|
 |**ascii**|![](64/ascii.png)|![](48/ascii.png)|![](32/ascii.png)|![](24/ascii.png)|![](22/ascii.png)|![](16/ascii.png)|
 |**audio-aac**|![](64/audio-aac.png)|![](48/audio-aac.png)|![](32/audio-aac.png)|![](24/audio-aac.png)|![](22/audio-aac.png)|![](16/audio-aac.png)|
