@@ -1,6 +1,6 @@
 # Actions
 
-Total **1035** icons in **actions** context.
+Total **1036** icons in **actions** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
@@ -894,6 +894,7 @@ Total **1035** icons in **actions** context.
 |**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
 |**system-upgrade-symbolic**|![](64/system-upgrade-symbolic.png)|![](48/system-upgrade-symbolic.png)|![](32/system-upgrade-symbolic.png)|![](24/system-upgrade-symbolic.png)|![](22/system-upgrade-symbolic.png)|![](16/system-upgrade.png)<details><summary>*link:* </summary>*system-upgrade.png*</details>|
 |**system-upgrade**|![](64/system-upgrade.png)|![](48/system-upgrade.png)|![](32/system-upgrade.png)|![](24/system-upgrade.png)|![](22/system-upgrade.png)|![](16/system-upgrade.png)|
+|**tab-close**|![](64/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|![](48/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|![](32/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|![](24/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|![](22/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|![](16/dialog-cancel.png)<details><summary>*link:* </summary>*dialog-cancel.png*</details>|
 |**tab-new-symbolic**|![](64/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](48/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](32/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](24/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](22/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](16/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|
 |**tab-new**|![](64/tab-new.png)|![](48/tab-new.png)|![](32/tab-new.png)|![](24/tab-new.png)|![](22/tab-new.png)|![](16/tab-new.png)|
 |**tab_new**|![](64/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](48/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](32/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](24/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](22/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|![](16/tab-new.png)<details><summary>*link:* </summary>*tab-new.png*</details>|
@@ -955,9 +956,9 @@ Total **1035** icons in **actions** context.
 |**view-list-video-symbolic**|![](64/view-list-video-symbolic.png)|![](48/view-list-video-symbolic.png)|![](32/view-list-video-symbolic.png)|![](24/view-list-video-symbolic.png)|![](22/view-list-video-symbolic.png)|![](16/view-list-video.png)<details><summary>*link:* </summary>*view-list-video.png*</details>|
 |**view-list-video**|![](64/view-list-video.png)|![](48/view-list-video.png)|![](32/view-list-video.png)|![](24/view-list-video.png)|![](22/view-list-video.png)|![](16/view-list-video.png)|
 |**view-list**|![](64/view-list.png)|![](48/view-list.png)|![](32/view-list.png)|![](24/view-list.png)|![](22/view-list.png)|![](16/view-list.png)|
-|**view-more-horizontal-symbolic**|![](64/view-more-horizontal-symbolic.png)|![](48/view-more-horizontal-symbolic.png)|![](32/view-more-horizontal-symbolic.png)|![](24/view-more-horizontal-symbolic.png)|![](22/view-more-horizontal-symbolic.png)|![](16/view-more-horizontal.png)<details><summary>*link:* </summary>*view-more-horizontal.png*</details>|
+|**view-more-horizontal-symbolic**|![](64/view-more-horizontal-symbolic.png)|![](48/view-more-horizontal-symbolic.png)|![](32/view-more-horizontal-symbolic.png)|![](24/view-more-horizontal-symbolic.png)|![](22/view-more-horizontal.png)<details><summary>*link:* </summary>*view-more-horizontal.png*</details>|![](16/view-more-horizontal.png)<details><summary>*link:* </summary>*view-more-horizontal.png*</details>|
 |**view-more-horizontal**|![](64/view-more-horizontal.png)|![](48/view-more-horizontal.png)|![](32/view-more-horizontal.png)|![](24/view-more-horizontal.png)|![](22/view-more-horizontal.png)|![](16/view-more-horizontal.png)|
-|**view-more-symbolic**|![](64/view-more-symbolic.png)|![](48/view-more-symbolic.png)|![](32/view-more-symbolic.png)|![](24/view-more-symbolic.png)|![](22/view-more-symbolic.png)|![](16/view-more.png)<details><summary>*link:* </summary>*view-more.png*</details>|
+|**view-more-symbolic**|![](64/view-more-symbolic.png)|![](48/view-more-symbolic.png)|![](32/view-more-symbolic.png)|![](24/view-more-symbolic.png)|![](22/view-more.png)<details><summary>*link:* </summary>*view-more.png*</details>|![](16/view-more.png)<details><summary>*link:* </summary>*view-more.png*</details>|
 |**view-more**|![](64/view-more.png)|![](48/view-more.png)|![](32/view-more.png)|![](24/view-more.png)|![](22/view-more.png)|![](16/view-more.png)|
 |**view-paged-symbolic**|![](64/view-paged-symbolic.png)|![](48/view-paged-symbolic.png)|![](32/view-paged-symbolic.png)|![](24/view-paged-symbolic.png)|![](22/view-paged-symbolic.png)|![](16/view-paged.png)<details><summary>*link:* </summary>*view-paged.png*</details>|
 |**view-paged**|![](64/view-paged.png)|![](48/view-paged.png)|![](32/view-paged.png)|![](24/view-paged.png)|![](22/view-paged.png)|![](16/view-paged.png)|
