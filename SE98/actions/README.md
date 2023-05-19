@@ -232,7 +232,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pane-hide**|![](64/pane-hide.png)|![](48/pane-hide.png)|![](32/pane-hide.png)|![](24/pane-hide.png)|![](22/pane-hide.png)|![](16/pane-hide.png)|
 |**pane-show**|![](64/pane-show.png)|![](48/pane-show.png)|![](32/pane-show.png)|![](24/pane-show.png)|![](22/pane-show.png)|![](16/pane-show.png)|
 |**podcast-new**|![](64/podcast-new.png)|![](48/podcast-new.png)|![](32/podcast-new.png)|![](24/podcast-new.png)|![](22/podcast-new.png)|![](16/podcast-new.png)|
-|**process-stop**|![](64/process-stop.png)|![](48/process-stop.png)|![](32/process-stop.png)|![](24/process-stop.png)|![](22/process-stop.png)|![](16/process-stop.png)|
 |**segment-curve**|![](64/segment-curve.png)|![](48/segment-curve.png)|![](32/segment-curve.png)|![](24/segment-curve.png)|![](22/segment-curve.png)|![](16/segment-curve.png)|
 |**segment-line**|![](64/segment-line.png)|![](48/segment-line.png)|![](32/segment-line.png)|![](24/segment-line.png)|![](22/segment-line.png)|![](16/segment-line.png)|
 |**selection-break**|![](64/selection-break.png)|![](48/selection-break.png)|![](32/selection-break.png)|![](24/selection-break.png)|![](22/selection-break.png)|![](16/selection-break.png)|
