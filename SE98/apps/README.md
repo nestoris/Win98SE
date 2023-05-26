@@ -343,7 +343,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**netbeans**|![](64/netbeans.png)|![](48/netbeans.png)|![](32/netbeans.png)|![](24/netbeans.png)|![](22/netbeans.png)|![](16/netbeans.png)|
 |**nexuiz**|![](64/nexuiz.png)|![](48/nexuiz.png)|![](32/nexuiz.png)|![](24/nexuiz.png)|![](22/nexuiz.png)|![](16/nexuiz.png)|
 |**nm-vpn-standalone-lock**|![](64/nm-vpn-standalone-lock.png)|![](48/nm-vpn-standalone-lock.png)|![](32/nm-vpn-standalone-lock.png)|![](24/nm-vpn-standalone-lock.png)|![](22/nm-vpn-standalone-lock.png)|![](16/nm-vpn-standalone-lock.png)|
-|**notifyconf**|![](64/notifyconf.png)|![](48/notifyconf.png)|![](32/notifyconf.png)|![](24/notifyconf.png)|![](22/notifyconf.png)|![](16/notifyconf.png)|
 |**notifyosdconf**|![](64/notifyosdconf.png)|![](48/notifyosdconf.png)|![](32/notifyosdconf.png)|![](24/notifyosdconf.png)|![](22/notifyosdconf.png)|![](16/notifyosdconf.png)|
 |**numpty-physics**|![](64/numpty-physics.png)|![](48/numpty-physics.png)|![](32/numpty-physics.png)|![](24/numpty-physics.png)|![](22/numpty-physics.png)|![](16/numpty-physics.png)|
 |**office-database**|![](64/office-database.png)|![](48/office-database.png)|![](32/office-database.png)|![](24/office-database.png)|![](22/office-database.png)|![](16/office-database.png)|
