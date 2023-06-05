@@ -87,9 +87,9 @@
 |**mail_post_to3**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**mail_replylist**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**message_reply**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**messagebox_critical**|![]()|![]()|![]()|![]()|![](SE98/status/48/dialog-error.png)|![](SE98/status/32/dialog-error.png)|![](SE98/status/24/dialog-error.png)|![](SE98/status/22/dialog-error.png)|![](SE98/status/16/dialog-error.png)|
-|**messagebox_info**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![](SE98/status/16/messagebox_info.png)|
-|**messagebox_warning**|![]()|![]()|![]()|![]()|![](SE98/status/48/dialog-warning.png)|![](SE98/status/32/dialog-warning.png)|![](SE98/status/24/dialog-warning.png)|![](SE98/status/22/dialog-warning.png)|![](SE98/status/16/dialog-warning.png)|
+|**messagebox_critical**|![]()|![]()|![]()|![](SE98/status/64/dialog-error.png)|![](SE98/status/48/dialog-error.png)|![](SE98/status/32/dialog-error.png)|![](SE98/status/24/dialog-error.png)|![](SE98/status/22/dialog-error.png)|![](SE98/status/16/dialog-error.png)|
+|**messagebox_info**|![](SE98/status/128/dialog-information.png)|![](SE98/status/96/dialog-information.png)|![](SE98/status/72/dialog-information.png)|![](SE98/status/64/dialog-information.png)|![](SE98/status/48/dialog-information.png)|![](SE98/status/32/dialog-information.png)|![](SE98/status/24/dialog-information.png)|![](SE98/status/22/dialog-information.png)|![](SE98/status/16/dialog-information.png)|
+|**messagebox_warning**|![]()|![]()|![]()|![](SE98/status/64/dialog-warning.png)|![](SE98/status/48/dialog-warning.png)|![](SE98/status/32/dialog-warning.png)|![](SE98/status/24/dialog-warning.png)|![](SE98/status/22/dialog-warning.png)|![](SE98/status/16/dialog-warning.png)|
 |**mouse**|![]()|![]()|![]()|![](SE98/devices/64/input-mouse.png)|![](SE98/devices/48/input-mouse.png)|![](SE98/devices/32/input-mouse.png)|![](SE98/devices/24/input-mouse.png)|![](SE98/devices/22/input-mouse.png)|![](SE98/devices/16/input-mouse.png)|
 |**no**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**player_time**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
