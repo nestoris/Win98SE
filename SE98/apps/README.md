@@ -70,7 +70,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**ccc_large**|![](64/ccc_large.png)|![](48/ccc_large.png)|![](32/ccc_large.png)|![](24/ccc_large.png)|![](22/ccc_large.png)|![](16/ccc_large.png)|
 |**ccsm**|![](64/ccsm.png)|![](48/ccsm.png)|![](32/ccsm.png)|![](24/ccsm.png)|![](22/ccsm.png)|![](16/ccsm.png)|
 |**checkbox**|![](64/checkbox.png)|![](48/checkbox.png)|![](32/checkbox.png)|![](24/checkbox.png)|![](22/checkbox.png)|![](16/checkbox.png)|
-|**checkgmail**|![](64/checkgmail.png)|![](48/checkgmail.png)|![](32/checkgmail.png)|![](24/checkgmail.png)|![](22/checkgmail.png)|![](16/checkgmail.png)|
 |**cheese**|![](64/cheese.png)|![](48/cheese.png)|![](32/cheese.png)|![](24/cheese.png)|![](22/cheese.png)|![](16/cheese.png)|
 |**chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default**|![](64/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|![](48/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|![](32/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|![](24/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|![](22/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|![](16/chrome-blpcfgokakmgnkcojhhkbfbldkacnbeo-Default.png)|
 |**chrome-boeajhmfdjldchidhphikilcgdacljfm-Default**|![](64/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](48/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](32/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](24/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](22/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|![](16/chrome-boeajhmfdjldchidhphikilcgdacljfm-Default.png)|
@@ -88,7 +87,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**credentials-preferences**|![](64/credentials-preferences.png)|![](48/credentials-preferences.png)|![](32/credentials-preferences.png)|![](24/credentials-preferences.png)|![](22/credentials-preferences.png)|![](16/credentials-preferences.png)|
 |**date**|![](64/date.png)|![](48/date.png)|![](32/date.png)|![](24/date.png)|![](22/date.png)|![](16/date.png)|
 |**dc++**|![](64/dc++.png)|![](48/dc++.png)|![](32/dc++.png)|![](24/dc++.png)|![](22/dc++.png)|![](16/dc++.png)|
-|**dconf**|![](64/dconf.png)|![](48/dconf.png)|![](32/dconf.png)|![](24/dconf.png)|![](22/dconf.png)|![](16/dconf.png)|
 |**deadbeef**|![](64/deadbeef.png)|![](48/deadbeef.png)|![](32/deadbeef.png)|![](24/deadbeef.png)|![](22/deadbeef.png)|![](16/deadbeef.png)|
 |**deja-dup**|![](64/deja-dup.png)|![](48/deja-dup.png)|![](32/deja-dup.png)|![](24/deja-dup.png)|![](22/deja-dup.png)|![](16/deja-dup.png)|
 |**deluge**|![](64/deluge.png)|![](48/deluge.png)|![](32/deluge.png)|![](24/deluge.png)|![](22/deluge.png)|![](16/deluge.png)|
@@ -143,8 +141,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gconf-cleaner**|![](64/gconf-cleaner.png)|![](48/gconf-cleaner.png)|![](32/gconf-cleaner.png)|![](24/gconf-cleaner.png)|![](22/gconf-cleaner.png)|![](16/gconf-cleaner.png)|
 |**gcstar**|![](64/gcstar.png)|![](48/gcstar.png)|![](32/gcstar.png)|![](24/gcstar.png)|![](22/gcstar.png)|![](16/gcstar.png)|
 |**geany**|![](64/geany.png)|![](48/geany.png)|![](32/geany.png)|![](24/geany.png)|![](22/geany.png)|![](16/geany.png)|
-|**gedit-icon**|![](64/gedit-icon.png)|![](48/gedit-icon.png)|![](32/gedit-icon.png)|![](24/gedit-icon.png)|![](22/gedit-icon.png)|![](16/gedit-icon.png)|
-|**gedit-logo**|![](64/gedit-logo.png)|![](48/gedit-logo.png)|![](32/gedit-logo.png)|![](24/gedit-logo.png)|![](22/gedit-logo.png)|![](16/gedit-logo.png)|
 |**geogebra**|![](64/geogebra.png)|![](48/geogebra.png)|![](32/geogebra.png)|![](24/geogebra.png)|![](22/geogebra.png)|![](16/geogebra.png)|
 |**gespeaker**|![](64/gespeaker.png)|![](48/gespeaker.png)|![](32/gespeaker.png)|![](24/gespeaker.png)|![](22/gespeaker.png)|![](16/gespeaker.png)|
 |**ghex**|![](64/ghex.png)|![](48/ghex.png)|![](32/ghex.png)|![](24/ghex.png)|![](22/ghex.png)|![](16/ghex.png)|
@@ -158,7 +154,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**glade**|![](64/glade.png)|![](48/glade.png)|![](32/glade.png)|![](24/glade.png)|![](22/glade.png)|![](16/glade.png)|
 |**gloobus**|![](64/gloobus.png)|![](48/gloobus.png)|![](32/gloobus.png)|![](24/gloobus.png)|![](22/gloobus.png)|![](16/gloobus.png)|
 |**gmail**|![](64/gmail.png)|![](48/gmail.png)|![](32/gmail.png)|![](24/gmail.png)|![](22/gmail.png)|![](16/gmail.png)|
-|**gmailwatcher**|![](64/gmailwatcher.png)|![](48/gmailwatcher.png)|![](32/gmailwatcher.png)|![](24/gmailwatcher.png)|![](22/gmailwatcher.png)|![](16/gmailwatcher.png)|
 |**gnochm**|![](64/gnochm.png)|![](48/gnochm.png)|![](32/gnochm.png)|![](24/gnochm.png)|![](22/gnochm.png)|![](16/gnochm.png)|
 |**gnome-about-logo**|![](64/gnome-about-logo.png)|![](48/gnome-about-logo.png)|![](32/gnome-about-logo.png)|![](24/gnome-about-logo.png)|![](22/gnome-about-logo.png)|![](16/gnome-about-logo.png)|
 |**gnome-activity-journal**|![](64/gnome-activity-journal.png)|![](48/gnome-activity-journal.png)|![](32/gnome-activity-journal.png)|![](24/gnome-activity-journal.png)|![](22/gnome-activity-journal.png)|![](16/gnome-activity-journal.png)|
@@ -232,7 +227,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gunity**|![](64/gunity.png)|![](48/gunity.png)|![](32/gunity.png)|![](24/gunity.png)|![](22/gunity.png)|![](16/gunity.png)|
 |**gwibber**|![](64/gwibber.png)|![](48/gwibber.png)|![](32/gwibber.png)|![](24/gwibber.png)|![](22/gwibber.png)|![](16/gwibber.png)|
 |**haguichi**|![](64/haguichi.png)|![](48/haguichi.png)|![](32/haguichi.png)|![](24/haguichi.png)|![](22/haguichi.png)|![](16/haguichi.png)|
-|**hardinfo**|![](64/hardinfo.png)|![](48/hardinfo.png)|![](32/hardinfo.png)|![](24/hardinfo.png)|![](22/hardinfo.png)|![](16/hardinfo.png)|
 |**hedgewars**|![](64/hedgewars.png)|![](48/hedgewars.png)|![](32/hedgewars.png)|![](24/hedgewars.png)|![](22/hedgewars.png)|![](16/hedgewars.png)|
 |**help-contents**|![](64/help-contents.png)|![](48/help-contents.png)|![](32/help-contents.png)|![](24/help-contents.png)|![](22/help-contents.png)|![](16/help-contents.png)|
 |**hexchat**|![](64/hexchat.png)|![](48/hexchat.png)|![](32/hexchat.png)|![](24/hexchat.png)|![](22/hexchat.png)|![](16/hexchat.png)|
@@ -240,7 +234,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**htop**|![](64/htop.png)|![](48/htop.png)|![](32/htop.png)|![](24/htop.png)|![](22/htop.png)|![](16/htop.png)|
 |**hwbroser**|![](64/hwbroser.png)|![](48/hwbroser.png)|![](32/hwbroser.png)|![](24/hwbroser.png)|![](22/hwbroser.png)|![](16/hwbroser.png)|
 |**hydrogen**|![](64/hydrogen.png)|![](48/hydrogen.png)|![](32/hydrogen.png)|![](24/hydrogen.png)|![](22/hydrogen.png)|![](16/hydrogen.png)|
-|**ibus**|![](64/ibus.png)|![](48/ibus.png)|![](32/ibus.png)|![](24/ibus.png)|![](22/ibus.png)|![](16/ibus.png)|
 |**icedove**|![](64/icedove.png)|![](48/icedove.png)|![](32/icedove.png)|![](24/icedove.png)|![](22/icedove.png)|![](16/icedove.png)|
 |**iceweasel**|![](64/iceweasel.png)|![](48/iceweasel.png)|![](32/iceweasel.png)|![](24/iceweasel.png)|![](22/iceweasel.png)|![](16/iceweasel.png)|
 |**im**|![](64/im.png)|![](48/im.png)|![](32/im.png)|![](24/im.png)|![](22/im.png)|![](16/im.png)|
@@ -563,7 +556,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**wine-winecfg**|![](64/wine-winecfg.png)|![](48/wine-winecfg.png)|![](32/wine-winecfg.png)|![](24/wine-winecfg.png)|![](22/wine-winecfg.png)|![](16/wine-winecfg.png)|
 |**wine-winetricks**|![](64/wine-winetricks.png)|![](48/wine-winetricks.png)|![](32/wine-winetricks.png)|![](24/wine-winetricks.png)|![](22/wine-winetricks.png)|![](16/wine-winetricks.png)|
 |**wireshark**|![](64/wireshark.png)|![](48/wireshark.png)|![](32/wireshark.png)|![](24/wireshark.png)|![](22/wireshark.png)|![](16/wireshark.png)|
-|**wmtweaks**|![](64/wmtweaks.png)|![](48/wmtweaks.png)|![](32/wmtweaks.png)|![](24/wmtweaks.png)|![](22/wmtweaks.png)|![](16/wmtweaks.png)|
 |**workspace-switcher**|![](64/workspace-switcher.png)|![](48/workspace-switcher.png)|![](32/workspace-switcher.png)|![](24/workspace-switcher.png)|![](22/workspace-switcher.png)|![](16/workspace-switcher.png)|
 |**wormux**|![](64/wormux.png)|![](48/wormux.png)|![](32/wormux.png)|![](24/wormux.png)|![](22/wormux.png)|![](16/wormux.png)|
 |**wxbanker**|![](64/wxbanker.png)|![](48/wxbanker.png)|![](32/wxbanker.png)|![](24/wxbanker.png)|![](22/wxbanker.png)|![](16/wxbanker.png)|
@@ -594,7 +586,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfsm-hibernate**|![](64/xfsm-hibernate.png)|![](48/xfsm-hibernate.png)|![](32/xfsm-hibernate.png)|![](24/xfsm-hibernate.png)|![](22/xfsm-hibernate.png)|![](16/xfsm-hibernate.png)|
 |**xfsm-suspend**|![](64/xfsm-suspend.png)|![](48/xfsm-suspend.png)|![](32/xfsm-suspend.png)|![](24/xfsm-suspend.png)|![](22/xfsm-suspend.png)|![](16/xfsm-suspend.png)|
 |**xfsm-switch**|![](64/xfsm-switch.png)|![](48/xfsm-switch.png)|![](32/xfsm-switch.png)|![](24/xfsm-switch.png)|![](22/xfsm-switch.png)|![](16/xfsm-switch.png)|
-|**xine**|![](64/xine.png)|![](48/xine.png)|![](32/xine.png)|![](24/xine.png)|![](22/xine.png)|![](16/xine.png)|
 |**xmoto**|![](64/xmoto.png)|![](48/xmoto.png)|![](32/xmoto.png)|![](24/xmoto.png)|![](22/xmoto.png)|![](16/xmoto.png)|
 |**xonotic**|![](64/xonotic.png)|![](48/xonotic.png)|![](32/xonotic.png)|![](24/xonotic.png)|![](22/xonotic.png)|![](16/xonotic.png)|
 |**xoscope**|![](64/xoscope.png)|![](48/xoscope.png)|![](32/xoscope.png)|![](24/xoscope.png)|![](22/xoscope.png)|![](16/xoscope.png)|
@@ -603,4 +594,3 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xpdf**|![](64/xpdf.png)|![](48/xpdf.png)|![](32/xpdf.png)|![](24/xpdf.png)|![](22/xpdf.png)|![](16/xpdf.png)|
 |**yast-language**|![](64/yast-language.png)|![](48/yast-language.png)|![](32/yast-language.png)|![](24/yast-language.png)|![](22/yast-language.png)|![](16/yast-language.png)|
 |**youtube**|![](64/youtube.png)|![](48/youtube.png)|![](32/youtube.png)|![](24/youtube.png)|![](22/youtube.png)|![](16/youtube.png)|
-|**zim**|![](64/zim.png)|![](48/zim.png)|![](32/zim.png)|![](24/zim.png)|![](22/zim.png)|![](16/zim.png)|
