@@ -92,7 +92,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**deadbeef**|![](64/deadbeef.png)|![](48/deadbeef.png)|![](32/deadbeef.png)|![](24/deadbeef.png)|![](22/deadbeef.png)|![](16/deadbeef.png)|
 |**deja-dup**|![](64/deja-dup.png)|![](48/deja-dup.png)|![](32/deja-dup.png)|![](24/deja-dup.png)|![](22/deja-dup.png)|![](16/deja-dup.png)|
 |**deluge**|![](64/deluge.png)|![](48/deluge.png)|![](32/deluge.png)|![](24/deluge.png)|![](22/deluge.png)|![](16/deluge.png)|
-|**desktop-effects**|![](64/desktop-effects.png)|![](48/desktop-effects.png)|![](32/desktop-effects.png)|![](24/desktop-effects.png)|![](22/desktop-effects.png)|![](16/desktop-effects.png)|
 |**desura**|![](64/desura.png)|![](48/desura.png)|![](32/desura.png)|![](24/desura.png)|![](22/desura.png)|![](16/desura.png)|
 |**devede**|![](64/devede.png)|![](48/devede.png)|![](32/devede.png)|![](24/devede.png)|![](22/devede.png)|![](16/devede.png)|
 |**devhelp**|![](64/devhelp.png)|![](48/devhelp.png)|![](32/devhelp.png)|![](24/devhelp.png)|![](22/devhelp.png)|![](16/devhelp.png)|
@@ -165,7 +164,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-activity-journal**|![](64/gnome-activity-journal.png)|![](48/gnome-activity-journal.png)|![](32/gnome-activity-journal.png)|![](24/gnome-activity-journal.png)|![](22/gnome-activity-journal.png)|![](16/gnome-activity-journal.png)|
 |**gnome-aisleriot**|![](64/gnome-aisleriot.png)|![](48/gnome-aisleriot.png)|![](32/gnome-aisleriot.png)|![](24/gnome-aisleriot.png)|![](22/gnome-aisleriot.png)|![](16/gnome-aisleriot.png)|
 |**gnome-cd**|![](64/gnome-cd.png)|![](48/gnome-cd.png)|![](32/gnome-cd.png)|![](24/gnome-cd.png)|![](22/gnome-cd.png)|![](16/gnome-cd.png)|
-|**gnome-character-map**|![](64/gnome-character-map.png)|![](48/gnome-character-map.png)|![](32/gnome-character-map.png)|![](24/gnome-character-map.png)|![](22/gnome-character-map.png)|![](16/gnome-character-map.png)|
 |**gnome-clocks**|![](64/gnome-clocks.png)|![](48/gnome-clocks.png)|![](32/gnome-clocks.png)|![](24/gnome-clocks.png)|![](22/gnome-clocks.png)|![](16/gnome-clocks.png)|
 |**gnome-contacts**|![](64/gnome-contacts.png)|![](48/gnome-contacts.png)|![](32/gnome-contacts.png)|![](24/gnome-contacts.png)|![](22/gnome-contacts.png)|![](16/gnome-contacts.png)|
 |**gnome-documents**|![](64/gnome-documents.png)|![](48/gnome-documents.png)|![](32/gnome-documents.png)|![](24/gnome-documents.png)|![](22/gnome-documents.png)|![](16/gnome-documents.png)|
