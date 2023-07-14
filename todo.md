@@ -288,7 +288,7 @@
 |**application-x-nzb**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-scheme**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-pgp-keys**|![]()|![]()|![]()|![](SE98/mimes/64/application-pgp-keys.png)|![](SE98/mimes/48/application-pgp-keys.png)|![](SE98/mimes/32/application-pgp-keys.png)|![](SE98/mimes/24/application-pgp-keys.png)|![](SE98/mimes/22/application-pgp-keys.png)|![](SE98/mimes/16/application-pgp-keys.png)|
-|**application-x-zip-compressed-fb2**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**application-x-zip-compressed-fb2**|![]()|![]()|![]()|![]()|![](SE98/mimes/48/application-x-fictionbook+xml.png)|![](SE98/mimes/32/application-x-fictionbook+xml.png)|![](SE98/mimes/24/application-x-fictionbook+xml.png)|![](SE98/mimes/22/application-x-fictionbook+xml.png)|![](SE98/mimes/16/application-x-fictionbook+xml.png)|
 |**application-x-mobipocket-ebook**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**text-x-rpm-spec**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**application-x-q4os-execscript**|![]()|![]()|![]()|![](SE98/mimes/64/application-install.png)|![](SE98/mimes/48/application-install.png)|![](SE98/mimes/32/application-install.png)|![](SE98/mimes/24/application-install.png)|![](SE98/mimes/22/application-install.png)|![](SE98/mimes/16/application-install.png)|
