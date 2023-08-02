@@ -361,7 +361,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**oregano**|![](64/oregano.png)|![](48/oregano.png)|![](32/oregano.png)|![](24/oregano.png)|![](22/oregano.png)|![](16/oregano.png)|
 |**org.xfce.panel.launcher**|![](64/org.xfce.panel.launcher.png)|![](48/org.xfce.panel.launcher.png)|![](32/org.xfce.panel.launcher.png)|![](24/org.xfce.panel.launcher.png)|![](22/org.xfce.panel.launcher.png)|![](16/org.xfce.panel.launcher.png)|
 |**org.xfce.panel.separator**|![](64/org.xfce.panel.separator.png)|![](48/org.xfce.panel.separator.png)|![](32/org.xfce.panel.separator.png)|![](24/org.xfce.panel.separator.png)|![](22/org.xfce.panel.separator.png)|![](16/org.xfce.panel.separator.png)|
-|**org.xfce.volman**|![](64/org.xfce.volman.png)|![](48/org.xfce.volman.png)|![](32/org.xfce.volman.png)|![](24/org.xfce.volman.png)|![](22/org.xfce.volman.png)|![](16/org.xfce.volman.png)|
 |**p7zip**|![](64/p7zip.png)|![](48/p7zip.png)|![](32/p7zip.png)|![](24/p7zip.png)|![](22/p7zip.png)|![](16/p7zip.png)|
 |**palemoon_48**|![](64/palemoon_48.png)|![](48/palemoon_48.png)|![](32/palemoon_48.png)|![](24/palemoon_48.png)|![](22/palemoon_48.png)|![](16/palemoon_48.png)|
 |**palm-pilot**|![](64/palm-pilot.png)|![](48/palm-pilot.png)|![](32/palm-pilot.png)|![](24/palm-pilot.png)|![](22/palm-pilot.png)|![](16/palm-pilot.png)|
