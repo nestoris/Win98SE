@@ -151,7 +151,7 @@
 |**kchmviewer**|![]()|![]()|![]()|![](SE98/apps/64/gnochm.png)|![](SE98/apps/48/gnochm.png)|![](SE98/apps/32/gnochm.png)|![](SE98/apps/24/gnochm.png)|![](SE98/apps/22/gnochm.png)|![](SE98/apps/16/gnochm.png)|
 |**kcmx**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/system-settings.png)|![](SE98/apps/48/system-settings.png)|![](SE98/apps/32/system-settings.png)|![](SE98/apps/24/system-settings.png)|![](SE98/apps/22/system-settings.png)|![](SE98/apps/16/system-settings.png)|
-|**kdenlive**|![]()|![]()|![]()|![]()|![](SE98/apps/48/kdenlive.png)|![](SE98/apps/32/kdenlive.png)|![](SE98/apps/24/kdenlive.png)|![](SE98/apps/22/kdenlive.png)|![](SE98/apps/16/kdenlive.png)|
+|**kdenlive**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keyboard**|![]()|![]()|![]()|![](SE98/devices/64/input-keyboard.png)|![](SE98/devices/48/input-keyboard.png)|![](SE98/devices/32/input-keyboard.png)|![](SE98/devices/24/input-keyboard.png)|![](SE98/devices/22/input-keyboard.png)|![](SE98/devices/16/input-keyboard.png)|
@@ -342,7 +342,7 @@
 |**mintlocale-im**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**mintstick**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**mintupdate-release-upgrade**|![]()|![]()|![]()|![]()|![](SE98/status/48/software-update-release-upgrade.png)|![](SE98/status/32/software-update-release-upgrade.png)|![](SE98/status/24/software-update-release-upgrade.png)|![](SE98/status/22/software-update-release-upgrade.png)|![](SE98/status/16/software-update-release-upgrade.png)|
-|**pix**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**pix**|![]()|![]()|![]()|![](SE98/apps/64/accessories-image-viewer.png)|![](SE98/apps/48/accessories-image-viewer.png)|![](SE98/apps/32/accessories-image-viewer.png)|![](SE98/apps/24/accessories-image-viewer.png)|![](SE98/apps/22/accessories-image-viewer.png)|![](SE98/apps/16/accessories-image-viewer.png)|
 |**MidnightCommander**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**bibletime**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**libreoffice_extension**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -360,7 +360,7 @@
 |**find-location**|![]()|![]()|![]()|![]()|![](SE98/actions/48/find-location.png)|![](SE98/actions/32/find-location.png)|![]()|![]()|![]()|
 |**folder-move**|![]()|![]()|![]()|![](SE98/actions/64/folder-move.png)|![](SE98/actions/48/folder-move.png)|![](SE98/actions/32/folder-move.png)|![](SE98/actions/24/folder-move.png)|![](SE98/actions/22/folder-move.png)|![](SE98/actions/16/folder-move.png)|
 |**fsview**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**juk**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**juk**|![]()|![](SE98/apps/96/multimedia-audio-player.png)|![]()|![](SE98/apps/64/multimedia-audio-player.png)|![](SE98/apps/48/multimedia-audio-player.png)|![](SE98/apps/32/multimedia-audio-player.png)|![](SE98/apps/24/multimedia-audio-player.png)|![](SE98/apps/22/multimedia-audio-player.png)|![](SE98/apps/16/multimedia-audio-player.png)|
 |**kig**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**khexedit**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kgpg**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|

@@ -45,7 +45,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**apport**|![](64/apport.png)|![](48/apport.png)|![](32/apport.png)|![](24/apport.png)|![](22/apport.png)|![](16/apport.png)|
 |**aptoncd**|![](64/aptoncd.png)|![](48/aptoncd.png)|![](32/aptoncd.png)|![](24/aptoncd.png)|![](22/aptoncd.png)|![](16/aptoncd.png)|
 |**arts**|![](64/arts.png)|![](48/arts.png)|![](32/arts.png)|![](24/arts.png)|![](22/arts.png)|![](16/arts.png)|
-|**audacity**|![](64/audacity.png)|![](48/audacity.png)|![](32/audacity.png)|![](24/audacity.png)|![](22/audacity.png)|![](16/audacity.png)|
 |**audio-tag-tool**|![](64/audio-tag-tool.png)|![](48/audio-tag-tool.png)|![](32/audio-tag-tool.png)|![](24/audio-tag-tool.png)|![](22/audio-tag-tool.png)|![](16/audio-tag-tool.png)|
 |**autoplus**|![](64/autoplus.png)|![](48/autoplus.png)|![](32/autoplus.png)|![](24/autoplus.png)|![](22/autoplus.png)|![](16/autoplus.png)|
 |**avant-window-navigator**|![](64/avant-window-navigator.png)|![](48/avant-window-navigator.png)|![](32/avant-window-navigator.png)|![](24/avant-window-navigator.png)|![](22/avant-window-navigator.png)|![](16/avant-window-navigator.png)|
@@ -53,7 +52,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**background**|![](64/background.png)|![](48/background.png)|![](32/background.png)|![](24/background.png)|![](22/background.png)|![](16/background.png)|
 |**bazaar**|![](64/bazaar.png)|![](48/bazaar.png)|![](32/bazaar.png)|![](24/bazaar.png)|![](22/bazaar.png)|![](16/bazaar.png)|
 |**beryl-settings**|![](64/beryl-settings.png)|![](48/beryl-settings.png)|![](32/beryl-settings.png)|![](24/beryl-settings.png)|![](22/beryl-settings.png)|![](16/beryl-settings.png)|
-|**blender**|![](64/blender.png)|![](48/blender.png)|![](32/blender.png)|![](24/blender.png)|![](22/blender.png)|![](16/blender.png)|
 |**bluefish**|![](64/bluefish.png)|![](48/bluefish.png)|![](32/bluefish.png)|![](24/bluefish.png)|![](22/bluefish.png)|![](16/bluefish.png)|
 |**bluegriffon**|![](64/bluegriffon.png)|![](48/bluegriffon.png)|![](32/bluegriffon.png)|![](24/bluegriffon.png)|![](22/bluegriffon.png)|![](16/bluegriffon.png)|
 |**blueradio**|![](64/blueradio.png)|![](48/blueradio.png)|![](32/blueradio.png)|![](24/blueradio.png)|![](22/blueradio.png)|![](16/blueradio.png)|
@@ -222,7 +220,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gtk-info**|![](64/gtk-info.png)|![](48/gtk-info.png)|![](32/gtk-info.png)|![](24/gtk-info.png)|![](22/gtk-info.png)|![](16/gtk-info.png)|
 |**gtk-recordmydesktop**|![](64/gtk-recordmydesktop.png)|![](48/gtk-recordmydesktop.png)|![](32/gtk-recordmydesktop.png)|![](24/gtk-recordmydesktop.png)|![](22/gtk-recordmydesktop.png)|![](16/gtk-recordmydesktop.png)|
 |**gtkpod**|![](64/gtkpod.png)|![](48/gtkpod.png)|![](32/gtkpod.png)|![](24/gtkpod.png)|![](22/gtkpod.png)|![](16/gtkpod.png)|
-|**guake**|![](64/guake.png)|![](48/guake.png)|![](32/guake.png)|![](24/guake.png)|![](22/guake.png)|![](16/guake.png)|
 |**guayadeque**|![](64/guayadeque.png)|![](48/guayadeque.png)|![](32/guayadeque.png)|![](24/guayadeque.png)|![](22/guayadeque.png)|![](16/guayadeque.png)|
 |**gunity**|![](64/gunity.png)|![](48/gunity.png)|![](32/gunity.png)|![](24/gunity.png)|![](22/gunity.png)|![](16/gunity.png)|
 |**gwibber**|![](64/gwibber.png)|![](48/gwibber.png)|![](32/gwibber.png)|![](24/gwibber.png)|![](22/gwibber.png)|![](16/gwibber.png)|
@@ -268,7 +265,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**kadu**|![](64/kadu.png)|![](48/kadu.png)|![](32/kadu.png)|![](24/kadu.png)|![](22/kadu.png)|![](16/kadu.png)|
 |**kcharselect**|![](64/kcharselect.png)|![](48/kcharselect.png)|![](32/kcharselect.png)|![](24/kcharselect.png)|![](22/kcharselect.png)|![](16/kcharselect.png)|
 |**kcmkwm**|![](64/kcmkwm.png)|![](48/kcmkwm.png)|![](32/kcmkwm.png)|![](24/kcmkwm.png)|![](22/kcmkwm.png)|![](16/kcmkwm.png)|
-|**kdenlive**|![](64/kdenlive.png)|![](48/kdenlive.png)|![](32/kdenlive.png)|![](24/kdenlive.png)|![](22/kdenlive.png)|![](16/kdenlive.png)|
 |**keepassx**|![](64/keepassx.png)|![](48/keepassx.png)|![](32/keepassx.png)|![](24/keepassx.png)|![](22/keepassx.png)|![](16/keepassx.png)|
 |**key_bindings**|![](64/key_bindings.png)|![](48/key_bindings.png)|![](32/key_bindings.png)|![](24/key_bindings.png)|![](22/key_bindings.png)|![](16/key_bindings.png)|
 |**keyring-manager**|![](64/keyring-manager.png)|![](48/keyring-manager.png)|![](32/keyring-manager.png)|![](24/keyring-manager.png)|![](22/keyring-manager.png)|![](16/keyring-manager.png)|
@@ -311,7 +307,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**memaker**|![](64/memaker.png)|![](48/memaker.png)|![](32/memaker.png)|![](24/memaker.png)|![](22/memaker.png)|![](16/memaker.png)|
 |**menu-editor**|![](64/menu-editor.png)|![](48/menu-editor.png)|![](32/menu-editor.png)|![](24/menu-editor.png)|![](22/menu-editor.png)|![](16/menu-editor.png)|
 |**midori**|![](64/midori.png)|![](48/midori.png)|![](32/midori.png)|![](24/midori.png)|![](22/midori.png)|![](16/midori.png)|
-|**minecraft**|![](64/minecraft.png)|![](48/minecraft.png)|![](32/minecraft.png)|![](24/minecraft.png)|![](22/minecraft.png)|![](16/minecraft.png)|
 |**mines**|![](64/mines.png)|![](48/mines.png)|![](32/mines.png)|![](24/mines.png)|![](22/mines.png)|![](16/mines.png)|
 |**minesweper**|![](64/minesweper.png)|![](48/minesweper.png)|![](32/minesweper.png)|![](24/minesweper.png)|![](22/minesweper.png)|![](16/minesweper.png)|
 |**miro**|![](64/miro.png)|![](48/miro.png)|![](32/miro.png)|![](24/miro.png)|![](22/miro.png)|![](16/miro.png)|
@@ -430,10 +425,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**q4wine**|![](64/q4wine.png)|![](48/q4wine.png)|![](32/q4wine.png)|![](24/q4wine.png)|![](22/q4wine.png)|![](16/q4wine.png)|
 |**qgit**|![](64/qgit.png)|![](48/qgit.png)|![](32/qgit.png)|![](24/qgit.png)|![](22/qgit.png)|![](16/qgit.png)|
 |**qjackctl**|![](64/qjackctl.png)|![](48/qjackctl.png)|![](32/qjackctl.png)|![](24/qjackctl.png)|![](22/qjackctl.png)|![](16/qjackctl.png)|
-|**qtassistant**|![](64/qtassistant.png)|![](48/qtassistant.png)|![](32/qtassistant.png)|![](24/qtassistant.png)|![](22/qtassistant.png)|![](16/qtassistant.png)|
 |**qtcreator**|![](64/qtcreator.png)|![](48/qtcreator.png)|![](32/qtcreator.png)|![](24/qtcreator.png)|![](22/qtcreator.png)|![](16/qtcreator.png)|
-|**qtdesigner**|![](64/qtdesigner.png)|![](48/qtdesigner.png)|![](32/qtdesigner.png)|![](24/qtdesigner.png)|![](22/qtdesigner.png)|![](16/qtdesigner.png)|
-|**qtlinguist**|![](64/qtlinguist.png)|![](48/qtlinguist.png)|![](32/qtlinguist.png)|![](24/qtlinguist.png)|![](22/qtlinguist.png)|![](16/qtlinguist.png)|
 |**quake**|![](64/quake.png)|![](48/quake.png)|![](32/quake.png)|![](24/quake.png)|![](22/quake.png)|![](16/quake.png)|
 |**quake2**|![](64/quake2.png)|![](48/quake2.png)|![](32/quake2.png)|![](24/quake2.png)|![](22/quake2.png)|![](16/quake2.png)|
 |**quake3**|![](64/quake3.png)|![](48/quake3.png)|![](32/quake3.png)|![](24/quake3.png)|![](22/quake3.png)|![](16/quake3.png)|
