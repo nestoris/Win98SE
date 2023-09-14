@@ -265,9 +265,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_repeat**|![](64/stock_repeat.png)|![](48/stock_repeat.png)|![](32/stock_repeat.png)|![](24/stock_repeat.png)|![](22/stock_repeat.png)|![](16/stock_repeat.png)|
 |**stock_shuffle**|![](64/stock_shuffle.png)|![](48/stock_shuffle.png)|![](32/stock_shuffle.png)|![](24/stock_shuffle.png)|![](22/stock_shuffle.png)|![](16/stock_shuffle.png)|
 |**stock_trash_full**|![](64/stock_trash_full.png)|![](48/stock_trash_full.png)|![](32/stock_trash_full.png)|![](24/stock_trash_full.png)|![](22/stock_trash_full.png)|![](16/stock_trash_full.png)|
-|**stock_volume**|![](64/stock_volume.png)|![](48/stock_volume.png)|![](32/stock_volume.png)|![](24/stock_volume.png)|![](22/stock_volume.png)|![](16/stock_volume.png)|
-|**stock_volume-0**|![](64/stock_volume-0.png)|![](48/stock_volume-0.png)|![](32/stock_volume-0.png)|![](24/stock_volume-0.png)|![](22/stock_volume-0.png)|![](16/stock_volume-0.png)|
-|**stock_volume-mute**|![](64/stock_volume-mute.png)|![](48/stock_volume-mute.png)|![](32/stock_volume-mute.png)|![](24/stock_volume-mute.png)|![](22/stock_volume-mute.png)|![](16/stock_volume-mute.png)|
 |**stock_weather-cloudy**|![](64/stock_weather-cloudy.png)|![](48/stock_weather-cloudy.png)|![](32/stock_weather-cloudy.png)|![](24/stock_weather-cloudy.png)|![](22/stock_weather-cloudy.png)|![](16/stock_weather-cloudy.png)|
 |**stock_weather-few-clouds**|![](64/stock_weather-few-clouds.png)|![](48/stock_weather-few-clouds.png)|![](32/stock_weather-few-clouds.png)|![](24/stock_weather-few-clouds.png)|![](22/stock_weather-few-clouds.png)|![](16/stock_weather-few-clouds.png)|
 |**stock_weather-fog**|![](64/stock_weather-fog.png)|![](48/stock_weather-fog.png)|![](32/stock_weather-fog.png)|![](24/stock_weather-fog.png)|![](22/stock_weather-fog.png)|![](16/stock_weather-fog.png)|
