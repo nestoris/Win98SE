@@ -1,10 +1,5 @@
 ![Desktop icon](SE98/places/192/user-desktop.png)
 
-# The access to the GitHub will be disabled for me (Russian) soon due to the 2-factor autentication (Russian cell numbers are not allowed).
-## So if you want to contribute to a project or get updates, please use the [GitLab page on OpenCode site](https://www.opencode.net/nestoris/Win98SE).
-## P.S. If I manage to cheat with a phone number, then I will probably stay on GitHub, otherwise, I will master OpenCode and here there will be an outdated version of theme.
-### As a contact, I will leave here a link to my Telegram account: [@dobromils](https://t.me/dobromils)
-
 [ [Please help a sick and poor Ukrainian woman.](donation-to-poor-ukrainian-woman) ]<br>
 If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send her fiew cents.
 
