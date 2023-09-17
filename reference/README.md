@@ -1,75 +1,78 @@
-*English translation will be soon...*
+# Style features.
+The Windows 98 (R) icon style has its own peculiarities. They are somewhat akin to the Byzantine iconographic style.
 
-*Until the translation is ready, use [Google Translation](https://github-com.translate.goog/nestoris/Win98SE/tree/main/reference?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp) of this page.*
+First of all, I want to say that this topic does not pretend to be perfect. This is just an attempt to adapt the most appropriate (in my opinion) style to the current reality with its huge screen resolutions.
 
-# [ru] Особенности стиля.
-Стиль значков Windows 98 (R) имеет свои особенности. Они в чём-то сродни византийскому иконописному стилю.
+* **The main criterion** of icons to be **readable**, **recognizable**, **harmoniously fitting** in GUI, but at the same time **not distracting** from the workflow with their excessive intricacy and excessive elaboration.
+* Desktop icons before the appearance of pixel translucency -- represent a typical **pixel-art**.
+* **Horizontal and vertical lines**, as a rule (almost always), are made **one pixel thick**.
+* **Diagonals** are made stepwise with an equal number of pixels for each step.
+* **Circles** and other **smooth curves** are more convenient to do in old graphics programs for DOS or Windows(R), or in modern special programs for pixel-art.
+* **The color palette** (highly desirable) should be the same for all icons: **256-color, extracted from Windows icons (R) 98 **.<br>Icon palette-98:
 
-Прежде всего хочу сказать, что эта тема не претендует на совершенство. Это просто попытка адаптировать наиболее подходящий (на мой взгляд) стиль к нынешней реальности с её огромными разрешениями экранов.
-
-* **Главная задача** значков быть **читаемыми**, **узнаваемыми**, **гармонично вписывающимися** в графический интерфейс окружения, но при этом **не отвлекающими** от рабочего процесса своей чрезмерной замысловатостью и излишней проработанностью.
-* Значки рабочего стола до появления пиксельной полупрозрачности -- представляют из себя типичный **pixel-art**.
-* **Горизонтальные и вертикальные линии**, как правило (почти всегда), делаются толщиной в **один пиксель**.
-* **Диагонали** делаются ступенчато с равным количеством пикселей для каждой ступеньки.
-* **Круги** и прочие **плавные кривые** линии удобнее делать в старых графических программах для DOS или Windows(R), либо в современных специальных программах для pixel-art-а.
-* **Цветовая палитра** (крайне желательно) должна быть единая для всех значков: **256-цветовая, извлечённая из значков Windows(R) 98**.<br>Палитра значков-98:
-
-  * [Для GIMP](GIMP-98.gpl)
+  * [For GIMP](GIMP-98.gpl)
   * [Photoshop (R) Color Table](Photoshop-98.act)
-  * [ACO для Photoshop (R)](Photoshop-98.aco)
+  * [ACO for Photoshop (R)](Photoshop-98.aco)
   * [Microsoft RIFF PAL data](Microsoft-98.pal)
   * [JASC-PAL format](Microangelo-98.pal)
 
-Плавныость градиентов достигается засчёт двух методов смешения:
+The smoothness of the gradients is achieved through two mixing methods:
 
-![](diffuse_cd.png) диффузного
+![](diffuse_cd.png) diffused
 
-![](pattern_desk.png) по образцу (pattern)
+![](pattern_desk.png) pattern
 
-**Примеры линий:**
+**Examples of lines:**
 
-![диагонали](diagonals.png) Правильные диагонали (x4)
+![диагонали](diagonals.png) Correct diagonals (x4)
 
-![круги](circles.png) Круги: (x3)
+![круги](circles.png) Circles: (x3)
 
-* Линии очертаний делаются без разрывов, за исключением случаев, когда это необходимо для композиции.
+* Outline lines are made without breaks, except when it is necessary for the composition.
 
 <details>
-<summary>Изометрия. (немного теории)</summary>
-В византийской и русской иконописи используется обратная перспектива, чтобы сохранить ощущение плоскости и предотвратить иллюзию пространственности. Это помогает сохранить ясность ума, сосредоточить внимание на главных задачах и не рассеивать его на созерцание. Геометрия и пиксельность компьютерноего изображения диктует ортогональность, поэтому используется строгая изометрия.
+<summary>Isometry. (a little theory)</summary>
+In Byzantine and Russian iconography, reverse perspective is used to preserve the sense of flatness and prevent the illusion of spatiality. This helps to keep your mind clear, focus on the main tasks and not disperse it into contemplation. The geometry and pixelation of a computer image dictates orthogonality, so strict isometry is used.
 </details>
 
 ![](gradient_and_line.png)
 
-Композиция близка к правильной (сделана из оригинального значка ![](msoemapi_801.png)) за исключением очертаний и градиентов. При автоматическом масштабировании очертания объектов часто получаются кривые (потому что почти все графические программы не способны распознавать направление растровых линий и масштабируют их некорректно), градиенты полноцветные (легко исправляется с переводом изображения в режим indexed-color):
+The composition is close to the correct one (made from the original icon![](msoemapi_801.png)) except for outlines and gradients. With automatic scaling, the outlines of objects often turn out to be curves (because almost all graphics programs are not able to recognize the direction of raster lines and scale them incorrectly), gradients are full-color (easily corrected with the transfer of the image to indexed-color mode):
 
-Правильные диагонали:
+Correct diagonals:
 
-![](isometry.png) Пурпурным проведены верные линии. Все программы для пиксельной графики позволяют их делать.
+![](isometry.png) The correct lines are drawn in purple. All programs for pixel graphics allow you to do them.
 
-![](isometry_diffuse.png) Диффузные градиенты на ящике после перевода в 256-цветную палитру, встроенную в значки Win98 (присмотритесь). Старые версии Фотошопа для Windows (R) 98 и 2000 (Я сам проверял, а насчёт новых не знаю.) и GIMP могут хорошо переводить RGB изображения в индексный режим с диффузным смешением и смешением по образцу.
+![](isometry_diffuse.png) Diffuse gradients on the box after being converted to a 256-color palette embedded in Win98 icons (take a closer look). The old versions of Photoshop for Windows (R) 98 and 2000 (I checked it myself, but I don't know about the new ones.) and GIMP can well translate RGB images into index mode with diffuse mixing and pattern mixing.
 
-* Прежде, чем масштабировать или создавать свой значок, автор должен **понимать**, **для чего** рисует каждую линию, каждый пиксель и понимать, **для чего они существуют** (для информации, или общей красоты).
+* Before scaling or creating your own icon, the author must **understand**, **for what** he draws each line, each pixel and understand **why they exist** (for information, or general beauty).
 
-Оригиналы значка жёсткого диска (в случае GNU/Linux -- блочного устройства):<br>
+Originals of the hard disk icon (in the case of GNU/Linux -- a block device):<br>
 ![](../SE98/devices/16/drive-harddisk.png)
 ![](../SE98/devices/32/drive-harddisk.png)
 ![](../SE98/devices/48/drive-harddisk.png)
 
-Значки с увеличенным масштабом:<br>
+Zoomed-in icons:<br>
 ![](../SE98/devices/128/drive-harddisk.png)
 ![](../SE98/devices/160/drive-harddisk.png)
 ![](../SE98/devices/192/drive-harddisk.png)
 ![](../SE98/devices/256/drive-harddisk.png)
 
-**Некоторые отклонения** от оригинальной палитры и обязательного отсутствия полупрозрачности пикселей **не возбраняются**. Использованный ниже голубой цвет отсутствует в оригинальной палитре, края эмблемы сглажены засчёт полупрозрачности. Изображение смонтировано в Inkscape:
+**Some deviations ** from the original palette and the mandatory lack of translucency of pixels ** are not prohibited**. The blue color used below is absent from the original palette, the edges of the emblem are smoothed due to translucency. The image is mounted in Inkscape:
 
 ![](../SE98/devices/128/drive-harddisk-system.png)
 ![](../SE98/devices/160/drive-harddisk-system.png)
 ![](../SE98/devices/192/drive-harddisk-system.png)
 ![](../SE98/devices/256/drive-harddisk-system.png)
 
-# Именование значков
+# Naming of icons
 
-* В первую очередь нужно создавать значки, имена которых указаны в стандарте [FreeDesktop](https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html).
-* Идентичные им, но имеющие другие имена для различных окружений (KDE, Budgie, Gnome) нужно создавать в виде симлинков на оригиналы, чтобы не занимать лишнее место на диске и облегчить редактриование уже существующих значков.
+* First of all, you need to create icons whose names are specified in the [FreeDesktop] standard (https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html).
+* Identical to them, but having different names for different environments (KDE, Budgie, Gnome) need to be created in the form of symlinks to the originals, so as not to take up extra disk space and make it easier to edit existing icons.
+
+# Software
+Coming soon...
+
+The most convenient software for drawing PixelArt in my opinion is IconLover.<br>
+First, you create an icon project (.icpr file), which contains all the necessary formats (for example, from 16x16 to 256x256), inside each of which there can be an unlimited number of layers of varying degrees of transparency.<br>
+Then this project is saved to the .ico format and installed from it using the program "WinIconInstall" written by me (I haven't posted it yet) in the folders of the theme itself.
