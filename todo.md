@@ -59,9 +59,9 @@
 |**ftp**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**contents**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**cd**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**1downarrow**|![]()|![]()|![]()|![](SE98/actions/64/go-down.png)|![](SE98/actions/48/go-down.png)|![](SE98/actions/32/go-down.png)|![](SE98/actions/24/go-down.png)|![](SE98/actions/22/go-down.png)|![](SE98/actions/16/go-down.png)|
-|**1leftarrow**|![]()|![]()|![]()|![](SE98/actions/64/go-previous.png)|![](SE98/actions/48/go-previous.png)|![](SE98/actions/32/go-previous.png)|![](SE98/actions/24/go-previous.png)|![](SE98/actions/22/go-previous.png)|![](SE98/actions/16/go-previous.png)|
-|**1uparrow**|![]()|![]()|![]()|![](SE98/actions/64/go-up.png)|![](SE98/actions/48/go-up.png)|![](SE98/actions/32/go-up.png)|![](SE98/actions/24/go-up.png)|![](SE98/actions/22/go-up.png)|![](SE98/actions/16/go-up.png)|
+|**1downarrow**|![](SE98/actions/128/go-down.png)|![](SE98/actions/96/go-down.png)|![](SE98/actions/72/go-down.png)|![](SE98/actions/64/go-down.png)|![](SE98/actions/48/go-down.png)|![](SE98/actions/32/go-down.png)|![](SE98/actions/24/go-down.png)|![](SE98/actions/22/go-down.png)|![](SE98/actions/16/go-down.png)|
+|**1leftarrow**|![](SE98/actions/128/go-previous.png)|![](SE98/actions/96/go-previous.png)|![](SE98/actions/72/go-previous.png)|![](SE98/actions/64/go-previous.png)|![](SE98/actions/48/go-previous.png)|![](SE98/actions/32/go-previous.png)|![](SE98/actions/24/go-previous.png)|![](SE98/actions/22/go-previous.png)|![](SE98/actions/16/go-previous.png)|
+|**1uparrow**|![](SE98/actions/128/go-up.png)|![](SE98/actions/96/go-up.png)|![](SE98/actions/72/go-up.png)|![](SE98/actions/64/go-up.png)|![](SE98/actions/48/go-up.png)|![](SE98/actions/32/go-up.png)|![](SE98/actions/24/go-up.png)|![](SE98/actions/22/go-up.png)|![](SE98/actions/16/go-up.png)|
 |**1rightarrow**|![](SE98/actions/128/go-next.png)|![](SE98/actions/96/go-next.png)|![](SE98/actions/72/go-next.png)|![](SE98/actions/64/go-next.png)|![](SE98/actions/48/go-next.png)|![](SE98/actions/32/go-next.png)|![](SE98/actions/24/go-next.png)|![](SE98/actions/22/go-next.png)|![](SE98/actions/16/go-next.png)|
 |**about_kde**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**attach**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
@@ -151,7 +151,7 @@
 |**kchmviewer**|![]()|![]()|![]()|![](SE98/apps/64/gnochm.png)|![](SE98/apps/48/gnochm.png)|![](SE98/apps/32/gnochm.png)|![](SE98/apps/24/gnochm.png)|![](SE98/apps/22/gnochm.png)|![](SE98/apps/16/gnochm.png)|
 |**kcmx**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kcontrol**|![]()|![]()|![]()|![](SE98/apps/64/system-settings.png)|![](SE98/apps/48/system-settings.png)|![](SE98/apps/32/system-settings.png)|![](SE98/apps/24/system-settings.png)|![](SE98/apps/22/system-settings.png)|![](SE98/apps/16/system-settings.png)|
-|**kdenlive**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**kdenlive**|![]()|![]()|![]()|![]()|![](SE98/apps/48/video-editor.png)|![](SE98/apps/32/video-editor.png)|![]()|![]()|![](SE98/apps/16/video-editor.png)|
 |**kdisknav**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keditbookmarks**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**keyboard**|![]()|![]()|![]()|![](SE98/devices/64/input-keyboard.png)|![](SE98/devices/48/input-keyboard.png)|![](SE98/devices/32/input-keyboard.png)|![](SE98/devices/24/input-keyboard.png)|![](SE98/devices/22/input-keyboard.png)|![](SE98/devices/16/input-keyboard.png)|

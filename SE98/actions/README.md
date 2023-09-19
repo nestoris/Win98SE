@@ -229,10 +229,12 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pan-down-symbolic**|![](64/pan-down-symbolic.png)|![](48/pan-down-symbolic.png)|![](32/pan-down-symbolic.png)|![](24/pan-down-symbolic.png)|![](22/pan-down-symbolic.png)|![](16/pan-down-symbolic.png)|
 |**pan-end**|![](64/pan-end.png)|![](48/pan-end.png)|![](32/pan-end.png)|![](24/pan-end.png)|![](22/pan-end.png)|![](16/pan-end.png)|
 |**pan-left**|![](64/pan-left.png)|![](48/pan-left.png)|![](32/pan-left.png)|![](24/pan-left.png)|![](22/pan-left.png)|![](16/pan-left.png)|
+|**pan-left-symbolic**|![](64/pan-left-symbolic.png)|![](48/pan-left-symbolic.png)|![](32/pan-left-symbolic.png)|![](24/pan-left-symbolic.png)|![](22/pan-left-symbolic.png)|![](16/pan-left-symbolic.png)|
 |**pan-right**|![](64/pan-right.png)|![](48/pan-right.png)|![](32/pan-right.png)|![](24/pan-right.png)|![](22/pan-right.png)|![](16/pan-right.png)|
 |**pan-right-symbolic**|![](64/pan-right-symbolic.png)|![](48/pan-right-symbolic.png)|![](32/pan-right-symbolic.png)|![](24/pan-right-symbolic.png)|![](22/pan-right-symbolic.png)|![](16/pan-right-symbolic.png)|
 |**pan-start**|![](64/pan-start.png)|![](48/pan-start.png)|![](32/pan-start.png)|![](24/pan-start.png)|![](22/pan-start.png)|![](16/pan-start.png)|
 |**pan-up**|![](64/pan-up.png)|![](48/pan-up.png)|![](32/pan-up.png)|![](24/pan-up.png)|![](22/pan-up.png)|![](16/pan-up.png)|
+|**pan-up-symbolic**|![](64/pan-up-symbolic.png)|![](48/pan-up-symbolic.png)|![](32/pan-up-symbolic.png)|![](24/pan-up-symbolic.png)|![](22/pan-up-symbolic.png)|![](16/pan-up-symbolic.png)|
 |**pane-hide**|![](64/pane-hide.png)|![](48/pane-hide.png)|![](32/pane-hide.png)|![](24/pane-hide.png)|![](22/pane-hide.png)|![](16/pane-hide.png)|
 |**pane-show**|![](64/pane-show.png)|![](48/pane-show.png)|![](32/pane-show.png)|![](24/pane-show.png)|![](22/pane-show.png)|![](16/pane-show.png)|
 |**podcast-new**|![](64/podcast-new.png)|![](48/podcast-new.png)|![](32/podcast-new.png)|![](24/podcast-new.png)|![](22/podcast-new.png)|![](16/podcast-new.png)|
@@ -309,13 +311,13 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**viewmag1**|![](64/viewmag1.png)|![](48/viewmag1.png)|![](32/viewmag1.png)|![](24/viewmag1.png)|![](22/viewmag1.png)|![](16/viewmag1.png)|
 |**viewmagfit**|![](64/viewmagfit.png)|![](48/viewmagfit.png)|![](32/viewmagfit.png)|![](24/viewmagfit.png)|![](22/viewmagfit.png)|![](16/viewmagfit.png)|
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
+|**window-close**|![](64/window-close.png)|![](48/window-close.png)|![](32/window-close.png)|![](24/window-close.png)|![](22/window-close.png)|![](16/window-close.png)|
 |**window-close-symbolic**|![](64/window-close-symbolic.png)|![](48/window-close-symbolic.png)|![](32/window-close-symbolic.png)|![](24/window-close-symbolic.png)|![](22/window-close-symbolic.png)|![](16/window-close-symbolic.png)|
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|
 |**window-pin**|![](64/window-pin.png)|![](48/window-pin.png)|![](32/window-pin.png)|![](24/window-pin.png)|![](22/window-pin.png)|![](16/window-pin.png)|
 |**window-restore**|![](64/window-restore.png)|![](48/window-restore.png)|![](32/window-restore.png)|![](24/window-restore.png)|![](22/window-restore.png)|![](16/window-restore.png)|
 |**window-unpin**|![](64/window-unpin.png)|![](48/window-unpin.png)|![](32/window-unpin.png)|![](24/window-unpin.png)|![](22/window-unpin.png)|![](16/window-unpin.png)|
-|**xfburn-burn-cd**|![](64/xfburn-burn-cd.png)|![](48/xfburn-burn-cd.png)|![](32/xfburn-burn-cd.png)|![](24/xfburn-burn-cd.png)|![](22/xfburn-burn-cd.png)|![](16/xfburn-burn-cd.png)|
 |**xfsm-switch-user**|![](64/xfsm-switch-user.png)|![](48/xfsm-switch-user.png)|![](32/xfsm-switch-user.png)|![](24/xfsm-switch-user.png)|![](22/xfsm-switch-user.png)|![](16/xfsm-switch-user.png)|
 |**zoom-fit**|![](64/zoom-fit.png)|![](48/zoom-fit.png)|![](32/zoom-fit.png)|![](24/zoom-fit.png)|![](22/zoom-fit.png)|![](16/zoom-fit.png)|
 |**zoom-fit-best-symbolic.symbolic**|![](64/zoom-fit-best-symbolic.symbolic.png)|![](48/zoom-fit-best-symbolic.symbolic.png)|![](32/zoom-fit-best-symbolic.symbolic.png)|![](24/zoom-fit-best-symbolic.symbolic.png)|![](22/zoom-fit-best-symbolic.symbolic.png)|![](16/zoom-fit-best-symbolic.symbolic.png)|

@@ -176,7 +176,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-lightsoff**|![](64/gnome-lightsoff.png)|![](48/gnome-lightsoff.png)|![](32/gnome-lightsoff.png)|![](24/gnome-lightsoff.png)|![](22/gnome-lightsoff.png)|![](16/gnome-lightsoff.png)|
 |**gnome-mahjongg**|![](64/gnome-mahjongg.png)|![](48/gnome-mahjongg.png)|![](32/gnome-mahjongg.png)|![](24/gnome-mahjongg.png)|![](22/gnome-mahjongg.png)|![](16/gnome-mahjongg.png)|
 |**gnome-mines**|![](64/gnome-mines.png)|![](48/gnome-mines.png)|![](32/gnome-mines.png)|![](24/gnome-mines.png)|![](22/gnome-mines.png)|![](16/gnome-mines.png)|
-|**gnome-monitor**|![](64/gnome-monitor.png)|![](48/gnome-monitor.png)|![](32/gnome-monitor.png)|![](24/gnome-monitor.png)|![](22/gnome-monitor.png)|![](16/gnome-monitor.png)|
 |**gnome-mplayer**|![](64/gnome-mplayer.png)|![](48/gnome-mplayer.png)|![](32/gnome-mplayer.png)|![](24/gnome-mplayer.png)|![](22/gnome-mplayer.png)|![](16/gnome-mplayer.png)|
 |**gnome-nettool**|![](64/gnome-nettool.png)|![](48/gnome-nettool.png)|![](32/gnome-nettool.png)|![](24/gnome-nettool.png)|![](22/gnome-nettool.png)|![](16/gnome-nettool.png)|
 |**gnome-panel**|![](64/gnome-panel.png)|![](48/gnome-panel.png)|![](32/gnome-panel.png)|![](24/gnome-panel.png)|![](22/gnome-panel.png)|![](16/gnome-panel.png)|
@@ -203,7 +202,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-shutdown**|![](64/gnome-shutdown.png)|![](48/gnome-shutdown.png)|![](32/gnome-shutdown.png)|![](24/gnome-shutdown.png)|![](22/gnome-shutdown.png)|![](16/gnome-shutdown.png)|
 |**gnome-sudoku**|![](64/gnome-sudoku.png)|![](48/gnome-sudoku.png)|![](32/gnome-sudoku.png)|![](24/gnome-sudoku.png)|![](22/gnome-sudoku.png)|![](16/gnome-sudoku.png)|
 |**gnome-swell-foop**|![](64/gnome-swell-foop.png)|![](48/gnome-swell-foop.png)|![](32/gnome-swell-foop.png)|![](24/gnome-swell-foop.png)|![](22/gnome-swell-foop.png)|![](16/gnome-swell-foop.png)|
-|**gnome-system-monitor**|![](64/gnome-system-monitor.png)|![](48/gnome-system-monitor.png)|![](32/gnome-system-monitor.png)|![](24/gnome-system-monitor.png)|![](22/gnome-system-monitor.png)|![](16/gnome-system-monitor.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
 |**gnome-tetravex**|![](64/gnome-tetravex.png)|![](48/gnome-tetravex.png)|![](32/gnome-tetravex.png)|![](24/gnome-tetravex.png)|![](22/gnome-tetravex.png)|![](16/gnome-tetravex.png)|
 |**gnome-window-manager**|![](64/gnome-window-manager.png)|![](48/gnome-window-manager.png)|![](32/gnome-window-manager.png)|![](24/gnome-window-manager.png)|![](22/gnome-window-manager.png)|![](16/gnome-window-manager.png)|
@@ -228,7 +226,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**help-contents**|![](64/help-contents.png)|![](48/help-contents.png)|![](32/help-contents.png)|![](24/help-contents.png)|![](22/help-contents.png)|![](16/help-contents.png)|
 |**hexchat**|![](64/hexchat.png)|![](48/hexchat.png)|![](32/hexchat.png)|![](24/hexchat.png)|![](22/hexchat.png)|![](16/hexchat.png)|
 |**homebank**|![](64/homebank.png)|![](48/homebank.png)|![](32/homebank.png)|![](24/homebank.png)|![](22/homebank.png)|![](16/homebank.png)|
-|**htop**|![](64/htop.png)|![](48/htop.png)|![](32/htop.png)|![](24/htop.png)|![](22/htop.png)|![](16/htop.png)|
 |**hwbroser**|![](64/hwbroser.png)|![](48/hwbroser.png)|![](32/hwbroser.png)|![](24/hwbroser.png)|![](22/hwbroser.png)|![](16/hwbroser.png)|
 |**hydrogen**|![](64/hydrogen.png)|![](48/hydrogen.png)|![](32/hydrogen.png)|![](24/hydrogen.png)|![](22/hydrogen.png)|![](16/hydrogen.png)|
 |**icedove**|![](64/icedove.png)|![](48/icedove.png)|![](32/icedove.png)|![](24/icedove.png)|![](22/icedove.png)|![](16/icedove.png)|
