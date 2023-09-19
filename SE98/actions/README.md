@@ -26,6 +26,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**call-stop**|![](64/call-stop.png)|![](48/call-stop.png)|![](32/call-stop.png)|![](24/call-stop.png)|![](22/call-stop.png)|![](16/call-stop.png)|
 |**color-picker**|![](64/color-picker.png)|![](48/color-picker.png)|![](32/color-picker.png)|![](24/color-picker.png)|![](22/color-picker.png)|![](16/color-picker.png)|
 |**color-select**|![](64/color-select.png)|![](48/color-select.png)|![](32/color-select.png)|![](24/color-select.png)|![](22/color-select.png)|![](16/color-select.png)|
+|**configure**|![](64/configure.png)|![](48/configure.png)|![](32/configure.png)|![](24/configure.png)|![](22/configure.png)|![](16/configure.png)|
 |**contact-new**|![](64/contact-new.png)|![](48/contact-new.png)|![](32/contact-new.png)|![](24/contact-new.png)|![](22/contact-new.png)|![](16/contact-new.png)|
 |**dialog-cancel**|![](64/dialog-cancel.png)|![](48/dialog-cancel.png)|![](32/dialog-cancel.png)|![](24/dialog-cancel.png)|![](22/dialog-cancel.png)|![](16/dialog-cancel.png)|
 |**dialog-ok**|![](64/dialog-ok.png)|![](48/dialog-ok.png)|![](32/dialog-ok.png)|![](24/dialog-ok.png)|![](22/dialog-ok.png)|![](16/dialog-ok.png)|
@@ -312,7 +313,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**viewmagfit**|![](64/viewmagfit.png)|![](48/viewmagfit.png)|![](32/viewmagfit.png)|![](24/viewmagfit.png)|![](22/viewmagfit.png)|![](16/viewmagfit.png)|
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
 |**window-close**|![](64/window-close.png)|![](48/window-close.png)|![](32/window-close.png)|![](24/window-close.png)|![](22/window-close.png)|![](16/window-close.png)|
-|**window-close-symbolic**|![](64/window-close-symbolic.png)|![](48/window-close-symbolic.png)|![](32/window-close-symbolic.png)|![](24/window-close-symbolic.png)|![](22/window-close-symbolic.png)|![](16/window-close-symbolic.png)|
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|
 |**window-pin**|![](64/window-pin.png)|![](48/window-pin.png)|![](32/window-pin.png)|![](24/window-pin.png)|![](22/window-pin.png)|![](16/window-pin.png)|
