@@ -73,6 +73,12 @@ Zoomed-in icons:<br>
 # Software
 Coming soon...
 
-The most convenient software for drawing PixelArt in my opinion is IconLover.<br>
+The most convenient software for drawing PixelArt in my opinion is **IconLover**.<br>
+*Screenshot*:<br>
+![](iconlover.png)
+
+The good tool for creating pixelated gradients is an old version of Adobe(R) PhotoShop(R):<br>
+![PhotoShop 7.0.1](ps7.png)
+
 First, you create an icon project (.icpr file), which contains all the necessary formats (for example, from 16x16 to 256x256), inside each of which there can be an unlimited number of layers of varying degrees of transparency.<br>
-Then this project is saved to the .ico format and installed from it using the program "WinIconInstall" written by me (I haven't posted it yet) in the folders of the theme itself.
+Then this project is saved to the .ico format (it will be good to convert every format to 256-color in Win98 icon palette) and installed from it using the program "[WinIconInstall](https://www.opencode.net/nestoris/winiconinstall)" written by me (`git clone https://www.opencode.net/nestoris/winiconinstall.git`) in the folders of the theme itself.
