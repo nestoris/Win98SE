@@ -4,8 +4,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
 |**0ad**|![](64/0ad.png)|![](48/0ad.png)|![](32/0ad.png)|![](24/0ad.png)|![](22/0ad.png)|![](16/0ad.png)|
-|**AdobeReader**|![](64/AdobeReader.png)|![](48/AdobeReader.png)|![](32/AdobeReader.png)|![](24/AdobeReader.png)|![](22/AdobeReader.png)|![](16/AdobeReader.png)|
-|**AdobeReader8**|![](64/AdobeReader8.png)|![](48/AdobeReader8.png)|![](32/AdobeReader8.png)|![](24/AdobeReader8.png)|![](22/AdobeReader8.png)|![](16/AdobeReader8.png)|
 |**Doom3**|![](64/Doom3.png)|![](48/Doom3.png)|![](32/Doom3.png)|![](24/Doom3.png)|![](22/Doom3.png)|![](16/Doom3.png)|
 |**ET-quakewars**|![](64/ET-quakewars.png)|![](48/ET-quakewars.png)|![](32/ET-quakewars.png)|![](24/ET-quakewars.png)|![](22/ET-quakewars.png)|![](16/ET-quakewars.png)|
 |**EasyTAG_icon**|![](64/EasyTAG_icon.png)|![](48/EasyTAG_icon.png)|![](32/EasyTAG_icon.png)|![](24/EasyTAG_icon.png)|![](22/EasyTAG_icon.png)|![](16/EasyTAG_icon.png)|
@@ -29,7 +27,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**accessories-system-cleaner**|![](64/accessories-system-cleaner.png)|![](48/accessories-system-cleaner.png)|![](32/accessories-system-cleaner.png)|![](24/accessories-system-cleaner.png)|![](22/accessories-system-cleaner.png)|![](16/accessories-system-cleaner.png)|
 |**accessories-text-editor**|![](64/accessories-text-editor.png)|![](48/accessories-text-editor.png)|![](32/accessories-text-editor.png)|![](24/accessories-text-editor.png)|![](22/accessories-text-editor.png)|![](16/accessories-text-editor.png)|
 |**acroread**|![](64/acroread.png)|![](48/acroread.png)|![](32/acroread.png)|![](24/acroread.png)|![](22/acroread.png)|![](16/acroread.png)|
-|**adobe-reader**|![](64/adobe-reader.png)|![](48/adobe-reader.png)|![](32/adobe-reader.png)|![](24/adobe-reader.png)|![](22/adobe-reader.png)|![](16/adobe-reader.png)|
 |**alchemy**|![](64/alchemy.png)|![](48/alchemy.png)|![](32/alchemy.png)|![](24/alchemy.png)|![](22/alchemy.png)|![](16/alchemy.png)|
 |**alien-arena**|![](64/alien-arena.png)|![](48/alien-arena.png)|![](32/alien-arena.png)|![](24/alien-arena.png)|![](22/alien-arena.png)|![](16/alien-arena.png)|
 |**alltray**|![](64/alltray.png)|![](48/alltray.png)|![](32/alltray.png)|![](24/alltray.png)|![](22/alltray.png)|![](16/alltray.png)|
@@ -110,7 +107,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**emerillon**|![](64/emerillon.png)|![](48/emerillon.png)|![](32/emerillon.png)|![](24/emerillon.png)|![](22/emerillon.png)|![](16/emerillon.png)|
 |**emesene**|![](64/emesene.png)|![](48/emesene.png)|![](32/emesene.png)|![](24/emesene.png)|![](22/emesene.png)|![](16/emesene.png)|
 |**epiphany-bookmarks**|![](64/epiphany-bookmarks.png)|![](48/epiphany-bookmarks.png)|![](32/epiphany-bookmarks.png)|![](24/epiphany-bookmarks.png)|![](22/epiphany-bookmarks.png)|![](16/epiphany-bookmarks.png)|
-|**evince**|![](64/evince.png)|![](48/evince.png)|![](32/evince.png)|![](24/evince.png)|![](22/evince.png)|![](16/evince.png)|
 |**evolution-tasks**|![](64/evolution-tasks.png)|![](48/evolution-tasks.png)|![](32/evolution-tasks.png)|![](24/evolution-tasks.png)|![](22/evolution-tasks.png)|![](16/evolution-tasks.png)|
 |**exaile**|![](64/exaile.png)|![](48/exaile.png)|![](32/exaile.png)|![](24/exaile.png)|![](22/exaile.png)|![](16/exaile.png)|
 |**f-spot**|![](64/f-spot.png)|![](48/f-spot.png)|![](32/f-spot.png)|![](24/f-spot.png)|![](22/f-spot.png)|![](16/f-spot.png)|
@@ -184,7 +180,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-panel-launcher**|![](64/gnome-panel-launcher.png)|![](48/gnome-panel-launcher.png)|![](32/gnome-panel-launcher.png)|![](24/gnome-panel-launcher.png)|![](22/gnome-panel-launcher.png)|![](16/gnome-panel-launcher.png)|
 |**gnome-panel-notification-area**|![](64/gnome-panel-notification-area.png)|![](48/gnome-panel-notification-area.png)|![](32/gnome-panel-notification-area.png)|![](24/gnome-panel-notification-area.png)|![](22/gnome-panel-notification-area.png)|![](16/gnome-panel-notification-area.png)|
 |**gnome-panel-window-list**|![](64/gnome-panel-window-list.png)|![](48/gnome-panel-window-list.png)|![](32/gnome-panel-window-list.png)|![](24/gnome-panel-window-list.png)|![](22/gnome-panel-window-list.png)|![](16/gnome-panel-window-list.png)|
-|**gnome-pdf**|![](64/gnome-pdf.png)|![](48/gnome-pdf.png)|![](32/gnome-pdf.png)|![](24/gnome-pdf.png)|![](22/gnome-pdf.png)|![](16/gnome-pdf.png)|
 |**gnome-quadrapassel**|![](64/gnome-quadrapassel.png)|![](48/gnome-quadrapassel.png)|![](32/gnome-quadrapassel.png)|![](24/gnome-quadrapassel.png)|![](22/gnome-quadrapassel.png)|![](16/gnome-quadrapassel.png)|
 |**gnome-robots**|![](64/gnome-robots.png)|![](48/gnome-robots.png)|![](32/gnome-robots.png)|![](24/gnome-robots.png)|![](22/gnome-robots.png)|![](16/gnome-robots.png)|
 |**gnome-screenshot**|![](64/gnome-screenshot.png)|![](48/gnome-screenshot.png)|![](32/gnome-screenshot.png)|![](24/gnome-screenshot.png)|![](22/gnome-screenshot.png)|![](16/gnome-screenshot.png)|
@@ -294,7 +289,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mail**|![](64/mail.png)|![](48/mail.png)|![](32/mail.png)|![](24/mail.png)|![](22/mail.png)|![](16/mail.png)|
 |**mail-notification**|![](64/mail-notification.png)|![](48/mail-notification.png)|![](32/mail-notification.png)|![](24/mail-notification.png)|![](22/mail-notification.png)|![](16/mail-notification.png)|
 |**mame**|![](64/mame.png)|![](48/mame.png)|![](32/mame.png)|![](24/mame.png)|![](22/mame.png)|![](16/mame.png)|
-|**master-pdf-editor**|![](64/master-pdf-editor.png)|![](48/master-pdf-editor.png)|![](32/master-pdf-editor.png)|![](24/master-pdf-editor.png)|![](22/master-pdf-editor.png)|![](16/master-pdf-editor.png)|
 |**mate-notification-properties**|![](64/mate-notification-properties.png)|![](48/mate-notification-properties.png)|![](32/mate-notification-properties.png)|![](24/mate-notification-properties.png)|![](22/mate-notification-properties.png)|![](16/mate-notification-properties.png)|
 |**mate-panel**|![](64/mate-panel.png)|![](48/mate-panel.png)|![](32/mate-panel.png)|![](24/mate-panel.png)|![](22/mate-panel.png)|![](16/mate-panel.png)|
 |**mate-panel-clock**|![](64/mate-panel-clock.png)|![](48/mate-panel-clock.png)|![](32/mate-panel-clock.png)|![](24/mate-panel-clock.png)|![](22/mate-panel-clock.png)|![](16/mate-panel-clock.png)|
@@ -548,7 +542,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**wormux**|![](64/wormux.png)|![](48/wormux.png)|![](32/wormux.png)|![](24/wormux.png)|![](22/wormux.png)|![](16/wormux.png)|
 |**wxbanker**|![](64/wxbanker.png)|![](48/wxbanker.png)|![](32/wxbanker.png)|![](24/wxbanker.png)|![](22/wxbanker.png)|![](16/wxbanker.png)|
 |**x-office-calendar**|![](64/x-office-calendar.png)|![](48/x-office-calendar.png)|![](32/x-office-calendar.png)|![](24/x-office-calendar.png)|![](22/x-office-calendar.png)|![](16/x-office-calendar.png)|
-|**x-pdf**|![](64/x-pdf.png)|![](48/x-pdf.png)|![](32/x-pdf.png)|![](24/x-pdf.png)|![](22/x-pdf.png)|![](16/x-pdf.png)|
 |**xbmc**|![](64/xbmc.png)|![](48/xbmc.png)|![](32/xbmc.png)|![](24/xbmc.png)|![](22/xbmc.png)|![](16/xbmc.png)|
 |**xchat**|![](64/xchat.png)|![](48/xchat.png)|![](32/xchat.png)|![](24/xchat.png)|![](22/xchat.png)|![](16/xchat.png)|
 |**xchat-gnome**|![](64/xchat-gnome.png)|![](48/xchat-gnome.png)|![](32/xchat-gnome.png)|![](24/xchat-gnome.png)|![](22/xchat-gnome.png)|![](16/xchat-gnome.png)|
@@ -579,6 +572,5 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xoscope**|![](64/xoscope.png)|![](48/xoscope.png)|![](32/xoscope.png)|![](24/xoscope.png)|![](22/xoscope.png)|![](16/xoscope.png)|
 |**xournal**|![](64/xournal.png)|![](48/xournal.png)|![](32/xournal.png)|![](24/xournal.png)|![](22/xournal.png)|![](16/xournal.png)|
 |**xpad**|![](64/xpad.png)|![](48/xpad.png)|![](32/xpad.png)|![](24/xpad.png)|![](22/xpad.png)|![](16/xpad.png)|
-|**xpdf**|![](64/xpdf.png)|![](48/xpdf.png)|![](32/xpdf.png)|![](24/xpdf.png)|![](22/xpdf.png)|![](16/xpdf.png)|
 |**yast-language**|![](64/yast-language.png)|![](48/yast-language.png)|![](32/yast-language.png)|![](24/yast-language.png)|![](22/yast-language.png)|![](16/yast-language.png)|
 |**youtube**|![](64/youtube.png)|![](48/youtube.png)|![](32/youtube.png)|![](24/youtube.png)|![](22/youtube.png)|![](16/youtube.png)|

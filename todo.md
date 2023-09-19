@@ -360,7 +360,7 @@
 |**find-location**|![]()|![]()|![]()|![]()|![](SE98/actions/48/find-location.png)|![](SE98/actions/32/find-location.png)|![]()|![]()|![]()|
 |**folder-move**|![]()|![]()|![]()|![](SE98/actions/64/folder-move.png)|![](SE98/actions/48/folder-move.png)|![](SE98/actions/32/folder-move.png)|![](SE98/actions/24/folder-move.png)|![](SE98/actions/22/folder-move.png)|![](SE98/actions/16/folder-move.png)|
 |**fsview**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**juk**|![]()|![](SE98/apps/96/multimedia-audio-player.png)|![]()|![](SE98/apps/64/multimedia-audio-player.png)|![](SE98/apps/48/multimedia-audio-player.png)|![](SE98/apps/32/multimedia-audio-player.png)|![](SE98/apps/24/multimedia-audio-player.png)|![](SE98/apps/22/multimedia-audio-player.png)|![](SE98/apps/16/multimedia-audio-player.png)|
+|**juk**|![]()|![](SE98/apps/96/multimedia-audio-player.png)|![](SE98/apps/72/multimedia-audio-player.png)|![](SE98/apps/64/multimedia-audio-player.png)|![](SE98/apps/48/multimedia-audio-player.png)|![](SE98/apps/32/multimedia-audio-player.png)|![](SE98/apps/24/multimedia-audio-player.png)|![](SE98/apps/22/multimedia-audio-player.png)|![](SE98/apps/16/multimedia-audio-player.png)|
 |**kig**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**khexedit**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kgpg**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
