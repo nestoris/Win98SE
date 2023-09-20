@@ -1,6 +1,6 @@
-![Desktop icon](SE98/places/192/user-desktop.png)
-
 [ ![](SE98/apps/32/firefox.png) [Please vote for the Firefox icon!](https://github.com/nestoris/Win98SE/discussions/32) ![](SE98/apps/32/firefox.png) ]
+
+![Desktop icon](SE98/places/192/user-desktop.png)
 
 [ [Please help an Ukrainian family.](donation-to-poor-ukrainian-woman) ]<br>
 If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send her fiew cents.
