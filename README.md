@@ -5,7 +5,8 @@
 ![Desktop icon](SE98/places/192/user-desktop.png)
 
 [ [Please help an Ukrainian family.](donation-to-poor-ukrainian-woman) ]<br>
-If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send her fiew cents.
+If you want to support but not to send money, download my icon theme from [Pling.com](https://www.pling.com/p/1581320/) `Files (2) / main.zip` -- it will send them a few cents.<br>
+Or download for me [![](SE98/actions/16/go-down.png)![](SE98/mimes/16/application-pdf.png) this book :-)](https://books.google.ru/books?id=jAR8Cv3b7mcC) (I myself can't do it. My Russian payment is unavailable for Europe and USA)
 
 # SE98 Icon theme
 
