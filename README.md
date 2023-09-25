@@ -1,5 +1,7 @@
 [ ![](SE98/apps/32/firefox.png) [Please vote for the Firefox icon!](https://github.com/nestoris/Win98SE/discussions/32) ![](SE98/apps/32/firefox.png) ]
 
+[ [For software developers: I need your help!](https://github.com/nestoris/Win98SE/discussions/33) ]
+
 ![Desktop icon](SE98/places/192/user-desktop.png)
 
 [ [Please help an Ukrainian family.](donation-to-poor-ukrainian-woman) ]<br>
