@@ -43,4 +43,3 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_internet**|![](64/stock_internet.png)|![](48/stock_internet.png)|![](32/stock_internet.png)|![](24/stock_internet.png)|![](22/stock_internet.png)|![](16/stock_internet.png)|
 |**xfce-devel**|![](64/xfce-devel.png)|![](48/xfce-devel.png)|![](32/xfce-devel.png)|![](24/xfce-devel.png)|![](22/xfce-devel.png)|![](16/xfce-devel.png)|
 |**xfce-internet**|![](64/xfce-internet.png)|![](48/xfce-internet.png)|![](32/xfce-internet.png)|![](24/xfce-internet.png)|![](22/xfce-internet.png)|![](16/xfce-internet.png)|
-|**xfce4-settings**|![](64/xfce4-settings.png)|![](48/xfce4-settings.png)|![](32/xfce4-settings.png)|![](24/xfce4-settings.png)|![](22/xfce4-settings.png)|![](16/xfce4-settings.png)|

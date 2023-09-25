@@ -67,6 +67,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**edit-delete-mail**|![](64/edit-delete-mail.png)|![](48/edit-delete-mail.png)|![](32/edit-delete-mail.png)|![](24/edit-delete-mail.png)|![](22/edit-delete-mail.png)|![](16/edit-delete-mail.png)|
 |**edit-find-replace**|![](64/edit-find-replace.png)|![](48/edit-find-replace.png)|![](32/edit-find-replace.png)|![](24/edit-find-replace.png)|![](22/edit-find-replace.png)|![](16/edit-find-replace.png)|
 |**edit-flag**|![](64/edit-flag.png)|![](48/edit-flag.png)|![](32/edit-flag.png)|![](24/edit-flag.png)|![](22/edit-flag.png)|![](16/edit-flag.png)|
+|**edit-move**|![](64/edit-move.png)|![](48/edit-move.png)|![](32/edit-move.png)|![](24/edit-move.png)|![](22/edit-move.png)|![](16/edit-move.png)|
 |**edit-paste**|![](64/edit-paste.png)|![](48/edit-paste.png)|![](32/edit-paste.png)|![](24/edit-paste.png)|![](22/edit-paste.png)|![](16/edit-paste.png)|
 |**edit-redo**|![](64/edit-redo.png)|![](48/edit-redo.png)|![](32/edit-redo.png)|![](24/edit-redo.png)|![](22/edit-redo.png)|![](16/edit-redo.png)|
 |**edit-select**|![](64/edit-select.png)|![](48/edit-select.png)|![](32/edit-select.png)|![](24/edit-select.png)|![](22/edit-select.png)|![](16/edit-select.png)|
@@ -77,7 +78,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**event-new**|![](64/event-new.png)|![](48/event-new.png)|![](32/event-new.png)|![](24/event-new.png)|![](22/event-new.png)|![](16/event-new.png)|
 |**extract-archive**|![](64/extract-archive.png)|![](48/extract-archive.png)|![](32/extract-archive.png)|![](24/extract-archive.png)|![](22/extract-archive.png)|![](16/extract-archive.png)|
 |**find**|![](64/find.png)|![](48/find.png)|![](32/find.png)|![](24/find.png)|![](22/find.png)|![](16/find.png)|
-|**find-location**|![](64/find-location.png)|![](48/find-location.png)|![](32/find-location.png)|![](24/find-location.png)|![](22/find-location.png)|![](16/find-location.png)|
 |**folder-copy**|![](64/folder-copy.png)|![](48/folder-copy.png)|![](32/folder-copy.png)|![](24/folder-copy.png)|![](22/folder-copy.png)|![](16/folder-copy.png)|
 |**folder-move**|![](64/folder-move.png)|![](48/folder-move.png)|![](32/folder-move.png)|![](24/folder-move.png)|![](22/folder-move.png)|![](16/folder-move.png)|
 |**folder-new**|![](64/folder-new.png)|![](48/folder-new.png)|![](32/folder-new.png)|![](24/folder-new.png)|![](22/folder-new.png)|![](16/folder-new.png)|
@@ -111,13 +111,11 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**go-top**|![](64/go-top.png)|![](48/go-top.png)|![](32/go-top.png)|![](24/go-top.png)|![](22/go-top.png)|![](16/go-top.png)|
 |**go-up**|![](64/go-up.png)|![](48/go-up.png)|![](32/go-up.png)|![](24/go-up.png)|![](22/go-up.png)|![](16/go-up.png)|
 |**gtk-edit**|![](64/gtk-edit.png)|![](48/gtk-edit.png)|![](32/gtk-edit.png)|![](24/gtk-edit.png)|![](22/gtk-edit.png)|![](16/gtk-edit.png)|
-|**gtk-info**|![](64/gtk-info.png)|![](48/gtk-info.png)|![](32/gtk-info.png)|![](24/gtk-info.png)|![](22/gtk-info.png)|![](16/gtk-info.png)|
 |**gtk-print-error**|![](64/gtk-print-error.png)|![](48/gtk-print-error.png)|![](32/gtk-print-error.png)|![](24/gtk-print-error.png)|![](22/gtk-print-error.png)|![](16/gtk-print-error.png)|
 |**gtk-print-paused**|![](64/gtk-print-paused.png)|![](48/gtk-print-paused.png)|![](32/gtk-print-paused.png)|![](24/gtk-print-paused.png)|![](22/gtk-print-paused.png)|![](16/gtk-print-paused.png)|
 |**gtk-print-report**|![](64/gtk-print-report.png)|![](48/gtk-print-report.png)|![](32/gtk-print-report.png)|![](24/gtk-print-report.png)|![](22/gtk-print-report.png)|![](16/gtk-print-report.png)|
 |**gtk-print-warning**|![](64/gtk-print-warning.png)|![](48/gtk-print-warning.png)|![](32/gtk-print-warning.png)|![](24/gtk-print-warning.png)|![](22/gtk-print-warning.png)|![](16/gtk-print-warning.png)|
 |**gtk-revert-to-saved-ltr**|![](64/gtk-revert-to-saved-ltr.png)|![](48/gtk-revert-to-saved-ltr.png)|![](32/gtk-revert-to-saved-ltr.png)|![](24/gtk-revert-to-saved-ltr.png)|![](22/gtk-revert-to-saved-ltr.png)|![](16/gtk-revert-to-saved-ltr.png)|
-|**gtk-search**|![](64/gtk-search.png)|![](48/gtk-search.png)|![](32/gtk-search.png)|![](24/gtk-search.png)|![](22/gtk-search.png)|![](16/gtk-search.png)|
 |**gtk-spell-check**|![](64/gtk-spell-check.png)|![](48/gtk-spell-check.png)|![](32/gtk-spell-check.png)|![](24/gtk-spell-check.png)|![](22/gtk-spell-check.png)|![](16/gtk-spell-check.png)|
 |**gtk-zoom-out**|![](64/gtk-zoom-out.png)|![](48/gtk-zoom-out.png)|![](32/gtk-zoom-out.png)|![](24/gtk-zoom-out.png)|![](22/gtk-zoom-out.png)|![](16/gtk-zoom-out.png)|
 |**help-about**|![](64/help-about.png)|![](48/help-about.png)|![](32/help-about.png)|![](24/help-about.png)|![](22/help-about.png)|![](16/help-about.png)|
@@ -156,7 +154,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mail-reply-sender**|![](64/mail-reply-sender.png)|![](48/mail-reply-sender.png)|![](32/mail-reply-sender.png)|![](24/mail-reply-sender.png)|![](22/mail-reply-sender.png)|![](16/mail-reply-sender.png)|
 |**mail-send**|![](64/mail-send.png)|![](48/mail-send.png)|![](32/mail-send.png)|![](24/mail-send.png)|![](22/mail-send.png)|![](16/mail-send.png)|
 |**mail-send-receive**|![](64/mail-send-receive.png)|![](48/mail-send-receive.png)|![](32/mail-send-receive.png)|![](24/mail-send-receive.png)|![](22/mail-send-receive.png)|![](16/mail-send-receive.png)|
-|**mail_replyall**|![](64/mail_replyall.png)|![](48/mail_replyall.png)|![](32/mail_replyall.png)|![](24/mail_replyall.png)|![](22/mail_replyall.png)|![](16/mail_replyall.png)|
 |**mail_spam**|![](64/mail_spam.png)|![](48/mail_spam.png)|![](32/mail_spam.png)|![](24/mail_spam.png)|![](22/mail_spam.png)|![](16/mail_spam.png)|
 |**media-eject**|![](64/media-eject.png)|![](48/media-eject.png)|![](32/media-eject.png)|![](24/media-eject.png)|![](22/media-eject.png)|![](16/media-eject.png)|
 |**media-eq**|![](64/media-eq.png)|![](48/media-eq.png)|![](32/media-eq.png)|![](24/media-eq.png)|![](22/media-eq.png)|![](16/media-eq.png)|
