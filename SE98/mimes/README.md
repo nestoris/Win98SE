@@ -221,6 +221,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**text-htmlh**|![](64/text-htmlh.png)|![](48/text-htmlh.png)|![](32/text-htmlh.png)|![](24/text-htmlh.png)|![](22/text-htmlh.png)|![](16/text-htmlh.png)|
 |**text-markdown**|![](64/text-markdown.png)|![](48/text-markdown.png)|![](32/text-markdown.png)|![](24/text-markdown.png)|![](22/text-markdown.png)|![](16/text-markdown.png)|
 |**text-richtext-rtl**|![](64/text-richtext-rtl.png)|![](48/text-richtext-rtl.png)|![](32/text-richtext-rtl.png)|![](24/text-richtext-rtl.png)|![](22/text-richtext-rtl.png)|![](16/text-richtext-rtl.png)|
+|**text-tcl**|![](64/text-tcl.png)|![](48/text-tcl.png)|![](32/text-tcl.png)|![](24/text-tcl.png)|![](22/text-tcl.png)|![](16/text-tcl.png)|
 |**text-vcard**|![](64/text-vcard.png)|![](48/text-vcard.png)|![](32/text-vcard.png)|![](24/text-vcard.png)|![](22/text-vcard.png)|![](16/text-vcard.png)|
 |**text-x-authors**|![](64/text-x-authors.png)|![](48/text-x-authors.png)|![](32/text-x-authors.png)|![](24/text-x-authors.png)|![](22/text-x-authors.png)|![](16/text-x-authors.png)|
 |**text-x-bibtex**|![](64/text-x-bibtex.png)|![](48/text-x-bibtex.png)|![](32/text-x-bibtex.png)|![](24/text-x-bibtex.png)|![](22/text-x-bibtex.png)|![](16/text-x-bibtex.png)|
