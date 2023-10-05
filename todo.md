@@ -329,7 +329,7 @@
 |**kview**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kxkb**|![]()|![]()|![]()|![](SE98/devices/64/input-keyboard.png)|![](SE98/devices/48/input-keyboard.png)|![](SE98/devices/32/input-keyboard.png)|![](SE98/devices/24/input-keyboard.png)|![](SE98/devices/22/input-keyboard.png)|![](SE98/devices/16/input-keyboard.png)|
 |**noatun**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**printmgr**|![]()|![]()|![]()|![](SE98/devices/64/printer.png)|![](SE98/devices/48/printer.png)|![](SE98/devices/32/printer.png)|![](SE98/devices/24/printmgr.png)|![](SE98/devices/22/printer.png)|![](SE98/devices/16/printer.png)|
+|**printmgr**|![]()|![]()|![]()|![](SE98/devices/64/printer.png)|![](SE98/devices/48/printer.png)|![](SE98/devices/32/printer.png)|![](SE98/devices/24/printer.png)|![](SE98/devices/22/printer.png)|![](SE98/devices/16/printer.png)|
 |**qualculate**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**qualculate_tde**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**showfoto**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
