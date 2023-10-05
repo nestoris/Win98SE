@@ -4,7 +4,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
 |**3floppy_mount**|![](64/3floppy_mount.png)|![](48/3floppy_mount.png)|![](32/3floppy_mount.png)|![](24/3floppy_mount.png)|![](22/3floppy_mount.png)|![](16/3floppy_mount.png)|
-|**3floppy_unmount**|![](64/3floppy_unmount.png)|![](48/3floppy_unmount.png)|![](32/3floppy_unmount.png)|![](24/3floppy_unmount.png)|![](22/3floppy_unmount.png)|![](16/3floppy_unmount.png)|
 |**audio-card**|![](64/audio-card.png)|![](48/audio-card.png)|![](32/audio-card.png)|![](24/audio-card.png)|![](22/audio-card.png)|![](16/audio-card.png)|
 |**audio-card-symbolic**|![](64/audio-card-symbolic.png)|![](48/audio-card-symbolic.png)|![](32/audio-card-symbolic.png)|![](24/audio-card-symbolic.png)|![](22/audio-card-symbolic.png)|![](16/audio-card-symbolic.png)|
 |**audio-input-microphone**|![](64/audio-input-microphone.png)|![](48/audio-input-microphone.png)|![](32/audio-input-microphone.png)|![](24/audio-input-microphone.png)|![](22/audio-input-microphone.png)|![](16/audio-input-microphone.png)|
@@ -45,8 +44,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**computer_win98**|![](64/computer_win98.png)|![](48/computer_win98.png)|![](32/computer_win98.png)|![](24/computer_win98.png)|![](22/computer_win98.png)|![](16/computer_win98.png)|
 |**drive-encrypted**|![](64/drive-encrypted.png)|![](48/drive-encrypted.png)|![](32/drive-encrypted.png)|![](24/drive-encrypted.png)|![](22/drive-encrypted.png)|![](16/drive-encrypted.png)|
 |**drive-harddisk**|![](64/drive-harddisk.png)|![](48/drive-harddisk.png)|![](32/drive-harddisk.png)|![](24/drive-harddisk.png)|![](22/drive-harddisk.png)|![](16/drive-harddisk.png)|
-|**drive-harddisk-ieee1394**|![](64/drive-harddisk-ieee1394.png)|![](48/drive-harddisk-ieee1394.png)|![](32/drive-harddisk-ieee1394.png)|![](24/drive-harddisk-ieee1394.png)|![](22/drive-harddisk-ieee1394.png)|![](16/drive-harddisk-ieee1394.png)|
-|**drive-harddisk-scsi**|![](64/drive-harddisk-scsi.png)|![](48/drive-harddisk-scsi.png)|![](32/drive-harddisk-scsi.png)|![](24/drive-harddisk-scsi.png)|![](22/drive-harddisk-scsi.png)|![](16/drive-harddisk-scsi.png)|
 |**drive-harddisk-system**|![](64/drive-harddisk-system.png)|![](48/drive-harddisk-system.png)|![](32/drive-harddisk-system.png)|![](24/drive-harddisk-system.png)|![](22/drive-harddisk-system.png)|![](16/drive-harddisk-system.png)|
 |**drive-harddisk-system_SHARP**|![](64/drive-harddisk-system_SHARP.png)|![](48/drive-harddisk-system_SHARP.png)|![](32/drive-harddisk-system_SHARP.png)|![](24/drive-harddisk-system_SHARP.png)|![](22/drive-harddisk-system_SHARP.png)|![](16/drive-harddisk-system_SHARP.png)|
 |**drive-harddisk-system_SMOOTH**|![](64/drive-harddisk-system_SMOOTH.png)|![](48/drive-harddisk-system_SMOOTH.png)|![](32/drive-harddisk-system_SMOOTH.png)|![](24/drive-harddisk-system_SMOOTH.png)|![](22/drive-harddisk-system_SMOOTH.png)|![](16/drive-harddisk-system_SMOOTH.png)|
@@ -62,10 +59,8 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-dev-ethernet**|![](64/gnome-dev-ethernet.png)|![](48/gnome-dev-ethernet.png)|![](32/gnome-dev-ethernet.png)|![](24/gnome-dev-ethernet.png)|![](22/gnome-dev-ethernet.png)|![](16/gnome-dev-ethernet.png)|
 |**gnome-dev-flashdisk**|![](64/gnome-dev-flashdisk.png)|![](48/gnome-dev-flashdisk.png)|![](32/gnome-dev-flashdisk.png)|![](24/gnome-dev-flashdisk.png)|![](22/gnome-dev-flashdisk.png)|![](16/gnome-dev-flashdisk.png)|
 |**gnome-dev-flashkey**|![](64/gnome-dev-flashkey.png)|![](48/gnome-dev-flashkey.png)|![](32/gnome-dev-flashkey.png)|![](24/gnome-dev-flashkey.png)|![](22/gnome-dev-flashkey.png)|![](16/gnome-dev-flashkey.png)|
-|**gnome-dev-floppy**|![](64/gnome-dev-floppy.png)|![](48/gnome-dev-floppy.png)|![](32/gnome-dev-floppy.png)|![](24/gnome-dev-floppy.png)|![](22/gnome-dev-floppy.png)|![](16/gnome-dev-floppy.png)|
 |**gnome-dev-harddisk-1394**|![](64/gnome-dev-harddisk-1394.png)|![](48/gnome-dev-harddisk-1394.png)|![](32/gnome-dev-harddisk-1394.png)|![](24/gnome-dev-harddisk-1394.png)|![](22/gnome-dev-harddisk-1394.png)|![](16/gnome-dev-harddisk-1394.png)|
 |**gnome-dev-ipod**|![](64/gnome-dev-ipod.png)|![](48/gnome-dev-ipod.png)|![](32/gnome-dev-ipod.png)|![](24/gnome-dev-ipod.png)|![](22/gnome-dev-ipod.png)|![](16/gnome-dev-ipod.png)|
-|**gnome-dev-jazdisk**|![](64/gnome-dev-jazdisk.png)|![](48/gnome-dev-jazdisk.png)|![](32/gnome-dev-jazdisk.png)|![](24/gnome-dev-jazdisk.png)|![](22/gnome-dev-jazdisk.png)|![](16/gnome-dev-jazdisk.png)|
 |**gnome-dev-media-cf**|![](64/gnome-dev-media-cf.png)|![](48/gnome-dev-media-cf.png)|![](32/gnome-dev-media-cf.png)|![](24/gnome-dev-media-cf.png)|![](22/gnome-dev-media-cf.png)|![](16/gnome-dev-media-cf.png)|
 |**gnome-dev-media-memory**|![](64/gnome-dev-media-memory.png)|![](48/gnome-dev-media-memory.png)|![](32/gnome-dev-media-memory.png)|![](24/gnome-dev-media-memory.png)|![](22/gnome-dev-media-memory.png)|![](16/gnome-dev-media-memory.png)|
 |**gnome-dev-media-ms**|![](64/gnome-dev-media-ms.png)|![](48/gnome-dev-media-ms.png)|![](32/gnome-dev-media-ms.png)|![](24/gnome-dev-media-ms.png)|![](22/gnome-dev-media-ms.png)|![](16/gnome-dev-media-ms.png)|
@@ -85,7 +80,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-modem**|![](64/gnome-modem.png)|![](48/gnome-modem.png)|![](32/gnome-modem.png)|![](24/gnome-modem.png)|![](22/gnome-modem.png)|![](16/gnome-modem.png)|
 |**gnome-screenshot**|![](64/gnome-screenshot.png)|![](48/gnome-screenshot.png)|![](32/gnome-screenshot.png)|![](24/gnome-screenshot.png)|![](22/gnome-screenshot.png)|![](16/gnome-screenshot.png)|
 |**gnome-stock-mic**|![](64/gnome-stock-mic.png)|![](48/gnome-stock-mic.png)|![](32/gnome-stock-mic.png)|![](24/gnome-stock-mic.png)|![](22/gnome-stock-mic.png)|![](16/gnome-stock-mic.png)|
-|**gtk-floppy**|![](64/gtk-floppy.png)|![](48/gtk-floppy.png)|![](32/gtk-floppy.png)|![](24/gtk-floppy.png)|![](22/gtk-floppy.png)|![](16/gtk-floppy.png)|
 |**gtk-harddisk**|![](64/gtk-harddisk.png)|![](48/gtk-harddisk.png)|![](32/gtk-harddisk.png)|![](24/gtk-harddisk.png)|![](22/gtk-harddisk.png)|![](16/gtk-harddisk.png)|
 |**gvc-tone**|![](64/gvc-tone.png)|![](48/gvc-tone.png)|![](32/gvc-tone.png)|![](24/gvc-tone.png)|![](22/gvc-tone.png)|![](16/gvc-tone.png)|
 |**hdd_unmount**|![](64/hdd_unmount.png)|![](48/hdd_unmount.png)|![](32/hdd_unmount.png)|![](24/hdd_unmount.png)|![](22/hdd_unmount.png)|![](16/hdd_unmount.png)|
@@ -102,7 +96,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**media-flash-sd**|![](64/media-flash-sd.png)|![](48/media-flash-sd.png)|![](32/media-flash-sd.png)|![](24/media-flash-sd.png)|![](22/media-flash-sd.png)|![](16/media-flash-sd.png)|
 |**media-flash-sm**|![](64/media-flash-sm.png)|![](48/media-flash-sm.png)|![](32/media-flash-sm.png)|![](24/media-flash-sm.png)|![](22/media-flash-sm.png)|![](16/media-flash-sm.png)|
 |**media-floppy**|![](64/media-floppy.png)|![](48/media-floppy.png)|![](32/media-floppy.png)|![](24/media-floppy.png)|![](22/media-floppy.png)|![](16/media-floppy.png)|
-|**media-jaz**|![](64/media-jaz.png)|![](48/media-jaz.png)|![](32/media-jaz.png)|![](24/media-jaz.png)|![](22/media-jaz.png)|![](16/media-jaz.png)|
 |**media-memory**|![](64/media-memory.png)|![](48/media-memory.png)|![](32/media-memory.png)|![](24/media-memory.png)|![](22/media-memory.png)|![](16/media-memory.png)|
 |**media-memory-sm**|![](64/media-memory-sm.png)|![](48/media-memory-sm.png)|![](32/media-memory-sm.png)|![](24/media-memory-sm.png)|![](22/media-memory-sm.png)|![](16/media-memory-sm.png)|
 |**media-optical**|![](64/media-optical.png)|![](48/media-optical.png)|![](32/media-optical.png)|![](24/media-optical.png)|![](22/media-optical.png)|![](16/media-optical.png)|
@@ -131,13 +124,9 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**phone**|![](64/phone.png)|![](48/phone.png)|![](32/phone.png)|![](24/phone.png)|![](22/phone.png)|![](16/phone.png)|
 |**printer**|![](64/printer.png)|![](48/printer.png)|![](32/printer.png)|![](24/printer.png)|![](22/printer.png)|![](16/printer.png)|
 |**printer-remote**|![](64/printer-remote.png)|![](48/printer-remote.png)|![](32/printer-remote.png)|![](24/printer-remote.png)|![](22/printer-remote.png)|![](16/printer-remote.png)|
-|**printer1**|![](64/printer1.png)|![](48/printer1.png)|![](32/printer1.png)|![](24/printer1.png)|![](22/printer1.png)|![](16/printer1.png)|
-|**printmgr**|![](64/printmgr.png)|![](48/printmgr.png)|![](32/printmgr.png)|![](24/printmgr.png)|![](22/printmgr.png)|![](16/printmgr.png)|
 |**processor**|![](64/processor.png)|![](48/processor.png)|![](32/processor.png)|![](24/processor.png)|![](22/processor.png)|![](16/processor.png)|
 |**scanner**|![](64/scanner.png)|![](48/scanner.png)|![](32/scanner.png)|![](24/scanner.png)|![](22/scanner.png)|![](16/scanner.png)|
 |**stock_mic**|![](64/stock_mic.png)|![](48/stock_mic.png)|![](32/stock_mic.png)|![](24/stock_mic.png)|![](22/stock_mic.png)|![](16/stock_mic.png)|
 |**stock_printers**|![](64/stock_printers.png)|![](48/stock_printers.png)|![](32/stock_printers.png)|![](24/stock_printers.png)|![](22/stock_printers.png)|![](16/stock_printers.png)|
-|**system-floppy**|![](64/system-floppy.png)|![](48/system-floppy.png)|![](32/system-floppy.png)|![](24/system-floppy.png)|![](22/system-floppy.png)|![](16/system-floppy.png)|
 |**uninterruptible-power-supply**|![](64/uninterruptible-power-supply.png)|![](48/uninterruptible-power-supply.png)|![](32/uninterruptible-power-supply.png)|![](24/uninterruptible-power-supply.png)|![](22/uninterruptible-power-supply.png)|![](16/uninterruptible-power-supply.png)|
-|**usbpendrive_unmount**|![](64/usbpendrive_unmount.png)|![](48/usbpendrive_unmount.png)|![](32/usbpendrive_unmount.png)|![](24/usbpendrive_unmount.png)|![](22/usbpendrive_unmount.png)|![](16/usbpendrive_unmount.png)|
 |**video-display**|![](64/video-display.png)|![](48/video-display.png)|![](32/video-display.png)|![](24/video-display.png)|![](22/video-display.png)|![](16/video-display.png)|

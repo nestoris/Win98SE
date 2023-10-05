@@ -55,7 +55,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**bluetooth**|![](64/bluetooth.png)|![](48/bluetooth.png)|![](32/bluetooth.png)|![](24/bluetooth.png)|![](22/bluetooth.png)|![](16/bluetooth.png)|
 |**boot**|![](64/boot.png)|![](48/boot.png)|![](32/boot.png)|![](24/boot.png)|![](22/boot.png)|![](16/boot.png)|
 |**brasero**|![](64/brasero.png)|![](48/brasero.png)|![](32/brasero.png)|![](24/brasero.png)|![](22/brasero.png)|![](16/brasero.png)|
-|**browser**|![](64/browser.png)|![](48/browser.png)|![](32/browser.png)|![](24/browser.png)|![](22/browser.png)|![](16/browser.png)|
 |**bug-buddy**|![](64/bug-buddy.png)|![](48/bug-buddy.png)|![](32/bug-buddy.png)|![](24/bug-buddy.png)|![](22/bug-buddy.png)|![](16/bug-buddy.png)|
 |**c128**|![](64/c128.png)|![](48/c128.png)|![](32/c128.png)|![](24/c128.png)|![](22/c128.png)|![](16/c128.png)|
 |**c610**|![](64/c610.png)|![](48/c610.png)|![](32/c610.png)|![](24/c610.png)|![](22/c610.png)|![](16/c610.png)|

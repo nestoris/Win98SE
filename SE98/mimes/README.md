@@ -3,7 +3,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
-|**application-7zip**|![](64/application-7zip.png)|![](48/application-7zip.png)|![](32/application-7zip.png)|![](24/application-7zip.png)|![](22/application-7zip.png)|![](16/application-7zip.png)|
 |**application-atom+xml**|![](64/application-atom+xml.png)|![](48/application-atom+xml.png)|![](32/application-atom+xml.png)|![](24/application-atom+xml.png)|![](22/application-atom+xml.png)|![](16/application-atom+xml.png)|
 |**application-certificate**|![](64/application-certificate.png)|![](48/application-certificate.png)|![](32/application-certificate.png)|![](24/application-certificate.png)|![](22/application-certificate.png)|![](16/application-certificate.png)|
 |**application-epub+zip**|![](64/application-epub+zip.png)|![](48/application-epub+zip.png)|![](32/application-epub+zip.png)|![](24/application-epub+zip.png)|![](22/application-epub+zip.png)|![](16/application-epub+zip.png)|
@@ -195,12 +194,9 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**package-x-generic**|![](64/package-x-generic.png)|![](48/package-x-generic.png)|![](32/package-x-generic.png)|![](24/package-x-generic.png)|![](22/package-x-generic.png)|![](16/package-x-generic.png)|
 |**phatch-actionlist**|![](64/phatch-actionlist.png)|![](48/phatch-actionlist.png)|![](32/phatch-actionlist.png)|![](24/phatch-actionlist.png)|![](22/phatch-actionlist.png)|![](16/phatch-actionlist.png)|
 |**plan**|![](64/plan.png)|![](48/plan.png)|![](32/plan.png)|![](24/plan.png)|![](22/plan.png)|![](16/plan.png)|
-|**rar**|![](64/rar.png)|![](48/rar.png)|![](32/rar.png)|![](24/rar.png)|![](22/rar.png)|![](16/rar.png)|
 |**stock_addressbook**|![](64/stock_addressbook.png)|![](48/stock_addressbook.png)|![](32/stock_addressbook.png)|![](24/stock_addressbook.png)|![](22/stock_addressbook.png)|![](16/stock_addressbook.png)|
-|**text**|![](64/text.png)|![](48/text.png)|![](32/text.png)|![](24/text.png)|![](22/text.png)|![](16/text.png)|
 |**text-directory**|![](64/text-directory.png)|![](48/text-directory.png)|![](32/text-directory.png)|![](24/text-directory.png)|![](22/text-directory.png)|![](16/text-directory.png)|
 |**text-html**|![](64/text-html.png)|![](48/text-html.png)|![](32/text-html.png)|![](24/text-html.png)|![](22/text-html.png)|![](16/text-html.png)|
-|**text-htmlh**|![](64/text-htmlh.png)|![](48/text-htmlh.png)|![](32/text-htmlh.png)|![](24/text-htmlh.png)|![](22/text-htmlh.png)|![](16/text-htmlh.png)|
 |**text-markdown**|![](64/text-markdown.png)|![](48/text-markdown.png)|![](32/text-markdown.png)|![](24/text-markdown.png)|![](22/text-markdown.png)|![](16/text-markdown.png)|
 |**text-tcl**|![](64/text-tcl.png)|![](48/text-tcl.png)|![](32/text-tcl.png)|![](24/text-tcl.png)|![](22/text-tcl.png)|![](16/text-tcl.png)|
 |**text-vcard**|![](64/text-vcard.png)|![](48/text-vcard.png)|![](32/text-vcard.png)|![](24/text-vcard.png)|![](22/text-vcard.png)|![](16/text-vcard.png)|
@@ -227,14 +223,11 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**text-x-ssa**|![](64/text-x-ssa.png)|![](48/text-x-ssa.png)|![](32/text-x-ssa.png)|![](24/text-x-ssa.png)|![](22/text-x-ssa.png)|![](16/text-x-ssa.png)|
 |**text-x-tex**|![](64/text-x-tex.png)|![](48/text-x-tex.png)|![](32/text-x-tex.png)|![](24/text-x-tex.png)|![](22/text-x-tex.png)|![](16/text-x-tex.png)|
 |**text-xml**|![](64/text-xml.png)|![](48/text-xml.png)|![](32/text-xml.png)|![](24/text-xml.png)|![](22/text-xml.png)|![](16/text-xml.png)|
-|**text2**|![](64/text2.png)|![](48/text2.png)|![](32/text2.png)|![](24/text2.png)|![](22/text2.png)|![](16/text2.png)|
 |**vcard**|![](64/vcard.png)|![](48/vcard.png)|![](32/vcard.png)|![](24/vcard.png)|![](22/vcard.png)|![](16/vcard.png)|
 |**video-webm**|![](64/video-webm.png)|![](48/video-webm.png)|![](32/video-webm.png)|![](24/video-webm.png)|![](22/video-webm.png)|![](16/video-webm.png)|
 |**video-x-generic**|![](64/video-x-generic.png)|![](48/video-x-generic.png)|![](32/video-x-generic.png)|![](24/video-x-generic.png)|![](22/video-x-generic.png)|![](16/video-x-generic.png)|
 |**video-x-matroska**|![](64/video-x-matroska.png)|![](48/video-x-matroska.png)|![](32/video-x-matroska.png)|![](24/video-x-matroska.png)|![](22/video-x-matroska.png)|![](16/video-x-matroska.png)|
 |**video-x-mpeg**|![](64/video-x-mpeg.png)|![](48/video-x-mpeg.png)|![](32/video-x-mpeg.png)|![](24/video-x-mpeg.png)|![](22/video-x-mpeg.png)|![](16/video-x-mpeg.png)|
-|**vnd.oasis.opendocument.drawing**|![](64/vnd.oasis.opendocument.drawing.png)|![](48/vnd.oasis.opendocument.drawing.png)|![](32/vnd.oasis.opendocument.drawing.png)|![](24/vnd.oasis.opendocument.drawing.png)|![](22/vnd.oasis.opendocument.drawing.png)|![](16/vnd.oasis.opendocument.drawing.png)|
-|**www**|![](64/www.png)|![](48/www.png)|![](32/www.png)|![](24/www.png)|![](22/www.png)|![](16/www.png)|
 |**x-dia-diagram**|![](64/x-dia-diagram.png)|![](48/x-dia-diagram.png)|![](32/x-dia-diagram.png)|![](24/x-dia-diagram.png)|![](22/x-dia-diagram.png)|![](16/x-dia-diagram.png)|
 |**x-office-address-book**|![](64/x-office-address-book.png)|![](48/x-office-address-book.png)|![](32/x-office-address-book.png)|![](24/x-office-address-book.png)|![](22/x-office-address-book.png)|![](16/x-office-address-book.png)|
 |**x-office-document**|![](64/x-office-document.png)|![](48/x-office-document.png)|![](32/x-office-document.png)|![](24/x-office-document.png)|![](22/x-office-document.png)|![](16/x-office-document.png)|
