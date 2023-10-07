@@ -103,6 +103,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**encrypted**|![](64/encrypted.png)|![](48/encrypted.png)|![](32/encrypted.png)|![](24/encrypted.png)|![](22/encrypted.png)|![](16/encrypted.png)|
 |**exec**|![](64/exec.png)|![](48/exec.png)|![](32/exec.png)|![](24/exec.png)|![](22/exec.png)|![](16/exec.png)|
 |**extension**|![](64/extension.png)|![](48/extension.png)|![](32/extension.png)|![](24/extension.png)|![](22/extension.png)|![](16/extension.png)|
+|**font-ttf**|![](64/font-ttf.png)|![](48/font-ttf.png)|![](32/font-ttf.png)|![](24/font-ttf.png)|![](22/font-ttf.png)|![](16/font-ttf.png)|
 |**font-x-generic**|![](64/font-x-generic.png)|![](48/font-x-generic.png)|![](32/font-x-generic.png)|![](24/font-x-generic.png)|![](22/font-x-generic.png)|![](16/font-x-generic.png)|
 |**gnome-fs-executable**|![](64/gnome-fs-executable.png)|![](48/gnome-fs-executable.png)|![](32/gnome-fs-executable.png)|![](24/gnome-fs-executable.png)|![](22/gnome-fs-executable.png)|![](16/gnome-fs-executable.png)|
 |**gnome-mime-application-atom+xml**|![](64/gnome-mime-application-atom+xml.png)|![](48/gnome-mime-application-atom+xml.png)|![](32/gnome-mime-application-atom+xml.png)|![](24/gnome-mime-application-atom+xml.png)|![](22/gnome-mime-application-atom+xml.png)|![](16/gnome-mime-application-atom+xml.png)|
