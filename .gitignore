@@ -7,10 +7,7 @@ README.old.md
 *.bz2
 SE98/places/48/fssort.ini
 *.xz
-todo_names
-todo_status
 mdtables.sh
-todo_names
 sizes_folder
 names_folder
 SE98/fix_ln.awk
