@@ -2,6 +2,10 @@
 
 | |**128x128**|**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|-|
+|**font-woff**|![]()|![]()|![]()|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/16/font-x-generic.png)|
+|**font-woff-symbolic**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**font-otf**|![]()|![]()|![]()|![](SE98/mimes/64/font-x-generic.png)|![](SE98/mimes/48/font-x-generic.png)|![](SE98/mimes/32/font-x-generic.png)|![](SE98/mimes/24/font-x-generic.png)|![](SE98/mimes/22/font-x-generic.png)|![](SE98/mimes/16/font-x-generic.png)|
+|**font-otf-symbolic**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**network-wireless-signal-none-secure**|![]()|![]()|![]()|![]()|![](SE98/status/48/nm-signal-0-secure.png)|![](SE98/status/32/nm-signal-0-secure.png)|![](SE98/status/24/nm-signal-0-secure.png)|![](SE98/status/22/nm-signal-0-secure.png)|![](SE98/status/16/nm-signal-0-secure.png)|
 |**network-wireless-signal-none-secure-symbolic**|![]()|![]()|![]()|![]()|![](SE98/status/48/nm-signal-0-secure.png)|![](SE98/status/32/nm-signal-0-secure.png)|![](SE98/status/24/nm-signal-0-secure.png)|![](SE98/status/22/nm-signal-0-secure.png)|![](SE98/status/16/nm-signal-0-secure.png)|
 |**image-svg+xml-compressed**|![](SE98/mimes/128/x-office-drawing.png)|![](SE98/mimes/96/x-office-drawing.png)|![](SE98/mimes/72/x-office-drawing.png)|![](SE98/mimes/64/x-office-drawing.png)|![](SE98/mimes/48/x-office-drawing.png)|![](SE98/mimes/32/x-office-drawing.png)|![](SE98/mimes/24/x-office-drawing.png)|![](SE98/mimes/22/x-office-drawing.png)|![](SE98/mimes/16/x-office-drawing.png)|
