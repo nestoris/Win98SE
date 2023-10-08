@@ -32,6 +32,7 @@
 |**application-x-trash**|![](SE98/mimes/256/application-x-trash.png)|![](SE98/mimes/192/application-x-trash.png)|![](SE98/mimes/160/application-x-trash.png)|
 |**text-xml**|![](SE98/mimes/256/text-xml.png)|![](SE98/mimes/192/text-xml.png)|![](SE98/mimes/160/text-xml.png)|
 |**application-x-tar**|![](SE98/mimes/256/application-x-tar.png)|![](SE98/mimes/192/application-x-tar.png)|![](SE98/mimes/160/application-x-tar.png)|
+|**font-ttf**|![](SE98/mimes/256/font-ttf.png)|![](SE98/mimes/192/font-ttf.png)|![](SE98/mimes/160/font-ttf.png)|
 |**video-x-generic**|![](SE98/mimes/256/video-x-generic.png)|![](SE98/mimes/192/video-x-generic.png)|![](SE98/mimes/160/video-x-generic.png)|
 |**audio-midi**|![](SE98/mimes/256/audio-midi.png)|![](SE98/mimes/192/audio-midi.png)|![](SE98/mimes/160/audio-midi.png)|
 |**application-x-riff**|![](SE98/mimes/256/application-x-riff.png)|![](SE98/mimes/192/application-x-riff.png)|![](SE98/mimes/160/application-x-riff.png)|
