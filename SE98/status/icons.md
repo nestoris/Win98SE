@@ -1,6 +1,6 @@
 # Status
 
-Total **990** icons in **status** context.
+Total **989** icons in **status** context.
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
@@ -781,7 +781,6 @@ Total **990** icons in **status** context.
 |**system-file-manager-panel**|![](64/system-file-manager-panel.png)|![](48/system-file-manager-panel.png)|![](32/system-file-manager-panel.png)|![](24/system-file-progress-panel.png)<details><summary>*link:* </summary>*system-file-progress-panel.png*</details>|![](22/system-file-manager-panel.png)|![](16/system-file-manager-panel.png)|
 |**system-file-progress-panel**|![](64/system-file-progress-panel.png)|![](48/system-file-progress-panel.png)|![](32/system-file-progress-panel.png)|![](24/system-file-progress-panel.png)|![](22/system-file-progress-panel.png)|![](16/system-file-progress-panel.png)|
 |**system-shutdown-panel-restart**|![](64/system-shutdown-panel-restart.png)|![](48/system-shutdown-panel-restart.png)|![](32/system-shutdown-panel-restart.png)|![](24/system-shutdown-panel-restart.png)|![](22/system-shutdown-panel-restart.png)|![](16/system-shutdown-panel-restart.png)|
-|**system-shutdown-panel**|![](64/system-shutdown-panel.png)|![](48/system-shutdown-panel.png)|![](32/system-shutdown-panel.png)|![](24/system-shutdown-panel.png)|![](22/system-shutdown-panel.png)|![](16/system-shutdown-panel.png)|
 |**system-shutdown-restart-panel**|![](64/system-shutdown-restart-panel.png)|![](48/system-shutdown-restart-panel.png)|![](32/system-shutdown-restart-panel.png)|![](24/reboot-notifier.png)<details><summary>*link:* </summary>*reboot-notifier.png*</details>|![](22/reboot-notifier.png)<details><summary>*link:* </summary>*reboot-notifier.png*</details>|![](16/system-shutdown-restart-panel.png)|
 |**task-due-symbolic**|![](64/task-due-symbolic.png)|![](48/task-due-symbolic.png)|![](32/task-due-symbolic.png)|![](24/task-due-symbolic.png)|![](22/task-due-symbolic.png)|![](16/task-due.png)<details><summary>*link:* </summary>*task-due.png*</details>|
 |**task-due**|![](64/task-due.png)|![](48/task-due.png)|![](32/task-due.png)|![](24/task-due.png)|![](22/task-due.png)|![](16/task-due.png)|

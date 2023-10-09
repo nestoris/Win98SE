@@ -271,7 +271,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-restart-copy**|![](64/system-restart-copy.png)|![](48/system-restart-copy.png)|![](32/system-restart-copy.png)|![](24/system-restart-copy.png)|![](22/system-restart-copy.png)|![](16/system-restart-copy.png)|
 |**system-run**|![](64/system-run.png)|![](48/system-run.png)|![](32/system-run.png)|![](24/system-run.png)|![](22/system-run.png)|![](16/system-run.png)|
 |**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
-|**system-shutdown-panel**|![](64/system-shutdown-panel.png)|![](48/system-shutdown-panel.png)|![](32/system-shutdown-panel.png)|![](24/system-shutdown-panel.png)|![](22/system-shutdown-panel.png)|![](16/system-shutdown-panel.png)|
 |**system-shutdown-restart-panel**|![](64/system-shutdown-restart-panel.png)|![](48/system-shutdown-restart-panel.png)|![](32/system-shutdown-restart-panel.png)|![](24/system-shutdown-restart-panel.png)|![](22/system-shutdown-restart-panel.png)|![](16/system-shutdown-restart-panel.png)|
 |**system-upgrade**|![](64/system-upgrade.png)|![](48/system-upgrade.png)|![](32/system-upgrade.png)|![](24/system-upgrade.png)|![](22/system-upgrade.png)|![](16/system-upgrade.png)|
 |**tab-new**|![](64/tab-new.png)|![](48/tab-new.png)|![](32/tab-new.png)|![](24/tab-new.png)|![](22/tab-new.png)|![](16/tab-new.png)|

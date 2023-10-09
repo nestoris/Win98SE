@@ -472,7 +472,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**system-hibernate**|![](64/system-hibernate.png)|![](48/system-hibernate.png)|![](32/system-hibernate.png)|![](24/system-hibernate.png)|![](22/system-hibernate.png)|![](16/system-hibernate.png)|
 |**system-search**|![](64/system-search.png)|![](48/system-search.png)|![](32/system-search.png)|![](24/system-search.png)|![](22/system-search.png)|![](16/system-search.png)|
 |**system-settings**|![](64/system-settings.png)|![](48/system-settings.png)|![](32/system-settings.png)|![](24/system-settings.png)|![](22/system-settings.png)|![](16/system-settings.png)|
-|**system-shutdown**|![](64/system-shutdown.png)|![](48/system-shutdown.png)|![](32/system-shutdown.png)|![](24/system-shutdown.png)|![](22/system-shutdown.png)|![](16/system-shutdown.png)|
 |**system-software-installer**|![](64/system-software-installer.png)|![](48/system-software-installer.png)|![](32/system-software-installer.png)|![](24/system-software-installer.png)|![](22/system-software-installer.png)|![](16/system-software-installer.png)|
 |**system-software-update**|![](64/system-software-update.png)|![](48/system-software-update.png)|![](32/system-software-update.png)|![](24/system-software-update.png)|![](22/system-software-update.png)|![](16/system-software-update.png)|
 |**system-suspend**|![](64/system-suspend.png)|![](48/system-suspend.png)|![](32/system-suspend.png)|![](24/system-suspend.png)|![](22/system-suspend.png)|![](16/system-suspend.png)|
