@@ -61,6 +61,8 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**user-bookmarks**|![](64/user-bookmarks.png)|![](48/user-bookmarks.png)|![](32/user-bookmarks.png)|![](24/user-bookmarks.png)|![](22/user-bookmarks.png)|![](16/user-bookmarks.png)|
 |**user-desktop**|![](64/user-desktop.png)|![](48/user-desktop.png)|![](32/user-desktop.png)|![](24/user-desktop.png)|![](22/user-desktop.png)|![](16/user-desktop.png)|
 |**user-home**|![](64/user-home.png)|![](48/user-home.png)|![](32/user-home.png)|![](24/user-home.png)|![](22/user-home.png)|![](16/user-home.png)|
+|**user-home_win2k**|![](64/user-home_win2k.png)|![](48/user-home_win2k.png)|![](32/user-home_win2k.png)|![](24/user-home_win2k.png)|![](22/user-home_win2k.png)|![](16/user-home_win2k.png)|
+|**user-home_win98**|![](64/user-home_win98.png)|![](48/user-home_win98.png)|![](32/user-home_win98.png)|![](24/user-home_win98.png)|![](22/user-home_win98.png)|![](16/user-home_win98.png)|
 |**user-images**|![](64/user-images.png)|![](48/user-images.png)|![](32/user-images.png)|![](24/user-images.png)|![](22/user-images.png)|![](16/user-images.png)|
 |**user-trash**|![](64/user-trash.png)|![](48/user-trash.png)|![](32/user-trash.png)|![](24/user-trash.png)|![](22/user-trash.png)|![](16/user-trash.png)|
 |**user-trash-full**|![](64/user-trash-full.png)|![](48/user-trash-full.png)|![](32/user-trash-full.png)|![](24/user-trash-full.png)|![](22/user-trash-full.png)|![](16/user-trash-full.png)|
