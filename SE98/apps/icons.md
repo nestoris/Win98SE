@@ -1,6 +1,6 @@
 # Apps
 
-Total **1561** icons in **apps** context.
+Total **1562** icons in **apps** context.
 
 | |**96x96**|**72x72**|**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|-|-|
@@ -830,6 +830,7 @@ Total **1561** icons in **apps** context.
 |**mupdf**|![](96/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](72/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](64/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](48/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](32/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](24/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](22/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|![](16/acroread.png)<details><summary>*link:* </summary>*acroread.png*</details>|
 |**musescore**|![](96/musescore.png)|![](72/musescore.png)|![](64/musescore.png)|![](48/musescore.png)|![](32/musescore.png)|![](24/musescore.png)|![](22/musescore.png)|![](16/musescore.png)|
 |**musicstore_icon**|![](96/musicstore_icon.png)|![](72/musicstore_icon.png)|![](64/musicstore_icon.png)|![](48/musicstore_icon.png)|![](32/musicstore_icon.png)|![](24/umusicstore.png)<details><summary>*link:* </summary>*umusicstore.png*</details>|![](22/umusicstore.png)<details><summary>*link:* </summary>*umusicstore.png*</details>|![](16/umusicstore.png)<details><summary>*link:* </summary>*umusicstore.png*</details>|
+|**mx-snapshot**|![](96/mx-snapshot.png)|![](72/mx-snapshot.png)|![](64/mx-snapshot.png)|![](48/mx-snapshot.png)|![](32/mx-snapshot.png)|![](24/mx-snapshot.png)|![](22/mx-snapshot.png)|![](16/mx-snapshot.png)|
 |**mypaint**|![](96/mypaint.png)|![](72/mypaint.png)|![](64/mypaint.png)|![](48/mypaint.png)|![](32/mypaint.png)|![](24/mypaint.png)|![](22/mypaint.png)|![](16/mypaint.png)|
 |**nautilus-actions-config-tool**|![](96/nautilus-actions-config-tool.png)|![](72/nautilus-actions-config-tool.png)|![](64/nautilus-actions.png)<details><summary>*link:* </summary>*nautilus-actions.png*</details>|![](48/./nautilus-actions.png)<details><summary>*link:* </summary>*./nautilus-actions.png*</details>|![](32/nautilus-actions.png)<details><summary>*link:* </summary>*nautilus-actions.png*</details>|![](24/nautilus-actions.png)<details><summary>*link:* </summary>*nautilus-actions.png*</details>|![](22/nautilus-actions.png)<details><summary>*link:* </summary>*nautilus-actions.png*</details>|![](16/nautilus-actions.png)<details><summary>*link:* </summary>*nautilus-actions.png*</details>|
 |**nautilus-actions**|![](96/nautilus-actions.png)|![](72/nautilus-actions.png)|![](64/nautilus-actions.png)|![](48/nautilus-actions.png)|![](32/nautilus-actions.png)|![](24/nautilus-actions.png)|![](22/nautilus-actions.png)|![](16/nautilus-actions.png)|

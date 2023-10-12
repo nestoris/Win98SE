@@ -312,6 +312,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**multimedia-volume-control**|![](64/multimedia-volume-control.png)|![](48/multimedia-volume-control.png)|![](32/multimedia-volume-control.png)|![](24/multimedia-volume-control.png)|![](22/multimedia-volume-control.png)|![](16/multimedia-volume-control.png)|
 |**mumble**|![](64/mumble.png)|![](48/mumble.png)|![](32/mumble.png)|![](24/mumble.png)|![](22/mumble.png)|![](16/mumble.png)|
 |**musescore**|![](64/musescore.png)|![](48/musescore.png)|![](32/musescore.png)|![](24/musescore.png)|![](22/musescore.png)|![](16/musescore.png)|
+|**mx-snapshot**|![](64/mx-snapshot.png)|![](48/mx-snapshot.png)|![](32/mx-snapshot.png)|![](24/mx-snapshot.png)|![](22/mx-snapshot.png)|![](16/mx-snapshot.png)|
 |**mypaint**|![](64/mypaint.png)|![](48/mypaint.png)|![](32/mypaint.png)|![](24/mypaint.png)|![](22/mypaint.png)|![](16/mypaint.png)|
 |**nautilus-actions**|![](64/nautilus-actions.png)|![](48/nautilus-actions.png)|![](32/nautilus-actions.png)|![](24/nautilus-actions.png)|![](22/nautilus-actions.png)|![](16/nautilus-actions.png)|
 |**netbeans**|![](64/netbeans.png)|![](48/netbeans.png)|![](32/netbeans.png)|![](24/netbeans.png)|![](22/netbeans.png)|![](16/netbeans.png)|
