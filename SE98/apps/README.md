@@ -170,7 +170,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-klotski**|![](64/gnome-klotski.png)|![](48/gnome-klotski.png)|![](32/gnome-klotski.png)|![](24/gnome-klotski.png)|![](22/gnome-klotski.png)|![](16/gnome-klotski.png)|
 |**gnome-lightsoff**|![](64/gnome-lightsoff.png)|![](48/gnome-lightsoff.png)|![](32/gnome-lightsoff.png)|![](24/gnome-lightsoff.png)|![](22/gnome-lightsoff.png)|![](16/gnome-lightsoff.png)|
 |**gnome-mahjongg**|![](64/gnome-mahjongg.png)|![](48/gnome-mahjongg.png)|![](32/gnome-mahjongg.png)|![](24/gnome-mahjongg.png)|![](22/gnome-mahjongg.png)|![](16/gnome-mahjongg.png)|
-|**gnome-mines**|![](64/gnome-mines.png)|![](48/gnome-mines.png)|![](32/gnome-mines.png)|![](24/gnome-mines.png)|![](22/gnome-mines.png)|![](16/gnome-mines.png)|
 |**gnome-mplayer**|![](64/gnome-mplayer.png)|![](48/gnome-mplayer.png)|![](32/gnome-mplayer.png)|![](24/gnome-mplayer.png)|![](22/gnome-mplayer.png)|![](16/gnome-mplayer.png)|
 |**gnome-nettool**|![](64/gnome-nettool.png)|![](48/gnome-nettool.png)|![](32/gnome-nettool.png)|![](24/gnome-nettool.png)|![](22/gnome-nettool.png)|![](16/gnome-nettool.png)|
 |**gnome-panel**|![](64/gnome-panel.png)|![](48/gnome-panel.png)|![](32/gnome-panel.png)|![](24/gnome-panel.png)|![](22/gnome-panel.png)|![](16/gnome-panel.png)|
@@ -193,7 +192,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-settings-background**|![](64/gnome-settings-background.png)|![](48/gnome-settings-background.png)|![](32/gnome-settings-background.png)|![](24/gnome-settings-background.png)|![](22/gnome-settings-background.png)|![](16/gnome-settings-background.png)|
 |**gnome-settings-keybindings**|![](64/gnome-settings-keybindings.png)|![](48/gnome-settings-keybindings.png)|![](32/gnome-settings-keybindings.png)|![](24/gnome-settings-keybindings.png)|![](22/gnome-settings-keybindings.png)|![](16/gnome-settings-keybindings.png)|
 |**gnome-settings-theme**|![](64/gnome-settings-theme.png)|![](48/gnome-settings-theme.png)|![](32/gnome-settings-theme.png)|![](24/gnome-settings-theme.png)|![](22/gnome-settings-theme.png)|![](16/gnome-settings-theme.png)|
-|**gnome-shutdown**|![](64/gnome-shutdown.png)|![](48/gnome-shutdown.png)|![](32/gnome-shutdown.png)|![](24/gnome-shutdown.png)|![](22/gnome-shutdown.png)|![](16/gnome-shutdown.png)|
 |**gnome-sudoku**|![](64/gnome-sudoku.png)|![](48/gnome-sudoku.png)|![](32/gnome-sudoku.png)|![](24/gnome-sudoku.png)|![](22/gnome-sudoku.png)|![](16/gnome-sudoku.png)|
 |**gnome-swell-foop**|![](64/gnome-swell-foop.png)|![](48/gnome-swell-foop.png)|![](32/gnome-swell-foop.png)|![](24/gnome-swell-foop.png)|![](22/gnome-swell-foop.png)|![](16/gnome-swell-foop.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
@@ -427,7 +425,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**redhat-server_settings**|![](64/redhat-server_settings.png)|![](48/redhat-server_settings.png)|![](32/redhat-server_settings.png)|![](24/redhat-server_settings.png)|![](22/redhat-server_settings.png)|![](16/redhat-server_settings.png)|
 |**redhat-tools**|![](64/redhat-tools.png)|![](48/redhat-tools.png)|![](32/redhat-tools.png)|![](24/redhat-tools.png)|![](22/redhat-tools.png)|![](16/redhat-tools.png)|
 |**regedit**|![](64/regedit.png)|![](48/regedit.png)|![](32/regedit.png)|![](24/regedit.png)|![](22/regedit.png)|![](16/regedit.png)|
-|**remote-desktop**|![](64/remote-desktop.png)|![](48/remote-desktop.png)|![](32/remote-desktop.png)|![](24/remote-desktop.png)|![](22/remote-desktop.png)|![](16/remote-desktop.png)|
 |**revenge**|![](64/revenge.png)|![](48/revenge.png)|![](32/revenge.png)|![](24/revenge.png)|![](22/revenge.png)|![](16/revenge.png)|
 |**rhythmbox**|![](64/rhythmbox.png)|![](48/rhythmbox.png)|![](32/rhythmbox.png)|![](24/rhythmbox.png)|![](22/rhythmbox.png)|![](16/rhythmbox.png)|
 |**rip**|![](64/rip.png)|![](48/rip.png)|![](32/rip.png)|![](24/rip.png)|![](22/rip.png)|![](16/rip.png)|

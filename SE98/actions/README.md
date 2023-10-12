@@ -67,6 +67,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**edit-delete-mail**|![](64/edit-delete-mail.png)|![](48/edit-delete-mail.png)|![](32/edit-delete-mail.png)|![](24/edit-delete-mail.png)|![](22/edit-delete-mail.png)|![](16/edit-delete-mail.png)|
 |**edit-find-replace**|![](64/edit-find-replace.png)|![](48/edit-find-replace.png)|![](32/edit-find-replace.png)|![](24/edit-find-replace.png)|![](22/edit-find-replace.png)|![](16/edit-find-replace.png)|
 |**edit-flag**|![](64/edit-flag.png)|![](48/edit-flag.png)|![](32/edit-flag.png)|![](24/edit-flag.png)|![](22/edit-flag.png)|![](16/edit-flag.png)|
+|**edit-image**|![](64/edit-image.png)|![](48/edit-image.png)|![](32/edit-image.png)|![](24/edit-image.png)|![](22/edit-image.png)|![](16/edit-image.png)|
 |**edit-move**|![](64/edit-move.png)|![](48/edit-move.png)|![](32/edit-move.png)|![](24/edit-move.png)|![](22/edit-move.png)|![](16/edit-move.png)|
 |**edit-paste**|![](64/edit-paste.png)|![](48/edit-paste.png)|![](32/edit-paste.png)|![](24/edit-paste.png)|![](22/edit-paste.png)|![](16/edit-paste.png)|
 |**edit-redo**|![](64/edit-redo.png)|![](48/edit-redo.png)|![](32/edit-redo.png)|![](24/edit-redo.png)|![](22/edit-redo.png)|![](16/edit-redo.png)|

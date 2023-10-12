@@ -9,6 +9,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**folder-documents-open**|![](64/folder-documents-open.png)|![](48/folder-documents-open.png)|![](32/folder-documents-open.png)|![](24/folder-documents-open.png)|![](22/folder-documents-open.png)|![](16/folder-documents-open.png)|
 |**folder-download**|![](64/folder-download.png)|![](48/folder-download.png)|![](32/folder-download.png)|![](24/folder-download.png)|![](22/folder-download.png)|![](16/folder-download.png)|
 |**folder-download-open**|![](64/folder-download-open.png)|![](48/folder-download-open.png)|![](32/folder-download-open.png)|![](24/folder-download-open.png)|![](22/folder-download-open.png)|![](16/folder-download-open.png)|
+|**folder-games**|![](64/folder-games.png)|![](48/folder-games.png)|![](32/folder-games.png)|![](24/folder-games.png)|![](22/folder-games.png)|![](16/folder-games.png)|
 |**folder-music**|![](64/folder-music.png)|![](48/folder-music.png)|![](32/folder-music.png)|![](24/folder-music.png)|![](22/folder-music.png)|![](16/folder-music.png)|
 |**folder-music-open**|![](64/folder-music-open.png)|![](48/folder-music-open.png)|![](32/folder-music-open.png)|![](24/folder-music-open.png)|![](22/folder-music-open.png)|![](16/folder-music-open.png)|
 |**folder-open**|![](64/folder-open.png)|![](48/folder-open.png)|![](32/folder-open.png)|![](24/folder-open.png)|![](22/folder-open.png)|![](16/folder-open.png)|

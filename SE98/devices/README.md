@@ -5,7 +5,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |-|-|-|-|-|-|-|
 |**3floppy_mount**|![](64/3floppy_mount.png)|![](48/3floppy_mount.png)|![](32/3floppy_mount.png)|![](24/3floppy_mount.png)|![](22/3floppy_mount.png)|![](16/3floppy_mount.png)|
 |**audio-card**|![](64/audio-card.png)|![](48/audio-card.png)|![](32/audio-card.png)|![](24/audio-card.png)|![](22/audio-card.png)|![](16/audio-card.png)|
-|**audio-card-symbolic**|![](64/audio-card-symbolic.png)|![](48/audio-card-symbolic.png)|![](32/audio-card-symbolic.png)|![](24/audio-card-symbolic.png)|![](22/audio-card-symbolic.png)|![](16/audio-card-symbolic.png)|
 |**audio-input-microphone**|![](64/audio-input-microphone.png)|![](48/audio-input-microphone.png)|![](32/audio-input-microphone.png)|![](24/audio-input-microphone.png)|![](22/audio-input-microphone.png)|![](16/audio-input-microphone.png)|
 |**audio-speaker-center**|![](64/audio-speaker-center.png)|![](48/audio-speaker-center.png)|![](32/audio-speaker-center.png)|![](24/audio-speaker-center.png)|![](22/audio-speaker-center.png)|![](16/audio-speaker-center.png)|
 |**audio-speaker-center-back**|![](64/audio-speaker-center-back.png)|![](48/audio-speaker-center-back.png)|![](32/audio-speaker-center-back.png)|![](24/audio-speaker-center-back.png)|![](22/audio-speaker-center-back.png)|![](16/audio-speaker-center-back.png)|
@@ -26,7 +25,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**audio-speakers**|![](64/audio-speakers.png)|![](48/audio-speakers.png)|![](32/audio-speakers.png)|![](24/audio-speakers.png)|![](22/audio-speakers.png)|![](16/audio-speakers.png)|
 |**audio-subwoofer**|![](64/audio-subwoofer.png)|![](48/audio-subwoofer.png)|![](32/audio-subwoofer.png)|![](24/audio-subwoofer.png)|![](22/audio-subwoofer.png)|![](16/audio-subwoofer.png)|
 |**audio-subwoofer-testing**|![](64/audio-subwoofer-testing.png)|![](48/audio-subwoofer-testing.png)|![](32/audio-subwoofer-testing.png)|![](24/audio-subwoofer-testing.png)|![](22/audio-subwoofer-testing.png)|![](16/audio-subwoofer-testing.png)|
-|**audiocard**|![](64/audiocard.png)|![](48/audiocard.png)|![](32/audiocard.png)|![](24/audiocard.png)|![](22/audiocard.png)|![](16/audiocard.png)|
 |**battery**|![](64/battery.png)|![](48/battery.png)|![](32/battery.png)|![](24/battery.png)|![](22/battery.png)|![](16/battery.png)|
 |**block-device**|![](64/block-device.png)|![](48/block-device.png)|![](32/block-device.png)|![](24/block-device.png)|![](22/block-device.png)|![](16/block-device.png)|
 |**blueman-loudspeaker**|![](64/blueman-loudspeaker.png)|![](48/blueman-loudspeaker.png)|![](32/blueman-loudspeaker.png)|![](24/blueman-loudspeaker.png)|![](22/blueman-loudspeaker.png)|![](16/blueman-loudspeaker.png)|
@@ -34,7 +32,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**camera-photo**|![](64/camera-photo.png)|![](48/camera-photo.png)|![](32/camera-photo.png)|![](24/camera-photo.png)|![](22/camera-photo.png)|![](16/camera-photo.png)|
 |**camera-video**|![](64/camera-video.png)|![](48/camera-video.png)|![](32/camera-video.png)|![](24/camera-video.png)|![](22/camera-video.png)|![](16/camera-video.png)|
 |**camera-web**|![](64/camera-web.png)|![](48/camera-web.png)|![](32/camera-web.png)|![](24/camera-web.png)|![](22/camera-web.png)|![](16/camera-web.png)|
-|**camera-web-symbolic**|![](64/camera-web-symbolic.png)|![](48/camera-web-symbolic.png)|![](32/camera-web-symbolic.png)|![](24/camera-web-symbolic.png)|![](22/camera-web-symbolic.png)|![](16/camera-web-symbolic.png)|
 |**camera_unmount**|![](64/camera_unmount.png)|![](48/camera_unmount.png)|![](32/camera_unmount.png)|![](24/camera_unmount.png)|![](22/camera_unmount.png)|![](16/camera_unmount.png)|
 |**chardevice**|![](64/chardevice.png)|![](48/chardevice.png)|![](32/chardevice.png)|![](24/chardevice.png)|![](22/chardevice.png)|![](16/chardevice.png)|
 |**computer**|![](64/computer.png)|![](48/computer.png)|![](32/computer.png)|![](24/computer.png)|![](22/computer.png)|![](16/computer.png)|

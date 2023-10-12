@@ -369,14 +369,14 @@
 |**khexedit**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kgpg**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kgamma**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kfloppy**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**kfloppy**|![]()|![]()|![]()|![](SE98/devices/64/3floppy_mount.png)|![](SE98/devices/48/3floppy_mount.png)|![](SE98/devices/32/3floppy_mount.png)|![](SE98/devices/24/3floppy_mount.png)|![](SE98/devices/22/3floppy_mount.png)|![](SE98/devices/16/3floppy_mount.png)|
 |**kontact**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**korn**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kpager**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kstars**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kwrite2**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kpat**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
-|**kmines**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
+|**kpat**|![]()|![]()|![]()|![](SE98/apps/64/gnome-aisleriot.png)|![](SE98/apps/48/gnome-aisleriot.png)|![](SE98/apps/32/gnome-aisleriot.png)|![](SE98/apps/24/gnome-aisleriot.png)|![](SE98/apps/22/gnome-aisleriot.png)|![](SE98/apps/16/gnome-aisleriot.png)|
+|**kmines**|![]()|![]()|![]()|![]()|![](SE98/apps/48/mines.png)|![](SE98/apps/32/mines.png)|![](SE98/apps/24/mines.png)|![](SE98/apps/22/mines.png)|![](SE98/apps/16/mines.png)|
 |**kget**|![]()|![]()|![]()|![](SE98/apps/64/download-manager.png)|![](SE98/apps/48/download-manager.png)|![](SE98/apps/32/download-manager.png)|![](SE98/apps/24/download-manager.png)|![](SE98/apps/22/download-manager.png)|![](SE98/apps/16/download-manager.png)|
 |**kmenu,**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
 |**kcmmemory**|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|![]()|
