@@ -309,6 +309,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**viewmag1**|![](64/viewmag1.png)|![](48/viewmag1.png)|![](32/viewmag1.png)|![](24/viewmag1.png)|![](22/viewmag1.png)|![](16/viewmag1.png)|
 |**viewmagfit**|![](64/viewmagfit.png)|![](48/viewmagfit.png)|![](32/viewmagfit.png)|![](24/viewmagfit.png)|![](22/viewmagfit.png)|![](16/viewmagfit.png)|
 |**visualization**|![](64/visualization.png)|![](48/visualization.png)|![](32/visualization.png)|![](24/visualization.png)|![](22/visualization.png)|![](16/visualization.png)|
+|**vmware-disabled**|![](64/vmware-disabled.png)|![](48/vmware-disabled.png)|![](32/vmware-disabled.png)|![](24/vmware-disabled.png)|![](22/vmware-disabled.png)|![](16/vmware-disabled.png)|
 |**window-close**|![](64/window-close.png)|![](48/window-close.png)|![](32/window-close.png)|![](24/window-close.png)|![](22/window-close.png)|![](16/window-close.png)|
 |**window-maximize**|![](64/window-maximize.png)|![](48/window-maximize.png)|![](32/window-maximize.png)|![](24/window-maximize.png)|![](22/window-maximize.png)|![](16/window-maximize.png)|
 |**window-minimize**|![](64/window-minimize.png)|![](48/window-minimize.png)|![](32/window-minimize.png)|![](24/window-minimize.png)|![](22/window-minimize.png)|![](16/window-minimize.png)|

@@ -140,7 +140,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**giggle**|![](64/giggle.png)|![](48/giggle.png)|![](32/giggle.png)|![](24/giggle.png)|![](22/giggle.png)|![](16/giggle.png)|
 |**gimp**|![](64/gimp.png)|![](48/gimp.png)|![](32/gimp.png)|![](24/gimp.png)|![](22/gimp.png)|![](16/gimp.png)|
 |**git**|![](64/git.png)|![](48/git.png)|![](32/git.png)|![](24/git.png)|![](22/git.png)|![](16/git.png)|
-|**git-cola**|![](64/git-cola.png)|![](48/git-cola.png)|![](32/git-cola.png)|![](24/git-cola.png)|![](22/git-cola.png)|![](16/git-cola.png)|
 |**gkdebconf-icon**|![](64/gkdebconf-icon.png)|![](48/gkdebconf-icon.png)|![](32/gkdebconf-icon.png)|![](24/gkdebconf-icon.png)|![](22/gkdebconf-icon.png)|![](16/gkdebconf-icon.png)|
 |**gksu-root-terminal**|![](64/gksu-root-terminal.png)|![](48/gksu-root-terminal.png)|![](32/gksu-root-terminal.png)|![](24/gksu-root-terminal.png)|![](22/gksu-root-terminal.png)|![](16/gksu-root-terminal.png)|
 |**gksu-root-terminal-old**|![](64/gksu-root-terminal-old.png)|![](48/gksu-root-terminal-old.png)|![](32/gksu-root-terminal-old.png)|![](24/gksu-root-terminal-old.png)|![](22/gksu-root-terminal-old.png)|![](16/gksu-root-terminal-old.png)|
@@ -412,7 +411,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**product_logo_24**|![](64/product_logo_24.png)|![](48/product_logo_24.png)|![](32/product_logo_24.png)|![](24/product_logo_24.png)|![](22/product_logo_24.png)|![](16/product_logo_24.png)|
 |**product_logo_32**|![](64/product_logo_32.png)|![](48/product_logo_32.png)|![](32/product_logo_32.png)|![](24/product_logo_32.png)|![](22/product_logo_32.png)|![](16/product_logo_32.png)|
 |**q4wine**|![](64/q4wine.png)|![](48/q4wine.png)|![](32/q4wine.png)|![](24/q4wine.png)|![](22/q4wine.png)|![](16/q4wine.png)|
-|**qgit**|![](64/qgit.png)|![](48/qgit.png)|![](32/qgit.png)|![](24/qgit.png)|![](22/qgit.png)|![](16/qgit.png)|
 |**qjackctl**|![](64/qjackctl.png)|![](48/qjackctl.png)|![](32/qjackctl.png)|![](24/qjackctl.png)|![](22/qjackctl.png)|![](16/qjackctl.png)|
 |**qtcreator**|![](64/qtcreator.png)|![](48/qtcreator.png)|![](32/qtcreator.png)|![](24/qtcreator.png)|![](22/qtcreator.png)|![](16/qtcreator.png)|
 |**quake**|![](64/quake.png)|![](48/quake.png)|![](32/quake.png)|![](24/quake.png)|![](22/quake.png)|![](16/quake.png)|
