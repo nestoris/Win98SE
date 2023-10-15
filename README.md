@@ -1,4 +1,4 @@
-[ ![](SE98/apps/32/firefox.png) [Please vote for the Firefox icon!](https://github.com/nestoris/Win98SE/discussions/32) ![](https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg) ]
+[ ![](SE98/apps/32/firefox.png) [Please vote for the Firefox icon!](https://github.com/nestoris/Win98SE/discussions/32) <img src=https://upload.wikimedia.org/wikipedia/commons/7/76/Mozilla_Firefox_logo_2013.svg width=32 height=32> ]
 
 [ [For software developers: I need your help!](https://github.com/nestoris/Win98SE/discussions/33) ]
 
