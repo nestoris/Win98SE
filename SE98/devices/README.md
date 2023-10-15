@@ -76,8 +76,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-dev-zipdisk**|![](64/gnome-dev-zipdisk.png)|![](48/gnome-dev-zipdisk.png)|![](32/gnome-dev-zipdisk.png)|![](24/gnome-dev-zipdisk.png)|![](22/gnome-dev-zipdisk.png)|![](16/gnome-dev-zipdisk.png)|
 |**gnome-modem**|![](64/gnome-modem.png)|![](48/gnome-modem.png)|![](32/gnome-modem.png)|![](24/gnome-modem.png)|![](22/gnome-modem.png)|![](16/gnome-modem.png)|
 |**gnome-screenshot**|![](64/gnome-screenshot.png)|![](48/gnome-screenshot.png)|![](32/gnome-screenshot.png)|![](24/gnome-screenshot.png)|![](22/gnome-screenshot.png)|![](16/gnome-screenshot.png)|
-|**gnome-stock-mic**|![](64/gnome-stock-mic.png)|![](48/gnome-stock-mic.png)|![](32/gnome-stock-mic.png)|![](24/gnome-stock-mic.png)|![](22/gnome-stock-mic.png)|![](16/gnome-stock-mic.png)|
-|**gtk-harddisk**|![](64/gtk-harddisk.png)|![](48/gtk-harddisk.png)|![](32/gtk-harddisk.png)|![](24/gtk-harddisk.png)|![](22/gtk-harddisk.png)|![](16/gtk-harddisk.png)|
 |**gvc-tone**|![](64/gvc-tone.png)|![](48/gvc-tone.png)|![](32/gvc-tone.png)|![](24/gvc-tone.png)|![](22/gvc-tone.png)|![](16/gvc-tone.png)|
 |**hdd_unmount**|![](64/hdd_unmount.png)|![](48/hdd_unmount.png)|![](32/hdd_unmount.png)|![](24/hdd_unmount.png)|![](22/hdd_unmount.png)|![](16/hdd_unmount.png)|
 |**input-gaming**|![](64/input-gaming.png)|![](48/input-gaming.png)|![](32/input-gaming.png)|![](24/input-gaming.png)|![](22/input-gaming.png)|![](16/input-gaming.png)|
@@ -123,7 +121,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**printer-remote**|![](64/printer-remote.png)|![](48/printer-remote.png)|![](32/printer-remote.png)|![](24/printer-remote.png)|![](22/printer-remote.png)|![](16/printer-remote.png)|
 |**processor**|![](64/processor.png)|![](48/processor.png)|![](32/processor.png)|![](24/processor.png)|![](22/processor.png)|![](16/processor.png)|
 |**scanner**|![](64/scanner.png)|![](48/scanner.png)|![](32/scanner.png)|![](24/scanner.png)|![](22/scanner.png)|![](16/scanner.png)|
-|**stock_mic**|![](64/stock_mic.png)|![](48/stock_mic.png)|![](32/stock_mic.png)|![](24/stock_mic.png)|![](22/stock_mic.png)|![](16/stock_mic.png)|
 |**stock_printers**|![](64/stock_printers.png)|![](48/stock_printers.png)|![](32/stock_printers.png)|![](24/stock_printers.png)|![](22/stock_printers.png)|![](16/stock_printers.png)|
 |**uninterruptible-power-supply**|![](64/uninterruptible-power-supply.png)|![](48/uninterruptible-power-supply.png)|![](32/uninterruptible-power-supply.png)|![](24/uninterruptible-power-supply.png)|![](22/uninterruptible-power-supply.png)|![](16/uninterruptible-power-supply.png)|
 |**video-display**|![](64/video-display.png)|![](48/video-display.png)|![](32/video-display.png)|![](24/video-display.png)|![](22/video-display.png)|![](16/video-display.png)|

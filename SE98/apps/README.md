@@ -60,7 +60,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**c610**|![](64/c610.png)|![](48/c610.png)|![](32/c610.png)|![](24/c610.png)|![](22/c610.png)|![](16/c610.png)|
 |**c64**|![](64/c64.png)|![](48/c64.png)|![](32/c64.png)|![](24/c64.png)|![](22/c64.png)|![](16/c64.png)|
 |**caffeine**|![](64/caffeine.png)|![](48/caffeine.png)|![](32/caffeine.png)|![](24/caffeine.png)|![](22/caffeine.png)|![](16/caffeine.png)|
-|**cairo-clock**|![](64/cairo-clock.png)|![](48/cairo-clock.png)|![](32/cairo-clock.png)|![](24/cairo-clock.png)|![](22/cairo-clock.png)|![](16/cairo-clock.png)|
 |**ccc_large**|![](64/ccc_large.png)|![](48/ccc_large.png)|![](32/ccc_large.png)|![](24/ccc_large.png)|![](22/ccc_large.png)|![](16/ccc_large.png)|
 |**ccsm**|![](64/ccsm.png)|![](48/ccsm.png)|![](32/ccsm.png)|![](24/ccsm.png)|![](22/ccsm.png)|![](16/ccsm.png)|
 |**checkbox**|![](64/checkbox.png)|![](48/checkbox.png)|![](32/checkbox.png)|![](24/checkbox.png)|![](22/checkbox.png)|![](16/checkbox.png)|
@@ -92,7 +91,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**display-im6.q16**|![](64/display-im6.q16.png)|![](48/display-im6.q16.png)|![](32/display-im6.q16.png)|![](24/display-im6.q16.png)|![](22/display-im6.q16.png)|![](16/display-im6.q16.png)|
 |**docky**|![](64/docky.png)|![](48/docky.png)|![](32/docky.png)|![](24/docky.png)|![](22/docky.png)|![](16/docky.png)|
 |**download-manager**|![](64/download-manager.png)|![](48/download-manager.png)|![](32/download-manager.png)|![](24/download-manager.png)|![](22/download-manager.png)|![](16/download-manager.png)|
-|**drakmenustyle**|![](64/drakmenustyle.png)|![](48/drakmenustyle.png)|![](32/drakmenustyle.png)|![](24/drakmenustyle.png)|![](22/drakmenustyle.png)|![](16/drakmenustyle.png)|
 |**drawing**|![](64/drawing.png)|![](48/drawing.png)|![](32/drawing.png)|![](24/drawing.png)|![](22/drawing.png)|![](16/drawing.png)|
 |**driver-manager**|![](64/driver-manager.png)|![](48/driver-manager.png)|![](32/driver-manager.png)|![](24/driver-manager.png)|![](22/driver-manager.png)|![](16/driver-manager.png)|
 |**dvdrip**|![](64/dvdrip.png)|![](48/dvdrip.png)|![](32/dvdrip.png)|![](24/dvdrip.png)|![](22/dvdrip.png)|![](16/dvdrip.png)|
@@ -160,7 +158,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-fs-bookmark-missing**|![](64/gnome-fs-bookmark-missing.png)|![](48/gnome-fs-bookmark-missing.png)|![](32/gnome-fs-bookmark-missing.png)|![](24/gnome-fs-bookmark-missing.png)|![](22/gnome-fs-bookmark-missing.png)|![](16/gnome-fs-bookmark-missing.png)|
 |**gnome-glchess**|![](64/gnome-glchess.png)|![](48/gnome-glchess.png)|![](32/gnome-glchess.png)|![](24/gnome-glchess.png)|![](22/gnome-glchess.png)|![](16/gnome-glchess.png)|
 |**gnome-glines**|![](64/gnome-glines.png)|![](48/gnome-glines.png)|![](32/gnome-glines.png)|![](24/gnome-glines.png)|![](22/gnome-glines.png)|![](16/gnome-glines.png)|
-|**gnome-gmenu**|![](64/gnome-gmenu.png)|![](48/gnome-gmenu.png)|![](32/gnome-gmenu.png)|![](24/gnome-gmenu.png)|![](22/gnome-gmenu.png)|![](16/gnome-gmenu.png)|
 |**gnome-gnect**|![](64/gnome-gnect.png)|![](48/gnome-gnect.png)|![](32/gnome-gnect.png)|![](24/gnome-gnect.png)|![](22/gnome-gnect.png)|![](16/gnome-gnect.png)|
 |**gnome-gnibbles**|![](64/gnome-gnibbles.png)|![](48/gnome-gnibbles.png)|![](32/gnome-gnibbles.png)|![](24/gnome-gnibbles.png)|![](22/gnome-gnibbles.png)|![](16/gnome-gnibbles.png)|
 |**gnome-iagno**|![](64/gnome-iagno.png)|![](48/gnome-iagno.png)|![](32/gnome-iagno.png)|![](24/gnome-iagno.png)|![](22/gnome-iagno.png)|![](16/gnome-iagno.png)|
@@ -172,7 +169,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-mplayer**|![](64/gnome-mplayer.png)|![](48/gnome-mplayer.png)|![](32/gnome-mplayer.png)|![](24/gnome-mplayer.png)|![](22/gnome-mplayer.png)|![](16/gnome-mplayer.png)|
 |**gnome-nettool**|![](64/gnome-nettool.png)|![](48/gnome-nettool.png)|![](32/gnome-nettool.png)|![](24/gnome-nettool.png)|![](22/gnome-nettool.png)|![](16/gnome-nettool.png)|
 |**gnome-panel**|![](64/gnome-panel.png)|![](48/gnome-panel.png)|![](32/gnome-panel.png)|![](24/gnome-panel.png)|![](22/gnome-panel.png)|![](16/gnome-panel.png)|
-|**gnome-panel-clock**|![](64/gnome-panel-clock.png)|![](48/gnome-panel-clock.png)|![](32/gnome-panel-clock.png)|![](24/gnome-panel-clock.png)|![](22/gnome-panel-clock.png)|![](16/gnome-panel-clock.png)|
 |**gnome-panel-force-quit**|![](64/gnome-panel-force-quit.png)|![](48/gnome-panel-force-quit.png)|![](32/gnome-panel-force-quit.png)|![](24/gnome-panel-force-quit.png)|![](22/gnome-panel-force-quit.png)|![](16/gnome-panel-force-quit.png)|
 |**gnome-panel-launcher**|![](64/gnome-panel-launcher.png)|![](48/gnome-panel-launcher.png)|![](32/gnome-panel-launcher.png)|![](24/gnome-panel-launcher.png)|![](22/gnome-panel-launcher.png)|![](16/gnome-panel-launcher.png)|
 |**gnome-panel-notification-area**|![](64/gnome-panel-notification-area.png)|![](48/gnome-panel-notification-area.png)|![](32/gnome-panel-notification-area.png)|![](24/gnome-panel-notification-area.png)|![](22/gnome-panel-notification-area.png)|![](16/gnome-panel-notification-area.png)|
@@ -270,7 +266,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**libreoffice-impress**|![](64/libreoffice-impress.png)|![](48/libreoffice-impress.png)|![](32/libreoffice-impress.png)|![](24/libreoffice-impress.png)|![](22/libreoffice-impress.png)|![](16/libreoffice-impress.png)|
 |**libreoffice-main**|![](64/libreoffice-main.png)|![](48/libreoffice-main.png)|![](32/libreoffice-main.png)|![](24/libreoffice-main.png)|![](22/libreoffice-main.png)|![](16/libreoffice-main.png)|
 |**libreoffice-math**|![](64/libreoffice-math.png)|![](48/libreoffice-math.png)|![](32/libreoffice-math.png)|![](24/libreoffice-math.png)|![](22/libreoffice-math.png)|![](16/libreoffice-math.png)|
-|**libreoffice-startcenter**|![](64/libreoffice-startcenter.png)|![](48/libreoffice-startcenter.png)|![](32/libreoffice-startcenter.png)|![](24/libreoffice-startcenter.png)|![](22/libreoffice-startcenter.png)|![](16/libreoffice-startcenter.png)|
 |**lifeograph**|![](64/lifeograph.png)|![](48/lifeograph.png)|![](32/lifeograph.png)|![](24/lifeograph.png)|![](22/lifeograph.png)|![](16/lifeograph.png)|
 |**liferea**|![](64/liferea.png)|![](48/liferea.png)|![](32/liferea.png)|![](24/liferea.png)|![](22/liferea.png)|![](16/liferea.png)|
 |**linkerator**|![](64/linkerator.png)|![](48/linkerator.png)|![](32/linkerator.png)|![](24/linkerator.png)|![](22/linkerator.png)|![](16/linkerator.png)|
@@ -287,7 +282,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**mame**|![](64/mame.png)|![](48/mame.png)|![](32/mame.png)|![](24/mame.png)|![](22/mame.png)|![](16/mame.png)|
 |**mate-notification-properties**|![](64/mate-notification-properties.png)|![](48/mate-notification-properties.png)|![](32/mate-notification-properties.png)|![](24/mate-notification-properties.png)|![](22/mate-notification-properties.png)|![](16/mate-notification-properties.png)|
 |**mate-panel**|![](64/mate-panel.png)|![](48/mate-panel.png)|![](32/mate-panel.png)|![](24/mate-panel.png)|![](22/mate-panel.png)|![](16/mate-panel.png)|
-|**mate-panel-clock**|![](64/mate-panel-clock.png)|![](48/mate-panel-clock.png)|![](32/mate-panel-clock.png)|![](24/mate-panel-clock.png)|![](22/mate-panel-clock.png)|![](16/mate-panel-clock.png)|
 |**mate-tweak**|![](64/mate-tweak.png)|![](48/mate-tweak.png)|![](32/mate-tweak.png)|![](24/mate-tweak.png)|![](22/mate-tweak.png)|![](16/mate-tweak.png)|
 |**media-player-48**|![](64/media-player-48.png)|![](48/media-player-48.png)|![](32/media-player-48.png)|![](24/media-player-48.png)|![](22/media-player-48.png)|![](16/media-player-48.png)|
 |**meld**|![](64/meld.png)|![](48/meld.png)|![](32/meld.png)|![](24/meld.png)|![](22/meld.png)|![](16/meld.png)|
@@ -295,13 +289,12 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**menu-editor**|![](64/menu-editor.png)|![](48/menu-editor.png)|![](32/menu-editor.png)|![](24/menu-editor.png)|![](22/menu-editor.png)|![](16/menu-editor.png)|
 |**midori**|![](64/midori.png)|![](48/midori.png)|![](32/midori.png)|![](24/midori.png)|![](22/midori.png)|![](16/midori.png)|
 |**mines**|![](64/mines.png)|![](48/mines.png)|![](32/mines.png)|![](24/mines.png)|![](22/mines.png)|![](16/mines.png)|
-|**minesweper**|![](64/minesweper.png)|![](48/minesweper.png)|![](32/minesweper.png)|![](24/minesweper.png)|![](22/minesweper.png)|![](16/minesweper.png)|
+|**mintwelcome**|![](64/mintwelcome.png)|![](48/mintwelcome.png)|![](32/mintwelcome.png)|![](24/mintwelcome.png)|![](22/mintwelcome.png)|![](16/mintwelcome.png)|
 |**miro**|![](64/miro.png)|![](48/miro.png)|![](32/miro.png)|![](24/miro.png)|![](22/miro.png)|![](16/miro.png)|
 |**miro-browse**|![](64/miro-browse.png)|![](48/miro-browse.png)|![](32/miro-browse.png)|![](24/miro-browse.png)|![](22/miro-browse.png)|![](16/miro-browse.png)|
 |**mitter**|![](64/mitter.png)|![](48/mitter.png)|![](32/mitter.png)|![](24/mitter.png)|![](22/mitter.png)|![](16/mitter.png)|
 |**monodevelop**|![](64/monodevelop.png)|![](48/monodevelop.png)|![](32/monodevelop.png)|![](24/monodevelop.png)|![](22/monodevelop.png)|![](16/monodevelop.png)|
 |**monodoc-browser**|![](64/monodoc-browser.png)|![](48/monodoc-browser.png)|![](32/monodoc-browser.png)|![](24/monodoc-browser.png)|![](22/monodoc-browser.png)|![](16/monodoc-browser.png)|
-|**mousepad**|![](64/mousepad.png)|![](48/mousepad.png)|![](32/mousepad.png)|![](24/mousepad.png)|![](22/mousepad.png)|![](16/mousepad.png)|
 |**mugshot**|![](64/mugshot.png)|![](48/mugshot.png)|![](32/mugshot.png)|![](24/mugshot.png)|![](22/mugshot.png)|![](16/mugshot.png)|
 |**multimedia**|![](64/multimedia.png)|![](48/multimedia.png)|![](32/multimedia.png)|![](24/multimedia.png)|![](22/multimedia.png)|![](16/multimedia.png)|
 |**multimedia-audio-player**|![](64/multimedia-audio-player.png)|![](48/multimedia-audio-player.png)|![](32/multimedia-audio-player.png)|![](24/multimedia-audio-player.png)|![](22/multimedia-audio-player.png)|![](16/multimedia-audio-player.png)|
@@ -420,7 +413,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**qucs**|![](64/qucs.png)|![](48/qucs.png)|![](32/qucs.png)|![](24/qucs.png)|![](22/qucs.png)|![](16/qucs.png)|
 |**radiotray**|![](64/radiotray.png)|![](48/radiotray.png)|![](32/radiotray.png)|![](24/radiotray.png)|![](22/radiotray.png)|![](16/radiotray.png)|
 |**randr**|![](64/randr.png)|![](48/randr.png)|![](32/randr.png)|![](24/randr.png)|![](22/randr.png)|![](16/randr.png)|
-|**rclock**|![](64/rclock.png)|![](48/rclock.png)|![](32/rclock.png)|![](24/rclock.png)|![](22/rclock.png)|![](16/rclock.png)|
 |**redhat-server_settings**|![](64/redhat-server_settings.png)|![](48/redhat-server_settings.png)|![](32/redhat-server_settings.png)|![](24/redhat-server_settings.png)|![](22/redhat-server_settings.png)|![](16/redhat-server_settings.png)|
 |**redhat-tools**|![](64/redhat-tools.png)|![](48/redhat-tools.png)|![](32/redhat-tools.png)|![](24/redhat-tools.png)|![](22/redhat-tools.png)|![](16/redhat-tools.png)|
 |**regedit**|![](64/regedit.png)|![](48/regedit.png)|![](32/regedit.png)|![](24/regedit.png)|![](22/regedit.png)|![](16/regedit.png)|
@@ -545,7 +537,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfce-schedule**|![](64/xfce-schedule.png)|![](48/xfce-schedule.png)|![](32/xfce-schedule.png)|![](24/xfce-schedule.png)|![](22/xfce-schedule.png)|![](16/xfce-schedule.png)|
 |**xfce-ui**|![](64/xfce-ui.png)|![](48/xfce-ui.png)|![](32/xfce-ui.png)|![](24/xfce-ui.png)|![](22/xfce-ui.png)|![](16/xfce-ui.png)|
 |**xfce4-backdrop**|![](64/xfce4-backdrop.png)|![](48/xfce4-backdrop.png)|![](32/xfce4-backdrop.png)|![](24/xfce4-backdrop.png)|![](22/xfce4-backdrop.png)|![](16/xfce4-backdrop.png)|
-|**xfce4-clock**|![](64/xfce4-clock.png)|![](48/xfce4-clock.png)|![](32/xfce4-clock.png)|![](24/xfce4-clock.png)|![](22/xfce4-clock.png)|![](16/xfce4-clock.png)|
 |**xfce4-cpufreq-plugin**|![](64/xfce4-cpufreq-plugin.png)|![](48/xfce4-cpufreq-plugin.png)|![](32/xfce4-cpufreq-plugin.png)|![](24/xfce4-cpufreq-plugin.png)|![](22/xfce4-cpufreq-plugin.png)|![](16/xfce4-cpufreq-plugin.png)|
 |**xfce4-cpugraph-plugin**|![](64/xfce4-cpugraph-plugin.png)|![](48/xfce4-cpugraph-plugin.png)|![](32/xfce4-cpugraph-plugin.png)|![](24/xfce4-cpugraph-plugin.png)|![](22/xfce4-cpugraph-plugin.png)|![](16/xfce4-cpugraph-plugin.png)|
 |**xfce4-fsguard-plugin**|![](64/xfce4-fsguard-plugin.png)|![](48/xfce4-fsguard-plugin.png)|![](32/xfce4-fsguard-plugin.png)|![](24/xfce4-fsguard-plugin.png)|![](22/xfce4-fsguard-plugin.png)|![](16/xfce4-fsguard-plugin.png)|
