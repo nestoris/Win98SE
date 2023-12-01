@@ -449,8 +449,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_new-spreadsheet**|![](64/stock_new-spreadsheet.png)|![](48/stock_new-spreadsheet.png)|![](32/stock_new-spreadsheet.png)|![](24/stock_new-spreadsheet.png)|![](22/stock_new-spreadsheet.png)|![](16/stock_new-spreadsheet.png)|
 |**stock_view-details**|![](64/stock_view-details.png)|![](48/stock_view-details.png)|![](32/stock_view-details.png)|![](24/stock_view-details.png)|![](22/stock_view-details.png)|![](16/stock_view-details.png)|
 |**style**|![](64/style.png)|![](48/style.png)|![](32/style.png)|![](24/style.png)|![](22/style.png)|![](16/style.png)|
-|**supertux**|![](64/supertux.png)|![](48/supertux.png)|![](32/supertux.png)|![](24/supertux.png)|![](22/supertux.png)|![](16/supertux.png)|
-|**supertuxkart**|![](64/supertuxkart.png)|![](48/supertuxkart.png)|![](32/supertuxkart.png)|![](24/supertuxkart.png)|![](22/supertuxkart.png)|![](16/supertuxkart.png)|
 |**symlink2file**|![](64/symlink2file.png)|![](48/symlink2file.png)|![](32/symlink2file.png)|![](24/symlink2file.png)|![](22/symlink2file.png)|![](16/symlink2file.png)|
 |**synapse**|![](64/synapse.png)|![](48/synapse.png)|![](32/synapse.png)|![](24/synapse.png)|![](22/synapse.png)|![](16/synapse.png)|
 |**synfig**|![](64/synfig.png)|![](48/synfig.png)|![](32/synfig.png)|![](24/synfig.png)|![](22/synfig.png)|![](16/synfig.png)|
