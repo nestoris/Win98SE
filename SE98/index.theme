@@ -26,7 +26,7 @@ Comment[no]=Forbedret klassisk Win98SE-ikontema for GNU/Linux.
 Comment[fl]=Pinahusay na Classic Win98SE icon na tema para sa GNU/Linux.
 Example=user-desktop
 #Inherits=Chicago95,Redmond97,hicolor,Faenza,Oxygen,Breeze,Crystal,Nuvola,Crystal SVG,Nuvola theme
-Inherits=hicolor #,WhiteSur,Tela-purple,Numix
+Inherits=hicolor,Adwaita,Breeze
 
 FollowsColorScheme=true
 
