@@ -42,6 +42,7 @@
 |**audio-x-s3m**|![](SE98/mimes/256/audio-x-s3m.png)|![](SE98/mimes/192/audio-x-s3m.png)|![](SE98/mimes/160/audio-x-s3m.png)|
 |**text-x-generic**|![](SE98/mimes/256/text-x-generic.png)|![](SE98/mimes/192/text-x-generic.png)|![](SE98/mimes/160/text-x-generic.png)|
 |**text-x-generic-rtl**|![](SE98/mimes/256/text-x-generic-rtl.png)|![](SE98/mimes/192/text-x-generic-rtl.png)|![](SE98/mimes/160/text-x-generic-rtl.png)|
+|**text-markdown**|![](SE98/mimes/256/text-markdown.png)|![](SE98/mimes/192/text-markdown.png)|![](SE98/mimes/160/text-markdown.png)|
 |**application-x-abiword**|![](SE98/mimes/256/application-x-abiword.png)|![](SE98/mimes/192/application-x-abiword.png)|![](SE98/mimes/160/application-x-abiword.png)|
 |**text-x-ssa**|![](SE98/mimes/256/text-x-ssa.png)|![](SE98/mimes/192/text-x-ssa.png)|![](SE98/mimes/160/text-x-ssa.png)|
 |**x-office-document**|![](SE98/mimes/256/x-office-document.png)|![](SE98/mimes/192/x-office-document.png)|![](SE98/mimes/160/x-office-document.png)|

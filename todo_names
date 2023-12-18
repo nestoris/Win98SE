@@ -223,7 +223,6 @@ application-vnd.android.package-archive
 application-ms-htmlhelp
 text-x-copying
 text-x-changelog
-text-markdown
 
 application-x-gettext-translation
 text-x-gettext-translation-template
