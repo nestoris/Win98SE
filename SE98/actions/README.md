@@ -131,8 +131,8 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**insert-object**|![](64/insert-object.png)|![](48/insert-object.png)|![](32/insert-object.png)|![](24/insert-object.png)|![](22/insert-object.png)|![](16/insert-object.png)|
 |**insert-text**|![](64/insert-text.png)|![](48/insert-text.png)|![](32/insert-text.png)|![](24/insert-text.png)|![](22/insert-text.png)|![](16/insert-text.png)|
 |**internet-radio-new**|![](64/internet-radio-new.png)|![](48/internet-radio-new.png)|![](32/internet-radio-new.png)|![](24/internet-radio-new.png)|![](22/internet-radio-new.png)|![](16/internet-radio-new.png)|
-|**iso-image-burn-22**|![](64/iso-image-burn-22.png)|![](48/iso-image-burn-22.png)|![](32/iso-image-burn-22.png)|![](24/iso-image-burn-22.png)|![](22/iso-image-burn-22.png)|![](16/iso-image-burn-22.png)|
 |**jockey-proprietary**|![](64/jockey-proprietary.png)|![](48/jockey-proprietary.png)|![](32/jockey-proprietary.png)|![](24/jockey-proprietary.png)|![](22/jockey-proprietary.png)|![](16/jockey-proprietary.png)|
+|**link**|![](64/link.png)|![](48/link.png)|![](32/link.png)|![](24/link.png)|![](22/link.png)|![](16/link.png)|
 |**list-add**|![](64/list-add.png)|![](48/list-add.png)|![](32/list-add.png)|![](24/list-add.png)|![](22/list-add.png)|![](16/list-add.png)|
 |**list-remove**|![](64/list-remove.png)|![](48/list-remove.png)|![](32/list-remove.png)|![](24/list-remove.png)|![](22/list-remove.png)|![](16/list-remove.png)|
 |**lock**|![](64/lock.png)|![](48/lock.png)|![](32/lock.png)|![](24/lock.png)|![](22/lock.png)|![](16/lock.png)|
@@ -237,6 +237,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pane-hide**|![](64/pane-hide.png)|![](48/pane-hide.png)|![](32/pane-hide.png)|![](24/pane-hide.png)|![](22/pane-hide.png)|![](16/pane-hide.png)|
 |**pane-show**|![](64/pane-show.png)|![](48/pane-show.png)|![](32/pane-show.png)|![](24/pane-show.png)|![](22/pane-show.png)|![](16/pane-show.png)|
 |**podcast-new**|![](64/podcast-new.png)|![](48/podcast-new.png)|![](32/podcast-new.png)|![](24/podcast-new.png)|![](22/podcast-new.png)|![](16/podcast-new.png)|
+|**process-stop**|![](64/process-stop.png)|![](48/process-stop.png)|![](32/process-stop.png)|![](24/process-stop.png)|![](22/process-stop.png)|![](16/process-stop.png)|
 |**segment-curve**|![](64/segment-curve.png)|![](48/segment-curve.png)|![](32/segment-curve.png)|![](24/segment-curve.png)|![](22/segment-curve.png)|![](16/segment-curve.png)|
 |**segment-line**|![](64/segment-line.png)|![](48/segment-line.png)|![](32/segment-line.png)|![](24/segment-line.png)|![](22/segment-line.png)|![](16/segment-line.png)|
 |**selection-break**|![](64/selection-break.png)|![](48/selection-break.png)|![](32/selection-break.png)|![](24/selection-break.png)|![](22/selection-break.png)|![](16/selection-break.png)|

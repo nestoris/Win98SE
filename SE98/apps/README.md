@@ -76,7 +76,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**comix**|![](64/comix.png)|![](48/comix.png)|![](32/comix.png)|![](24/comix.png)|![](22/comix.png)|![](16/comix.png)|
 |**config-date**|![](64/config-date.png)|![](48/config-date.png)|![](32/config-date.png)|![](24/config-date.png)|![](22/config-date.png)|![](16/config-date.png)|
 |**confity**|![](64/confity.png)|![](48/confity.png)|![](32/confity.png)|![](24/confity.png)|![](22/confity.png)|![](16/confity.png)|
-|**control-center2**|![](64/control-center2.png)|![](48/control-center2.png)|![](32/control-center2.png)|![](24/control-center2.png)|![](22/control-center2.png)|![](16/control-center2.png)|
 |**credentials-preferences**|![](64/credentials-preferences.png)|![](48/credentials-preferences.png)|![](32/credentials-preferences.png)|![](24/credentials-preferences.png)|![](22/credentials-preferences.png)|![](16/credentials-preferences.png)|
 |**date**|![](64/date.png)|![](48/date.png)|![](32/date.png)|![](24/date.png)|![](22/date.png)|![](16/date.png)|
 |**dc++**|![](64/dc++.png)|![](48/dc++.png)|![](32/dc++.png)|![](24/dc++.png)|![](22/dc++.png)|![](16/dc++.png)|
@@ -141,7 +140,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gkdebconf-icon**|![](64/gkdebconf-icon.png)|![](48/gkdebconf-icon.png)|![](32/gkdebconf-icon.png)|![](24/gkdebconf-icon.png)|![](22/gkdebconf-icon.png)|![](16/gkdebconf-icon.png)|
 |**gksu-root-terminal**|![](64/gksu-root-terminal.png)|![](48/gksu-root-terminal.png)|![](32/gksu-root-terminal.png)|![](24/gksu-root-terminal.png)|![](22/gksu-root-terminal.png)|![](16/gksu-root-terminal.png)|
 |**gksu-root-terminal-old**|![](64/gksu-root-terminal-old.png)|![](48/gksu-root-terminal-old.png)|![](32/gksu-root-terminal-old.png)|![](24/gksu-root-terminal-old.png)|![](22/gksu-root-terminal-old.png)|![](16/gksu-root-terminal-old.png)|
-|**glade**|![](64/glade.png)|![](48/glade.png)|![](32/glade.png)|![](24/glade.png)|![](22/glade.png)|![](16/glade.png)|
 |**gloobus**|![](64/gloobus.png)|![](48/gloobus.png)|![](32/gloobus.png)|![](24/gloobus.png)|![](22/gloobus.png)|![](16/gloobus.png)|
 |**gmail**|![](64/gmail.png)|![](48/gmail.png)|![](32/gmail.png)|![](24/gmail.png)|![](22/gmail.png)|![](16/gmail.png)|
 |**gnochm**|![](64/gnochm.png)|![](48/gnochm.png)|![](32/gnochm.png)|![](24/gnochm.png)|![](22/gnochm.png)|![](16/gnochm.png)|
@@ -445,7 +443,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**stock_bookmark**|![](64/stock_bookmark.png)|![](48/stock_bookmark.png)|![](32/stock_bookmark.png)|![](24/stock_bookmark.png)|![](22/stock_bookmark.png)|![](16/stock_bookmark.png)|
 |**stock_delete-bookmark**|![](64/stock_delete-bookmark.png)|![](48/stock_delete-bookmark.png)|![](32/stock_delete-bookmark.png)|![](24/stock_delete-bookmark.png)|![](22/stock_delete-bookmark.png)|![](16/stock_delete-bookmark.png)|
 |**stock_help-agent**|![](64/stock_help-agent.png)|![](48/stock_help-agent.png)|![](32/stock_help-agent.png)|![](24/stock_help-agent.png)|![](22/stock_help-agent.png)|![](16/stock_help-agent.png)|
-|**stock_keyring**|![](64/stock_keyring.png)|![](48/stock_keyring.png)|![](32/stock_keyring.png)|![](24/stock_keyring.png)|![](22/stock_keyring.png)|![](16/stock_keyring.png)|
 |**stock_new-spreadsheet**|![](64/stock_new-spreadsheet.png)|![](48/stock_new-spreadsheet.png)|![](32/stock_new-spreadsheet.png)|![](24/stock_new-spreadsheet.png)|![](22/stock_new-spreadsheet.png)|![](16/stock_new-spreadsheet.png)|
 |**stock_view-details**|![](64/stock_view-details.png)|![](48/stock_view-details.png)|![](32/stock_view-details.png)|![](24/stock_view-details.png)|![](22/stock_view-details.png)|![](16/stock_view-details.png)|
 |**style**|![](64/style.png)|![](48/style.png)|![](32/style.png)|![](24/style.png)|![](22/style.png)|![](16/style.png)|
@@ -517,7 +514,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**wikipedia**|![](64/wikipedia.png)|![](48/wikipedia.png)|![](32/wikipedia.png)|![](24/wikipedia.png)|![](22/wikipedia.png)|![](16/wikipedia.png)|
 |**window**|![](64/window.png)|![](48/window.png)|![](32/window.png)|![](24/window.png)|![](22/window.png)|![](16/window.png)|
 |**wine**|![](64/wine.png)|![](48/wine.png)|![](32/wine.png)|![](24/wine.png)|![](22/wine.png)|![](16/wine.png)|
-|**wine-notepad**|![](64/wine-notepad.png)|![](48/wine-notepad.png)|![](32/wine-notepad.png)|![](24/wine-notepad.png)|![](22/wine-notepad.png)|![](16/wine-notepad.png)|
 |**wine-uninstaller**|![](64/wine-uninstaller.png)|![](48/wine-uninstaller.png)|![](32/wine-uninstaller.png)|![](24/wine-uninstaller.png)|![](22/wine-uninstaller.png)|![](16/wine-uninstaller.png)|
 |**wine-winecfg**|![](64/wine-winecfg.png)|![](48/wine-winecfg.png)|![](32/wine-winecfg.png)|![](24/wine-winecfg.png)|![](22/wine-winecfg.png)|![](16/wine-winecfg.png)|
 |**wine-winetricks**|![](64/wine-winetricks.png)|![](48/wine-winetricks.png)|![](32/wine-winetricks.png)|![](24/wine-winetricks.png)|![](22/wine-winetricks.png)|![](16/wine-winetricks.png)|

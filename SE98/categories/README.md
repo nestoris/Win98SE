@@ -26,7 +26,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-devel**|![](64/gnome-devel.png)|![](48/gnome-devel.png)|![](32/gnome-devel.png)|![](24/gnome-devel.png)|![](22/gnome-devel.png)|![](16/gnome-devel.png)|
 |**gnome-globe**|![](64/gnome-globe.png)|![](48/gnome-globe.png)|![](32/gnome-globe.png)|![](24/gnome-globe.png)|![](22/gnome-globe.png)|![](16/gnome-globe.png)|
 |**gnome-settings**|![](64/gnome-settings.png)|![](48/gnome-settings.png)|![](32/gnome-settings.png)|![](24/gnome-settings.png)|![](22/gnome-settings.png)|![](16/gnome-settings.png)|
-|**gtk-preferences**|![](64/gtk-preferences.png)|![](48/gtk-preferences.png)|![](32/gtk-preferences.png)|![](24/gtk-preferences.png)|![](22/gtk-preferences.png)|![](16/gtk-preferences.png)|
 |**input_devices_settings**|![](64/input_devices_settings.png)|![](48/input_devices_settings.png)|![](32/input_devices_settings.png)|![](24/input_devices_settings.png)|![](22/input_devices_settings.png)|![](16/input_devices_settings.png)|
 |**kcontrol**|![](64/kcontrol.png)|![](48/kcontrol.png)|![](32/kcontrol.png)|![](24/kcontrol.png)|![](22/kcontrol.png)|![](16/kcontrol.png)|
 |**package_development**|![](64/package_development.png)|![](48/package_development.png)|![](32/package_development.png)|![](24/package_development.png)|![](22/package_development.png)|![](16/package_development.png)|
