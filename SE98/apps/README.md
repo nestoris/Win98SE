@@ -151,7 +151,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-contacts**|![](64/gnome-contacts.png)|![](48/gnome-contacts.png)|![](32/gnome-contacts.png)|![](24/gnome-contacts.png)|![](22/gnome-contacts.png)|![](16/gnome-contacts.png)|
 |**gnome-documents**|![](64/gnome-documents.png)|![](48/gnome-documents.png)|![](32/gnome-documents.png)|![](24/gnome-documents.png)|![](22/gnome-documents.png)|![](16/gnome-documents.png)|
 |**gnome-freecell**|![](64/gnome-freecell.png)|![](48/gnome-freecell.png)|![](32/gnome-freecell.png)|![](24/gnome-freecell.png)|![](22/gnome-freecell.png)|![](16/gnome-freecell.png)|
-|**gnome-fs-blockdev**|![](64/gnome-fs-blockdev.png)|![](48/gnome-fs-blockdev.png)|![](32/gnome-fs-blockdev.png)|![](24/gnome-fs-blockdev.png)|![](22/gnome-fs-blockdev.png)|![](16/gnome-fs-blockdev.png)|
 |**gnome-fs-bookmark**|![](64/gnome-fs-bookmark.png)|![](48/gnome-fs-bookmark.png)|![](32/gnome-fs-bookmark.png)|![](24/gnome-fs-bookmark.png)|![](22/gnome-fs-bookmark.png)|![](16/gnome-fs-bookmark.png)|
 |**gnome-fs-bookmark-missing**|![](64/gnome-fs-bookmark-missing.png)|![](48/gnome-fs-bookmark-missing.png)|![](32/gnome-fs-bookmark-missing.png)|![](24/gnome-fs-bookmark-missing.png)|![](22/gnome-fs-bookmark-missing.png)|![](16/gnome-fs-bookmark-missing.png)|
 |**gnome-glchess**|![](64/gnome-glchess.png)|![](48/gnome-glchess.png)|![](32/gnome-glchess.png)|![](24/gnome-glchess.png)|![](22/gnome-glchess.png)|![](16/gnome-glchess.png)|
@@ -439,6 +438,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**sound-juicer**|![](64/sound-juicer.png)|![](48/sound-juicer.png)|![](32/sound-juicer.png)|![](24/sound-juicer.png)|![](22/sound-juicer.png)|![](16/sound-juicer.png)|
 |**soundconverter**|![](64/soundconverter.png)|![](48/soundconverter.png)|![](32/soundconverter.png)|![](24/soundconverter.png)|![](22/soundconverter.png)|![](16/soundconverter.png)|
 |**spotify**|![](64/spotify.png)|![](48/spotify.png)|![](32/spotify.png)|![](24/spotify.png)|![](22/spotify.png)|![](16/spotify.png)|
+|**steam**|![](64/steam.png)|![](48/steam.png)|![](32/steam.png)|![](24/steam.png)|![](22/steam.png)|![](16/steam.png)|
 |**stellarium**|![](64/stellarium.png)|![](48/stellarium.png)|![](32/stellarium.png)|![](24/stellarium.png)|![](22/stellarium.png)|![](16/stellarium.png)|
 |**stock_bookmark**|![](64/stock_bookmark.png)|![](48/stock_bookmark.png)|![](32/stock_bookmark.png)|![](24/stock_bookmark.png)|![](22/stock_bookmark.png)|![](16/stock_bookmark.png)|
 |**stock_delete-bookmark**|![](64/stock_delete-bookmark.png)|![](48/stock_delete-bookmark.png)|![](32/stock_delete-bookmark.png)|![](24/stock_delete-bookmark.png)|![](22/stock_delete-bookmark.png)|![](16/stock_delete-bookmark.png)|
@@ -551,5 +551,4 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xoscope**|![](64/xoscope.png)|![](48/xoscope.png)|![](32/xoscope.png)|![](24/xoscope.png)|![](22/xoscope.png)|![](16/xoscope.png)|
 |**xournal**|![](64/xournal.png)|![](48/xournal.png)|![](32/xournal.png)|![](24/xournal.png)|![](22/xournal.png)|![](16/xournal.png)|
 |**xpad**|![](64/xpad.png)|![](48/xpad.png)|![](32/xpad.png)|![](24/xpad.png)|![](22/xpad.png)|![](16/xpad.png)|
-|**yast-language**|![](64/yast-language.png)|![](48/yast-language.png)|![](32/yast-language.png)|![](24/yast-language.png)|![](22/yast-language.png)|![](16/yast-language.png)|
 |**youtube**|![](64/youtube.png)|![](48/youtube.png)|![](32/youtube.png)|![](24/youtube.png)|![](22/youtube.png)|![](16/youtube.png)|

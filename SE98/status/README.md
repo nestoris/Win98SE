@@ -3,7 +3,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
-|**account-logged-in**|![](64/account-logged-in.png)|![](48/account-logged-in.png)|![](32/account-logged-in.png)|![](24/account-logged-in.png)|![](22/account-logged-in.png)|![](16/account-logged-in.png)|
 |**applications-microblogging-panel**|![](64/applications-microblogging-panel.png)|![](48/applications-microblogging-panel.png)|![](32/applications-microblogging-panel.png)|![](24/applications-microblogging-panel.png)|![](22/applications-microblogging-panel.png)|![](16/applications-microblogging-panel.png)|
 |**appointment-missed**|![](64/appointment-missed.png)|![](48/appointment-missed.png)|![](32/appointment-missed.png)|![](24/appointment-missed.png)|![](22/appointment-missed.png)|![](16/appointment-missed.png)|
 |**appointment-soon**|![](64/appointment-soon.png)|![](48/appointment-soon.png)|![](32/appointment-soon.png)|![](24/appointment-soon.png)|![](22/appointment-soon.png)|![](16/appointment-soon.png)|
@@ -215,7 +214,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**pidgin-tray-invisible**|![](64/pidgin-tray-invisible.png)|![](48/pidgin-tray-invisible.png)|![](32/pidgin-tray-invisible.png)|![](24/pidgin-tray-invisible.png)|![](22/pidgin-tray-invisible.png)|![](16/pidgin-tray-invisible.png)|
 |**pino-tray-icon**|![](64/pino-tray-icon.png)|![](48/pino-tray-icon.png)|![](32/pino-tray-icon.png)|![](24/pino-tray-icon.png)|![](22/pino-tray-icon.png)|![](16/pino-tray-icon.png)|
 |**pino-tray-icon-fresh**|![](64/pino-tray-icon-fresh.png)|![](48/pino-tray-icon-fresh.png)|![](32/pino-tray-icon-fresh.png)|![](24/pino-tray-icon-fresh.png)|![](22/pino-tray-icon-fresh.png)|![](16/pino-tray-icon-fresh.png)|
-|**pithos**|![](64/pithos.png)|![](48/pithos.png)|![](32/pithos.png)|![](24/pithos.png)|![](22/pithos.png)|![](16/pithos.png)|
 |**preferences-desktop-accessibility-panel**|![](64/preferences-desktop-accessibility-panel.png)|![](48/preferences-desktop-accessibility-panel.png)|![](32/preferences-desktop-accessibility-panel.png)|![](24/preferences-desktop-accessibility-panel.png)|![](22/preferences-desktop-accessibility-panel.png)|![](16/preferences-desktop-accessibility-panel.png)|
 |**printer-error**|![](64/printer-error.png)|![](48/printer-error.png)|![](32/printer-error.png)|![](24/printer-error.png)|![](22/printer-error.png)|![](16/printer-error.png)|
 |**printer-printing**|![](64/printer-printing.png)|![](48/printer-printing.png)|![](32/printer-printing.png)|![](24/printer-printing.png)|![](22/printer-printing.png)|![](16/printer-printing.png)|
@@ -302,8 +300,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**weather-clear**|![](64/weather-clear.png)|![](48/weather-clear.png)|![](32/weather-clear.png)|![](24/weather-clear.png)|![](22/weather-clear.png)|![](16/weather-clear.png)|
 |**weather-clear-night**|![](64/weather-clear-night.png)|![](48/weather-clear-night.png)|![](32/weather-clear-night.png)|![](24/weather-clear-night.png)|![](22/weather-clear-night.png)|![](16/weather-clear-night.png)|
 |**weather-clear-symbolic**|![](64/weather-clear-symbolic.png)|![](48/weather-clear-symbolic.png)|![](32/weather-clear-symbolic.png)|![](24/weather-clear-symbolic.png)|![](22/weather-clear-symbolic.png)|![](16/weather-clear-symbolic.png)|
-|**weather-clouds**|![](64/weather-clouds.png)|![](48/weather-clouds.png)|![](32/weather-clouds.png)|![](24/weather-clouds.png)|![](22/weather-clouds.png)|![](16/weather-clouds.png)|
-|**weather-clouds-night**|![](64/weather-clouds-night.png)|![](48/weather-clouds-night.png)|![](32/weather-clouds-night.png)|![](24/weather-clouds-night.png)|![](22/weather-clouds-night.png)|![](16/weather-clouds-night.png)|
 |**weather-few-clouds**|![](64/weather-few-clouds.png)|![](48/weather-few-clouds.png)|![](32/weather-few-clouds.png)|![](24/weather-few-clouds.png)|![](22/weather-few-clouds.png)|![](16/weather-few-clouds.png)|
 |**weather-few-clouds-night**|![](64/weather-few-clouds-night.png)|![](48/weather-few-clouds-night.png)|![](32/weather-few-clouds-night.png)|![](24/weather-few-clouds-night.png)|![](22/weather-few-clouds-night.png)|![](16/weather-few-clouds-night.png)|
 |**weather-fog**|![](64/weather-fog.png)|![](48/weather-fog.png)|![](32/weather-fog.png)|![](24/weather-fog.png)|![](22/weather-fog.png)|![](16/weather-fog.png)|
@@ -317,7 +313,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfce-system-lock**|![](64/xfce-system-lock.png)|![](48/xfce-system-lock.png)|![](32/xfce-system-lock.png)|![](24/xfce-system-lock.png)|![](22/xfce-system-lock.png)|![](16/xfce-system-lock.png)|
 |**xfce-unknown**|![](64/xfce-unknown.png)|![](48/xfce-unknown.png)|![](32/xfce-unknown.png)|![](24/xfce-unknown.png)|![](22/xfce-unknown.png)|![](16/xfce-unknown.png)|
 |**xfce4-terminal**|![](64/xfce4-terminal.png)|![](48/xfce4-terminal.png)|![](32/xfce4-terminal.png)|![](24/xfce4-terminal.png)|![](22/xfce4-terminal.png)|![](16/xfce4-terminal.png)|
-|**xfpm-brightness-keyboard**|![](64/xfpm-brightness-keyboard.png)|![](48/xfpm-brightness-keyboard.png)|![](32/xfpm-brightness-keyboard.png)|![](24/xfpm-brightness-keyboard.png)|![](22/xfpm-brightness-keyboard.png)|![](16/xfpm-brightness-keyboard.png)|
 |**xfpm-brightness-lcd**|![](64/xfpm-brightness-lcd.png)|![](48/xfpm-brightness-lcd.png)|![](32/xfpm-brightness-lcd.png)|![](24/xfpm-brightness-lcd.png)|![](22/xfpm-brightness-lcd.png)|![](16/xfpm-brightness-lcd.png)|
 |**xfpm-keyboard-030**|![](64/xfpm-keyboard-030.png)|![](48/xfpm-keyboard-030.png)|![](32/xfpm-keyboard-030.png)|![](24/xfpm-keyboard-030.png)|![](22/xfpm-keyboard-030.png)|![](16/xfpm-keyboard-030.png)|
 |**xfpm-mouse-030**|![](64/xfpm-mouse-030.png)|![](48/xfpm-mouse-030.png)|![](32/xfpm-mouse-030.png)|![](24/xfpm-mouse-030.png)|![](22/xfpm-mouse-030.png)|![](16/xfpm-mouse-030.png)|

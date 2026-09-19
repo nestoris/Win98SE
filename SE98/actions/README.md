@@ -290,6 +290,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**view-dual**|![](64/view-dual.png)|![](48/view-dual.png)|![](32/view-dual.png)|![](24/view-dual.png)|![](22/view-dual.png)|![](16/view-dual.png)|
 |**view-filter**|![](64/view-filter.png)|![](48/view-filter.png)|![](32/view-filter.png)|![](24/view-filter.png)|![](22/view-filter.png)|![](16/view-filter.png)|
 |**view-fullscreen**|![](64/view-fullscreen.png)|![](48/view-fullscreen.png)|![](32/view-fullscreen.png)|![](24/view-fullscreen.png)|![](22/view-fullscreen.png)|![](16/view-fullscreen.png)|
+|**view-left-close**|![](64/view-left-close.png)|![](48/view-left-close.png)|![](32/view-left-close.png)|![](24/view-left-close.png)|![](22/view-left-close.png)|![](16/view-left-close.png)|
 |**view-list**|![](64/view-list.png)|![](48/view-list.png)|![](32/view-list.png)|![](24/view-list.png)|![](22/view-list.png)|![](16/view-list.png)|
 |**view-list-details**|![](64/view-list-details.png)|![](48/view-list-details.png)|![](32/view-list-details.png)|![](24/view-list-details.png)|![](22/view-list-details.png)|![](16/view-list-details.png)|
 |**view-list-icons**|![](64/view-list-icons.png)|![](48/view-list-icons.png)|![](32/view-list-icons.png)|![](24/view-list-icons.png)|![](22/view-list-icons.png)|![](16/view-list-icons.png)|
@@ -302,6 +303,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**view-preview**|![](64/view-preview.png)|![](48/view-preview.png)|![](32/view-preview.png)|![](24/view-preview.png)|![](22/view-preview.png)|![](16/view-preview.png)|
 |**view-refresh**|![](64/view-refresh.png)|![](48/view-refresh.png)|![](32/view-refresh.png)|![](24/view-refresh.png)|![](22/view-refresh.png)|![](16/view-refresh.png)|
 |**view-restore**|![](64/view-restore.png)|![](48/view-restore.png)|![](32/view-restore.png)|![](24/view-restore.png)|![](22/view-restore.png)|![](16/view-restore.png)|
+|**view-right-close**|![](64/view-right-close.png)|![](48/view-right-close.png)|![](32/view-right-close.png)|![](24/view-right-close.png)|![](22/view-right-close.png)|![](16/view-right-close.png)|
 |**view-sort-ascending**|![](64/view-sort-ascending.png)|![](48/view-sort-ascending.png)|![](32/view-sort-ascending.png)|![](24/view-sort-ascending.png)|![](22/view-sort-ascending.png)|![](16/view-sort-ascending.png)|
 |**view-sort-descending**|![](64/view-sort-descending.png)|![](48/view-sort-descending.png)|![](32/view-sort-descending.png)|![](24/view-sort-descending.png)|![](22/view-sort-descending.png)|![](16/view-sort-descending.png)|
 |**view-split-top-bottom**|![](64/view-split-top-bottom.png)|![](48/view-split-top-bottom.png)|![](32/view-split-top-bottom.png)|![](24/view-split-top-bottom.png)|![](22/view-split-top-bottom.png)|![](16/view-split-top-bottom.png)|
