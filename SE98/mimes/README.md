@@ -213,7 +213,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**text-x-nfo**|![](64/text-x-nfo.png)|![](48/text-x-nfo.png)|![](32/text-x-nfo.png)|![](24/text-x-nfo.png)|![](22/text-x-nfo.png)|![](16/text-x-nfo.png)|
 |**text-x-python**|![](64/text-x-python.png)|![](48/text-x-python.png)|![](32/text-x-python.png)|![](24/text-x-python.png)|![](22/text-x-python.png)|![](16/text-x-python.png)|
 |**text-x-qml**|![](64/text-x-qml.png)|![](48/text-x-qml.png)|![](32/text-x-qml.png)|![](24/text-x-qml.png)|![](22/text-x-qml.png)|![](16/text-x-qml.png)|
-|**text-x-script**|![](64/text-x-script.png)|![](48/text-x-script.png)|![](32/text-x-script.png)|![](24/text-x-script.png)|![](22/text-x-script.png)|![](16/text-x-script.png)|
+|**text-x-shellscript**|![](64/text-x-shellscript.png)|![](48/text-x-shellscript.png)|![](32/text-x-shellscript.png)|![](24/text-x-shellscript.png)|![](22/text-x-shellscript.png)|![](16/text-x-shellscript.png)|
 |**text-x-sql**|![](64/text-x-sql.png)|![](48/text-x-sql.png)|![](32/text-x-sql.png)|![](24/text-x-sql.png)|![](22/text-x-sql.png)|![](16/text-x-sql.png)|
 |**text-x-ssa**|![](64/text-x-ssa.png)|![](48/text-x-ssa.png)|![](32/text-x-ssa.png)|![](24/text-x-ssa.png)|![](22/text-x-ssa.png)|![](16/text-x-ssa.png)|
 |**text-x-tex**|![](64/text-x-tex.png)|![](48/text-x-tex.png)|![](32/text-x-tex.png)|![](24/text-x-tex.png)|![](22/text-x-tex.png)|![](16/text-x-tex.png)|
