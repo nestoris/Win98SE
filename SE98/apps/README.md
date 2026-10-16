@@ -3,7 +3,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 
 | |**64x64**|**48x48**|**32x32**|**24x24**|**22x22**|**16x16**|
 |-|-|-|-|-|-|-|
-|**0ad**|![](64/0ad.png)|![](48/0ad.png)|![](32/0ad.png)|![](24/0ad.png)|![](22/0ad.png)|![](16/0ad.png)|
 |**Doom3**|![](64/Doom3.png)|![](48/Doom3.png)|![](32/Doom3.png)|![](24/Doom3.png)|![](22/Doom3.png)|![](16/Doom3.png)|
 |**ET-quakewars**|![](64/ET-quakewars.png)|![](48/ET-quakewars.png)|![](32/ET-quakewars.png)|![](24/ET-quakewars.png)|![](22/ET-quakewars.png)|![](16/ET-quakewars.png)|
 |**EasyTAG_icon**|![](64/EasyTAG_icon.png)|![](48/EasyTAG_icon.png)|![](32/EasyTAG_icon.png)|![](24/EasyTAG_icon.png)|![](22/EasyTAG_icon.png)|![](16/EasyTAG_icon.png)|
@@ -15,8 +14,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**WorldofPadman**|![](64/WorldofPadman.png)|![](48/WorldofPadman.png)|![](32/WorldofPadman.png)|![](24/WorldofPadman.png)|![](22/WorldofPadman.png)|![](16/WorldofPadman.png)|
 |**a4**|![](64/a4.png)|![](48/a4.png)|![](32/a4.png)|![](24/a4.png)|![](22/a4.png)|![](16/a4.png)|
 |**abiword**|![](64/abiword.png)|![](48/abiword.png)|![](32/abiword.png)|![](24/abiword.png)|![](22/abiword.png)|![](16/abiword.png)|
-|**access**|![](64/access.png)|![](48/access.png)|![](32/access.png)|![](24/access.png)|![](22/access.png)|![](16/access.png)|
-|**accessibility-directory**|![](64/accessibility-directory.png)|![](48/accessibility-directory.png)|![](32/accessibility-directory.png)|![](24/accessibility-directory.png)|![](22/accessibility-directory.png)|![](16/accessibility-directory.png)|
 |**accessories-calculator**|![](64/accessories-calculator.png)|![](48/accessories-calculator.png)|![](32/accessories-calculator.png)|![](24/accessories-calculator.png)|![](22/accessories-calculator.png)|![](16/accessories-calculator.png)|
 |**accessories-camera**|![](64/accessories-camera.png)|![](48/accessories-camera.png)|![](32/accessories-camera.png)|![](24/accessories-camera.png)|![](22/accessories-camera.png)|![](16/accessories-camera.png)|
 |**accessories-character-map**|![](64/accessories-character-map.png)|![](48/accessories-character-map.png)|![](32/accessories-character-map.png)|![](24/accessories-character-map.png)|![](22/accessories-character-map.png)|![](16/accessories-character-map.png)|
@@ -27,14 +24,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**accessories-system-cleaner**|![](64/accessories-system-cleaner.png)|![](48/accessories-system-cleaner.png)|![](32/accessories-system-cleaner.png)|![](24/accessories-system-cleaner.png)|![](22/accessories-system-cleaner.png)|![](16/accessories-system-cleaner.png)|
 |**accessories-text-editor**|![](64/accessories-text-editor.png)|![](48/accessories-text-editor.png)|![](32/accessories-text-editor.png)|![](24/accessories-text-editor.png)|![](22/accessories-text-editor.png)|![](16/accessories-text-editor.png)|
 |**acroread**|![](64/acroread.png)|![](48/acroread.png)|![](32/acroread.png)|![](24/acroread.png)|![](22/acroread.png)|![](16/acroread.png)|
-|**alchemy**|![](64/alchemy.png)|![](48/alchemy.png)|![](32/alchemy.png)|![](24/alchemy.png)|![](22/alchemy.png)|![](16/alchemy.png)|
-|**alien-arena**|![](64/alien-arena.png)|![](48/alien-arena.png)|![](32/alien-arena.png)|![](24/alien-arena.png)|![](22/alien-arena.png)|![](16/alien-arena.png)|
 |**alltray**|![](64/alltray.png)|![](48/alltray.png)|![](32/alltray.png)|![](24/alltray.png)|![](22/alltray.png)|![](16/alltray.png)|
-|**amarok**|![](64/amarok.png)|![](48/amarok.png)|![](32/amarok.png)|![](24/amarok.png)|![](22/amarok.png)|![](16/amarok.png)|
-|**amnesia-dark-decent**|![](64/amnesia-dark-decent.png)|![](48/amnesia-dark-decent.png)|![](32/amnesia-dark-decent.png)|![](24/amnesia-dark-decent.png)|![](22/amnesia-dark-decent.png)|![](16/amnesia-dark-decent.png)|
-|**amule**|![](64/amule.png)|![](48/amule.png)|![](32/amule.png)|![](24/amule.png)|![](22/amule.png)|![](16/amule.png)|
-|**anjuta**|![](64/anjuta.png)|![](48/anjuta.png)|![](32/anjuta.png)|![](24/anjuta.png)|![](22/anjuta.png)|![](16/anjuta.png)|
-|**anki**|![](64/anki.png)|![](48/anki.png)|![](32/anki.png)|![](24/anki.png)|![](22/anki.png)|![](16/anki.png)|
 |**appfinder**|![](64/appfinder.png)|![](48/appfinder.png)|![](32/appfinder.png)|![](24/appfinder.png)|![](22/appfinder.png)|![](16/appfinder.png)|
 |**applets-screenshooter**|![](64/applets-screenshooter.png)|![](48/applets-screenshooter.png)|![](32/applets-screenshooter.png)|![](24/applets-screenshooter.png)|![](22/applets-screenshooter.png)|![](16/applets-screenshooter.png)|
 |**application-community**|![](64/application-community.png)|![](48/application-community.png)|![](32/application-community.png)|![](24/application-community.png)|![](22/application-community.png)|![](16/application-community.png)|
@@ -43,14 +33,8 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**aptoncd**|![](64/aptoncd.png)|![](48/aptoncd.png)|![](32/aptoncd.png)|![](24/aptoncd.png)|![](22/aptoncd.png)|![](16/aptoncd.png)|
 |**arts**|![](64/arts.png)|![](48/arts.png)|![](32/arts.png)|![](24/arts.png)|![](22/arts.png)|![](16/arts.png)|
 |**audio-tag-tool**|![](64/audio-tag-tool.png)|![](48/audio-tag-tool.png)|![](32/audio-tag-tool.png)|![](24/audio-tag-tool.png)|![](22/audio-tag-tool.png)|![](16/audio-tag-tool.png)|
-|**autoplus**|![](64/autoplus.png)|![](48/autoplus.png)|![](32/autoplus.png)|![](24/autoplus.png)|![](22/autoplus.png)|![](16/autoplus.png)|
-|**avant-window-navigator**|![](64/avant-window-navigator.png)|![](48/avant-window-navigator.png)|![](32/avant-window-navigator.png)|![](24/avant-window-navigator.png)|![](22/avant-window-navigator.png)|![](16/avant-window-navigator.png)|
-|**awn-settings**|![](64/awn-settings.png)|![](48/awn-settings.png)|![](32/awn-settings.png)|![](24/awn-settings.png)|![](22/awn-settings.png)|![](16/awn-settings.png)|
 |**background**|![](64/background.png)|![](48/background.png)|![](32/background.png)|![](24/background.png)|![](22/background.png)|![](16/background.png)|
-|**bazaar**|![](64/bazaar.png)|![](48/bazaar.png)|![](32/bazaar.png)|![](24/bazaar.png)|![](22/bazaar.png)|![](16/bazaar.png)|
 |**beryl-settings**|![](64/beryl-settings.png)|![](48/beryl-settings.png)|![](32/beryl-settings.png)|![](24/beryl-settings.png)|![](22/beryl-settings.png)|![](16/beryl-settings.png)|
-|**bluefish**|![](64/bluefish.png)|![](48/bluefish.png)|![](32/bluefish.png)|![](24/bluefish.png)|![](22/bluefish.png)|![](16/bluefish.png)|
-|**bluegriffon**|![](64/bluegriffon.png)|![](48/bluegriffon.png)|![](32/bluegriffon.png)|![](24/bluegriffon.png)|![](22/bluegriffon.png)|![](16/bluegriffon.png)|
 |**blueradio**|![](64/blueradio.png)|![](48/blueradio.png)|![](32/blueradio.png)|![](24/blueradio.png)|![](22/blueradio.png)|![](16/blueradio.png)|
 |**bluetooth**|![](64/bluetooth.png)|![](48/bluetooth.png)|![](32/bluetooth.png)|![](24/bluetooth.png)|![](22/bluetooth.png)|![](16/bluetooth.png)|
 |**boot**|![](64/boot.png)|![](48/boot.png)|![](32/boot.png)|![](24/boot.png)|![](22/boot.png)|![](16/boot.png)|
@@ -188,7 +172,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**gnome-swell-foop**|![](64/gnome-swell-foop.png)|![](48/gnome-swell-foop.png)|![](32/gnome-swell-foop.png)|![](24/gnome-swell-foop.png)|![](22/gnome-swell-foop.png)|![](16/gnome-swell-foop.png)|
 |**gnome-tali**|![](64/gnome-tali.png)|![](48/gnome-tali.png)|![](32/gnome-tali.png)|![](24/gnome-tali.png)|![](22/gnome-tali.png)|![](16/gnome-tali.png)|
 |**gnome-tetravex**|![](64/gnome-tetravex.png)|![](48/gnome-tetravex.png)|![](32/gnome-tetravex.png)|![](24/gnome-tetravex.png)|![](22/gnome-tetravex.png)|![](16/gnome-tetravex.png)|
-|**gnome-window-manager**|![](64/gnome-window-manager.png)|![](48/gnome-window-manager.png)|![](32/gnome-window-manager.png)|![](24/gnome-window-manager.png)|![](22/gnome-window-manager.png)|![](16/gnome-window-manager.png)|
 |**gnome-word**|![](64/gnome-word.png)|![](48/gnome-word.png)|![](32/gnome-word.png)|![](24/gnome-word.png)|![](22/gnome-word.png)|![](16/gnome-word.png)|
 |**gnomebaker**|![](64/gnomebaker.png)|![](48/gnomebaker.png)|![](32/gnomebaker.png)|![](24/gnomebaker.png)|![](22/gnomebaker.png)|![](16/gnomebaker.png)|
 |**gnomebaker-48**|![](64/gnomebaker-48.png)|![](48/gnomebaker-48.png)|![](32/gnomebaker-48.png)|![](24/gnomebaker-48.png)|![](22/gnomebaker-48.png)|![](16/gnomebaker-48.png)|
@@ -334,6 +317,7 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**oregano**|![](64/oregano.png)|![](48/oregano.png)|![](32/oregano.png)|![](24/oregano.png)|![](22/oregano.png)|![](16/oregano.png)|
 |**org.xfce.panel.launcher**|![](64/org.xfce.panel.launcher.png)|![](48/org.xfce.panel.launcher.png)|![](32/org.xfce.panel.launcher.png)|![](24/org.xfce.panel.launcher.png)|![](22/org.xfce.panel.launcher.png)|![](16/org.xfce.panel.launcher.png)|
 |**org.xfce.panel.separator**|![](64/org.xfce.panel.separator.png)|![](48/org.xfce.panel.separator.png)|![](32/org.xfce.panel.separator.png)|![](24/org.xfce.panel.separator.png)|![](22/org.xfce.panel.separator.png)|![](16/org.xfce.panel.separator.png)|
+|**org.xfce.panel.tasklist**|![](64/org.xfce.panel.tasklist.png)|![](48/org.xfce.panel.tasklist.png)|![](32/org.xfce.panel.tasklist.png)|![](24/org.xfce.panel.tasklist.png)|![](22/org.xfce.panel.tasklist.png)|![](16/org.xfce.panel.tasklist.png)|
 |**p7zip**|![](64/p7zip.png)|![](48/p7zip.png)|![](32/p7zip.png)|![](24/p7zip.png)|![](22/p7zip.png)|![](16/p7zip.png)|
 |**palemoon_48**|![](64/palemoon_48.png)|![](48/palemoon_48.png)|![](32/palemoon_48.png)|![](24/palemoon_48.png)|![](22/palemoon_48.png)|![](16/palemoon_48.png)|
 |**palm-pilot**|![](64/palm-pilot.png)|![](48/palm-pilot.png)|![](32/palm-pilot.png)|![](24/palm-pilot.png)|![](22/palm-pilot.png)|![](16/palm-pilot.png)|
@@ -541,7 +525,6 @@ Only the main icons are shown here (without symlinked duplicates, in sizes from 
 |**xfce4-systray**|![](64/xfce4-systray.png)|![](48/xfce4-systray.png)|![](32/xfce4-systray.png)|![](24/xfce4-systray.png)|![](22/xfce4-systray.png)|![](16/xfce4-systray.png)|
 |**xfce4-taskbar**|![](64/xfce4-taskbar.png)|![](48/xfce4-taskbar.png)|![](32/xfce4-taskbar.png)|![](24/xfce4-taskbar.png)|![](22/xfce4-taskbar.png)|![](16/xfce4-taskbar.png)|
 |**xfce4-ui**|![](64/xfce4-ui.png)|![](48/xfce4-ui.png)|![](32/xfce4-ui.png)|![](24/xfce4-ui.png)|![](22/xfce4-ui.png)|![](16/xfce4-ui.png)|
-|**xfce4-weather**|![](64/xfce4-weather.png)|![](48/xfce4-weather.png)|![](32/xfce4-weather.png)|![](24/xfce4-weather.png)|![](22/xfce4-weather.png)|![](16/xfce4-weather.png)|
 |**xfce4-xicon1**|![](64/xfce4-xicon1.png)|![](48/xfce4-xicon1.png)|![](32/xfce4-xicon1.png)|![](24/xfce4-xicon1.png)|![](22/xfce4-xicon1.png)|![](16/xfce4-xicon1.png)|
 |**xfsm-hibernate**|![](64/xfsm-hibernate.png)|![](48/xfsm-hibernate.png)|![](32/xfsm-hibernate.png)|![](24/xfsm-hibernate.png)|![](22/xfsm-hibernate.png)|![](16/xfsm-hibernate.png)|
 |**xfsm-suspend**|![](64/xfsm-suspend.png)|![](48/xfsm-suspend.png)|![](32/xfsm-suspend.png)|![](24/xfsm-suspend.png)|![](22/xfsm-suspend.png)|![](16/xfsm-suspend.png)|
