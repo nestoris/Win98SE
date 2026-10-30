@@ -1,0 +1,25 @@
+{
+  "KPlugin": {
+    "Name": "SE98",
+    "Description": "Enhanced Classic Win98SE icon theme for GNU/Linux.",
+    "Id": "SE98",
+    "Version": "0.2.17",
+    "License": "GPL-2.0-or-later",
+    "Category": "Icons",
+    "EnabledByDefault": false,
+    "Authors": [
+      {
+        "Name": "Nestoris",
+        "Task": "Author"
+      },
+      {
+        "Name": "Dejweed",
+        "Task": "Co-Author"
+      }
+    ],
+    "Website": "https://github.com/nestoris/Win98SE",
+    "BugReportUrl": "https://github.com/nestoris/Win98SE/issues",
+    "Contact": "https://github.com/nestoris/Win98SE/issues"
+  },
+  "X-KDE-PluginInfo-Name": "SE98"
+}
