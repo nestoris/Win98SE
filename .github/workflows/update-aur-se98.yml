@@ -1,0 +1,70 @@
+name: Update AUR (se98-icon-theme-git)
+
+on:
+  release:
+    types: [published]  # Запускается ТОЛЬКО при выходе релиза
+  workflow_dispatch:     # Позволяет запустить вручную для теста
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux:base-devel
+
+    steps:
+      - name: Install dependencies
+        run: pacman -Sy --noconfirm git jq
+
+      - name: Update AUR package
+        env:
+          AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
+        run: |
+          # 1. Получаем версию из имени тега релиза (v0.2.16 -> 0.2.16)
+          if [ "${{ github.event_name }}" == "release" ]; then
+            NEW_VER="${{ github.ref_name }}"
+            NEW_VER="${NEW_VER#v}"
+          else
+            NEW_VER=$(curl -s https://api.github.com/repos/nestoris/Win98SE/releases/latest | jq -r .tag_name)
+            NEW_VER="${NEW_VER#v}"
+          fi
+          echo "Updating AUR to version $NEW_VER"
+
+          # 2. Создаем пользователя builder
+          useradd -m builder
+          mkdir -p /home/builder/.ssh
+          echo "$AUR_SSH_KEY" | tr -d '\r' > /home/builder/.ssh/aur
+          chmod 600 /home/builder/.ssh/aur
+          chown -R builder:builder /home/builder/.ssh
+
+          # 3. Выполняем обновление от имени builder
+          su builder -c '
+            eval "$(ssh-agent -s)"
+            ssh-add ~/.ssh/aur
+            export GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+
+            # Клонируем AUR
+            git clone ssh://aur@aur.archlinux.org/se98-icon-theme-git.git aur-repo
+            cd aur-repo
+
+            # Обновляем версию в PKGBUILD
+            sed -i "s/^pkgver=.*/pkgver='$NEW_VER'/" PKGBUILD
+            sed -i "s/^pkgrel=.*/pkgrel=1/" PKGBUILD
+
+            # Пересчитываем sha256 (скачает новый архив и подставит хеш)
+            updpkgsums
+
+            # Генерируем новый .SRCINFO
+            makepkg --printsrcinfo > .SRCINFO
+
+            # Коммитим и пушим
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+            git add PKGBUILD .SRCINFO
+
+            if git diff-index --quiet HEAD; then
+              echo "No changes for AUR."
+            else
+              git commit -m "Update to $NEW_VER"
+              git push origin master
+            fi
+          '
