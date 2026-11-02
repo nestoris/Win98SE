@@ -19,7 +19,7 @@ jobs:
         env:
           AUR_SSH_KEY: ${{ secrets.AUR_SSH_KEY }}
         run: |
-          # 1. Получаем версию из имени тега релиза (v0.2.16 -> 0.2.16)
+          # 1. Получаем версию
           if [ "${{ github.event_name }}" == "release" ]; then
             NEW_VER="${{ github.ref_name }}"
             NEW_VER="${NEW_VER#v}"
@@ -36,35 +36,37 @@ jobs:
           chmod 600 /home/builder/.ssh/aur
           chown -R builder:builder /home/builder/.ssh
 
-          # 3. Выполняем обновление от имени builder
-          su builder -c '
-            eval "$(ssh-agent -s)"
+          # 3. Выполняем всё от имени builder, предварительно перейдя в его домашнюю папку
+          # Обратите внимание на двойные кавычки внутри su: они нужны, чтобы переменная $NEW_VER передалась внутрь
+          su builder -c "
+            cd ~
+            eval \$(ssh-agent -s)
             ssh-add ~/.ssh/aur
-            export GIT_SSH_COMMAND="ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+            export GIT_SSH_COMMAND='ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null'
 
             # Клонируем AUR
             git clone ssh://aur@aur.archlinux.org/se98-icon-theme-git.git aur-repo
             cd aur-repo
 
             # Обновляем версию в PKGBUILD
-            sed -i "s/^pkgver=.*/pkgver='$NEW_VER'/" PKGBUILD
-            sed -i "s/^pkgrel=.*/pkgrel=1/" PKGBUILD
+            sed -i \"s/^pkgver=.*/pkgver='$NEW_VER'/\" PKGBUILD
+            sed -i 's/^pkgrel=.*/pkgrel=1/' PKGBUILD
 
-            # Пересчитываем sha256 (скачает новый архив и подставит хеш)
+            # Пересчитываем sha256
             updpkgsums
 
             # Генерируем новый .SRCINFO
             makepkg --printsrcinfo > .SRCINFO
 
             # Коммитим и пушим
-            git config user.name "GitHub Actions"
-            git config user.email "actions@github.com"
+            git config user.name 'GitHub Actions'
+            git config user.email 'actions@github.com'
             git add PKGBUILD .SRCINFO
 
             if git diff-index --quiet HEAD; then
-              echo "No changes for AUR."
+              echo 'No changes for AUR.'
             else
-              git commit -m "Update to $NEW_VER"
+              git commit -m \"Update to $NEW_VER\"
               git push origin master
             fi
-          '
+          "
